@@ -1,0 +1,652 @@
+{
+  "model_kodu": "I2242AX",
+  "urun_grubu": "Erkek Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2242AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Relax Fit Beli Lastikli Ön Dikişli Düz Paça Eşofman Altı",
+      "kisa_aciklama": "Düz paça ve cep detaylı relaxed fit eşofman altı. Beli lastikli, önü pens dikiş detaylı ve yan cepli, relax fit,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502494",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BK81_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 84%,Poliester 16%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Düz paça ve cep detaylı relaxed fit eşofman altı. Beli lastikli, önü pens dikiş detaylı ve yan cepli, relax fit,…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40067,
+          "Product Option Code": "I2242AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "3XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502494",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40068,
+          "Product Option Code": "I2242AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502494",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40069,
+          "Product Option Code": "I2242AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502494",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40070,
+          "Product Option Code": "I2242AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502494",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40071,
+          "Product Option Code": "I2242AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502494",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40072,
+          "Product Option Code": "I2242AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502494",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BK81_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I2242AXBN340",
+      "renk_kodu": "BN340",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Relax Fit Beli Lastikli Ön Dikişli Düz Paça Eşofman Altı",
+      "kisa_aciklama": "Düz paça ve cep detaylı relaxed fit eşofman altı. Beli lastikli, önü pens dikiş detaylı ve yan cepli, relax fit,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502493",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BN340_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BN340_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BN340_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BN340_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BN340_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_BN340_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 84%,Poliester 16%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt",
+        "paca_detayi": "Düz Paça",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Düz paça ve cep detaylı relaxed fit eşofman altı. Beli lastikli, önü pens dikiş detaylı ve yan cepli, relax fit,…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40073,
+          "Product Option Code": "I2242AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "3XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BN340_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502493",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40074,
+          "Product Option Code": "I2242AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BN340_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502493",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40075,
+          "Product Option Code": "I2242AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BN340_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502493",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40076,
+          "Product Option Code": "I2242AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BN340_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502493",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40077,
+          "Product Option Code": "I2242AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BN340_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502493",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40078,
+          "Product Option Code": "I2242AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BN340_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502493",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_BN340_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I2242AXNV82",
+      "renk_kodu": "NV82",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Relax Fit Beli Lastikli Ön Dikişli Düz Paça Eşofman Altı",
+      "kisa_aciklama": "Düz paça ve cep detaylı relaxed fit eşofman altı. Beli lastikli, önü pens dikiş detaylı ve yan cepli, relax fit,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_NV82_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_NV82_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_NV82_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_NV82_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2242AX_26AU_NV82_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 84%,Poliester 16%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt",
+        "paca_detayi": "Düz Paça",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Düz paça ve cep detaylı relaxed fit eşofman altı. Beli lastikli, önü pens dikiş detaylı ve yan cepli, relax fit,…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40079,
+          "Product Option Code": "I2242AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "3XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_NV82_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40080,
+          "Product Option Code": "I2242AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_NV82_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40081,
+          "Product Option Code": "I2242AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_NV82_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40082,
+          "Product Option Code": "I2242AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_NV82_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40083,
+          "Product Option Code": "I2242AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_NV82_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        },
+        {
+          "excel_satiri": 40084,
+          "Product Option Code": "I2242AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_NV82_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-lastikli-on-dikisli-duz-paca-esofman-alti-3502492"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I2242AX_26AU_NV82_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:56:41+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "model_kodu": "H5790AX",
+  "urun_grubu": "Kadın Güneş Gözlüğü",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5790AXBK21",
+      "renk_kodu": "BK21",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kadın Güneş Gözlüğü Kılıfı",
+      "kisa_aciklama": "Kadın Güneş Gözlüğü Kılıfı",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-gunes-gozlugu-kilifi-3451479",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5790AX_NS_BK21_01_01_BS.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5790AX_NS_BK21_02_01_BS.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5790AX_NS_BK21_03_01_BS.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 90%,Demir 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Suni Deri",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın Güneş Gözlüğü Kılıfı"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30931,
+          "Product Option Code": "H5790AX.BK21",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Sunglasses",
+          "LifeStyle": "Casual",
+          "Class Name": "Sunglasses Case",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H5790AX_NS_BK21_01_01_BS.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-gunes-gozlugu-kilifi-3451479",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-gunes-gozlugu-kilifi-3451479"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H5790AX_NS_BK21_01_01_BS.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5790AXBN162",
+      "renk_kodu": "BN162",
+      "renk_adi": "Camel",
+      "renk_hex": "#C19A6B",
+      "urun_adi": "Kadın Güneş kahverengi Gözlük Kılıfı",
+      "kisa_aciklama": "Kadın güneş gözlüğü. UV korumalı camlar ile güneşli günlerde konforlu kullanım. Çıtçıtlı kapama ve çıkarılabilir askı detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-gunes-kahverengi-gozluk-kilifi-3451480",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5790AX_NS_BN162_01_01_BS.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5790AX_NS_BN162_02_01_BS.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5790AX_NS_BN162_03_01_BS.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 90%,Demir 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Suni Deri",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın güneş gözlüğü. UV korumalı camlar ile güneşli günlerde konforlu kullanım. Çıtçıtlı kapama ve çıkarılabilir askı detaylı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:33:45+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

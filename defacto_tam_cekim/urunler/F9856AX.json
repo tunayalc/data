@@ -1,0 +1,108 @@
+{
+  "model_kodu": "F9856AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9856AXBR91",
+      "renk_kodu": "BR91",
+      "renk_adi": "ROSE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17244,
+          "Product Option Code": "F9856AX.BR91",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "L",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9856AX_26SP_BR91_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com/en-ma/pamuklu-oversize-tisort-3375528",
+          "Model Page URL": "https://www.defacto.com/en-ma/pamuklu-oversize-tisort-3375528"
+        },
+        {
+          "excel_satiri": 17245,
+          "Product Option Code": "F9856AX.BR91",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9856AX_26SP_BR91_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com/en-ma/pamuklu-oversize-tisort-3375528",
+          "Model Page URL": "https://www.defacto.com/en-ma/pamuklu-oversize-tisort-3375528"
+        },
+        {
+          "excel_satiri": 17246,
+          "Product Option Code": "F9856AX.BR91",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9856AX_26SP_BR91_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com/en-ma/pamuklu-oversize-tisort-3375528",
+          "Model Page URL": "https://www.defacto.com/en-ma/pamuklu-oversize-tisort-3375528"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9856AX_26SP_BR91_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:57:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/pamuklu-oversize-tisort-3375528",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "model_kodu": "E1220AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1220AXBE215",
+      "renk_kodu": "BE215",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10510,
+          "Product Option Code": "E1220AX.BE215",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "M",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1220AX_25SM_BE215_01_01.jpg",
+          "FabricDetail": "AEROBIN",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/ar-iq/modern-fit-polo-yaka-kisa-kollu-gomlek-3258538",
+          "Model Page URL": "https://www.defacto.com/ar-iq/modern-fit-polo-yaka-kisa-kollu-gomlek-3258538"
+        },
+        {
+          "excel_satiri": 10511,
+          "Product Option Code": "E1220AX.BE215",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1220AX_25SM_BE215_01_01.jpg",
+          "FabricDetail": "AEROBIN",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/ar-iq/modern-fit-polo-yaka-kisa-kollu-gomlek-3258538",
+          "Model Page URL": "https://www.defacto.com/ar-iq/modern-fit-polo-yaka-kisa-kollu-gomlek-3258538"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E1220AX_25SM_BE215_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:42:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/modern-fit-polo-yaka-kisa-kollu-gomlek-3258538",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

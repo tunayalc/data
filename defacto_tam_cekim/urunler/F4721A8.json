@@ -1,0 +1,126 @@
+{
+  "model_kodu": "F4721A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-10",
+        "puan": 5.0,
+        "metin": "@oğlum çok beğendi"
+      },
+      {
+        "tarih": "2025-11-18",
+        "puan": 5.0,
+        "metin": "@güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F4721A8WT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "5'li Pamuklu Uzun Çorap Erkek Çocuk",
+      "kisa_aciklama": "Her biri farklı desen ve renklerde tasarlanan bu 5’li pamuklu uzun çorap seti, erkek çocuklarının günlük ihtiyaçları için pratik ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/5li-pamuklu-uzun-corap-erkek-cocuk-3322381",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4721A8_NS_WT1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4721A8_NS_WT1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4721A8_NS_WT1_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "29 - 34",
+          "35 - 39"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 62%,Poliamid 35%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "5'li",
+        "cinsiyet": "Erkek Çocuk",
+        "corap_tipi": "Uzun Çorap",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Her biri farklı desen ve renklerde tasarlanan bu 5’li pamuklu uzun çorap seti, erkek çocuklarının günlük ihtiyaçları için pratik ve…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14778,
+          "Product Option Code": "F4721A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "29 - 34",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4721A8_NS_WT1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/5li-pamuklu-uzun-corap-erkek-cocuk-3322381",
+          "Model Page URL": "https://www.defacto.com.tr/5li-pamuklu-uzun-corap-erkek-cocuk-3322381"
+        },
+        {
+          "excel_satiri": 14779,
+          "Product Option Code": "F4721A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "35 - 39",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4721A8_NS_WT1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/5li-pamuklu-uzun-corap-erkek-cocuk-3322381",
+          "Model Page URL": "https://www.defacto.com.tr/5li-pamuklu-uzun-corap-erkek-cocuk-3322381"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F4721A8_NS_WT1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:52:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "model_kodu": "I1612AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-06",
+        "puan": 5.0,
+        "metin": "@Şahane bir bileklik. Tavsiye ediyorum. Çok kaliteli."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1612AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Taş Detaylı İki Renkli Halka 2'li Bileklik Kadın",
+      "kisa_aciklama": "Geniş halka formunda, parlak yüzeyli 2'li bileklik seti. Bir adet krem rengi, üzerinde küçük koyu renkli taş detayları bulunan bileklik…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/tas-detayli-iki-renkli-halka-2li-bileklik-kadin-3495461",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1612AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1612AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1612AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Reçine 95%,Pirinç 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "kumas": "Jean",
+        "taki_tipi": "Bileklik",
+        "takim_icerigi": "2'li"
+      },
+      "urun_hakkinda": [
+        "Geniş halka formunda, parlak yüzeyli 2'li bileklik seti. Bir adet krem rengi, üzerinde küçük koyu renkli taş detayları bulunan bileklik…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 39199,
+          "Product Option Code": "I1612AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1612AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 5,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/tas-detayli-iki-renkli-halka-2li-bileklik-kadin-3495461?waw_keyword=A7327AXBR2",
+          "Model Page URL": "https://www.defacto.com.tr/tas-detayli-iki-renkli-halka-2li-bileklik-kadin-3495461?waw_keyword=A7327AXBR2"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1612AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:43:40+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

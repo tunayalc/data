@@ -1,0 +1,64 @@
+{
+  "model_kodu": "E8689AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8689AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12685,
+          "Product Option Code": "E8689AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E8689AX_25AU_BK27_01_03.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 0,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/su-itici-regular-fit-dik-yaka-fermuarli-sisme-mont-3288672",
+          "Model Page URL": "https://www.defacto.com/ar-iq/su-itici-regular-fit-dik-yaka-fermuarli-sisme-mont-3288672"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E8689AX_25AU_BK27_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:47:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/su-itici-regular-fit-dik-yaka-fermuarli-sisme-mont-3288672",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

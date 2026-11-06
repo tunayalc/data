@@ -1,0 +1,97 @@
+{
+  "model_kodu": "M7669AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "M7669AZGN933",
+      "renk_kodu": "GN933",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45909,
+          "Product Option Code": "M7669AZ.GN933",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/21SP/M7669AZ_21SP_GN933_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/21SP/M7669AZ_21SP_GN933_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "M7669AZPR401",
+      "renk_kodu": "PR401",
+      "renk_adi": "PURPLE MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45910,
+          "Product Option Code": "M7669AZ.PR401",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PURPLE MELANGE",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/21SP/M7669AZ_21SP_PR401_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/21SP/M7669AZ_21SP_PR401_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

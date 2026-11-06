@@ -1,0 +1,184 @@
+{
+  "model_kodu": "C2138AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 75,
+    "yorum_sayisi": 75,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 7.2,
+      "tam_oldu": 79.4,
+      "buyuk_geldi": 12.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-05-03",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-05-02",
+        "puan": 5.0,
+        "metin": "@renk ve kalıbı rahat güzel bir tişört"
+      },
+      {
+        "tarih": "2024-10-30",
+        "puan": 2.0,
+        "metin": "@pek beğenmedim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C2138AXBN571",
+      "renk_kodu": "BN571",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "%100 Pamuk Boxy Fit Bisiklet Yaka Baskılı Kısa Kollu Tişört",
+      "kisa_aciklama": "Boxy fit bisiklet yaka baskılı kısa kollu tişört, rahat kesimi ve şık tasarımıyla dikkat çeker. Yumuşak kumaşı, tüm gün boyunca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3207814",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C2138AX_25SP_BN571_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2138AX_25SP_BN571_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2138AX_25SP_BN571_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2138AX_25SP_BN571_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2138AX_25SP_BN571_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2138AX_25SP_BN571_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "desen": "Baskılı",
+        "cinsiyet": "Erkek",
+        "kalip": "Boxy Fıt"
+      },
+      "urun_hakkinda": [
+        "Boxy fit bisiklet yaka baskılı kısa kollu tişört, rahat kesimi ve şık tasarımıyla dikkat çeker. Yumuşak kumaşı, tüm gün boyunca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3479,
+          "Product Option Code": "C2138AX.BN571",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C2138AX_25SP_BN571_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3207814",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3207814"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/C2138AX_25SP_BN571_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C2138AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3477,
+          "Product Option Code": "C2138AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C2138AX_25SP_BK81_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3207814"
+        },
+        {
+          "excel_satiri": 3478,
+          "Product Option Code": "C2138AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C2138AX_25SP_BK81_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3207814"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/C2138AX_25SP_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:21:38+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

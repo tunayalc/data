@@ -1,0 +1,93 @@
+{
+  "model_kodu": "H7286AX",
+  "urun_grubu": "Erkek Çanta",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7286AXGR2",
+      "renk_kodu": "GR2",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Erkek Suni Deri Çapraz Çanta",
+      "kisa_aciklama": "Erkek Suni Deri Çapraz Çanta. Net hatlara sahip modern kesim. Kaliteli dokusuyla fark yaratan tasarım.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-suni-deri-capraz-canta-3455844",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7286AX_NS_GR2_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7286AX_NS_GR2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7286AX_NS_GR2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7286AX_NS_GR2_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7286AX_NS_GR2_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan Deri 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "urun_olcusu": "22*15*7",
+        "kumas": "Suni Deri",
+        "canta_tipi": "Çapraz Çanta"
+      },
+      "urun_hakkinda": [
+        "Erkek Suni Deri Çapraz Çanta. Net hatlara sahip modern kesim. Kaliteli dokusuyla fark yaratan tasarım."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 32915,
+          "Product Option Code": "H7286AX.GR2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "Bag",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H7286AX_NS_GR2_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-suni-deri-capraz-canta-3455844",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-suni-deri-capraz-canta-3455844"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H7286AX_NS_GR2_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:33:15+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

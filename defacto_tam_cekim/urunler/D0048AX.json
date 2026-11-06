@@ -1,0 +1,101 @@
+{
+  "model_kodu": "D0048AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D0048AXGR503",
+      "renk_kodu": "GR503",
+      "renk_adi": "LT.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "38",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5945,
+          "Product Option Code": "D0048AX.GR503",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "36",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D0048AX_24SM_GR503_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5946,
+          "Product Option Code": "D0048AX.GR503",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "38",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D0048AX_24SM_GR503_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5947,
+          "Product Option Code": "D0048AX.GR503",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "40",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D0048AX_24SM_GR503_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D0048AX_24SM_GR503_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

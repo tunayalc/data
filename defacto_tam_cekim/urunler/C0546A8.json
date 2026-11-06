@@ -1,0 +1,119 @@
+{
+  "model_kodu": "C0546A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-08-27",
+        "puan": 5.0,
+        "metin": "@Güzel ama 10 yaşındaki oğluma küçük geldi. Küçük oğluma oldu (8 yaşında)."
+      },
+      {
+        "tarih": "2025-07-08",
+        "puan": 5.0,
+        "metin": "@Hediye aldım, beğendiler."
+      },
+      {
+        "tarih": "2025-07-29",
+        "puan": 5.0,
+        "metin": "@Kalıbı biraz dar fakat kumaşı kaliteli."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0546A8GR257",
+      "renk_kodu": "GR257",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Marvel Avengers Baskılı Cap Şapka Erkek Çocuk",
+      "kisa_aciklama": "Marvel Avengers lisanslı baskılı cap şapka, erkek çocuklar için ideal bir seçimdir. İlkbahar ve yaz mevsimlerinde kullanıma uygundur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/marvel-avengers-baskili-cap-sapka-erkek-cocuk-3212575",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C0546A8_25SM_GR257_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0546A8_25SM_GR257_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0546A8_25SM_GR257_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0546A8_25SM_GR257_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0546A8_25SM_GR257_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0546A8_25SM_GR257_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0546A8_25SM_GR257_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0546A8_25SM_GR257_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "5-9 Yaş Beden - 1,44cm",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "desen": "Baskılı",
+        "sapka_tipi": "Cap Şapka",
+        "cinsiyet": "Erkek Çocuk",
+        "lisans_bilgisi": "Marvel Avengers",
+        "urun_olcusu": "54 cm"
+      },
+      "urun_hakkinda": [
+        "Marvel Avengers lisanslı baskılı cap şapka, erkek çocuklar için ideal bir seçimdir. İlkbahar ve yaz mevsimlerinde kullanıma uygundur.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 244.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3049,
+          "Product Option Code": "C0546A8.GR257",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0546A8_24SM_GR257_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 0,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/marvel-avengers-baskili-cap-sapka-erkek-cocuk-3212575",
+          "Model Page URL": "https://www.defacto.com.tr/marvel-avengers-baskili-cap-sapka-erkek-cocuk-3212575"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C0546A8_24SM_GR257_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:20:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

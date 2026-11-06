@@ -1,0 +1,180 @@
+{
+  "model_kodu": "G6009AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-13",
+        "puan": 5.0,
+        "metin": "@Kaliteli"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6009AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Regular Fıt Polo Yaka Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Regular Fıt Polo Yaka Kısa Kollu Polo Tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-polo-yaka-kisa-kollu-polo-tisort-3437282",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6009AX_26SM_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6009AX_26SM_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6009AX_26SM_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6009AX_26SM_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6009AX_26SM_ER105_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6009AX_26SM_ER105_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6009AX_26SM_ER105_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Polo Yaka",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Polo Yaka Kısa Kollu Polo Tişört"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Sererek Kurutunuz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYFLAT_J7R0MTVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19943,
+          "Product Option Code": "G6009AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6009AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "STRIPE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-polo-yaka-kisa-kollu-polo-tisort-3437282",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-polo-yaka-kisa-kollu-polo-tisort-3437282"
+        },
+        {
+          "excel_satiri": 19944,
+          "Product Option Code": "G6009AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6009AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "STRIPE",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-polo-yaka-kisa-kollu-polo-tisort-3437282",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-polo-yaka-kisa-kollu-polo-tisort-3437282"
+        },
+        {
+          "excel_satiri": 19945,
+          "Product Option Code": "G6009AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6009AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "STRIPE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-polo-yaka-kisa-kollu-polo-tisort-3437282",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-polo-yaka-kisa-kollu-polo-tisort-3437282"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G6009AX_26SM_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:03:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

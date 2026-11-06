@@ -1,0 +1,79 @@
+{
+  "model_kodu": "E8666AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8666AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L - XL",
+          "S - M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12650,
+          "Product Option Code": "E8666AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L - XL",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E8666AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "POLYAMIDE",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 12651,
+          "Product Option Code": "E8666AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S - M",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E8666AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "POLYAMIDE",
+          "Toplam": 4,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/E8666AX_NS_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

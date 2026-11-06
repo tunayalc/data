@@ -1,0 +1,114 @@
+{
+  "model_kodu": "G6696A5",
+  "urun_grubu": "Erkek Bebek Tulum",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-10",
+        "puan": 5.0,
+        "metin": "@Ürünün kumaşı gerçekten çok güzel. 5 yaşındaki oğlum için 56 kilo aldım. Diğer oğlum için de hemen sipariş verdim, çok…"
+      },
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@guzel çok sevdim iki oğluma da aldım"
+      },
+      {
+        "tarih": "2026-06-27",
+        "puan": 5.0,
+        "metin": "@çok kaliteli ve güzel 👍"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6696A5NM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "Mavi",
+      "renk_hex": "#30D5C8",
+      "urun_adi": "%100 Pamuk Nakışlı Jean Tulum Erkek Bebek",
+      "kisa_aciklama": "%100 pamuk jean kumaşı ve şık nakış detaylarıyla tasarlanan bu jean tulum, erkek bebekler için hem sevimli hem de konforlu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-nakisli-jean-tulum-erkek-bebek-3377028",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6696A5_26SP_NM28_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6696A5_26SP_NM28_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6696A5_26SP_NM28_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "9-12 Ay (80cm)",
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "9-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek Bebek"
+      },
+      "urun_hakkinda": [
+        "%100 pamuk jean kumaşı ve şık nakış detaylarıyla tasarlanan bu jean tulum, erkek bebekler için hem sevimli hem de konforlu…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20499,
+          "Product Option Code": "G6696A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Overalls",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "9-12 M",
+          "Fit": "OVERALLS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6696A5_26SP_NM28_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-nakisli-jean-tulum-erkek-bebek-3377028",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-nakisli-jean-tulum-erkek-bebek-3377028"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6696A5_26SP_NM28_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:07:05+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

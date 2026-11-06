@@ -1,0 +1,203 @@
+{
+  "model_kodu": "D9249AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 15,
+    "yorum_sayisi": 15,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 44.4,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 22.2
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-10",
+        "puan": 5.0,
+        "metin": "@Oturma odası için harika bir seçenek"
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@Salon için çok güzel."
+      },
+      {
+        "tarih": "2025-08-02",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9249AXNV82",
+      "renk_kodu": "NV82",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Slim Fit Dar Kesim Sporcu Dokuma Şort",
+      "kisa_aciklama": "Slim Fit Dar Kesim Sporcu Dokuma Şort, hareket özgürlüğü sağlayan yapısı ve modern tasarımıyla spor şıklığını bir araya getiriyor. Hafif…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-sporcu-dokuma-sort-3209917",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_06_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_NV82_10_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 95/74/93",
+        "ana_kumas_icerigi": "Elastan 14%,Naylon 86%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Slım Fıt",
+        "yasam_tarzi": "Sporcu",
+        "urun_boyu": "Kısa Boy",
+        "kullanim_alani": "Günlük Giyim",
+        "kumas": "Dokuma"
+      },
+      "urun_hakkinda": [
+        "Slim Fit Dar Kesim Sporcu Dokuma Şort, hareket özgürlüğü sağlayan yapısı ve modern tasarımıyla spor şıklığını bir araya getiriyor. Hafif…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9567,
+          "Product Option Code": "D9249AX.NV82",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9249AX_25SP_NV82_01_05.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-sporcu-dokuma-sort-3209917",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-sporcu-dokuma-sort-3209450"
+        },
+        {
+          "excel_satiri": 9568,
+          "Product Option Code": "D9249AX.NV82",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9249AX_25SP_NV82_01_05.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-sporcu-dokuma-sort-3209917",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-sporcu-dokuma-sort-3209450"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D9249AX_25SP_NV82_01_05.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D9249AXGR67",
+      "renk_kodu": "GR67",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Slim Fit Dar Kesim Sporcu Dokuma Şort",
+      "kisa_aciklama": "Slim Fit Dar Kesim Sporcu Dokuma Şort, hareket özgürlüğü sağlayan yapısı ve modern tasarımıyla spor şıklığını bir araya getiriyor. Hafif…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-sporcu-dokuma-sort-3209450",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_04_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_05_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_06_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_09_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9249AX_25SP_GR67_10_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 95/74/93",
+        "ana_kumas_icerigi": "Elastan 14%,Naylon 86%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "yasam_tarzi": "Sporcu",
+        "kumas": "Dokuma",
+        "kalip": "Slım Fıt",
+        "kullanim_alani": "Günlük Giyim",
+        "urun_boyu": "Kısa Boy"
+      },
+      "urun_hakkinda": [
+        "Slim Fit Dar Kesim Sporcu Dokuma Şort, hareket özgürlüğü sağlayan yapısı ve modern tasarımıyla spor şıklığını bir araya getiriyor. Hafif…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:39:58+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

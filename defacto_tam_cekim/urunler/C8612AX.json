@@ -1,0 +1,64 @@
+{
+  "model_kodu": "C8612AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8612AXER238",
+      "renk_kodu": "ER238",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5483,
+          "Product Option Code": "C8612AX.ER238",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8612AX_24SM_ER238_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-baskili-kisa-kollu-tisort-3111517",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-baskili-kisa-kollu-tisort-3111517"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C8612AX_24SM_ER238_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:28:40+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-fitted-baskili-kisa-kollu-tisort-3111517",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

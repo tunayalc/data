@@ -1,0 +1,64 @@
+{
+  "model_kodu": "C6140AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C6140AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4866,
+          "Product Option Code": "C6140AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "COMFORT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/C6140AX_24AU_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/comfort-fit-bisiklet-yaka-tisort-3154885",
+          "Model Page URL": "https://www.defacto.com/comfort-fit-bisiklet-yaka-tisort-3154885"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/C6140AX_24AU_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:27:26+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/comfort-fit-bisiklet-yaka-tisort-3154885",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "model_kodu": "H0002AX",
+  "urun_grubu": "Kadın Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-12",
+        "puan": 5.0,
+        "metin": "@Kalıbı ve kumaşı güzel"
+      },
+      {
+        "tarih": "2026-10-23",
+        "puan": 5.0,
+        "metin": "@Beden kalmadığı için xs almıştım ama hiç esneme yapamayan kumaş olduğu çok dar geldi tam bedeninizi alırsanız üstte güzel duracak…"
+      },
+      {
+        "tarih": "2026-04-23",
+        "puan": 5.0,
+        "metin": "@fiyat performans ürünü"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0002AXBN267",
+      "renk_kodu": "BN267",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Fıtted Pötikareli Uzun Kollu Gömlek",
+      "kisa_aciklama": "Pötikareli kumaştan üretilmiş Pötikareli fitted uzun kollu gömlek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-potikareli-uzun-kollu-gomlek-3406656",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0002AX_26SP_BN267_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0002AX_26SP_BN267_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0002AX_26SP_BN267_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0002AX_26SP_BN267_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0002AX_26SP_BN267_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0002AX_26SP_BN267_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0002AX_26SP_BN267_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 78/63/90",
+        "ana_kumas_icerigi": "Pamuk 79%,Poliester 21%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "yaka": "Gömlek Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Fıtted",
+        "desen": "Pötikareli",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Pötikareli kumaştan üretilmiş Pötikareli fitted uzun kollu gömlek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23606,
+          "Product Option Code": "H0002AX.BN267",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H0002AX_26SP_BN267_01_04.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-uzun-kollu-gomlek-3406656",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-uzun-kollu-gomlek-3406656"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H0002AX_26SP_BN267_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:14:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

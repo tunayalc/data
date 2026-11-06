@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D4362AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4362AXAR198",
+      "renk_kodu": "AR198",
+      "renk_adi": "ANTRA MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7560,
+          "Product Option Code": "D4362AX.AR198",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRA MELANGE",
+          "SizeDefinition": "36",
+          "Fit": "CHINO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4362AX_24AU_AR198_01_01.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/chino-yuksek-bel-duz-paca-pantolon-3156749",
+          "Model Page URL": "https://www.defacto.com/chino-yuksek-bel-duz-paca-pantolon-3156749"
+        },
+        {
+          "excel_satiri": 7561,
+          "Product Option Code": "D4362AX.AR198",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRA MELANGE",
+          "SizeDefinition": "42",
+          "Fit": "CHINO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4362AX_24AU_AR198_01_01.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/chino-yuksek-bel-duz-paca-pantolon-3156749",
+          "Model Page URL": "https://www.defacto.com/chino-yuksek-bel-duz-paca-pantolon-3156749"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D4362AX_24AU_AR198_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:34:27+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/chino-yuksek-bel-duz-paca-pantolon-3156749",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

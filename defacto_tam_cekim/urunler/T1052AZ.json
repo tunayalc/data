@@ -1,0 +1,97 @@
+{
+  "model_kodu": "T1052AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "T1052AZBE606",
+      "renk_kodu": "BE606",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28-30"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46379,
+          "Product Option Code": "T1052AZ.BE606",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "28-30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SP/T1052AZ_23SP_BE606_01_01.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SP/T1052AZ_23SP_BE606_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "T1052AZGN497",
+      "renk_kodu": "GN497",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28-30"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46380,
+          "Product Option Code": "T1052AZ.GN497",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "28-30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SP/T1052AZ_23SP_GN497_01_02.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SP/T1052AZ_23SP_GN497_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

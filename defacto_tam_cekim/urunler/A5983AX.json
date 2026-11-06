@@ -1,0 +1,57 @@
+{
+  "model_kodu": "A5983AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A5983AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "OFF WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 547,
+          "Product Option Code": "A5983AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "3XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/A5983AX_23SM_WT32_01_03.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/A5983AX_23SM_WT32_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

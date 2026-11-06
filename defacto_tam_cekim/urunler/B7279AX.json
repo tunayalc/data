@@ -1,0 +1,97 @@
+{
+  "model_kodu": "B7279AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B7279AXGN854",
+      "renk_kodu": "GN854",
+      "renk_adi": "LT.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2315,
+          "Product Option Code": "B7279AX.GN854",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimming Short",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "NATHAN",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/B7279AX_24HS_GN854_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/B7279AX_24HS_GN854_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B7279AXGR474",
+      "renk_kodu": "GR474",
+      "renk_adi": "GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2316,
+          "Product Option Code": "B7279AX.GR474",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimming Short",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "NATHAN",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/B7279AX_24HS_GR474_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/B7279AX_24HS_GR474_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

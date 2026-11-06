@@ -1,0 +1,116 @@
+{
+  "model_kodu": "I0279A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çanta",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0279A8BE422",
+      "renk_kodu": "BE422",
+      "renk_adi": "Koyu Mavi",
+      "renk_hex": "#00008B",
+      "urun_adi": "Lacivert Jean Omuz Çantası Kız Çocuk",
+      "kisa_aciklama": "Kız çocuk omuz çantası. Koyu mavi buruşuk dokulu omuz çantası. Üst kısmı büzgülü kapama detaylı, metal halka ve inci uçlu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/lacivert-jean-omuz-cantasi-kiz-cocuk-3479848",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0279A8_NS_BE422_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0279A8_NS_BE422_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0279A8_NS_BE422_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0279A8_NS_BE422_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0279A8_NS_BE422_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0279A8_NS_BE422_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 80%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "canta_tipi": "Omuz Çantası",
+        "cinsiyet": "Kız Çocuk",
+        "urun_olcusu": "30*15*5"
+      },
+      "urun_hakkinda": [
+        "Kız çocuk omuz çantası. Koyu mavi buruşuk dokulu omuz çantası. Üst kısmı büzgülü kapama detaylı, metal halka ve inci uçlu…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37604,
+          "Product Option Code": "I0279A8.BE422",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "Bag",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0279A8_NS_BE422_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/ar-iq/lacivert-jean-omuz-cantasi-kiz-cocuk-3479848",
+          "Model Page URL": "https://www.defacto.com/ar-iq/lacivert-jean-omuz-cantasi-kiz-cocuk-3479848"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0279A8_NS_BE422_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:40:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

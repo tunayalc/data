@@ -1,0 +1,89 @@
+{
+  "model_kodu": "I2591A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2591A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Çizgili Kurdele Detaylı Kız Çocuk 2'li Saç Tokası",
+      "kisa_aciklama": "İki adet fırfırlı saç tokası. Açık mavi beyaz çizgili kumaş görünümlüdür. Her tokada uzun lacivert kurdele detayları bulunur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cizgili-kurdele-detayli-kiz-cocuk-2li-sac-tokasi-3494991",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2591A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2591A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2591A8_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "İki adet fırfırlı saç tokası. Açık mavi beyaz çizgili kumaş görünümlüdür. Her tokada uzun lacivert kurdele detayları bulunur."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40461,
+          "Product Option Code": "I2591A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2591A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-kurdele-detayli-kiz-cocuk-2li-sac-tokasi-3494991",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-kurdele-detayli-kiz-cocuk-2li-sac-tokasi-3494991"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2591A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:45:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

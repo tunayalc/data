@@ -1,0 +1,419 @@
+{
+  "model_kodu": "G4278AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-08",
+        "puan": 2.0,
+        "metin": "@çok ince"
+      },
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@ayrı ayrı 3 beden aldık. salaş ş ama m ayarı. ince bır yapıda tavsiye ederım"
+      },
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@baya ince olmasına rağmen güzel. bol salaş duruyor. S. beden olmasına rağmen M benden ayarı ayrı ayrıı 3 bedende aldım…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4278AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Pamuklu Boxy Fıt Kısa Kollu Tişört",
+      "kisa_aciklama": "Kısa kollu, bisiklet yakalı, örgülü tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3453079",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_ER105_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_ER105_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_ER105_07_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 100/78/98",
+        "ana_kumas_icerigi": "Pamuk 50%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Boxy Fıt"
+      },
+      "urun_hakkinda": [
+        "Kısa kollu, bisiklet yakalı, örgülü tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19138,
+          "Product Option Code": "G4278AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3453079",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        },
+        {
+          "excel_satiri": 19139,
+          "Product Option Code": "G4278AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3453079",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        },
+        {
+          "excel_satiri": 19140,
+          "Product Option Code": "G4278AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3453079",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        },
+        {
+          "excel_satiri": 19141,
+          "Product Option Code": "G4278AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3453079",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        },
+        {
+          "excel_satiri": 19142,
+          "Product Option Code": "G4278AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3453079",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        },
+        {
+          "excel_satiri": 19143,
+          "Product Option Code": "G4278AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3453079",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_ER105_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G4278AXGN762",
+      "renk_kodu": "GN762",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "Pamuklu Boxy Fıt Kısa Kollu Tişört",
+      "kisa_aciklama": "Kısa kollu, bisiklet yakalı, örgülü tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_GN762_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_GN762_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_GN762_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_GN762_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_GN762_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4278AX_26SM_GN762_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,82cm - 95/80/97",
+        "ana_kumas_icerigi": "Pamuk 50%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Boxy Fıt",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Kısa kollu, bisiklet yakalı, örgülü tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19144,
+          "Product Option Code": "G4278AX.GN762",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_GN762_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        },
+        {
+          "excel_satiri": 19145,
+          "Product Option Code": "G4278AX.GN762",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_GN762_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        },
+        {
+          "excel_satiri": 19146,
+          "Product Option Code": "G4278AX.GN762",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_GN762_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        },
+        {
+          "excel_satiri": 19147,
+          "Product Option Code": "G4278AX.GN762",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "XL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_GN762_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 8,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-boxy-fit-kisa-kollu-tisort-3434303"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G4278AX_26SM_GN762_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:01:23+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

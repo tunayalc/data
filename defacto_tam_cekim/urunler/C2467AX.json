@@ -1,0 +1,101 @@
+{
+  "model_kodu": "C2467AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C2467AXNM39",
+      "renk_kodu": "NM39",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40",
+          "42",
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3616,
+          "Product Option Code": "C2467AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "40",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C2467AX_24HS_NM39_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3617,
+          "Product Option Code": "C2467AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "42",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C2467AX_24HS_NM39_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3618,
+          "Product Option Code": "C2467AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "44",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C2467AX_24HS_NM39_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/C2467AX_24HS_NM39_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

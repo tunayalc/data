@@ -1,0 +1,144 @@
+{
+  "model_kodu": "F1068A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 22,
+    "yorum_sayisi": 22,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-27",
+        "puan": 5.0,
+        "metin": "@Harika, kalitesi de çok iyi."
+      },
+      {
+        "tarih": "2025-12-24",
+        "puan": 5.0,
+        "metin": "@Harika bir kazak, tıpkı fotoğraftaki gibi geldi, hem çok güzel hem de yumuşacık."
+      },
+      {
+        "tarih": "2025-12-15",
+        "puan": 5.0,
+        "metin": "@Harika! Biraz ince ama gayet şık."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F1068A8ER100",
+      "renk_kodu": "ER100",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Yarım Balıkçı Yaka Ecru Kazak Erkek Çocuk",
+      "kisa_aciklama": "Regular fit balıkçı yaka erkek çocuk kazak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-ecru-kazak-erkek-cocuk-3473453",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F1068A8_26WN_ER100_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1068A8_26WN_ER100_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1068A8_26WN_ER100_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1068A8_26WN_ER100_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1068A8_26WN_ER100_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1068A8_26WN_ER100_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1068A8_26WN_ER100_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden",
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kazak",
+        "triko_kalinligi": "İnce Kalınlık",
+        "cinsiyet": "Erkek Çocuk",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Yarım Balıkçı Yaka",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit balıkçı yaka erkek çocuk kazak."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F1068A8ER123",
+      "renk_kodu": "ER123",
+      "renk_adi": "ECRU MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13740,
+          "Product Option Code": "F1068A8.ER123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU MELANGE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F1068A8_25WN_ER123_01_02.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-cocuk-regular-fit-dik-yaka-kazak-3515581",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-ecru-kazak-erkek-cocuk-3473453"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F1068A8_25WN_ER123_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:49:54+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-dik-yaka-kazak-3515581",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

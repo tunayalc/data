@@ -1,0 +1,64 @@
+{
+  "model_kodu": "I4237AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4237AXNM39",
+      "renk_kodu": "NM39",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42531,
+          "Product Option Code": "I4237AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "34",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I4237AX_26HS_NM39_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3582834",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3582834"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I4237AX_26HS_NM39_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:49:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/baggy-fit-normal-bel-genis-paca-jean-pantolon-3582834",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

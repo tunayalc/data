@@ -1,0 +1,57 @@
+{
+  "model_kodu": "E5046AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5046AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11443,
+          "Product Option Code": "E5046AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E5046AX_25SM_BK81_01_01.jpg",
+          "FabricDetail": "Cotton-Pes",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E5046AX_25SM_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

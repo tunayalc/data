@@ -1,0 +1,79 @@
+{
+  "model_kodu": "G0180AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0180AXAR104",
+      "renk_kodu": "AR104",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17380,
+          "Product Option Code": "G0180AX.AR104",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "M",
+          "Fit": "OVERSHIRT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G0180AX_25WN_AR104_01_02.jpg",
+          "FabricDetail": "3 Thread with brushed",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 17381,
+          "Product Option Code": "G0180AX.AR104",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "XS",
+          "Fit": "OVERSHIRT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G0180AX_25WN_AR104_01_02.jpg",
+          "FabricDetail": "3 Thread with brushed",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G0180AX_25WN_AR104_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

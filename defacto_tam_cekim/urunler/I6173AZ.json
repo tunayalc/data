@@ -1,0 +1,927 @@
+{
+  "model_kodu": "I6173AZ",
+  "urun_grubu": "Kadın Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 384,
+    "yorum_sayisi": 384,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 14.3,
+      "tam_oldu": 80.6,
+      "buyuk_geldi": 5.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-08-09",
+        "puan": 2.0,
+        "metin": "@ürün ilk yıkamada çekti hemde 30 derecede yıkamıştım hiç giymeden küçücük kaldı"
+      },
+      {
+        "tarih": "2023-08-14",
+        "puan": 5.0,
+        "metin": "@Tam beden alırsanız hafif dökümlü duruyor.158 boy 65 kg M beden çok güzel oldu"
+      },
+      {
+        "tarih": "2022-05-12",
+        "puan": 5.0,
+        "metin": "@Gömleği beğendim ama şu beden konusunda kafayı yicem artık (hiç bir yerin bedenleri birbirini tutmuyor) büyük geldiği için iade edip…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I6173AZER99",
+      "renk_kodu": "ER99",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fit Apaş Yaka Desenli Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3281520",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_ER99_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_ER99_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_ER99_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_ER99_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_ER99_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_ER99_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 82/60/91",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43618,
+          "Product Option Code": "I6173AZ.ER99",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/I6173AZ_24SM_ER99_01_03.jpg",
+          "FabricDetail": "30-1VIS",
+          "Toplam": 4,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3281520",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        },
+        {
+          "excel_satiri": 43619,
+          "Product Option Code": "I6173AZ.ER99",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/I6173AZ_25SM_ER99_01_01.jpg",
+          "FabricDetail": "30’s Viscon Chally",
+          "Toplam": 3,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3281520",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        },
+        {
+          "excel_satiri": 43620,
+          "Product Option Code": "I6173AZ.ER99",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/I6173AZ_24SM_ER99_01_03.jpg",
+          "FabricDetail": "30-1VIS",
+          "Toplam": 10,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3281520",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        },
+        {
+          "excel_satiri": 43621,
+          "Product Option Code": "I6173AZ.ER99",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/I6173AZ_25SM_ER99_01_01.jpg",
+          "FabricDetail": "30’s Viscon Chally",
+          "Toplam": 3,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3281520",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        },
+        {
+          "excel_satiri": 43622,
+          "Product Option Code": "I6173AZ.ER99",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/I6173AZ_24SM_ER99_01_03.jpg",
+          "FabricDetail": "30-1VIS",
+          "Toplam": 10,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3281520",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        },
+        {
+          "excel_satiri": 43623,
+          "Product Option Code": "I6173AZ.ER99",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/I6173AZ_25SM_ER99_01_01.jpg",
+          "FabricDetail": "30’s Viscon Chally",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3281520",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        },
+        {
+          "excel_satiri": 43624,
+          "Product Option Code": "I6173AZ.ER99",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/I6173AZ_24SM_ER99_01_03.jpg",
+          "FabricDetail": "30-1VIS",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3281520",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/I6173AZ_24SM_ER99_01_03.jpg",
+        "https://image.defacto.com.tr/product/25SM/I6173AZ_25SM_ER99_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I6173AZGN158",
+      "renk_kodu": "GN158",
+      "renk_adi": "Açık Yeşil",
+      "renk_hex": "#B4EC9A",
+      "urun_adi": "Regular Fıt Kaçık Yaka Çiçekli Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-kacik-yaka-cicekli-kisa-kollu-gomlek-3466526",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_GN158_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_GN158_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_GN158_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_GN158_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_GN158_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,77cm - 82/61/91",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Baskılı",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43625,
+          "Product Option Code": "I6173AZ.GN158",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6173AZ_26HS_GN158_01_03.jpg",
+          "FabricDetail": "30’s Viscon Chally",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kacik-yaka-cicekli-kisa-kollu-gomlek-3466526",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        },
+        {
+          "excel_satiri": 43626,
+          "Product Option Code": "I6173AZ.GN158",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6173AZ_26HS_GN158_01_03.jpg",
+          "FabricDetail": "30’s Viscon Chally",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kacik-yaka-cicekli-kisa-kollu-gomlek-3466526",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I6173AZ_26HS_GN158_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I6173AZPR220",
+      "renk_kodu": "PR220",
+      "renk_adi": "Mor",
+      "renk_hex": "#A020F0",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Çiçekli Kısa Kollu Mor Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-cicekli-kisa-kollu-mor-gomlek-3466528",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_PR220_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_PR220_02_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_PR220_03_07.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_PR220_04_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_PR220_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_PR220_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_PR220_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_PR220_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "XL Beden - 1,81cm - 86/63/86",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça",
+        "kol_boyu": "Kısa Kollu",
+        "desen": "Baskılı",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43627,
+          "Product Option Code": "I6173AZ.PR220",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "PURPLE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6173AZ_26HS_PR220_01_05.jpg",
+          "FabricDetail": "30’s Viscon Chally",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-cicekli-kisa-kollu-mor-gomlek-3466528",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I6173AZ_26HS_PR220_01_05.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I6173AZPN70",
+      "renk_kodu": "PN70",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "Regular Fit Apaş Yaka Desenli Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-gomlek-3284434",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN70_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN70_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN70_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN70_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN70_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN70_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "I6173AZBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fit Apaş Yaka Desenli Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3260838",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_BK81_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "I6173AZER37",
+      "renk_kodu": "ER37",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Desenli Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-desenli-kisa-kollu-gomlek-3503849",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_ER37_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_ER37_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_ER37_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_ER37_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_ER37_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_ER37_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_ER37_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_ER37_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,72cm - 84/60/89",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Baskılı",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "I6173AZYL293",
+      "renk_kodu": "YL293",
+      "renk_adi": "Sarı",
+      "renk_hex": "#FFFF00",
+      "urun_adi": "Regular Fit Apaş Yaka Desenli Kısa Kollu Sarı Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-apas-yaka-desenli-kisa-kollu-sari-gomlek-3281519",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_YL293_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_YL293_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_YL293_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_YL293_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_YL293_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_YL293_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 82/60/91",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "I6173AZBE196",
+      "renk_kodu": "BE196",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Regular Fıt Kaçık Yaka Kısa Kollu Mavi Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-kacik-yaka-kisa-kollu-mavi-gomlek-3466527",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_BE196_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_BE196_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_BE196_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_BE196_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_26HS_BE196_05_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 82/61/91",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt",
+        "desen": "Baskılı",
+        "kol_boyu": "Kısa Kollu",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "I6173AZRD87",
+      "renk_kodu": "RD87",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Regular Fit Apaş Yaka Desenli Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3260839",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_RD87_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_RD87_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_RD87_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_RD87_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_RD87_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_RD87_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "I6173AZPN50",
+      "renk_kodu": "PN50",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Regular Fit Apaş Yaka Desenli Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-kisa-kollu-gomlek-3210929",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN50_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN50_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN50_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN50_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN50_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6173AZ_25SM_PN50_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 82/60/91",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve apaş yaka tasarımıyla rahatlık sunan bu kısa kollu gömlek, şık desenleriyle stilinize canlılık katar. Hafif kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:05:43+03:00",
+    "denenen_sayfa": 10,
+    "dogrulanan_renk": 10
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "model_kodu": "B5042A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B5042A8PN441",
+      "renk_kodu": "PN441",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "13/14 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1742,
+          "Product Option Code": "B5042A8.PN441",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "PARACHUTE CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B5042A8_24SM_PN441_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B5042A8_24SM_PN441_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

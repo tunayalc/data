@@ -1,0 +1,57 @@
+{
+  "model_kodu": "X8464A2",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "X8464A2ER85",
+      "renk_kodu": "ER85",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "6-9 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47978,
+          "Product Option Code": "X8464A2.ER85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "6-9 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/X8464A2_22SM_ER85_01_02.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/X8464A2_22SM_ER85_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "model_kodu": "F8924AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-30",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok memnun kaldım. Spor için almıştım, kesinlikle tavsiye ederim. Yıkadım, çekme de yapmadı. Defactoya teşekkürler. Harika! Çok teşekkür ederim.…"
+      },
+      {
+        "tarih": "2025-12-29",
+        "puan": 4.0,
+        "metin": "@Kumaşı ve kalıbı gayet güzel, bir beden büyük alın. Çok beğendim. Fiyatına göre harika. Kesinlikle tavsiye ederim."
+      },
+      {
+        "tarih": "2025-10-26",
+        "puan": 4.0,
+        "metin": "@Rengi harika, vücudu da çok güzel sarıyor."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8924AXRD1",
+      "renk_kodu": "RD1",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Fıtted Crop Basıc Kırmızı Tişört",
+      "kisa_aciklama": "Fitted crop basic düz kısa kollu tişört, vücuda oturan kesimi ve sade tasarımıyla günlük şıklık sağlar. Rahat ve esnek kumaşıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8924AX_25HS_RD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8924AX_25HS_RD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8924AX_25HS_RD1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8924AX_25HS_RD1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8924AX_25HS_RD1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8924AX_25HS_RD1_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 70/59/86",
+        "ana_kumas_icerigi": "Pamuk 95%,Elastan 5%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "markalar": "Coool",
+        "kalip": "Fıtted"
+      },
+      "urun_hakkinda": [
+        "Fitted crop basic düz kısa kollu tişört, vücuda oturan kesimi ve sade tasarımıyla günlük şıklık sağlar. Rahat ve esnek kumaşıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16565,
+          "Product Option Code": "F8924AX.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F8924AX_25HS_RD1_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 10,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109"
+        },
+        {
+          "excel_satiri": 16566,
+          "Product Option Code": "F8924AX.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F8924AX_25HS_RD1_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 9,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109"
+        },
+        {
+          "excel_satiri": 16567,
+          "Product Option Code": "F8924AX.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F8924AX_25HS_RD1_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 8,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/F8924AX_25HS_RD1_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F8924AXGN1",
+      "renk_kodu": "GN1",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16562,
+          "Product Option Code": "F8924AX.GN1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F8924AX_25HS_GN1_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 5,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109"
+        },
+        {
+          "excel_satiri": 16563,
+          "Product Option Code": "F8924AX.GN1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F8924AX_25HS_GN1_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 4,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109"
+        },
+        {
+          "excel_satiri": 16564,
+          "Product Option Code": "F8924AX.GN1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F8924AX_25HS_GN1_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 9,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-crop-basic-kirmizi-tisort-3337109"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/F8924AX_25HS_GN1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:56:11+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

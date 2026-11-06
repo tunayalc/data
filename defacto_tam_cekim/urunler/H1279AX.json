@@ -1,0 +1,154 @@
+{
+  "model_kodu": "H1279AX",
+  "urun_grubu": "Kadın Gecelik",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-12",
+        "puan": 5.0,
+        "metin": "@yumuşacık o kadar kaliteli ki harikaaa"
+      },
+      {
+        "tarih": "2026-04-24",
+        "puan": 5.0,
+        "metin": "@Çok çok iyi ıyıkı almısım"
+      },
+      {
+        "tarih": "2026-10-27",
+        "puan": 2.0,
+        "metin": "@Fena değil"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1279AXPR336",
+      "renk_kodu": "PR336",
+      "renk_adi": "Açık Lila",
+      "renk_hex": "#F4DCF4",
+      "urun_adi": "Ultra Yumuşak Regular Fıt Wrap Yaka Softshell Sabahlık",
+      "kisa_aciklama": "Ultra Yumuşak Wrap kapama detayı ve yarım kol tasarım softshell kumaş sabahlık.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-wrap-yaka-softshell-sabahlik-3501886",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1279AX_26SM_PR336_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1279AX_26SM_PR336_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1279AX_26SM_PR336_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1279AX_26SM_PR336_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1279AX_26SM_PR336_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1279AX_26SM_PR336_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1279AX_26SM_PR336_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1279AX_26SM_PR336_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S/M",
+          "L/XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S/M Beden - 1,77cm - 78/62/89",
+        "ana_kumas_icerigi": "Elastan 6%,Poliester 94%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Wrap Yaka",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak Wrap kapama detayı ve yarım kol tasarım softshell kumaş sabahlık."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "H1279AXGN1114",
+      "renk_kodu": "GN1114",
+      "renk_adi": "MINT",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L - XL",
+          "S - M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24708,
+          "Product Option Code": "H1279AX.GN1114",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Robe",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "L - XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1279AX_26SM_GN1114_01_01.jpg",
+          "FabricDetail": "SOFT SHELL",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-wrap-yaka-softshell-sabahlik-3501886"
+        },
+        {
+          "excel_satiri": 24709,
+          "Product Option Code": "H1279AX.GN1114",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Robe",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "S - M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1279AX_26SM_GN1114_01_01.jpg",
+          "FabricDetail": "SOFT SHELL",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-wrap-yaka-softshell-sabahlik-3501886"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H1279AX_26SM_GN1114_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:16:40+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

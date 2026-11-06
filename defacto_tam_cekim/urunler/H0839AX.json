@@ -1,0 +1,98 @@
+{
+  "model_kodu": "H0839AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 3.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-02",
+        "puan": 3.0,
+        "metin": "@Materyal oldukça sert , esneme payı yok. Ortasındaki taş yerleşimi bana kaba geldiği için 3 yıldız."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0839AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Taşlı Bileklik",
+      "kisa_aciklama": "Zarif ve şık tasarımıyla kadın bileklik, bileklerinize ışıltılı bir dokunuş katar. Günlük kullanımdan özel anlara kadar her stile uyum sağlayan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-tasli-bileklik-3414665",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0839AX_NS_GD1_01_01_BS.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0839AX_NS_GD1_02_01_BS.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 10%,Çinko 20%,Demir 70%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Bileklik",
+        "urun_olcusu": "1 cm"
+      },
+      "urun_hakkinda": [
+        "Zarif ve şık tasarımıyla kadın bileklik, bileklerinize ışıltılı bir dokunuş katar. Günlük kullanımdan özel anlara kadar her stile uyum sağlayan…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24279,
+          "Product Option Code": "H0839AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H0839AX_NS_GD1_01_01_BS.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com/en-ma/kadin-tasli-bileklik-3414665",
+          "Model Page URL": "https://www.defacto.com/en-ma/kadin-tasli-bileklik-3414665"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H0839AX_NS_GD1_01_01_BS.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:16:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

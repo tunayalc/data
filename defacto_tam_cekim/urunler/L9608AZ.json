@@ -1,0 +1,57 @@
+{
+  "model_kodu": "L9608AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "L9608AZYL273",
+      "renk_kodu": "YL273",
+      "renk_adi": "YELLOW",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45837,
+          "Product Option Code": "L9608AZ.YL273",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/19SM/L9608AZ_19SM_YL273_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 69.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/19SM/L9608AZ_19SM_YL273_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

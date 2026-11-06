@@ -1,0 +1,101 @@
+{
+  "model_kodu": "B9492AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B9492AXGR377",
+      "renk_kodu": "GR377",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "30",
+          "32",
+          "34"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2801,
+          "Product Option Code": "B9492AX.GR377",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "30",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B9492AX_23WN_GR377_01_04.jpg",
+          "FabricDetail": "NOPELİ",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2802,
+          "Product Option Code": "B9492AX.GR377",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "32",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B9492AX_23WN_GR377_01_04.jpg",
+          "FabricDetail": "NOPELİ",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2803,
+          "Product Option Code": "B9492AX.GR377",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "34",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B9492AX_23WN_GR377_01_04.jpg",
+          "FabricDetail": "NOPELİ",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/B9492AX_23WN_GR377_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

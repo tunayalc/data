@@ -1,0 +1,88 @@
+{
+  "model_kodu": "I2683A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2683A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kız Çocuk 2'li Lastik Toka",
+      "kisa_aciklama": "Ikili kız çocuk ürün. Elastik bantlara sahip iki adet saç aksesuarı. Biri kalem formunda, diğeri defter formunda charm detaylı. Çok…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kiz-cocuk-2li-lastik-toka-3494958",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2683A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2683A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2683A8_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 20%,Poliester 80%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Ikili kız çocuk ürün. Elastik bantlara sahip iki adet saç aksesuarı. Biri kalem formunda, diğeri defter formunda charm detaylı. Çok…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40571,
+          "Product Option Code": "I2683A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2683A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kiz-cocuk-2li-lastik-toka-3494958",
+          "Model Page URL": "https://www.defacto.com.tr/kiz-cocuk-2li-lastik-toka-3494958"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2683A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:45:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

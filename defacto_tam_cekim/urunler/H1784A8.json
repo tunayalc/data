@@ -1,0 +1,120 @@
+{
+  "model_kodu": "H1784A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1784A8RD1",
+      "renk_kodu": "RD1",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Atatürk İmzalı Pamuklu Cap Şapka Kız Çocuk",
+      "kisa_aciklama": "Üzerinde yer alan Atatürk imzasıyla şık ve anlamlı bir tasarım sunar. Pamuklu yapısı sayesinde gün boyu rahat bir kullanım sağlar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ataturk-imzali-pamuklu-cap-sapka-kiz-cocuk-3437355",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1784A8_26SM_RD1_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1784A8_26SM_RD1_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1784A8_26SM_RD1_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1784A8_26SM_RD1_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1784A8_26SM_RD1_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1784A8_26SM_RD1_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "sapka_tipi": "Cap Şapka",
+        "ozel_gunler": "23 Nisan Çocuk Bayramı",
+        "urun_olcusu": "54 cm",
+        "kumas": "Pamuklu",
+        "desen": "Nakışlı",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Üzerinde yer alan Atatürk imzasıyla şık ve anlamlı bir tasarım sunar. Pamuklu yapısı sayesinde gün boyu rahat bir kullanım sağlar.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25219,
+          "Product Option Code": "H1784A8.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "RED",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1784A8_26SM_RD1_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/ataturk-imzali-pamuklu-cap-sapka-kiz-cocuk-3437355",
+          "Model Page URL": "https://www.defacto.com.tr/ataturk-imzali-pamuklu-cap-sapka-kiz-cocuk-3437355"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H1784A8_26SM_RD1_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:18:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

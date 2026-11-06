@@ -1,0 +1,97 @@
+{
+  "model_kodu": "V8266A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "V8266A6PN1",
+      "renk_kodu": "PN1",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "13/14 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47150,
+          "Product Option Code": "V8266A6.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/21HS/V8266A6_21HS_PN1_01_01.jpg",
+          "FabricDetail": "DENIM LOOK",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/21HS/V8266A6_21HS_PN1_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "V8266A6PR40",
+      "renk_kodu": "PR40",
+      "renk_adi": "LT.LILAC",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47151,
+          "Product Option Code": "V8266A6.PR40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/21HS/V8266A6_21HS_PR40_01_02.jpg",
+          "FabricDetail": "DENIM LOOK",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/21HS/V8266A6_21HS_PR40_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

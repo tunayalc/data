@@ -1,0 +1,123 @@
+{
+  "model_kodu": "D4970AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4970AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7809,
+          "Product Option Code": "D4970AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4970AX_24AU_ER105_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 5,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 7810,
+          "Product Option Code": "D4970AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4970AX_24AU_ER105_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 7811,
+          "Product Option Code": "D4970AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4970AX_24AU_ER105_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 7812,
+          "Product Option Code": "D4970AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4970AX_24AU_ER105_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D4970AX_24AU_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

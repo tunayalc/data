@@ -1,0 +1,64 @@
+{
+  "model_kodu": "C2284AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C2284AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3518,
+          "Product Option Code": "C2284AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C2284AX_24SP_BK27_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/bodycon-vucudu-saran-straplez-basic-yirtmacli-suni-deri-midi-elbise-3065657",
+          "Model Page URL": "https://www.defacto.com/bodycon-vucudu-saran-straplez-basic-yirtmacli-suni-deri-midi-elbise-3065657"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C2284AX_24SP_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:25:20+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/bodycon-vucudu-saran-straplez-basic-yirtmacli-suni-deri-midi-elbise-3065657",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

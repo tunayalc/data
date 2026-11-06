@@ -1,0 +1,117 @@
+{
+  "model_kodu": "W6734AZ",
+  "urun_grubu": "Erkek Boxer",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 30,
+    "yorum_sayisi": 30,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 75.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-04-15",
+        "puan": 5.0,
+        "metin": "@Kalbi küçük xl aldım ama M beden gibi..Kumaş ince terletmez."
+      },
+      {
+        "tarih": "2023-01-30",
+        "puan": 5.0,
+        "metin": "@93 kg xl beden iyi oldu"
+      },
+      {
+        "tarih": "2024-11-07",
+        "puan": 5.0,
+        "metin": "@Çok güzel ve kullanışlı, 1.75 boy ve 120 kiloya XXL aldık, tam oldu."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "W6734AZBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fıt 3'lü Boxer",
+      "kisa_aciklama": "Modern ve dengeli bir silüet sunan Regular Fit kesimiyle üstün konforu şıklıkla birleştirir. 3'lü paket avantajıyla sunulan bu set, nefes…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-3lu-boxer-3375276",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/W6734AZ_26SP_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W6734AZ_26SP_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W6734AZ_26SP_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W6734AZ_26SP_BK81_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "ic_giyim_kategori": "Boxer",
+        "cinsiyet": "Erkek",
+        "takim_icerigi": "3'lü",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Modern ve dengeli bir silüet sunan Regular Fit kesimiyle üstün konforu şıklıkla birleştirir. 3'lü paket avantajıyla sunulan bu set, nefes…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47247,
+          "Product Option Code": "W6734AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/W6734AZ_24SM_BK81_01_01.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/fr-ma/regular-fit-3lu-boxer-3375276",
+          "Model Page URL": "https://www.defacto.com/fr-ma/regular-fit-3lu-boxer-3375276"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/W6734AZ_24SM_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:55:24+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

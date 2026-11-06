@@ -1,0 +1,57 @@
+{
+  "model_kodu": "D0807A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D0807A5BN564",
+      "renk_kodu": "BN564",
+      "renk_adi": "LT.BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "9-12 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6127,
+          "Product Option Code": "D0807A5.BN564",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "9-12 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D0807A5_24AU_BN564_01_01.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D0807A5_24AU_BN564_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

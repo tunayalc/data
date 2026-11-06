@@ -1,0 +1,89 @@
+{
+  "model_kodu": "H6611AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H6611AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Altın Rengi 3'lü Saç Tokası",
+      "kisa_aciklama": "Lotus Metal 3'lü saç aksesuarı, çok renkli ve kadınlar için tasarlanmıştır. Yaz mevsimine özel temel bir çeşittir. Çekici tasarımıyla göz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-altin-rengi-3lu-sac-tokasi-3453422",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6611AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6611AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6611AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 90%,Demir 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Lotus Metal 3'lü saç aksesuarı, çok renkli ve kadınlar için tasarlanmıştır. Yaz mevsimine özel temel bir çeşittir. Çekici tasarımıyla göz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 179.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31865,
+          "Product Option Code": "H6611AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H6611AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com/en-ma/kadin-altin-rengi-3lu-sac-tokasi-3453422",
+          "Model Page URL": "https://www.defacto.com/en-ma/kadin-altin-rengi-3lu-sac-tokasi-3453422"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H6611AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:31:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

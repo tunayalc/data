@@ -1,0 +1,89 @@
+{
+  "model_kodu": "I1387AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1387AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın 3'lü Geometrik Dokulu Küpe Seti",
+      "kisa_aciklama": "Altın rengi metalik küpe seti. Üç farklı boy ve dokuda tasarıma sahiptir. Geometrik formlar ve kabartmalı yüzey detayları mevcuttur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-3lu-geometrik-dokulu-kupe-seti-3494065",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1387AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1387AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1387AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "IN",
+        "takim_icerigi": "3'lü",
+        "taki_tipi": "Küpe",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Altın rengi metalik küpe seti. Üç farklı boy ve dokuda tasarıma sahiptir. Geometrik formlar ve kabartmalı yüzey detayları mevcuttur."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38975,
+          "Product Option Code": "I1387AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1387AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-3lu-geometrik-dokulu-kupe-seti-3494065",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-3lu-geometrik-dokulu-kupe-seti-3494065"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1387AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:43:05+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

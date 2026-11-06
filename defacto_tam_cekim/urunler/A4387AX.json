@@ -1,0 +1,79 @@
+{
+  "model_kodu": "A4387AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A4387AXBG766",
+      "renk_kodu": "BG766",
+      "renk_adi": "STONE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 428,
+          "Product Option Code": "A4387AX.BG766",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/A4387AX_24AU_BG766_01_04.jpg",
+          "FabricDetail": "3 Thread Diagonal",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 429,
+          "Product Option Code": "A4387AX.BG766",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/A4387AX_24AU_BG766_01_04.jpg",
+          "FabricDetail": "3 Thread Diagonal",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/A4387AX_24AU_BG766_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

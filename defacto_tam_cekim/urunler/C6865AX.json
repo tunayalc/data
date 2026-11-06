@@ -1,0 +1,133 @@
+{
+  "model_kodu": "C6865AX",
+  "urun_grubu": "Kadın Atkı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 45,
+    "yorum_sayisi": 45,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 4.8
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-23",
+        "puan": 5.0,
+        "metin": "@Harika! Defacto kalitesiyle yumuşacık ve sımsıcak, kesinlikle tavsiye ederim."
+      },
+      {
+        "tarih": "2024-12-18",
+        "puan": 5.0,
+        "metin": "@Yumuşacık ve birkaç kez sarınabilir."
+      },
+      {
+        "tarih": "2024-12-17",
+        "puan": 5.0,
+        "metin": "@Harika, pamuk gibi, çok kaliteli."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C6865AXTR19",
+      "renk_kodu": "TR19",
+      "renk_adi": "Mint",
+      "renk_hex": "#9BECCF",
+      "urun_adi": "Kadın Kareli Atkı",
+      "kisa_aciklama": "Kadın Kareli Atkı, klasik desenleri ve yumuşak dokusuyla kış kombinlerine şıklık katar. Soğuk havalarda sıcak tutarken stilinize zarif bir dokunuş…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-kareli-atki-3513184",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C6865AX_26WN_TR19_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6865AX_26WN_TR19_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6865AX_26WN_TR19_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "esarp_sal_olcusu": "50x180",
+        "kumas_kalinligi": "İnce"
+      },
+      "urun_hakkinda": [
+        "Kadın Kareli Atkı, klasik desenleri ve yumuşak dokusuyla kış kombinlerine şıklık katar. Soğuk havalarda sıcak tutarken stilinize zarif bir dokunuş…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4995,
+          "Product Option Code": "C6865AX.TR19",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Scarf & Set",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/C6865AX_26WN_TR19_01_01.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-kareli-atki-3513184",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-kareli-atki-3513184"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/C6865AX_26WN_TR19_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:23:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

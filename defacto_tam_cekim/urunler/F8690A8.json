@@ -1,0 +1,115 @@
+{
+  "model_kodu": "F8690A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 11,
+    "yorum_sayisi": 11,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-24",
+        "puan": 5.0,
+        "metin": "@Şahaneler, aşırı güzeller, üstelik yumuşacıklar."
+      },
+      {
+        "tarih": "2026-01-10",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet güzel ürünler."
+      },
+      {
+        "tarih": "2026-01-10",
+        "puan": 5.0,
+        "metin": "@Harika! Aşırı güzel buldum. Çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8690A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kız Çocuk 7'li Pamuklu Patik Çorap",
+      "kisa_aciklama": "Haftanın her günü için bir çift! Kız çocukları için hazırlanan 7’li pamuklu patik çorap seti, yumuşak dokusu ve nefes alabilen…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kiz-cocuk-7li-pamuklu-patik-corap-3339063",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8690A8_NS_KR1_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8690A8_NS_KR1_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8690A8_NS_KR1_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8690A8_NS_KR1_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "35 - 39"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 79%,Poliamid 19%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "urun_tipi": "Kısa Çorap",
+        "cinsiyet": "Kız Çocuk",
+        "takim_icerigi": "7'li",
+        "corap_tipi": "Patik Çorap"
+      },
+      "urun_hakkinda": [
+        "Haftanın her günü için bir çift! Kız çocukları için hazırlanan 7’li pamuklu patik çorap seti, yumuşak dokusu ve nefes alabilen…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 139.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16514,
+          "Product Option Code": "F8690A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "35 - 39",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F8690A8_NS_KR1_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kiz-cocuk-7li-pamuklu-patik-corap-3339063",
+          "Model Page URL": "https://www.defacto.com.tr/kiz-cocuk-7li-pamuklu-patik-corap-3339063"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F8690A8_NS_KR1_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:52:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "model_kodu": "E4670A5",
+  "urun_grubu": "Kız Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 13,
+    "yorum_sayisi": 13,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-10",
+        "puan": 5.0,
+        "metin": "@Harika! Aşırı güzel, çok hoşuma gitti."
+      },
+      {
+        "tarih": "2025-12-15",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok güzeller, Defacto kalitesi de ortada."
+      },
+      {
+        "tarih": "2025-11-21",
+        "puan": 5.0,
+        "metin": "@Çok kaliteli ve fiyatı da uygun. Harika!."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E4670A5WT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Kız Bebek Fırfırlı 3'lü Pamuklu Uzun Çorap",
+      "kisa_aciklama": "Fırfır detaylarıyla sevimlilik katan bu 3’lü pamuklu uzun çorap seti, kız bebeklerin ayaklarını yumuşak ve nefes alabilir pamuklu kumaşla sarar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kiz-bebek-firfirli-3lu-pamuklu-uzun-corap-3258603",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E4670A5_NS_WT1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4670A5_NS_WT1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "12-24 Ay",
+          "2-3 Y",
+          "3-4 Y"
+        ],
+        "excel": [
+          "12-24 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliamid 21%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Bebek",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "3'lü",
+        "corap_tipi": "Uzun Çorap"
+      },
+      "urun_hakkinda": [
+        "Fırfır detaylarıyla sevimlilik katan bu 3’lü pamuklu uzun çorap seti, kız bebeklerin ayaklarını yumuşak ve nefes alabilir pamuklu kumaşla sarar.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11320,
+          "Product Option Code": "E4670A5.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "12-24 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E4670A5_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/en-iq/kiz-bebek-firfirli-3lu-pamuklu-uzun-corap-3258603",
+          "Model Page URL": "https://www.defacto.com/en-iq/kiz-bebek-firfirli-3lu-pamuklu-uzun-corap-3258603"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/E4670A5_NS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:44:22+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

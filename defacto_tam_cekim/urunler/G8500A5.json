@@ -1,0 +1,57 @@
+{
+  "model_kodu": "G8500A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8500A5BE174",
+      "renk_kodu": "BE174",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3/4 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22316,
+          "Product Option Code": "G8500A5.BE174",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8500A5_26SP_BE174_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8500A5_26SP_BE174_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

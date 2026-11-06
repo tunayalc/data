@@ -1,0 +1,135 @@
+{
+  "model_kodu": "G1578AX",
+  "urun_grubu": "Kadın Şal Eşarp",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-12",
+        "puan": 4.0,
+        "metin": "@Fotoğraftaki kadar canlı bir rengi yok ama güzel, boyutu da fena değil."
+      },
+      {
+        "tarih": "2026-10-26",
+        "puan": 5.0,
+        "metin": "@Çok beğendim renkleri canlı sadece ufak küçük defosu vardı ama sevdim yinede:)"
+      },
+      {
+        "tarih": "2026-04-22",
+        "puan": 5.0,
+        "metin": "@Teşekkür ederim çok güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G1578AXBE2",
+      "renk_kodu": "BE2",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Kadın Desenli Fular",
+      "kisa_aciklama": "Kadın desenli fular, şık ve dikkat çekici tasarımıyla her kombine zarif bir dokunuş ekler. Yumuşak kumaşı sayesinde boyunda, saçta veya…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-desenli-fular-3349185",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G1578AX_25WN_BE2_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1578AX_25WN_BE2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1578AX_25WN_BE2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1578AX_25WN_BE2_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "esarp_sal_olcusu": "50x50"
+      },
+      "urun_hakkinda": [
+        "Kadın desenli fular, şık ve dikkat çekici tasarımıyla her kombine zarif bir dokunuş ekler. Yumuşak kumaşı sayesinde boyunda, saçta veya…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18017,
+          "Product Option Code": "G1578AX.BE2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Shawl",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G1578AX_25WN_BE2_01_02.jpg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-desenli-fular-3349185",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-desenli-fular-3349185"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G1578AX_25WN_BE2_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:59:23+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

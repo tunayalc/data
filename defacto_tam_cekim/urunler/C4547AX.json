@@ -1,0 +1,101 @@
+{
+  "model_kodu": "C4547AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4547AXAR61",
+      "renk_kodu": "AR61",
+      "renk_adi": "ANTHRA MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "38",
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4299,
+          "Product Option Code": "C4547AX.AR61",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "36",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4547AX_24SM_AR61_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 6,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 4300,
+          "Product Option Code": "C4547AX.AR61",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "38",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4547AX_24SM_AR61_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 4301,
+          "Product Option Code": "C4547AX.AR61",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "44",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4547AX_24SM_AR61_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C4547AX_24SM_AR61_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

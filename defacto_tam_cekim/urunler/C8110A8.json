@@ -1,0 +1,822 @@
+{
+  "model_kodu": "C8110A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 341,
+    "yorum_sayisi": 341,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.6,
+      "tam_oldu": 66.4,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-09-03",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-08-20",
+        "puan": 4.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-01-07",
+        "puan": 5.0,
+        "metin": "@ürün güzel beğendik"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8110A8BG700",
+      "renk_kodu": "BG700",
+      "renk_adi": "Kum",
+      "renk_hex": "#C49C7A",
+      "urun_adi": "Kapüşonlu Kanguru Cepli Fermuarlı Basic Kalın Sweat Hırka Kız Çocuk",
+      "kisa_aciklama": "Kapüşonlu Kanguru Cepli Fermuarlı Basic Kalın Sweat Hırka Kız Çocuk",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-fermuarli-basic-kalin-sweat-hirka-kiz-cocuk-3489691",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BG700_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BG700_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BG700_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BG700_04_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "5/6 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kumas": "Kalın Sweatshirt Kumaşı",
+        "cinsiyet": "Kız Çocuk",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Kapüşonlu",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Kapüşonlu Kanguru Cepli Fermuarlı Basic Kalın Sweat Hırka Kız Çocuk"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 489.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5387,
+          "Product Option Code": "C8110A8.BG700",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_BG700_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-fermuarli-basic-kalin-sweat-hirka-kiz-cocuk-3489691",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        },
+        {
+          "excel_satiri": 5388,
+          "Product Option Code": "C8110A8.BG700",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_BG700_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-fermuarli-basic-kalin-sweat-hirka-kiz-cocuk-3489691",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        },
+        {
+          "excel_satiri": 5389,
+          "Product Option Code": "C8110A8.BG700",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_BG700_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-fermuarli-basic-kalin-sweat-hirka-kiz-cocuk-3489691",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        },
+        {
+          "excel_satiri": 5390,
+          "Product Option Code": "C8110A8.BG700",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_BG700_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-fermuarli-basic-kalin-sweat-hirka-kiz-cocuk-3489691",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_BG700_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C8110A8BK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Pamuklu Regular Fıt Uzun Kollu Basic Kapüşonlu Kanguru Cepli Kalın Fermuarlı Sweat Hırka Kız Çocuk",
+      "kisa_aciklama": "Kapüşonlu kız çocuk sweat hırka. Siyah kapüşonlu, uzun kollu hırka. Ön fermuar kapamalı ve kanguru cepli detayı mevcuttur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-basic-kapusonlu-kanguru-cepli-kalin-fermuarli-sweat-hirka-kiz-cocuk-3436235",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "5/6 Y",
+          "7/8 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Pamuk 72%,Poliester 28%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "yaka": "Kapüşonlu",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kız Çocuk",
+        "kalip": "Regular Fıt",
+        "kumas": "Kalın Sweatshirt Kumaşı",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Kapüşonlu kız çocuk sweat hırka. Siyah kapüşonlu, uzun kollu hırka. Ön fermuar kapamalı ve kanguru cepli detayı mevcuttur."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburda Düşük Sıcaklıkta Kurutulabilir",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/TUMBLEDRYLOWTEMP_KQMMDZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 629.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5391,
+          "Product Option Code": "C8110A8.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-basic-kapusonlu-kanguru-cepli-kalin-fermuarli-sweat-hirka-kiz-cocuk-3436235",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        },
+        {
+          "excel_satiri": 5392,
+          "Product Option Code": "C8110A8.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-basic-kapusonlu-kanguru-cepli-kalin-fermuarli-sweat-hirka-kiz-cocuk-3436235",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        },
+        {
+          "excel_satiri": 5393,
+          "Product Option Code": "C8110A8.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-basic-kapusonlu-kanguru-cepli-kalin-fermuarli-sweat-hirka-kiz-cocuk-3436235",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C8110A8GR400",
+      "renk_kodu": "GR400",
+      "renk_adi": "Optik Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Kapüşonlu Kanguru Cepli Kalın Basic Fermuarlı Sweat Hırka Kız Çocuk",
+      "kisa_aciklama": "Kapüşonlu kız çocuk sweatshirt hırka. Kalın melanj görünümlü sweatshirt kumaşından üretilmiş kapüşonlu hırka. Uzun kollu ve ribanalı manşetli. Önü fermuar…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-kalin-basic-fermuarli-sweat-hirka-kiz-cocuk-3436236",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_GR400_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_GR400_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_GR400_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_GR400_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_GR400_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_GR400_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_GR400_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "5/6 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,35cm",
+        "ana_kumas_icerigi": "Pamuk 72%,Poliester 28%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kol_boyu": "Uzun Kollu",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "yaka": "Kapüşonlu",
+        "kumas": "Kalın Sweatshirt Kumaşı",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Kapüşonlu kız çocuk sweatshirt hırka. Kalın melanj görünümlü sweatshirt kumaşından üretilmiş kapüşonlu hırka. Uzun kollu ve ribanalı manşetli. Önü fermuar…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburda Düşük Sıcaklıkta Kurutulabilir",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/TUMBLEDRYLOWTEMP_KQMMDZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 489.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5394,
+          "Product Option Code": "C8110A8.GR400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "OPTIC LT.GREY MELANGE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_GR400_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-kalin-basic-fermuarli-sweat-hirka-kiz-cocuk-3436236",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        },
+        {
+          "excel_satiri": 5395,
+          "Product Option Code": "C8110A8.GR400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "OPTIC LT.GREY MELANGE",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_GR400_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-kalin-basic-fermuarli-sweat-hirka-kiz-cocuk-3436236",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        },
+        {
+          "excel_satiri": 5396,
+          "Product Option Code": "C8110A8.GR400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "OPTIC LT.GREY MELANGE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_GR400_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-kalin-basic-fermuarli-sweat-hirka-kiz-cocuk-3436236",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        },
+        {
+          "excel_satiri": 5397,
+          "Product Option Code": "C8110A8.GR400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "OPTIC LT.GREY MELANGE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_GR400_01_02.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/kapusonlu-kanguru-cepli-kalin-basic-fermuarli-sweat-hirka-kiz-cocuk-3436236",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_GR400_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C8110A8NV241",
+      "renk_kodu": "NV241",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Fermuarlı Kanguru Cepli Kapüşonlu Basic Sweatshirt Hırka Kız Çocuk",
+      "kisa_aciklama": "Kapüşonlu kız çocuk sweatshirt. Lacivert renkli, uzun kollu, kapüşonlu, önü fermuar kapamalı hırka. Kanguru cepli, manşetleri ve etek ucu ribana…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fermuarli-kanguru-cepli-kapusonlu-basic-sweatshirt-hirka-kiz-cocuk-3436237",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_NV241_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_NV241_02_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_NV241_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_NV241_04_05.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Pamuk 72%,Poliester 28%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "kumas": "Kalın Sweatshirt Kumaşı",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Kız Çocuk",
+        "yaka": "Kapüşonlu"
+      },
+      "urun_hakkinda": [
+        "Kapüşonlu kız çocuk sweatshirt. Lacivert renkli, uzun kollu, kapüşonlu, önü fermuar kapamalı hırka. Kanguru cepli, manşetleri ve etek ucu ribana…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburda Düşük Sıcaklıkta Kurutulabilir",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/TUMBLEDRYLOWTEMP_KQMMDZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 489.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5398,
+          "Product Option Code": "C8110A8.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_NV241_01_04.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/fermuarli-kanguru-cepli-kapusonlu-basic-sweatshirt-hirka-kiz-cocuk-3436237",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        },
+        {
+          "excel_satiri": 5399,
+          "Product Option Code": "C8110A8.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_NV241_01_04.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/fermuarli-kanguru-cepli-kapusonlu-basic-sweatshirt-hirka-kiz-cocuk-3436237",
+          "Model Page URL": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C8110A8_26AU_NV241_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C8110A8AR227",
+      "renk_kodu": "AR227",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Antrasit Basic Düz Kapüşonlu Fermuarlı Okul Hırkası Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Basic Kapüşonlu Hırka: Şık ve rahat, her mevsim kullanıma uygun. Yüksek kaliteli malzemeden üretilmiş, dayanıklı ve şık bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/antrasit-basic-duz-kapusonlu-fermuarli-okul-hirkasi-kiz-cocuk-3126466",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8110A8_24AU_AR227_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_24AU_AR227_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_24AU_AR227_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_24AU_AR227_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_24AU_AR227_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_24AU_AR227_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_24AU_AR227_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_24AU_AR227_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,36cm",
+        "ana_kumas_icerigi": "Pamuk 62%,Poliester 38%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "yaka": "Kapüşonlu",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Basic Kapüşonlu Hırka: Şık ve rahat, her mevsim kullanıma uygun. Yüksek kaliteli malzemeden üretilmiş, dayanıklı ve şık bir…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 699.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C8110A8BR204",
+      "renk_kodu": "BR204",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Fermuarlı Kanguru Cepli Kapüşonlu Basic Sweatshirt Hırka Kız Çocuk",
+      "kisa_aciklama": "Kapüşonlu kız çocuk sweatshirt. , uzun kollu, kapüşonlu, önü fermuar kapamalı hırka. Kanguru cepli, manşetleri ve etek ucu ribana detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fermuarli-kanguru-cepli-kapusonlu-basic-sweatshirt-hirka-kiz-cocuk-3510069",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BR204_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_26AU_BR204_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 57%,Poliester 43%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "kumas": "Kalın Sweatshirt Kumaşı",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kız Çocuk",
+        "yaka": "Kapüşonlu"
+      },
+      "urun_hakkinda": [
+        "Kapüşonlu kız çocuk sweatshirt. , uzun kollu, kapüşonlu, önü fermuar kapamalı hırka. Kanguru cepli, manşetleri ve etek ucu ribana detaylı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 489.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C8110A8ER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Uzun Kollu Basic Kapüşonlu Pamuklu Fermuarlı Sweatshirt Kız Çocuk",
+      "kisa_aciklama": "Kız çocuk basic düz kapüşonlu fermuarlı sweatshirt, sade tasarımı ve yumuşak kumaşıyla günlük rahatlık sunar. Kapüşon detayı sayesinde ekstra koruma…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-uzun-kollu-basic-kapusonlu-pamuklu-fermuarli-sweatshirt-kiz-cocuk-3278983",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8110A8_25AU_ER105_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_25AU_ER105_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_25AU_ER105_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_25AU_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_25AU_ER105_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8110A8_25AU_ER105_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "12/13 Yaş (158cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,27cm",
+        "ana_kumas_icerigi": "Pamuk 67%,Poliester 33%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "yaka": "Kapüşonlu",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "ozel_gunler": "Okula Dönüş",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Kız çocuk basic düz kapüşonlu fermuarlı sweatshirt, sade tasarımı ve yumuşak kumaşıyla günlük rahatlık sunar. Kapüşon detayı sayesinde ekstra koruma…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 699.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:24:49+03:00",
+    "denenen_sayfa": 7,
+    "dogrulanan_renk": 7
+  }
+}

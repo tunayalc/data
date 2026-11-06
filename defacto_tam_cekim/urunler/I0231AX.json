@@ -1,0 +1,109 @@
+{
+  "model_kodu": "I0231AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0231AXGR105",
+      "renk_kodu": "GR105",
+      "renk_adi": "GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37571,
+          "Product Option Code": "I0231AX.GR105",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0231AX_NS_GR105_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 6,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-50-ml-urban-amber-parfum-3567774",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-50-ml-marine-spice-parfum-3567772"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0231AX_NS_GR105_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0231AXNV1",
+      "renk_kodu": "NV1",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37572,
+          "Product Option Code": "I0231AX.NV1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0231AX_NS_NV1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-50-ml-marine-spice-parfum-3567772",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-50-ml-marine-spice-parfum-3567772"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0231AX_NS_NV1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:40:41+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-50-ml-urban-amber-parfum-3567774",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/erkek-50-ml-marine-spice-parfum-3567772",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

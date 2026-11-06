@@ -1,0 +1,94 @@
+{
+  "model_kodu": "H7710AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-11-04",
+        "puan": 5.0,
+        "metin": "@Saçta çok şık duruyor beğendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7710AXSR4",
+      "renk_kodu": "SR4",
+      "renk_adi": "Gümüş",
+      "renk_hex": null,
+      "urun_adi": "Kadın Parlak Taşlı Gümüş Renkli Saç Aksesuarı",
+      "kisa_aciklama": "Gümüş renkli, parlak taş detaylı saç aksesuarı. Çoklu zincir tasarımlı olup ortasında damla formunda büyük bir taş bulunmaktadır. Ayarlanabilir kanca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-parlak-tasli-gumus-renkli-sac-aksesuari-3460607",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7710AX_NS_SR4_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7710AX_NS_SR4_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7710AX_NS_SR4_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 40%,Demir 10%,Pirinç 50%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Gümüş renkli, parlak taş detaylı saç aksesuarı. Çoklu zincir tasarımlı olup ortasında damla formunda büyük bir taş bulunmaktadır. Ayarlanabilir kanca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33507,
+          "Product Option Code": "H7710AX.SR4",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "SILVER",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H7710AX_NS_SR4_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C0C0C0",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-parlak-tasli-gumus-renkli-sac-aksesuari-3460607",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-parlak-tasli-gumus-renkli-sac-aksesuari-3460607"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H7710AX_NS_SR4_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:40:33+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

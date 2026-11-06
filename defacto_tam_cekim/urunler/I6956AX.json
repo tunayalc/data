@@ -1,0 +1,89 @@
+{
+  "model_kodu": "I6956AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I6956AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "40 Denye Parlak Kadın Külotlu Çorap",
+      "kisa_aciklama": "40 denye, parlak görünümlü, elastik yapılı külotlu çorap.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/40-denye-parlak-kadin-kulotlu-corap-3526429",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6956AX_NS_BK23_01_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S/M",
+          "L/XL"
+        ],
+        "excel": [
+          "L - XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 94%,Elastan 6%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "corap_tipi": "Külotlu Çorap"
+      },
+      "urun_hakkinda": [
+        "40 denye, parlak görünümlü, elastik yapılı külotlu çorap.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 129.99,
+        "sepette_fiyat": 103.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44279,
+          "Product Option Code": "I6956AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L - XL",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I6956AX_NS_BK23_01_01.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 6,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/40-denye-parlak-kadin-kulotlu-corap-3526429",
+          "Model Page URL": "https://www.defacto.com.tr/40-denye-parlak-kadin-kulotlu-corap-3526429"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I6956AX_NS_BK23_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:07:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "model_kodu": "C4125AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 62,
+    "yorum_sayisi": 62,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 29.4,
+      "tam_oldu": 70.6,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-03",
+        "puan": 5.0,
+        "metin": "@Çok güzel ve şık."
+      },
+      {
+        "tarih": "2025-11-25",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, kalitesi de şahane. Kalıbı da şahane. Kesinlikle tavsiye ederim."
+      },
+      {
+        "tarih": "2025-11-24",
+        "puan": 4.0,
+        "metin": "@Rengi çok güzel, bir beden küçük alın."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4125AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Ultra Yumuşak Modern Fit Polo Yaka Dokulu Penye Kısa Kollu Gömlek",
+      "kisa_aciklama": "Ultra Yumuşak Şık ve modern tasarımıyla erkekler için siyah kısa kollu örme gömlek. Yaz mevsimine uygun penye kumaştan üretilmiş, polo…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3375793",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "yaka": "Resort Yaka",
+        "kalip": "Modern Fıt",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak Şık ve modern tasarımıyla erkekler için siyah kısa kollu örme gömlek. Yaz mevsimine uygun penye kumaştan üretilmiş, polo…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4091,
+          "Product Option Code": "C4125AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3375793",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        },
+        {
+          "excel_satiri": 4092,
+          "Product Option Code": "C4125AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3375793",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4125AXBN300",
+      "renk_kodu": "BN300",
+      "renk_adi": "Vizon",
+      "renk_hex": "#968073",
+      "urun_adi": "Kırışmaz Modern Fit Polo Yaka Dokulu Penye Kısa Kollu Gömlek",
+      "kisa_aciklama": "Kırışmaz Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3212696",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BN300_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BN300_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BN300_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BN300_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BN300_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BN300_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 93/72/92",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Resort Yaka",
+        "cinsiyet": "Erkek",
+        "kalip": "Modern Fıt",
+        "urun_tipi": "Kısa Kollu Gömlek"
+      },
+      "urun_hakkinda": [
+        "Kırışmaz Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4093,
+          "Product Option Code": "C4125AX.BN300",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BN300_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3212696",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        },
+        {
+          "excel_satiri": 4094,
+          "Product Option Code": "C4125AX.BN300",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "XL",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BN300_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3212696",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BN300_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4125AXBR134",
+      "renk_kodu": "BR134",
+      "renk_adi": "Açık Gülkurusu",
+      "renk_hex": "#B85F83",
+      "urun_adi": "Kırışmaz Modern Fit Polo Yaka Dokulu Penye Kısa Kollu Gömlek",
+      "kisa_aciklama": "Kırışmaz Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3346865",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BR134_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BR134_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BR134_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BR134_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BR134_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_BR134_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Modern Fıt",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "cinsiyet": "Erkek",
+        "yaka": "Resort Yaka"
+      },
+      "urun_hakkinda": [
+        "Kırışmaz Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4095,
+          "Product Option Code": "C4125AX.BR134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.ROSE",
+          "SizeDefinition": "L",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BR134_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B85F83",
+          "Product Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3346865",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        },
+        {
+          "excel_satiri": 4096,
+          "Product Option Code": "C4125AX.BR134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.ROSE",
+          "SizeDefinition": "M",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BR134_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B85F83",
+          "Product Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3346865",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        },
+        {
+          "excel_satiri": 4097,
+          "Product Option Code": "C4125AX.BR134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.ROSE",
+          "SizeDefinition": "XL",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BR134_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B85F83",
+          "Product Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3346865",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_BR134_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4125AXGN1249",
+      "renk_kodu": "GN1249",
+      "renk_adi": "Mat Yeşil",
+      "renk_hex": "#48A14D",
+      "urun_adi": "Kırışmaz Modern Fit Polo Yaka Dokulu Penye Kısa Kollu Gömlek",
+      "kisa_aciklama": "Kırışmaz Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3346866",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_GN1249_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_GN1249_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_GN1249_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_GN1249_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_GN1249_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_GN1249_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "kalip": "Modern Fıt",
+        "cinsiyet": "Erkek",
+        "yaka": "Resort Yaka"
+      },
+      "urun_hakkinda": [
+        "Kırışmaz Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4098,
+          "Product Option Code": "C4125AX.GN1249",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "DULL GREEN",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_GN1249_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#48A14D",
+          "Product Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3346866",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_GN1249_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4125AXKH439",
+      "renk_kodu": "KH439",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "Kırışmaz Modern Fit Polo Yaka Dokulu Penye Kısa Kollu Gömlek",
+      "kisa_aciklama": "Kırışmaz Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_KH439_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_KH439_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_KH439_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_KH439_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_KH439_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_25SM_KH439_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 93/72/92",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Resort Yaka",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "kalip": "Modern Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Kırışmaz Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4099,
+          "Product Option Code": "C4125AX.KH439",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "L",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_KH439_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        },
+        {
+          "excel_satiri": 4100,
+          "Product Option Code": "C4125AX.KH439",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "M",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_KH439_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        },
+        {
+          "excel_satiri": 4101,
+          "Product Option Code": "C4125AX.KH439",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_KH439_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_KH439_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4125AXWT16",
+      "renk_kodu": "WT16",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Ultra Yumuşak Modern Fit Polo Yaka Dokulu Penye Kısa Kollu Gömlek",
+      "kisa_aciklama": "Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern fit…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3375792",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_WT16_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_WT16_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_WT16_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_WT16_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4125AX_26SM_WT16_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Resort Yaka",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "kalip": "Modern Fıt"
+      },
+      "urun_hakkinda": [
+        "Modern Fit Polo Yaka Penye Kısa Kollu Gömlek, şıklığı ve rahatlığı bir arada sunar. Yumuşak penye kumaşı ve modern fit…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4102,
+          "Product Option Code": "C4125AX.WT16",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "L",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_WT16_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3375792",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        },
+        {
+          "excel_satiri": 4103,
+          "Product Option Code": "C4125AX.WT16",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "M",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_WT16_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3375792",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        },
+        {
+          "excel_satiri": 4104,
+          "Product Option Code": "C4125AX.WT16",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_WT16_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3375792",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        },
+        {
+          "excel_satiri": 4105,
+          "Product Option Code": "C4125AX.WT16",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C4125AX_26SM_WT16_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3375792",
+          "Model Page URL": "https://www.defacto.com.tr/kirismaz-modern-fit-polo-yaka-dokulu-penye-kisa-kollu-gomlek-3206939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C4125AX_25SM_WT16_01_01.jpg",
+        "https://image.defacto.com.tr/product/26SM/C4125AX_26SM_WT16_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:22:29+03:00",
+    "denenen_sayfa": 6,
+    "dogrulanan_renk": 6
+  }
+}

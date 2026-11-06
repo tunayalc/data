@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G8499A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8499A8PN344",
+      "renk_kodu": "PN344",
+      "renk_adi": "LT.PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "4/5 Y",
+          "5/6 Y",
+          "7/8 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22313,
+          "Product Option Code": "G8499A8.PN344",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8499A8_26SP_PN344_01_01.jpg",
+          "FabricDetail": "POINTELLE",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-100-pamuk-2li-atlet-kiz-cocuk-3479873",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-100-pamuk-2li-atlet-kiz-cocuk-3479873"
+        },
+        {
+          "excel_satiri": 22314,
+          "Product Option Code": "G8499A8.PN344",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8499A8_26SP_PN344_01_01.jpg",
+          "FabricDetail": "POINTELLE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-100-pamuk-2li-atlet-kiz-cocuk-3479873",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-100-pamuk-2li-atlet-kiz-cocuk-3479873"
+        },
+        {
+          "excel_satiri": 22315,
+          "Product Option Code": "G8499A8.PN344",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8499A8_26SP_PN344_01_01.jpg",
+          "FabricDetail": "POINTELLE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-100-pamuk-2li-atlet-kiz-cocuk-3479873",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-100-pamuk-2li-atlet-kiz-cocuk-3479873"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8499A8_26SP_PN344_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:11:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-100-pamuk-2li-atlet-kiz-cocuk-3479873",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

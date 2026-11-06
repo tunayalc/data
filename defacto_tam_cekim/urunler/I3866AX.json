@@ -1,0 +1,130 @@
+{
+  "model_kodu": "I3866AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3866AXBN340",
+      "renk_kodu": "BN340",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42180,
+          "Product Option Code": "I3866AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "36",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3866AX_26AU_BN340_01_02.jpg",
+          "FabricDetail": "TWEED",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/dik-yaka-dugmeli-tweed-ceket-3585101",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/dik-yaka-dugmeli-tweed-ceket-3585101"
+        },
+        {
+          "excel_satiri": 42181,
+          "Product Option Code": "I3866AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "38",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3866AX_26AU_BN340_01_02.jpg",
+          "FabricDetail": "TWEED",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/dik-yaka-dugmeli-tweed-ceket-3585101",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/dik-yaka-dugmeli-tweed-ceket-3585101"
+        },
+        {
+          "excel_satiri": 42182,
+          "Product Option Code": "I3866AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "40",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3866AX_26AU_BN340_01_02.jpg",
+          "FabricDetail": "TWEED",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/dik-yaka-dugmeli-tweed-ceket-3585101",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/dik-yaka-dugmeli-tweed-ceket-3585101"
+        },
+        {
+          "excel_satiri": 42183,
+          "Product Option Code": "I3866AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "42",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3866AX_26AU_BN340_01_02.jpg",
+          "FabricDetail": "TWEED",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/dik-yaka-dugmeli-tweed-ceket-3585101",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/dik-yaka-dugmeli-tweed-ceket-3585101"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I3866AX_26AU_BN340_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:48:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/dik-yaka-dugmeli-tweed-ceket-3585101",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

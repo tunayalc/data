@@ -1,0 +1,131 @@
+{
+  "model_kodu": "D6296AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D6296AXBG138",
+      "renk_kodu": "BG138",
+      "renk_adi": "VISON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8254,
+          "Product Option Code": "D6296AX.BG138",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D6296AX_24AU_BG138_01_03.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com/basic-burumcuk-onden-baglamali-hirka-3196541",
+          "Model Page URL": "https://www.defacto.com/basic-burumcuk-onden-baglamali-hirka-3196541"
+        },
+        {
+          "excel_satiri": 8255,
+          "Product Option Code": "D6296AX.BG138",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D6296AX_24AU_BG138_01_03.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com/basic-burumcuk-onden-baglamali-hirka-3196541",
+          "Model Page URL": "https://www.defacto.com/basic-burumcuk-onden-baglamali-hirka-3196541"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D6296AX_24AU_BG138_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D6296AXBR115",
+      "renk_kodu": "BR115",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8256,
+          "Product Option Code": "D6296AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D6296AX_24AU_BR115_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/basic-burumcuk-onden-baglamali-hirka-3196542",
+          "Model Page URL": "https://www.defacto.com/basic-burumcuk-onden-baglamali-hirka-3196541"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D6296AX_24AU_BR115_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:36:45+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/basic-burumcuk-onden-baglamali-hirka-3196541",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/basic-burumcuk-onden-baglamali-hirka-3196542",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

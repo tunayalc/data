@@ -1,0 +1,57 @@
+{
+  "model_kodu": "D7394AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7394AXKH499",
+      "renk_kodu": "KH499",
+      "renk_adi": "LT.KHAKI",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8676,
+          "Product Option Code": "D7394AX.KH499",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "3XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7394AX_25SP_KH499_01_02.jpg",
+          "FabricDetail": "SOLID",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D7394AX_25SP_KH499_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

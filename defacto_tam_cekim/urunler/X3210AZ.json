@@ -1,0 +1,97 @@
+{
+  "model_kodu": "X3210AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "X3210AZBG700",
+      "renk_kodu": "BG700",
+      "renk_adi": "SAND",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "32"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47500,
+          "Product Option Code": "X3210AZ.BG700",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "32",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/X3210AZ_22SM_BG700_01_02.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/X3210AZ_22SM_BG700_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "X3210AZGN1102",
+      "renk_kodu": "GN1102",
+      "renk_adi": "LT.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47501,
+          "Product Option Code": "X3210AZ.GN1102",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "34",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/X3210AZ_23HS_GN1102_01_01.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/X3210AZ_23HS_GN1102_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

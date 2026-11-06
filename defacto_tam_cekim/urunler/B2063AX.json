@@ -1,0 +1,57 @@
+{
+  "model_kodu": "B2063AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B2063AXBR237",
+      "renk_kodu": "BR237",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1278,
+          "Product Option Code": "B2063AX.BR237",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23AU/B2063AX_23AU_BR237_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23AU/B2063AX_23AU_BR237_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

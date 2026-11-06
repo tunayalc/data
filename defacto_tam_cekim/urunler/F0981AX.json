@@ -1,0 +1,301 @@
+{
+  "model_kodu": "F0981AX",
+  "urun_grubu": "Kadın Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-08",
+        "puan": 3.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-12-25",
+        "puan": 1.0,
+        "metin": "@Pantolon çok uzun kalite çok kötüydü iadeye gönderdim"
+      },
+      {
+        "tarih": "2026-03-02",
+        "puan": 5.0,
+        "metin": "@Urun rahat, esortman tarzi gibi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0981AXBG583",
+      "renk_kodu": "BG583",
+      "renk_adi": "Vizon Melanj",
+      "renk_hex": "#968073",
+      "urun_adi": "Beli Lastikli Wide Leg Geniş Paça Eşofman Altı",
+      "kisa_aciklama": "Beli lastikli ve wide leg kesimiyle öne çıkan geniş paça eşofman altı, rahat yapısıyla gün boyu konfor sağlar. Modern tasarımıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-pantolon-3313893",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0981AX_25WN_BG583_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0981AX_25WN_BG583_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0981AX_25WN_BG583_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0981AX_25WN_BG583_04_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm",
+        "ana_kumas_icerigi": "Elastan 3%,Viskoz 30%,Poliester 67%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "kalip": "Wıde Leg"
+      },
+      "urun_hakkinda": [
+        "Beli lastikli ve wide leg kesimiyle öne çıkan geniş paça eşofman altı, rahat yapısıyla gün boyu konfor sağlar. Modern tasarımıyla…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13668,
+          "Product Option Code": "F0981AX.BG583",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F0981AX_25WN_BG583_01_03.jpg",
+          "FabricDetail": "CUT&SEWN",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313893",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313892"
+        },
+        {
+          "excel_satiri": 13669,
+          "Product Option Code": "F0981AX.BG583",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON MELANGE",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F0981AX_25WN_BG583_01_03.jpg",
+          "FabricDetail": "CUT&SEWN",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313893",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313892"
+        },
+        {
+          "excel_satiri": 13670,
+          "Product Option Code": "F0981AX.BG583",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON MELANGE",
+          "SizeDefinition": "XXL",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F0981AX_25WN_BG583_01_03.jpg",
+          "FabricDetail": "CUT&SEWN",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313893",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313892"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F0981AX_25WN_BG583_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F0981AXBN258",
+      "renk_kodu": "BN258",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Beli Lastikli Wide Leg Geniş Paça Eşofman Altı",
+      "kisa_aciklama": "Beli lastikli ve wide leg kesimiyle öne çıkan geniş paça eşofman altı, rahat yapısıyla gün boyu konfor sağlar. Modern tasarımıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-pantolon-3313892",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0981AX_25WN_BN258_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0981AX_25WN_BN258_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0981AX_25WN_BN258_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0981AX_25WN_BN258_04_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,77cm",
+        "ana_kumas_icerigi": "Elastan 3%,Viskoz 30%,Poliester 67%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Wıde Leg",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Beli lastikli ve wide leg kesimiyle öne çıkan geniş paça eşofman altı, rahat yapısıyla gün boyu konfor sağlar. Modern tasarımıyla…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13671,
+          "Product Option Code": "F0981AX.BN258",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F0981AX_25WN_BN258_01_03.jpg",
+          "FabricDetail": "CUT&SEWN",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313892",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313892"
+        },
+        {
+          "excel_satiri": 13672,
+          "Product Option Code": "F0981AX.BN258",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F0981AX_25WN_BN258_01_03.jpg",
+          "FabricDetail": "CUT&SEWN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313892",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3313892"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F0981AX_25WN_BN258_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:42:48+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

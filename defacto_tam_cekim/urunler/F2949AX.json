@@ -1,0 +1,122 @@
+{
+  "model_kodu": "F2949AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 80.0,
+      "buyuk_geldi": 20.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@Aldığım ürün kaliteli ve rahat, çok iyi. Beli lastikli olduğundan bir beden büyük alabilirsiniz. Kumaşı da güzel, beğendim. Herkese tavsiye…"
+      },
+      {
+        "tarih": "2026-01-09",
+        "puan": 4.0,
+        "metin": "@Harika! Yumuşacık ve giyimi de çok rahat. Kesinlikle tavsiye ederim."
+      },
+      {
+        "tarih": "2026-01-29",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F2949AXNM36",
+      "renk_kodu": "NM36",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Wide Leg Geniş Kalıp Normal Bel Geniş Paça Jean Pantolon",
+      "kisa_aciklama": "Wide Leg jean pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Hacimli geniş paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-genis-kalip-normal-bel-genis-paca-jean-pantolon-3335599",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F2949AX_25AU_NM36_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2949AX_25AU_NM36_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2949AX_25AU_NM36_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2949AX_25AU_NM36_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2949AX_25AU_NM36_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2949AX_25AU_NM36_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2949AX_25AU_NM36_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas_kalinligi": "İnce",
+        "kalip": "Wıde Leg",
+        "yikama_detayi": "Kar Yıkamalı",
+        "cinsiyet": "Erkek",
+        "paca_detayi": "Geniş Paça"
+      },
+      "urun_hakkinda": [
+        "Wide Leg jean pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Hacimli geniş paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14259,
+          "Product Option Code": "F2949AX.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "30",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F2949AX_25AU_NM36_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-kalip-normal-bel-genis-paca-jean-pantolon-3335599",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-kalip-normal-bel-genis-paca-jean-pantolon-3335599"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F2949AX_25AU_NM36_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:51:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

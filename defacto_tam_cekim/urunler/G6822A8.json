@@ -1,0 +1,154 @@
+{
+  "model_kodu": "G6822A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6822A8BK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20693,
+          "Product Option Code": "G6822A8.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6822A8_26SP_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-hirka-3442777",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-hirka-3442777"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6822A8_26SP_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G6822A8BR94",
+      "renk_kodu": "BR94",
+      "renk_adi": "ROSE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "7/8 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20694,
+          "Product Option Code": "G6822A8.BR94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6822A8_26SP_BR94_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-hirka-3442779",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-hirka-3442777"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6822A8_26SP_BR94_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G6822A8ER117",
+      "renk_kodu": "ER117",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20695,
+          "Product Option Code": "G6822A8.ER117",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6822A8_26SP_ER117_01_06.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-hirka-3442778",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-hirka-3442777"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6822A8_26SP_ER117_01_06.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:07:31+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kiz-cocuk-hirka-3442777",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/kiz-cocuk-hirka-3442779",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/kiz-cocuk-hirka-3442778",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "model_kodu": "X8287AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "X8287AZBN550",
+      "renk_kodu": "BN550",
+      "renk_adi": "LT.BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47970,
+          "Product Option Code": "X8287AZ.BN550",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/X8287AZ_24AU_BN550_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 47971,
+          "Product Option Code": "X8287AZ.BN550",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/X8287AZ_24AU_BN550_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/X8287AZ_24AU_BN550_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

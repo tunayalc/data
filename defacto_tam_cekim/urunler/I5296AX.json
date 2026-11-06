@@ -1,0 +1,130 @@
+{
+  "model_kodu": "I5296AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I5296AXNM63",
+      "renk_kodu": "NM63",
+      "renk_adi": "ICE BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "34"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43128,
+          "Product Option Code": "I5296AX.NM63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ICE BLUE",
+          "SizeDefinition": "28",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5296AX_26HS_NM63_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#C7FFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3588908",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3588908"
+        },
+        {
+          "excel_satiri": 43129,
+          "Product Option Code": "I5296AX.NM63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ICE BLUE",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5296AX_26HS_NM63_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#C7FFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3588908",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3588908"
+        },
+        {
+          "excel_satiri": 43130,
+          "Product Option Code": "I5296AX.NM63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ICE BLUE",
+          "SizeDefinition": "32",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5296AX_26HS_NM63_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#C7FFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3588908",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3588908"
+        },
+        {
+          "excel_satiri": 43131,
+          "Product Option Code": "I5296AX.NM63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ICE BLUE",
+          "SizeDefinition": "34",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5296AX_26HS_NM63_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#C7FFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3588908",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-normal-bel-genis-paca-jean-pantolon-3588908"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I5296AX_26HS_NM63_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:50:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/baggy-fit-normal-bel-genis-paca-jean-pantolon-3588908",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

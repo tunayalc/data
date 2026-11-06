@@ -1,0 +1,86 @@
+{
+  "model_kodu": "H2166A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2166A5PN171",
+      "renk_kodu": "PN171",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "2-3 Y",
+          "3-4 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25814,
+          "Product Option Code": "H2166A5.PN171",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Dress",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "2-3 Y",
+          "Fit": "DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H2166A5_26SM_PN171_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-fiyonk-detayli-elbise-kiz-bebek-3506524",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-fiyonk-detayli-elbise-kiz-bebek-3506524"
+        },
+        {
+          "excel_satiri": 25815,
+          "Product Option Code": "H2166A5.PN171",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Dress",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "3-4 Y",
+          "Fit": "DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H2166A5_26SM_PN171_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-fiyonk-detayli-elbise-kiz-bebek-3506524",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-fiyonk-detayli-elbise-kiz-bebek-3506524"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H2166A5_26SM_PN171_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:19:22+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/bisiklet-yaka-fiyonk-detayli-elbise-kiz-bebek-3506524",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

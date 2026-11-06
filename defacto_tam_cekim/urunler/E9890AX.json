@@ -1,0 +1,120 @@
+{
+  "model_kodu": "E9890AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 83.3,
+      "tam_oldu": 16.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-01-15",
+        "puan": 4.0,
+        "metin": "@Ürün fotoğraftakiyle birebir aynı ama istediğim kumaş olmadığı için iade ettim."
+      },
+      {
+        "tarih": "2026-04-01",
+        "puan": 5.0,
+        "metin": "@şık"
+      },
+      {
+        "tarih": "2026-02-03",
+        "puan": 5.0,
+        "metin": "@çok uzun"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E9890AXBR160",
+      "renk_kodu": "BR160",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Straıght Fıt Kırışık Dokulu Pantolon",
+      "kisa_aciklama": "Straight fit kesimiyle sade ve şık bir duruş sunan Kırışık Dokulu pantolon, hafif dokusuyla gün boyu konfor sağlar. Modern tarzıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-fit-kirisik-dokulu-pantolon-3354473",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E9890AX_25AU_BR160_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9890AX_25AU_BR160_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9890AX_25AU_BR160_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9890AX_25AU_BR160_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9890AX_25AU_BR160_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9890AX_25AU_BR160_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9890AX_25AU_BR160_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9890AX_25AU_BR160_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 84/63/91",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Straıght Fıt",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Straight fit kesimiyle sade ve şık bir duruş sunan Kırışık Dokulu pantolon, hafif dokusuyla gün boyu konfor sağlar. Modern tarzıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13276,
+          "Product Option Code": "E9890AX.BR160",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XL",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9890AX_25AU_BR160_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-kirisik-dokulu-pantolon-3354473",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-kirisik-dokulu-pantolon-3354473"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E9890AX_25AU_BR160_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:48:49+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

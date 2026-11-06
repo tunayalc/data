@@ -1,0 +1,107 @@
+{
+  "model_kodu": "H5449AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-15",
+        "puan": 5.0,
+        "metin": "@Şık bir küpe"
+      },
+      {
+        "tarih": "2026-09-20",
+        "puan": 5.0,
+        "metin": "@guzel tasarim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5449AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Taşlı Sallantılı Küpe",
+      "kisa_aciklama": "Sarı oval üst parçalı ve lacivert damla formunda alt parçalı sallantılı küpe. Üst kısımda metal kafes detayı, alt kısımda metal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-tasli-sallantili-kupe-3450667",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5449AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5449AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5449AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Akrilik 70%,Çinko 30%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Jean",
+        "cinsiyet": "Kadın",
+        "urun_olcusu": "1 cm",
+        "taki_tipi": "Küpe"
+      },
+      "urun_hakkinda": [
+        "Sarı oval üst parçalı ve lacivert damla formunda alt parçalı sallantılı küpe. Üst kısımda metal kafes detayı, alt kısımda metal…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 179.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30420,
+          "Product Option Code": "H5449AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H5449AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 6,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-tasli-sallantili-kupe-3450667",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-tasli-sallantili-kupe-3450667"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H5449AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:32:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "model_kodu": "F9673AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9673AXGR67",
+      "renk_kodu": "GR67",
+      "renk_adi": "GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17092,
+          "Product Option Code": "F9673AX.GR67",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9673AX_26SP_GR67_01_01.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-cizgili-tisort-3444555"
+        },
+        {
+          "excel_satiri": 17093,
+          "Product Option Code": "F9673AX.GR67",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9673AX_26SP_GR67_01_01.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-cizgili-tisort-3444555"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9673AX_26SP_GR67_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:57:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-regular-fit-cizgili-tisort-3444555",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "model_kodu": "B9168AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B9168AXNM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "32",
+          "34"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2738,
+          "Product Option Code": "B9168AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Capri",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "32",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9168AX_24SM_NM28_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 12,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/en-ma/kapri-normal-bel-jean-kapri-3065399",
+          "Model Page URL": "https://www.defacto.com/en-ma/kapri-normal-bel-jean-kapri-3065399"
+        },
+        {
+          "excel_satiri": 2739,
+          "Product Option Code": "B9168AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Capri",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "34",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9168AX_24SM_NM28_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 6,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/en-ma/kapri-normal-bel-jean-kapri-3065399",
+          "Model Page URL": "https://www.defacto.com/en-ma/kapri-normal-bel-jean-kapri-3065399"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B9168AX_24SM_NM28_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:23:48+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kapri-normal-bel-jean-kapri-3065399",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

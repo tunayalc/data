@@ -1,0 +1,123 @@
+{
+  "model_kodu": "G6742A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6742A8IN34",
+      "renk_kodu": "IN34",
+      "renk_adi": "Açık İndigo",
+      "renk_hex": "#2800A1",
+      "urun_adi": "%100 Pamuk Gömlek Erkek Çocuk",
+      "kisa_aciklama": "Erkek çocuk %100 pamuk gömlek, şık ve sade tasarımı, nefes alabilen kaliteli pamuk dokusuyla her mevsim ve her ortam için…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-gomlek-erkek-cocuk-3418346",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6742A8_26SP_IN34_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6742A8_26SP_IN34_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6742A8_26SP_IN34_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6742A8_26SP_IN34_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6742A8_26SP_IN34_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6742A8_26SP_IN34_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "5/6 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "cinsiyet": "Erkek Çocuk",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Gömlek Yaka"
+      },
+      "urun_hakkinda": [
+        "Erkek çocuk %100 pamuk gömlek, şık ve sade tasarımı, nefes alabilen kaliteli pamuk dokusuyla her mevsim ve her ortam için…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20588,
+          "Product Option Code": "G6742A8.IN34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6742A8_26SP_IN34_01_01.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-gomlek-erkek-cocuk-3418346",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-gomlek-erkek-cocuk-3418346"
+        },
+        {
+          "excel_satiri": 20589,
+          "Product Option Code": "G6742A8.IN34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6742A8_26SP_IN34_01_01.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-gomlek-erkek-cocuk-3418346",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-gomlek-erkek-cocuk-3418346"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6742A8_26SP_IN34_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:07:20+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

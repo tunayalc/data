@@ -1,0 +1,115 @@
+{
+  "model_kodu": "A5894AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 46,
+    "yorum_sayisi": 46,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 19.4,
+      "tam_oldu": 80.6,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-02-04",
+        "puan": 5.0,
+        "metin": "@çok güzel kaliteli"
+      },
+      {
+        "tarih": "2025-10-25",
+        "puan": 5.0,
+        "metin": "@Harika ötesi bir ürün."
+      },
+      {
+        "tarih": "2025-11-08",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet güzel ve kaliteli."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A5894AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Leopar Desenli 3'lü Pamuklu Uzun Çorap",
+      "kisa_aciklama": "Leopar desenli 3lü set modeli ile gün boyu konforlu kullanım sağlayan DeFacto Kadın 3'lü Pamuklu Uzun Çorap.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-leopar-desenli-3lu-pamuklu-uzun-corap-2901154",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A5894AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5894AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5894AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5894AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5894AX_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40",
+          "STD"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 65%,Poliamid 17%,Elastan 2%,Poliester 16%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Uzun Çorap",
+        "cinsiyet": "Kadın",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "3'lü",
+        "desen": "Leopar Desenli"
+      },
+      "urun_hakkinda": [
+        "Leopar desenli 3lü set modeli ile gün boyu konforlu kullanım sağlayan DeFacto Kadın 3'lü Pamuklu Uzun Çorap.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 542,
+          "Product Option Code": "A5894AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "36-40",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/A5894AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com/en-ma/kadin-leopar-desenli-3lu-pamuklu-uzun-corap-2901154",
+          "Model Page URL": "https://www.defacto.com/en-ma/kadin-leopar-desenli-3lu-pamuklu-uzun-corap-2901154"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/A5894AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:20:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

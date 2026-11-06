@@ -1,0 +1,232 @@
+{
+  "model_kodu": "E0643A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 28,
+    "yorum_sayisi": 28,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 57.1,
+      "tam_oldu": 42.9,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-05",
+        "puan": 5.0,
+        "metin": "@Biraz kalın kumaşı var, kalitesi güzel. Bedeni tam ile büyük arasında"
+      },
+      {
+        "tarih": "2025-04-02",
+        "puan": 5.0,
+        "metin": "@Okul için çok güzel bir şort etek, 1-2 beden büyük almak gerekli"
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@Mevcut bedeninizi seçmelisiniz."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0643A8BK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk Esnek Belli Pilili Gabardin Şort Etek Kız Çocuk",
+      "kisa_aciklama": "Gabardin kumaştan üretilmiş, pilili detaylara sahip kız çocuk mini etek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0643A8_26AU_BK27_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0643A8_26AU_BK27_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0643A8_26AU_BK27_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0643A8_26AU_BK27_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0643A8_26AU_BK27_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0643A8_26AU_BK27_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0643A8_26AU_BK27_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "5/6 Y",
+          "7/8 Y",
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "urun_tipi": "Etek",
+        "ozel_gunler": "23 Nisan Çocuk Bayramı",
+        "kumas": "Gabardin"
+      },
+      "urun_hakkinda": [
+        "Gabardin kumaştan üretilmiş, pilili detaylara sahip kız çocuk mini etek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10258,
+          "Product Option Code": "E0643A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0643A8_26AU_BK27_01_02.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759"
+        },
+        {
+          "excel_satiri": 10259,
+          "Product Option Code": "E0643A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0643A8_26AU_BK27_01_02.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759"
+        },
+        {
+          "excel_satiri": 10260,
+          "Product Option Code": "E0643A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0643A8_26AU_BK27_01_02.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759"
+        },
+        {
+          "excel_satiri": 10261,
+          "Product Option Code": "E0643A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0643A8_26AU_BK27_01_02.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759"
+        },
+        {
+          "excel_satiri": 10262,
+          "Product Option Code": "E0643A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0643A8_26AU_BK27_01_02.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-esnek-belli-pilili-gabardin-sort-etek-kiz-cocuk-3469759"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E0643A8_26AU_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:41:33+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

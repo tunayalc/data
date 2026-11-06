@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C0695AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0695AXNM55",
+      "renk_kodu": "NM55",
+      "renk_adi": "GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "32",
+          "34",
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3093,
+          "Product Option Code": "C0695AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "32",
+          "Fit": "SKIRT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0695AX_24SM_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 7,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-iq/sort-3138546",
+          "Model Page URL": "https://www.defacto.com/en-iq/sort-3138546"
+        },
+        {
+          "excel_satiri": 3094,
+          "Product Option Code": "C0695AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "34",
+          "Fit": "SKIRT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0695AX_24SM_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-iq/sort-3138546",
+          "Model Page URL": "https://www.defacto.com/en-iq/sort-3138546"
+        },
+        {
+          "excel_satiri": 3095,
+          "Product Option Code": "C0695AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "36",
+          "Fit": "SKIRT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0695AX_24SM_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-iq/sort-3138546",
+          "Model Page URL": "https://www.defacto.com/en-iq/sort-3138546"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C0695AX_24SM_NM55_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:24:31+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/sort-3138546",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

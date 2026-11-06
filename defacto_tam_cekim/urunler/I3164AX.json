@@ -1,0 +1,164 @@
+{
+  "model_kodu": "I3164AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3164AXBE412",
+      "renk_kodu": "BE412",
+      "renk_adi": "Saks",
+      "renk_hex": "#0263C3",
+      "urun_adi": "Slım Fıt Bisiklet Yaka Sporcu Uzun Kollu Sax Mavi Tişört",
+      "kisa_aciklama": "Slim fit bisiklet yaka uzun kollu tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-sporcu-uzun-kollu-sax-mavi-tisort-3507767",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3164AX_26AU_BE412_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3164AX_26AU_BE412_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3164AX_26AU_BE412_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3164AX_26AU_BE412_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3164AX_26AU_BE412_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3164AX_26AU_BE412_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3164AX_26AU_BE412_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,80cm - 80/63/90",
+        "ana_kumas_icerigi": "Elastan 6%,Viskoz 65%,Poliester 29%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "yasam_tarzi": "Sporcu",
+        "kullanim_alani": "Günlük Giyim",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Slim fit bisiklet yaka uzun kollu tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41127,
+          "Product Option Code": "I3164AX.BE412",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "SAX",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3164AX_26AU_BE412_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#0263C3",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-sporcu-uzun-kollu-sax-mavi-tisort-3507767",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-sporcu-uzun-kollu-sax-mavi-tisort-3507767"
+        },
+        {
+          "excel_satiri": 41128,
+          "Product Option Code": "I3164AX.BE412",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "SAX",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3164AX_26AU_BE412_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#0263C3",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-sporcu-uzun-kollu-sax-mavi-tisort-3507767",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-sporcu-uzun-kollu-sax-mavi-tisort-3507767"
+        },
+        {
+          "excel_satiri": 41129,
+          "Product Option Code": "I3164AX.BE412",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "SAX",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3164AX_26AU_BE412_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#0263C3",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-sporcu-uzun-kollu-sax-mavi-tisort-3507767",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-sporcu-uzun-kollu-sax-mavi-tisort-3507767"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I3164AX_26AU_BE412_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:46:57+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

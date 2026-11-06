@@ -1,0 +1,278 @@
+{
+  "model_kodu": "F9522AX",
+  "urun_grubu": "Kadın Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 25,
+    "yorum_sayisi": 25,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 62.5,
+      "tam_oldu": 37.5,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-10",
+        "puan": 5.0,
+        "metin": "@Kızlar, ben buna bayıldım! Korkmuştum! Gerçekten çok güzel ve yumuşacık. Hiç tüy dökmüyor, öyle incecik de değil, kumaşı da yumuşacık.…"
+      },
+      {
+        "tarih": "2026-06-12",
+        "puan": 4.0,
+        "metin": "@Harika! Çok beğendim, fiyatına göre de gayet iyi. Fiyatına göre de çok iyi. Kesinlikle tavsiye ederim."
+      },
+      {
+        "tarih": "2026-06-13",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika. Kumaşı da aşırı güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9522AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "İnce Askılı Basıc Çıtçıtlı Body",
+      "kisa_aciklama": "İnce askılı basic düz çıtçıtlı body, her kombinin temel parçası olacak. Yumuşak ve esnek kumaşıyla gün boyu konfor sağlar. Minimal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342329",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_BK81_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,76cm - 80/61/89",
+        "ana_kumas_icerigi": "Poliamid 95%,Elastan 5%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Bodysuit",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "İnce askılı basic düz çıtçıtlı body, her kombinin temel parçası olacak. Yumuşak ve esnek kumaşıyla gün boyu konfor sağlar. Minimal…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16935,
+          "Product Option Code": "F9522AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F9522AX_25AU_BK81_01_01.jpg",
+          "FabricDetail": "POLYAMIDE-EA",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342329",
+          "Model Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328"
+        },
+        {
+          "excel_satiri": 16936,
+          "Product Option Code": "F9522AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F9522AX_25AU_BK81_01_01.jpg",
+          "FabricDetail": "POLYAMIDE-EA",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342329",
+          "Model Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328"
+        },
+        {
+          "excel_satiri": 16937,
+          "Product Option Code": "F9522AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F9522AX_25AU_BK81_01_01.jpg",
+          "FabricDetail": "POLYAMIDE-EA",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342329",
+          "Model Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F9522AX_25AU_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9522AXPN440",
+      "renk_kodu": "PN440",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "İnce Askılı Basıc Çıtçıtlı Body",
+      "kisa_aciklama": "İnce askılı basic düz çıtçıtlı body, her kombinin temel parçası olacak. Yumuşak ve esnek kumaşıyla gün boyu konfor sağlar. Minimal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_PN440_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_PN440_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_PN440_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_PN440_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_PN440_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_PN440_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_PN440_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_PN440_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9522AX_25AU_PN440_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 82/59/88",
+        "ana_kumas_icerigi": "Poliamid 95%,Elastan 5%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Bodysuit",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "İnce askılı basic düz çıtçıtlı body, her kombinin temel parçası olacak. Yumuşak ve esnek kumaşıyla gün boyu konfor sağlar. Minimal…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16938,
+          "Product Option Code": "F9522AX.PN440",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "M",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F9522AX_25AU_PN440_01_02.jpg",
+          "FabricDetail": "POLYAMIDE-EA",
+          "Toplam": 6,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328",
+          "Model Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328"
+        },
+        {
+          "excel_satiri": 16939,
+          "Product Option Code": "F9522AX.PN440",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "S",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F9522AX_25AU_PN440_01_02.jpg",
+          "FabricDetail": "POLYAMIDE-EA",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328",
+          "Model Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328"
+        },
+        {
+          "excel_satiri": 16940,
+          "Product Option Code": "F9522AX.PN440",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XS",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F9522AX_25AU_PN440_01_02.jpg",
+          "FabricDetail": "POLYAMIDE-EA",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328",
+          "Model Page URL": "https://www.defacto.com.tr/ince-askili-basic-citcitli-body-3342328"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F9522AX_25AU_PN440_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:54:13+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

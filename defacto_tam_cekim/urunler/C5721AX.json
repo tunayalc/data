@@ -1,0 +1,101 @@
+{
+  "model_kodu": "C5721AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C5721AXPR251",
+      "renk_kodu": "PR251",
+      "renk_adi": "LT.LILAC",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4710,
+          "Product Option Code": "C5721AX.PR251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C5721AX_24SM_PR251_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 4711,
+          "Product Option Code": "C5721AX.PR251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C5721AX_24SM_PR251_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 8,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 4712,
+          "Product Option Code": "C5721AX.PR251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C5721AX_24SM_PR251_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C5721AX_24SM_PR251_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

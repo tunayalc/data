@@ -1,0 +1,57 @@
+{
+  "model_kodu": "C5045AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C5045AXBG700",
+      "renk_kodu": "BG700",
+      "renk_adi": "SAND",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4482,
+          "Product Option Code": "C5045AX.BG700",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C5045AX_24HS_BG700_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/C5045AX_24HS_BG700_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

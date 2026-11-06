@@ -1,0 +1,113 @@
+{
+  "model_kodu": "G4027AX",
+  "urun_grubu": "Erkek Çanta",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4027AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Çapraz Çanta",
+      "kisa_aciklama": "Siyah sentetik kumaşlı çapraz çanta. Fermuarlı ana bölme ve ön cep. İp detaylı fermuar çekme uçları, ön kısımda baskılı yama…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-capraz-canta-3369990",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4027AX_NS_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4027AX_NS_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4027AX_NS_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4027AX_NS_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4027AX_NS_BK27_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "canta_tipi": "Çapraz Çanta"
+      },
+      "urun_hakkinda": [
+        "Siyah sentetik kumaşlı çapraz çanta. Fermuarlı ana bölme ve ön cep. İp detaylı fermuar çekme uçları, ön kısımda baskılı yama…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18982,
+          "Product Option Code": "G4027AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "Bag",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4027AX_NS_BK27_01_01.jpg",
+          "FabricDetail": "Impertex",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-capraz-canta-3369990",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-capraz-canta-3369990"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G4027AX_NS_BK27_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:00:54+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

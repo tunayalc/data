@@ -1,0 +1,108 @@
+{
+  "model_kodu": "D4725AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4725AXBE181",
+      "renk_kodu": "BE181",
+      "renk_adi": "SAX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7735,
+          "Product Option Code": "D4725AX.BE181",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "SAX",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4725AX_24HS_BE181_01_01.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#0263C3",
+          "Product Page URL": "https://www.defacto.com/coool-oversize-fit-polo-yaka-baskili-kisa-kollu-tisort-3151815",
+          "Model Page URL": "https://www.defacto.com/coool-oversize-fit-polo-yaka-baskili-kisa-kollu-tisort-3151815"
+        },
+        {
+          "excel_satiri": 7736,
+          "Product Option Code": "D4725AX.BE181",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "SAX",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4725AX_24HS_BE181_01_01.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#0263C3",
+          "Product Page URL": "https://www.defacto.com/coool-oversize-fit-polo-yaka-baskili-kisa-kollu-tisort-3151815",
+          "Model Page URL": "https://www.defacto.com/coool-oversize-fit-polo-yaka-baskili-kisa-kollu-tisort-3151815"
+        },
+        {
+          "excel_satiri": 7737,
+          "Product Option Code": "D4725AX.BE181",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "SAX",
+          "SizeDefinition": "XS",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4725AX_24HS_BE181_01_01.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#0263C3",
+          "Product Page URL": "https://www.defacto.com/coool-oversize-fit-polo-yaka-baskili-kisa-kollu-tisort-3151815",
+          "Model Page URL": "https://www.defacto.com/coool-oversize-fit-polo-yaka-baskili-kisa-kollu-tisort-3151815"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4725AX_24HS_BE181_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:35:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-oversize-fit-polo-yaka-baskili-kisa-kollu-tisort-3151815",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

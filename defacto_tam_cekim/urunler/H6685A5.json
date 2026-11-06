@@ -1,0 +1,106 @@
+{
+  "model_kodu": "H6685A5",
+  "urun_grubu": "Kız Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H6685A5KR2",
+      "renk_kodu": "KR2",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "5'li Pamuklu Uzun Çorap Kız Bebek",
+      "kisa_aciklama": "5 çift farklı pastel tonlarda ribana kız bebek çorabı. Bilek üstü boy, kaydırmaz taban detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/5li-pamuklu-uzun-corap-kiz-bebek-3452228",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6685A5_NS_KR2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6685A5_NS_KR2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6685A5_NS_KR2_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 75%,Poliamid 23%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Bebek",
+        "takim_icerigi": "5'li",
+        "corap_tipi": "Uzun Çorap",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "5 çift farklı pastel tonlarda ribana kız bebek çorabı. Bilek üstü boy, kaydırmaz taban detaylı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "H6685A5BG292",
+      "renk_kodu": "BG292",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-24 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31965,
+          "Product Option Code": "H6685A5.BG292",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "12-24 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H6685A5_NS_BG292_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/5li-pamuklu-uzun-corap-kiz-bebek-3452228"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H6685A5_NS_BG292_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:32:03+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

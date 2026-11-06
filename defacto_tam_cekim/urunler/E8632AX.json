@@ -1,0 +1,740 @@
+{
+  "model_kodu": "E8632AX",
+  "urun_grubu": "Erkek Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 112,
+    "yorum_sayisi": 112,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 41.0,
+      "tam_oldu": 55.7,
+      "buyuk_geldi": 3.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-24",
+        "puan": 5.0,
+        "metin": "@1.78 79 kilo normal bedeni M olan eşime s beden aldık magazada denedi cok begendi buradan indirimle aldık. Tam oldu…"
+      },
+      {
+        "tarih": "2025-11-15",
+        "puan": 5.0,
+        "metin": "@Harika, aşırı güzel."
+      },
+      {
+        "tarih": "2026-02-28",
+        "puan": 5.0,
+        "metin": "@Şahane bir ürün. Çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8632AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Yarım Fermuarlı Polar Sweatshirt",
+      "kisa_aciklama": "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3509280",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BK81_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BK81_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BK81_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BK81_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BK81_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kumas": "Polar",
+        "kalip": "Boxy Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "desen": "Baskılı",
+        "urun_tipi": "Sweatshirt",
+        "cinsiyet": "Erkek",
+        "yaka": "Dik Yaka"
+      },
+      "urun_hakkinda": [
+        "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12633,
+          "Product Option Code": "E8632AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/E8632AX_25WN_BK81_01_03.jpg",
+          "FabricDetail": "POLAR",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3509280",
+          "Model Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/E8632AX_25WN_BK81_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E8632AXBN337",
+      "renk_kodu": "BN337",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Yarım Fermuarlı Polar Sweatshirt",
+      "kisa_aciklama": "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3509279",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BN337_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm/74/92",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_tipi": "Sweatshirt",
+        "kalip": "Boxy Fıt",
+        "cinsiyet": "Erkek",
+        "kumas": "Polar",
+        "desen": "Baskılı",
+        "yaka": "Dik Yaka",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12634,
+          "Product Option Code": "E8632AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage422141_Version_1/E8632AX-01_N2ECIDWM3GG.png",
+          "FabricDetail": "POLAR",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3509279",
+          "Model Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189"
+        },
+        {
+          "excel_satiri": 12635,
+          "Product Option Code": "E8632AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage422141_Version_1/E8632AX-01_N2ECIDWM3GG.png",
+          "FabricDetail": "POLAR",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3509279",
+          "Model Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189"
+        },
+        {
+          "excel_satiri": 12636,
+          "Product Option Code": "E8632AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage422141_Version_1/E8632AX-01_N2ECIDWM3GG.png",
+          "FabricDetail": "POLAR",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3509279",
+          "Model Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189"
+        },
+        {
+          "excel_satiri": 12637,
+          "Product Option Code": "E8632AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage422141_Version_1/E8632AX-01_N2ECIDWM3GG.png",
+          "FabricDetail": "POLAR",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3509279",
+          "Model Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189"
+        },
+        {
+          "excel_satiri": 12638,
+          "Product Option Code": "E8632AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage422141_Version_1/E8632AX-01_N2ECIDWM3GG.png",
+          "FabricDetail": "POLAR",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3509279",
+          "Model Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E8632AXBN571",
+      "renk_kodu": "BN571",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Yarım Fermuarlı Polar Sweatshirt",
+      "kisa_aciklama": "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278191",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_BN571_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_BN571_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_BN571_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_BN571_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_BN571_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_BN571_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Boxy Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "desen": "Baskılı",
+        "kumas": "Polar",
+        "cinsiyet": "Erkek",
+        "yaka": "Dik Yaka",
+        "urun_tipi": "Sweatshirt"
+      },
+      "urun_hakkinda": [
+        "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12639,
+          "Product Option Code": "E8632AX.BN571",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/E8632AX_25WN_BN571_01_03.jpg",
+          "FabricDetail": "POLAR",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278191",
+          "Model Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/E8632AX_25WN_BN571_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E8632AXGR169",
+      "renk_kodu": "GR169",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Yarım Fermuarlı Polar Sweatshirt",
+      "kisa_aciklama": "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278193",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_GR169_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_GR169_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_GR169_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_GR169_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_GR169_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_GR169_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 93/72/91",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "desen": "Baskılı",
+        "kalip": "Boxy Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Dik Yaka",
+        "kumas": "Polar",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Sweatshirt"
+      },
+      "urun_hakkinda": [
+        "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12640,
+          "Product Option Code": "E8632AX.GR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/E8632AX_25WN_GR169_01_01.jpg",
+          "FabricDetail": "POLAR",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/ar-iq/yarim-fermuarli-polar-sweatshirt-3278193",
+          "Model Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/E8632AX_25WN_GR169_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E8632AXKH151",
+      "renk_kodu": "KH151",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Yarım Fermuarlı Polar Sweatshirt",
+      "kisa_aciklama": "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_KH151_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_KH151_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_KH151_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_KH151_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_KH151_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_KH151_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_25WN_KH151_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Boxy Fıt",
+        "urun_tipi": "Sweatshirt",
+        "desen": "Baskılı",
+        "yaka": "Dik Yaka",
+        "kumas": "Polar",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12641,
+          "Product Option Code": "E8632AX.KH151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/E8632AX_25WN_KH151_01_03.jpg",
+          "FabricDetail": "POLAR",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189",
+          "Model Page URL": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3278189"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/E8632AX_25WN_KH151_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E8632AXBG721",
+      "renk_kodu": "BG721",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Yarım Fermuarlı Polar Sweatshirt",
+      "kisa_aciklama": "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yarim-fermuarli-polar-sweatshirt-3509281",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8632AX_26WN_BG721_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "kalip": "Boxy Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Sweatshirt",
+        "kumas": "Polar",
+        "desen": "Baskılı",
+        "yaka": "Dik Yaka"
+      },
+      "urun_hakkinda": [
+        "Modern boxy fit kesimi ve dik yaka detayıyla öne çıkan bu yarım fermuarlı polar sweatshirt, serin havalarda stil ve sıcaklığı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:39:14+03:00",
+    "denenen_sayfa": 6,
+    "dogrulanan_renk": 6
+  }
+}

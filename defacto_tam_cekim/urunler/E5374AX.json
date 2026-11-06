@@ -1,0 +1,64 @@
+{
+  "model_kodu": "E5374AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5374AXRD59",
+      "renk_kodu": "RD59",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11533,
+          "Product Option Code": "E5374AX.RD59",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "RED",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E5374AX_25SP_RD59_01_04.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-ma/wide-leg-esofman-alti-basic-beli-lastikli-genis-bol-paca-3211858",
+          "Model Page URL": "https://www.defacto.com/en-ma/wide-leg-esofman-alti-basic-beli-lastikli-genis-bol-paca-3211858"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E5374AX_25SP_RD59_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:44:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-esofman-alti-basic-beli-lastikli-genis-bol-paca-3211858",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

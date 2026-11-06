@@ -1,0 +1,123 @@
+{
+  "model_kodu": "G9286AX",
+  "urun_grubu": "Erkek Boxer",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G9286AXGR211",
+      "renk_kodu": "GR211",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Regular Fıt Şal Desenli 3'lü Boxer",
+      "kisa_aciklama": "Modern ve dengeli bir silüet sunan Regular Fit kesimiyle gün boyu konforu şıklıkla birleştirir. Pamuklu esnek dokusu ve geleneksel şal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-sal-desenli-3lu-boxer-3402842",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G9286AX_26SP_GR211_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9286AX_26SP_GR211_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9286AX_26SP_GR211_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9286AX_26SP_GR211_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9286AX_26SP_GR211_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9286AX_26SP_GR211_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9286AX_26SP_GR211_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "desen": "Şal Desenli",
+        "takim_icerigi": "3'lü",
+        "ic_giyim_kategori": "Boxer",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Modern ve dengeli bir silüet sunan Regular Fit kesimiyle gün boyu konforu şıklıkla birleştirir. Pamuklu esnek dokusu ve geleneksel şal…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22967,
+          "Product Option Code": "G9286AX.GR211",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G9286AX_26SP_GR211_01_02.jpg",
+          "FabricDetail": "36/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-sal-desenli-3lu-boxer-3402842",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-sal-desenli-3lu-boxer-3402842"
+        },
+        {
+          "excel_satiri": 22968,
+          "Product Option Code": "G9286AX.GR211",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G9286AX_26SP_GR211_01_02.jpg",
+          "FabricDetail": "36/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-sal-desenli-3lu-boxer-3402842",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-sal-desenli-3lu-boxer-3402842"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G9286AX_26SP_GR211_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:13:22+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

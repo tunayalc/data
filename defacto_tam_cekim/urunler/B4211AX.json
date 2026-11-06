@@ -1,0 +1,97 @@
+{
+  "model_kodu": "B4211AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B4211AXBG737",
+      "renk_kodu": "BG737",
+      "renk_adi": "STONE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1526,
+          "Product Option Code": "B4211AX.BG737",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "38",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B4211AX_24SM_BG737_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B4211AX_24SM_BG737_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B4211AXOG596",
+      "renk_kodu": "OG596",
+      "renk_adi": "ORANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1527,
+          "Product Option Code": "B4211AX.OG596",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "40",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B4211AX_24SM_OG596_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B4211AX_24SM_OG596_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "model_kodu": "E1369AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1369AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10569,
+          "Product Option Code": "E1369AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1369AX_24WN_BK27_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-normal-bel-pantolon-3199882",
+          "Model Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-normal-bel-pantolon-3199882"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E1369AX_24WN_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:42:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-genis-paca-normal-bel-pantolon-3199882",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

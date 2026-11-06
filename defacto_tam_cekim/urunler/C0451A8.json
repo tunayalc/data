@@ -1,0 +1,64 @@
+{
+  "model_kodu": "C0451A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0451A8BG122",
+      "renk_kodu": "BG122",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "13/14 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3026,
+          "Product Option Code": "C0451A8.BG122",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "WIDELEG CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C0451A8_25SM_BG122_01_03.jpg",
+          "FabricDetail": "JEAN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-wide-leg-kargo-jean-pantolon-kiz-cocuk-3313588"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C0451A8_25SM_BG122_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:24:19+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-wide-leg-kargo-jean-pantolon-kiz-cocuk-3313588",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

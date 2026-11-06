@@ -1,0 +1,97 @@
+{
+  "model_kodu": "E7064AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E7064AXBE812",
+      "renk_kodu": "BE812",
+      "renk_adi": "PETROL KUCUK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "Küçük Boy"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12079,
+          "Product Option Code": "E7064AX.BE812",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Unisex",
+          "Buyer Group Name": "Baggage",
+          "LifeStyle": "Casual",
+          "Class Name": "Baggage",
+          "Product Color Name": "PETROL KUCUK",
+          "SizeDefinition": "Küçük Boy",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E7064AX_NS_BE812_01_03.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 0,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#226365",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/E7064AX_NS_BE812_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E7064AXBR410",
+      "renk_kodu": "BR410",
+      "renk_adi": "Rose Büyük",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "Büyük Boy"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12080,
+          "Product Option Code": "E7064AX.BR410",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Unisex",
+          "Buyer Group Name": "Baggage",
+          "LifeStyle": "Casual",
+          "Class Name": "Baggage",
+          "Product Color Name": "Rose Büyük",
+          "SizeDefinition": "Büyük Boy",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E7064AX_NS_BR410_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 2299.99,
+          "Actual Price Value": 2299.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/E7064AX_NS_BR410_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

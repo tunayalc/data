@@ -1,0 +1,122 @@
+{
+  "model_kodu": "E4134AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 40.0,
+      "tam_oldu": 60.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-31",
+        "puan": 5.0,
+        "metin": "@Harika! Aşırı şık."
+      },
+      {
+        "tarih": "2026-06-11",
+        "puan": 5.0,
+        "metin": "@Gerçekten harika! 38 beden tam oldu. Değerlendirmesi de çok inceydi, ben de tereddütle almıştım. DeFactoya teşekkürler, bayıldım! Çok beğenmiştim. Seksi…"
+      },
+      {
+        "tarih": "2025-08-23",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E4134AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Straight Gabardın Normal Bel Pantolon",
+      "kisa_aciklama": "Straight Gabardın Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-gabardin-normal-bel-pantolon-3212384",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E4134AX_25SP_BK27_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4134AX_25SP_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4134AX_25SP_BK27_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4134AX_25SP_BK27_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4134AX_25SP_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4134AX_25SP_BK27_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4134AX_25SP_BK27_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,74cm - 80/59/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Straıght Fıt",
+        "urun_tipi": "Pantolon",
+        "cinsiyet": "Kadın",
+        "kapama_detayi": "Fermuarlı",
+        "bel_detayi": "Normal Bel",
+        "kumas": "Gabardin"
+      },
+      "urun_hakkinda": [
+        "Straight Gabardın Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11258,
+          "Product Option Code": "E4134AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "38",
+          "Fit": "STRAIGHT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E4134AX_25SP_BK27_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/straight-gabardin-normal-bel-pantolon-3212384",
+          "Model Page URL": "https://www.defacto.com.tr/straight-gabardin-normal-bel-pantolon-3212384"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E4134AX_25SP_BK27_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:44:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

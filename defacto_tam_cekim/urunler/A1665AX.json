@@ -1,0 +1,142 @@
+{
+  "model_kodu": "A1665AX",
+  "urun_grubu": "Kadın Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 549,
+    "yorum_sayisi": 549,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.4,
+      "tam_oldu": 63.9,
+      "buyuk_geldi": 2.5
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-26",
+        "puan": 5.0,
+        "metin": "@Allah adı veriyorum şu atletleri normal boy yapin cani isteyen kessin giysin ya minnacik bişey geldi tamam gençler giysin eyvallahta…"
+      },
+      {
+        "tarih": "2023-06-22",
+        "puan": 4.0,
+        "metin": "@Rengi tam beyaz, esnek, güzel ama ürün bilgilerinde m beden 48 cm yazıyordu fakat ölçtüm 43 cm. Yani açıklamada yazmıyor,…"
+      },
+      {
+        "tarih": "2023-06-20",
+        "puan": 1.0,
+        "metin": "@hiç hoşuma gitmedi kısa ve çok dar böyle beklemiyordum."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1665AXER135",
+      "renk_kodu": "ER135",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Fıtted U Yaka Basıc Fitilli Kaşkorse Atlet",
+      "kisa_aciklama": "Fitted U Yaka Basic Düz Fitilli Kaşkorse Atlet, vücuda oturan kesimi ve esnek fitilli kumaşıyla hem konforlu hem şık bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-u-yaka-basic-fitilli-kaskorse-atlet-3330863",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A1665AX_25SM_ER135_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1665AX_25SM_ER135_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1665AX_25SM_ER135_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1665AX_25SM_ER135_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1665AX_25SM_ER135_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1665AX_25SM_ER135_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,79cm - 82/60/90",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Dar Paça",
+        "yaka": "U Yaka",
+        "kumas": "Fitilli Kaşkorse",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Kadın",
+        "kalip": "Fıtted"
+      },
+      "urun_hakkinda": [
+        "Fitted U Yaka Basic Düz Fitilli Kaşkorse Atlet, vücuda oturan kesimi ve esnek fitilli kumaşıyla hem konforlu hem şık bir…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "A1665AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 173,
+          "Product Option Code": "A1665AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/A1665AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 4,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/fitted-u-yaka-fitilli-kaskorse-atlet-3325557",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-u-yaka-basic-fitilli-kaskorse-atlet-3330863"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/A1665AX_24SM_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:14:45+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fitted-u-yaka-fitilli-kaskorse-atlet-3325557",
+      "http": 200,
+      "durum": "Sayfada bu modelin ürün kodu bulunamadı"
+    }
+  ]
+}

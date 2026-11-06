@@ -1,0 +1,57 @@
+{
+  "model_kodu": "Z0711A2",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z0711A2RD25",
+      "renk_kodu": "RD25",
+      "renk_adi": "M.KIRMIZI-310-13",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "18-24 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48615,
+          "Product Option Code": "Z0711A2.RD25",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "M.KIRMIZI-310-13",
+          "SizeDefinition": "18-24 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/Z0711A2_22SM_RD25_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 19.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/Z0711A2_22SM_RD25_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

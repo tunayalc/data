@@ -1,0 +1,91 @@
+{
+  "model_kodu": "I4295AX",
+  "urun_grubu": "Kadın Yüzük",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4295AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "İnci Ve Dövme Dokulu 3'lü Yüzük Kadın",
+      "kisa_aciklama": "Altın rengi metal 3'lü yüzük seti. Set; bir adet oval inci detaylı, bir adet geniş dövme dokulu ve bir adet…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/inci-ve-dovme-dokulu-3lu-yuzuk-kadin-3507671",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4295AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4295AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4295AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "M",
+          "L"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko Alaşım 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Yüzük"
+      },
+      "urun_hakkinda": [
+        "Altın rengi metal 3'lü yüzük seti. Set; bir adet oval inci detaylı, bir adet geniş dövme dokulu ve bir adet…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42571,
+          "Product Option Code": "I4295AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Ring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "L",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4295AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/inci-ve-dovme-dokulu-3lu-yuzuk-kadin-3507671",
+          "Model Page URL": "https://www.defacto.com.tr/inci-ve-dovme-dokulu-3lu-yuzuk-kadin-3507671"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4295AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:02:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "model_kodu": "C4524A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4524A5OG293",
+      "renk_kodu": "OG293",
+      "renk_adi": "SALMON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "4/5 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4279,
+          "Product Option Code": "C4524A5.OG293",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "SALMON",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4524A5_24SM_OG293_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C4524A5_24SM_OG293_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "model_kodu": "I3284A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3284A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "5'li Pamuklu Patik Çorap Erkek Çocuk",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Farklı düz renklerde, elastik bilekli kısa çoraplar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-erkek-cocuk-3499458",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3284A8_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3284A8_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3284A8_NS_KR1_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3284A8_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28",
+          "29 - 34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 75%,Poliamid 22%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Soket Çorap",
+        "urun_tipi": "Kısa Çorap",
+        "cinsiyet": "Erkek Çocuk",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Farklı düz renklerde, elastik bilekli kısa çoraplar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41352,
+          "Product Option Code": "I3284A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3284A8_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-erkek-cocuk-3499458",
+          "Model Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-erkek-cocuk-3499458"
+        },
+        {
+          "excel_satiri": 41353,
+          "Product Option Code": "I3284A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3284A8_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-erkek-cocuk-3499458",
+          "Model Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-erkek-cocuk-3499458"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3284A8_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:47:15+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

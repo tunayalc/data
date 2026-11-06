@@ -1,0 +1,114 @@
+{
+  "model_kodu": "G7453AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-15",
+        "puan": 5.0,
+        "metin": "@Harika! Hem çok ucuz hem de kaliteli."
+      },
+      {
+        "tarih": "2026-10-12",
+        "puan": 5.0,
+        "metin": "@Harika çoraplar. Kaliteli ürün."
+      },
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@çok güzel çoraplar begendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7453AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Nakışlı Nakış 3'lü Pamuklu Soket Çorap",
+      "kisa_aciklama": "Kadınlar için tasarlanan nakışlı 3’lü pamuklu soket çorap seti, yumuşak ve nefes alabilen pamuklu kumaşıyla konfor sağlar. Şık nakış detaylarıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-nakis-3lu-pamuklu-soket-corap-3371307",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7453AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7453AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7453AX_NS_KR1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7453AX_NS_KR1_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 53%,Poliamid 21%,Elastan 3%,Poliester 23%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "takim_icerigi": "3'lü",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Soket Çorap",
+        "desen": "Nakışlı",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadınlar için tasarlanan nakışlı 3’lü pamuklu soket çorap seti, yumuşak ve nefes alabilen pamuklu kumaşıyla konfor sağlar. Şık nakış detaylarıyla…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21193,
+          "Product Option Code": "G7453AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "36-40",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G7453AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-nakis-3lu-pamuklu-soket-corap-3371307",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-nakis-3lu-pamuklu-soket-corap-3371307"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G7453AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:06:52+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

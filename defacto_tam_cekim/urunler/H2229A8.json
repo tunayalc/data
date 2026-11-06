@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H2229A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2229A8NM29",
+      "renk_kodu": "NM29",
+      "renk_adi": "LT.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "13/14 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25950,
+          "Product Option Code": "H2229A8.NM29",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Jacket",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H2229A8_26SP_NM29_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-jean-ceket-kiz-cocuk-3497227",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-jean-ceket-kiz-cocuk-3497227"
+        },
+        {
+          "excel_satiri": 25951,
+          "Product Option Code": "H2229A8.NM29",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Jacket",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H2229A8_26SP_NM29_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-jean-ceket-kiz-cocuk-3497227",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-jean-ceket-kiz-cocuk-3497227"
+        },
+        {
+          "excel_satiri": 25952,
+          "Product Option Code": "H2229A8.NM29",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Jacket",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H2229A8_26SP_NM29_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-jean-ceket-kiz-cocuk-3497227",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-jean-ceket-kiz-cocuk-3497227"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H2229A8_26SP_NM29_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:19:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-jean-ceket-kiz-cocuk-3497227",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

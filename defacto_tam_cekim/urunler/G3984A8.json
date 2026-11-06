@@ -1,0 +1,101 @@
+{
+  "model_kodu": "G3984A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3984A8WT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "WHITE (000)",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "23 - 28",
+          "29 - 34",
+          "35 - 39"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18966,
+          "Product Option Code": "G3984A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "23 - 28",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G3984A8_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 18967,
+          "Product Option Code": "G3984A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "29 - 34",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G3984A8_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 18968,
+          "Product Option Code": "G3984A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "35 - 39",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G3984A8_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G3984A8_NS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

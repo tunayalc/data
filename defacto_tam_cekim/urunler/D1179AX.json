@@ -1,0 +1,79 @@
+{
+  "model_kodu": "D1179AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1179AXPN649",
+      "renk_kodu": "PN649",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6350,
+          "Product Option Code": "D1179AX.PN649",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1179AX_24SM_PN649_01_01.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6351,
+          "Product Option Code": "D1179AX.PN649",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1179AX_24SM_PN649_01_01.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1179AX_24SM_PN649_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

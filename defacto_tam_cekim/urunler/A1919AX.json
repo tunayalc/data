@@ -1,0 +1,131 @@
+{
+  "model_kodu": "A1919AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1919AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 181,
+          "Product Option Code": "A1919AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/A1919AX_23SM_BK81_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/wide-leg-genis-paca-yuksek-bel-pantolon-3282155",
+          "Model Page URL": "https://www.defacto.com/ar-iq/wide-leg-genis-paca-yuksek-bel-pantolon-3282155"
+        },
+        {
+          "excel_satiri": 182,
+          "Product Option Code": "A1919AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "40",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/A1919AX_23SM_BK81_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/wide-leg-genis-paca-yuksek-bel-pantolon-3282155",
+          "Model Page URL": "https://www.defacto.com/ar-iq/wide-leg-genis-paca-yuksek-bel-pantolon-3282155"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/A1919AX_23SM_BK81_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A1919AXGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 183,
+          "Product Option Code": "A1919AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "40",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23AU/A1919AX_23AU_GR210_01_03.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/fr-ma/wide-leg-genis-paca-yuksek-bel-pantolon-3282154",
+          "Model Page URL": "https://www.defacto.com/ar-iq/wide-leg-genis-paca-yuksek-bel-pantolon-3282155"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23AU/A1919AX_23AU_GR210_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:20:04+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3282155",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3282154",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

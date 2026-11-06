@@ -1,0 +1,100 @@
+{
+  "model_kodu": "H6008A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H6008A8PN178",
+      "renk_kodu": "PN178",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "%100 Pamuk Çiçekli Askılı Elbise Kız Çocuk",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş askılı askılı kız çocuk elbise. Askılı, halter yaka pamuklu kız çocuk elbisesi. Pembe zemin üzerine çiçek desenli.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-cicekli-askili-elbise-kiz-cocuk-3478682",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6008A8_26HS_PN178_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6008A8_26HS_PN178_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6008A8_26HS_PN178_03_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6008A8_26HS_PN178_04_07.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6008A8_26HS_PN178_05_07.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "9/10 Yaş (140cm) Beden - 1,35cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Askılı",
+        "ozel_urun": "Trend",
+        "urun_tipi": "Elbise",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş askılı askılı kız çocuk elbise. Askılı, halter yaka pamuklu kız çocuk elbisesi. Pembe zemin üzerine çiçek desenli.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31211,
+          "Product Option Code": "H6008A8.PN178",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H6008A8_26HS_PN178_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-cicekli-askili-elbise-kiz-cocuk-3478682",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-cicekli-askili-elbise-kiz-cocuk-3478682"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H6008A8_26HS_PN178_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:34:24+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

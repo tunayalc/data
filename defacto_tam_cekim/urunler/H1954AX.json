@@ -1,0 +1,64 @@
+{
+  "model_kodu": "H1954AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1954AXGN756",
+      "renk_kodu": "GN756",
+      "renk_adi": "D.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25520,
+          "Product Option Code": "H1954AX.GN756",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Shawl",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1954AX_26SM_GN756_01_03.jpg",
+          "FabricDetail": "SATEEN",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-desenli-saten-sal-3522317",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-desenli-saten-sal-3522317"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H1954AX_26SM_GN756_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:18:54+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-desenli-saten-sal-3522317",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

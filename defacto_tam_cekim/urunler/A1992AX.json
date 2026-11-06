@@ -1,0 +1,79 @@
+{
+  "model_kodu": "A1992AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1992AXGR367",
+      "renk_kodu": "GR367",
+      "renk_adi": "GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 211,
+          "Product Option Code": "A1992AX.GR367",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/A1992AX_24SP_GR367_01_03.jpg",
+          "FabricDetail": "3 Thread Diagonal",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 212,
+          "Product Option Code": "A1992AX.GR367",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/A1992AX_24SP_GR367_01_03.jpg",
+          "FabricDetail": "3 Thread Diagonal",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/A1992AX_24SP_GR367_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

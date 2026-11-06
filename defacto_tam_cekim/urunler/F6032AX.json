@@ -1,0 +1,101 @@
+{
+  "model_kodu": "F6032AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F6032AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "OFF WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XS",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15166,
+          "Product Option Code": "F6032AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F6032AX_25SM_WT32_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 4,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 15167,
+          "Product Option Code": "F6032AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F6032AX_25SM_WT32_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 15168,
+          "Product Option Code": "F6032AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F6032AX_25SM_WT32_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F6032AX_25SM_WT32_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

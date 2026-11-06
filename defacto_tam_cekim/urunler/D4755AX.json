@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D4755AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4755AXRD54",
+      "renk_kodu": "RD54",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7738,
+          "Product Option Code": "D4755AX.RD54",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4755AX_24AU_RD54_01_03.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-vucuda-oturan-omzu-acik-fitilli-kaskorse-kirmizi-uzun-kollu-tisort-3156322",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-vucuda-oturan-omzu-acik-fitilli-kaskorse-kirmizi-uzun-kollu-tisort-3156322"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D4755AX_24AU_RD54_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:35:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fitted-vucuda-oturan-omzu-acik-fitilli-kaskorse-kirmizi-uzun-kollu-tisort-3156322",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "model_kodu": "F8639AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 22,
+    "yorum_sayisi": 22,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-15",
+        "puan": 5.0,
+        "metin": "@Harika! Oldukça kalın, içi de yumuşacık."
+      },
+      {
+        "tarih": "2025-12-19",
+        "puan": 5.0,
+        "metin": "@Harika! Aşırı güzel."
+      },
+      {
+        "tarih": "2025-11-23",
+        "puan": 4.0,
+        "metin": "@Harika duruyor. Çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8639AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kadın Siyah Termal Külotlu Çorap",
+      "kisa_aciklama": "Kadın pamuklu termal çorap, kalın ve yumuşak yapısıyla soğuk havalarda ekstra sıcaklık sağlar. Nefes alabilen pamuklu dokusu sayesinde gün boyu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-siyah-termal-kulotlu-corap-3340312",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8639AX_NS_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8639AX_NS_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8639AX_NS_BK27_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8639AX_NS_BK27_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8639AX_NS_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8639AX_NS_BK27_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8639AX_NS_BK27_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S/M",
+          "L/XL"
+        ],
+        "excel": [
+          "L - XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L/XL Beden - 1,77cm - 82/59/88",
+        "ana_kumas_icerigi": "Poliamid 6%,Elastan 8%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "kumas": "Termal"
+      },
+      "urun_hakkinda": [
+        "Kadın pamuklu termal çorap, kalın ve yumuşak yapısıyla soğuk havalarda ekstra sıcaklık sağlar. Nefes alabilen pamuklu dokusu sayesinde gün boyu…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16475,
+          "Product Option Code": "F8639AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L - XL",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F8639AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "THERMAL",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-siyah-termal-kulotlu-corap-3340312",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-siyah-termal-kulotlu-corap-3340312"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F8639AX_NS_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:55:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

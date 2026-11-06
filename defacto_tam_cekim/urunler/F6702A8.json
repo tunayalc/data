@@ -1,0 +1,101 @@
+{
+  "model_kodu": "F6702A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F6702A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "KARMA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "23 - 28",
+          "29 - 34",
+          "35 - 39"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15486,
+          "Product Option Code": "F6702A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F6702A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 15487,
+          "Product Option Code": "F6702A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F6702A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 15488,
+          "Product Option Code": "F6702A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "35 - 39",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F6702A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 12,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F6702A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

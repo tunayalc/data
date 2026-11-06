@@ -1,0 +1,136 @@
+{
+  "model_kodu": "I0010AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0010AXRD1",
+      "renk_kodu": "RD1",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Kadın 3'lü Çiçekli Kırmızı Saç Tokası",
+      "kisa_aciklama": "Lacivert tonlarında, çiçek formunda mandallı üçlü saç aksesuarı seti. Bir adet büyük ve iki adet küçük tokadan oluşur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-3lu-cicekli-kirmizi-sac-tokasi-3478604",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0010AX_NS_RD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0010AX_NS_RD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0010AX_NS_RD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Plastik 90%,Demir 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Lacivert tonlarında, çiçek formunda mandallı üçlü saç aksesuarı seti. Bir adet büyük ve iki adet küçük tokadan oluşur."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37159,
+          "Product Option Code": "I0010AX.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "RED",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0010AX_NS_RD1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 15,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-3lu-cicekli-kirmizi-sac-tokasi-3478604",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-3lu-cicekli-kirmizi-sac-tokasi-3478604"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0010AX_NS_RD1_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0010AXNV1",
+      "renk_kodu": "NV1",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37158,
+          "Product Option Code": "I0010AX.NV1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0010AX_NS_NV1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-3lu-cicekli-lacivert-sac-tokasi-3556955",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-3lu-cicekli-kirmizi-sac-tokasi-3478604"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0010AX_NS_NV1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:39:56+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kadin-3lu-cicekli-lacivert-sac-tokasi-3556955",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

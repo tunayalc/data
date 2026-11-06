@@ -1,0 +1,86 @@
+{
+  "model_kodu": "I0615AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0615AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "OFF WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38056,
+          "Product Option Code": "I0615AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I0615AX_26HS_WT32_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com/ar-iq/fitted-baskili-ribana-beyaz-atlet-3484640",
+          "Model Page URL": "https://www.defacto.com/ar-iq/fitted-baskili-ribana-beyaz-atlet-3484640"
+        },
+        {
+          "excel_satiri": 38057,
+          "Product Option Code": "I0615AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I0615AX_26HS_WT32_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com/ar-iq/fitted-baskili-ribana-beyaz-atlet-3484640",
+          "Model Page URL": "https://www.defacto.com/ar-iq/fitted-baskili-ribana-beyaz-atlet-3484640"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I0615AX_26HS_WT32_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:41:24+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fitted-baskili-ribana-beyaz-atlet-3484640",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

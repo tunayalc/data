@@ -1,0 +1,110 @@
+{
+  "model_kodu": "H5714A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-14",
+        "puan": 5.0,
+        "metin": "@oğluşumun için aldım %100 pamuk olması ilk tercihimiz çok beğendik"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5714A8GN381",
+      "renk_kodu": "GN381",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "%100 Pamuk New Regular Fıt Bisiklet Yaka Baskılı Kısa Kollu Tişört Erkek Çocuk",
+      "kisa_aciklama": "New Regular Fıt Bisiklet Yaka Baskılı Kısa Kollu Erkek Çocuk Tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-new-regular-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-erkek-cocuk-3462267",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5714A8_26HS_GN381_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5714A8_26HS_GN381_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5714A8_26HS_GN381_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5714A8_26HS_GN381_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5714A8_26HS_GN381_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "5/6 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,28cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Baskılı",
+        "cinsiyet": "Erkek Çocuk",
+        "urun_tipi": "Kısa Kollu Tişört",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "New Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "New Regular Fıt Bisiklet Yaka Baskılı Kısa Kollu Erkek Çocuk Tişört"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30793,
+          "Product Option Code": "H5714A8.GN381",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "NEW REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H5714A8_26HS_GN381_01_02.jpg",
+          "FabricDetail": "24/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-new-regular-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-erkek-cocuk-3462267",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-new-regular-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-erkek-cocuk-3462267"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H5714A8_26HS_GN381_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:29:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

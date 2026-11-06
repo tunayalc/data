@@ -1,0 +1,79 @@
+{
+  "model_kodu": "C0129A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0129A8IN249",
+      "renk_kodu": "IN249",
+      "renk_adi": "INDIGO",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "5/6 Y",
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2953,
+          "Product Option Code": "C0129A8.IN249",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C0129A8_24SP_IN249_01_03.jpg",
+          "FabricDetail": "Cotton-Pes",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2954,
+          "Product Option Code": "C0129A8.IN249",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C0129A8_24SP_IN249_01_03.jpg",
+          "FabricDetail": "Cotton-Pes",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C0129A8_24SP_IN249_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

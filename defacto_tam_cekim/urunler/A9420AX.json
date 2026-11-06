@@ -1,0 +1,159 @@
+{
+  "model_kodu": "A9420AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A9420AXGN1114",
+      "renk_kodu": "GN1114",
+      "renk_adi": "MINT",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 991,
+          "Product Option Code": "A9420AX.GN1114",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/A9420AX_24SP_GN1114_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/A9420AX_24SP_GN1114_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A9420AXRD227",
+      "renk_kodu": "RD227",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XL",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 992,
+          "Product Option Code": "A9420AX.RD227",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/A9420AX_24SP_RD227_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 993,
+          "Product Option Code": "A9420AX.RD227",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/A9420AX_24SP_RD227_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/A9420AX_24SP_RD227_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A9420AXWT79",
+      "renk_kodu": "WT79",
+      "renk_adi": "WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 994,
+          "Product Option Code": "A9420AX.WT79",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/A9420AX_24SP_WT79_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/A9420AX_24SP_WT79_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

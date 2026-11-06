@@ -1,0 +1,135 @@
+{
+  "model_kodu": "E6168AX",
+  "urun_grubu": "Kadın Şal Eşarp",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 13,
+    "yorum_sayisi": 13,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-04-29",
+        "puan": 5.0,
+        "metin": "@1 günde teslim edildi. Fularlarımı hep Defactodan alırım, alerjik bir bünyem olduğundan dolayı kaşındıracak, tahriş edecek kumaşları kullanamıyorum. Defactonun fularları…"
+      },
+      {
+        "tarih": "2025-08-05",
+        "puan": 5.0,
+        "metin": "@Severek kullanıyorum, bayıldım."
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E6168AXPN1",
+      "renk_kodu": "PN1",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Çiçekli Saten Fular",
+      "kisa_aciklama": "Pembe çiçek desenli saten fular, şıklığınızı tamamlamak için mükemmel bir seçenek",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cicekli-saten-fular-3427576",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E6168AX_26SM_PN1_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E6168AX_26SM_PN1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E6168AX_26SM_PN1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E6168AX_26SM_PN1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,72cm - 84/61/92",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "esarp_sal_olcusu": "50x50"
+      },
+      "urun_hakkinda": [
+        "Pembe çiçek desenli saten fular, şıklığınızı tamamlamak için mükemmel bir seçenek",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11826,
+          "Product Option Code": "E6168AX.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Shawl",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E6168AX_26SM_PN1_01_03.jpg",
+          "FabricDetail": "SATEEN",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/cicekli-saten-fular-3427576",
+          "Model Page URL": "https://www.defacto.com.tr/cicekli-saten-fular-3427576"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/E6168AX_26SM_PN1_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:45:34+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

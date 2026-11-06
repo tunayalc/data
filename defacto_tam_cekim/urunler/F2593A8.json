@@ -1,0 +1,79 @@
+{
+  "model_kodu": "F2593A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F2593A8GR377",
+      "renk_kodu": "GR377",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14145,
+          "Product Option Code": "F2593A8.GR377",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F2593A8_25AU_GR377_01_03.jpg",
+          "FabricDetail": "DIAGONAL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 14146,
+          "Product Option Code": "F2593A8.GR377",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F2593A8_25AU_GR377_01_03.jpg",
+          "FabricDetail": "DIAGONAL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F2593A8_25AU_GR377_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "model_kodu": "G2043A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2043A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Pamuklu 3'lü Çorap Set Erkek Çocuk",
+      "kisa_aciklama": "Yumuşacık pamuklu dokusuyla bebeğinizin hassas cildine nazikçe temas eden bu 3'lü uzun çorap seti, gün boyu konfor sağlar. Esnek yapısı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-3lu-corap-set-erkek-cocuk-3424178",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2043A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2043A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2043A8_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2043A8_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 72%,Poliamid 25%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek Çocuk",
+        "corap_tipi": "Uzun Çorap",
+        "takim_icerigi": "3'lü",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Yumuşacık pamuklu dokusuyla bebeğinizin hassas cildine nazikçe temas eden bu 3'lü uzun çorap seti, gün boyu konfor sağlar. Esnek yapısı…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 79.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18179,
+          "Product Option Code": "G2043A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G2043A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/pamuklu-3lu-corap-set-erkek-cocuk-3500099",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/pamuklu-3lu-corap-set-erkek-cocuk-3500099"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G2043A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:58:36+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/pamuklu-3lu-corap-set-erkek-cocuk-3500099",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

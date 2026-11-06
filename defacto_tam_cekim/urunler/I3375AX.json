@@ -1,0 +1,117 @@
+{
+  "model_kodu": "I3375AX",
+  "urun_grubu": "Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3375AXRD1",
+      "renk_kodu": "RD1",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Erkek Türkiye İşlemeli Beyaz Pamuklu Şapka",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş erkek aksesuar. Beyaz ana gövde ve kırmızı siperliğe sahiptir. Ön kısımda kırmızı 'TÜRKİYE 1926' nakışı ve tepe…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-turkiye-islemeli-beyaz-pamuklu-sapka-3499217",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3375AX_26SM_RD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3375AX_26SM_RD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3375AX_26SM_RD1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3375AX_26SM_RD1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3375AX_26SM_RD1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3375AX_26SM_RD1_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_olcusu": "58 cm",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş erkek aksesuar. Beyaz ana gövde ve kırmızı siperliğe sahiptir. Ön kısımda kırmızı 'TÜRKİYE 1926' nakışı ve tepe…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41478,
+          "Product Option Code": "I3375AX.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "RED",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I3375AX_26SM_RD1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 5,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-turkiye-islemeli-beyaz-pamuklu-sapka-3499217",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-turkiye-islemeli-beyaz-pamuklu-sapka-3499217"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I3375AX_26SM_RD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:47:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

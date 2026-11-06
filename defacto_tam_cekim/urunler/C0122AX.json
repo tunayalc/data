@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C0122AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0122AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2949,
+          "Product Option Code": "C0122AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "CNS",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C0122AX_24SP_BK81_01_04.jpg",
+          "FabricDetail": "3 Thread Diagonal",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-ma/jogger-esofman-alti-basic-beli-lastikli-ayarlanabilir-lastik-pacali-cepli-3094479",
+          "Model Page URL": "https://www.defacto.com/en-ma/jogger-esofman-alti-basic-beli-lastikli-ayarlanabilir-lastik-pacali-cepli-3094479"
+        },
+        {
+          "excel_satiri": 2950,
+          "Product Option Code": "C0122AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "CNS",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C0122AX_24SP_BK81_01_04.jpg",
+          "FabricDetail": "3 Thread Diagonal",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-ma/jogger-esofman-alti-basic-beli-lastikli-ayarlanabilir-lastik-pacali-cepli-3094479",
+          "Model Page URL": "https://www.defacto.com/en-ma/jogger-esofman-alti-basic-beli-lastikli-ayarlanabilir-lastik-pacali-cepli-3094479"
+        },
+        {
+          "excel_satiri": 2951,
+          "Product Option Code": "C0122AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "CNS",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C0122AX_24SP_BK81_01_04.jpg",
+          "FabricDetail": "3 Thread Diagonal",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-ma/jogger-esofman-alti-basic-beli-lastikli-ayarlanabilir-lastik-pacali-cepli-3094479",
+          "Model Page URL": "https://www.defacto.com/en-ma/jogger-esofman-alti-basic-beli-lastikli-ayarlanabilir-lastik-pacali-cepli-3094479"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C0122AX_24SP_BK81_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:24:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/jogger-esofman-alti-basic-beli-lastikli-ayarlanabilir-lastik-pacali-cepli-3094479",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

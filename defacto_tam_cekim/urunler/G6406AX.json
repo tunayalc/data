@@ -1,0 +1,121 @@
+{
+  "model_kodu": "G6406AX",
+  "urun_grubu": "Kadın Külot",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-29",
+        "puan": 5.0,
+        "metin": "@Kaliteli ürün,100%pamuk"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6406AXBR86",
+      "renk_kodu": "BR86",
+      "renk_adi": "Gülkurusu",
+      "renk_hex": "#924363",
+      "urun_adi": "%100 Pamuk Dantel Detaylı Ribana Brazilian Külot",
+      "kisa_aciklama": "Dantel detaylı ribana Brazilian külot, yumuşak ve esnek kumaşıyla gün boyu konfor sağlar. Şık dantel detayıyla feminen ve zarif bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-dantel-detayli-ribana-brazilian-kulot-3374069",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6406AX_26SP_BR86_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6406AX_26SP_BR86_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6406AX_26SP_BR86_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6406AX_26SP_BR86_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6406AX_26SP_BR86_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6406AX_26SP_BR86_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6406AX_26SP_BR86_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6406AX_26SP_BR86_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 80/60/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Ribana",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın",
+        "ic_giyim_kategori": "Brazılıan Külot",
+        "dantel_detay": "Dantel Detaylı"
+      },
+      "urun_hakkinda": [
+        "Dantel detaylı ribana Brazilian külot, yumuşak ve esnek kumaşıyla gün boyu konfor sağlar. Şık dantel detayıyla feminen ve zarif bir…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20239,
+          "Product Option Code": "G6406AX.BR86",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "S",
+          "Fit": "BRAZILLIAN",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6406AX_26SP_BR86_01_03.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-dantel-detayli-ribana-brazilian-kulot-3443837",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-dantel-detayli-ribana-brazilian-kulot-3443837"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6406AX_26SP_BR86_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:04:34+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-dantel-detayli-ribana-brazilian-kulot-3443837",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

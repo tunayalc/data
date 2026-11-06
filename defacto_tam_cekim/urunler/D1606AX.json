@@ -1,0 +1,79 @@
+{
+  "model_kodu": "D1606AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1606AXBR115",
+      "renk_kodu": "BR115",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6538,
+          "Product Option Code": "D1606AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/D1606AX_25WN_BR115_01_01.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6539,
+          "Product Option Code": "D1606AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/D1606AX_25WN_BR115_01_01.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/D1606AX_25WN_BR115_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

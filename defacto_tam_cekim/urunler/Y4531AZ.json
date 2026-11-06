@@ -1,0 +1,57 @@
+{
+  "model_kodu": "Y4531AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y4531AZER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48322,
+          "Product Option Code": "Y4531AZ.ER105",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SP/Y4531AZ_23SP_ER105_01_03.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SP/Y4531AZ_23SP_ER105_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

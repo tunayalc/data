@@ -1,0 +1,130 @@
+{
+  "model_kodu": "C5532AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C5532AXBE503",
+      "renk_kodu": "BE503",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4664,
+          "Product Option Code": "C5532AX.BE503",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "34",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C5532AX_24SM_BE503_01_02.jpg",
+          "FabricDetail": "TWEED",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/ar-iq/sort-3097384",
+          "Model Page URL": "https://www.defacto.com/ar-iq/sort-3097384"
+        },
+        {
+          "excel_satiri": 4665,
+          "Product Option Code": "C5532AX.BE503",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "36",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C5532AX_24SM_BE503_01_02.jpg",
+          "FabricDetail": "TWEED",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/ar-iq/sort-3097384",
+          "Model Page URL": "https://www.defacto.com/ar-iq/sort-3097384"
+        },
+        {
+          "excel_satiri": 4666,
+          "Product Option Code": "C5532AX.BE503",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "38",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C5532AX_24SM_BE503_01_02.jpg",
+          "FabricDetail": "TWEED",
+          "Toplam": 7,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/ar-iq/sort-3097384",
+          "Model Page URL": "https://www.defacto.com/ar-iq/sort-3097384"
+        },
+        {
+          "excel_satiri": 4667,
+          "Product Option Code": "C5532AX.BE503",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "40",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C5532AX_24SM_BE503_01_02.jpg",
+          "FabricDetail": "TWEED",
+          "Toplam": 5,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/ar-iq/sort-3097384",
+          "Model Page URL": "https://www.defacto.com/ar-iq/sort-3097384"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C5532AX_24SM_BE503_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:26:57+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/sort-3097384",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "model_kodu": "I4284AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4284AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Boncuk ve Taş Detaylı 3'lü Kolye Seti",
+      "kisa_aciklama": "Üçlü kolye seti. Metalik bitişli silindir boncuklar, fasetli koyu renkli taşlar ve yıldız figürlü detaylar. Zincir ve ince ip kordon…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-boncuk-ve-tas-detayli-3lu-kolye-seti-3510227",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4284AX_NS_KR1_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 90%,Poliester 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Kolye",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Üçlü kolye seti. Metalik bitişli silindir boncuklar, fasetli koyu renkli taşlar ve yıldız figürlü detaylar. Zincir ve ince ip kordon…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42562,
+          "Product Option Code": "I4284AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4284AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 6,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-boncuk-ve-tas-detayli-3lu-kolye-seti-3510227",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-boncuk-ve-tas-detayli-3lu-kolye-seti-3510227"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4284AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:49:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "model_kodu": "B1750AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B1750AXKH210",
+      "renk_kodu": "KH210",
+      "renk_adi": "Khaki",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1249,
+          "Product Option Code": "B1750AX.KH210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Pullover",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B1750AX_23WN_KH210_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 1250,
+          "Product Option Code": "B1750AX.KH210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Pullover",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B1750AX_23WN_KH210_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 0,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/B1750AX_23WN_KH210_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "model_kodu": "H5132AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-28",
+        "puan": 5.0,
+        "metin": "@ben eşime aldım çok beğendi biraz bol durmasını istiyorsanız ve omuz yapınız varsa bir beden büyük alinabilir"
+      },
+      {
+        "tarih": "2026-07-30",
+        "puan": 5.0,
+        "metin": "@ince ve keten gibi içeriği pamuk yazıyor ama polyester gibi kaygan bir ürün kalıbı tam"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5132AXBN581",
+      "renk_kodu": "BN581",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Regular Fıt Pamuklu Kareli Uzun Kollu Kareli Kahverengi Gömlek",
+      "kisa_aciklama": "Kareli desenli, regular fit kalıba sahip pamuklu uzun kollu gömlek. Günlük ve şık kombinleriniz için konforlu kullanım sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-pamuklu-kareli-uzun-kollu-kareli-kahverengi-gomlek-3445491",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5132AX_26SM_BN581_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5132AX_26SM_BN581_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5132AX_26SM_BN581_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5132AX_26SM_BN581_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5132AX_26SM_BN581_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5132AX_26SM_BN581_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5132AX_26SM_BN581_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5132AX_26SM_BN581_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 94%,Poliester 6%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Kareli",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "yaka": "Gömlek Yaka",
+        "cinsiyet": "Erkek",
+        "kumas": "Keten Karışımlı",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Kareli desenli, regular fit kalıba sahip pamuklu uzun kollu gömlek. Günlük ve şık kombinleriniz için konforlu kullanım sunar."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29844,
+          "Product Option Code": "H5132AX.BN581",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5132AX_26SM_BN581_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-pamuklu-kareli-uzun-kollu-kareli-kahverengi-gomlek-3445491",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-pamuklu-kareli-uzun-kollu-kareli-kahverengi-gomlek-3445491"
+        },
+        {
+          "excel_satiri": 29845,
+          "Product Option Code": "H5132AX.BN581",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5132AX_26SM_BN581_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-pamuklu-kareli-uzun-kollu-kareli-kahverengi-gomlek-3445491",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-pamuklu-kareli-uzun-kollu-kareli-kahverengi-gomlek-3445491"
+        },
+        {
+          "excel_satiri": 29846,
+          "Product Option Code": "H5132AX.BN581",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5132AX_26SM_BN581_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-pamuklu-kareli-uzun-kollu-kareli-kahverengi-gomlek-3445491",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-pamuklu-kareli-uzun-kollu-kareli-kahverengi-gomlek-3445491"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H5132AX_26SM_BN581_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:27:41+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

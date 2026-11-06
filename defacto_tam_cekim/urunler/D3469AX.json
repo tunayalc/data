@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D3469AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D3469AXRD93",
+      "renk_kodu": "RD93",
+      "renk_adi": "LT.RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "40",
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7101,
+          "Product Option Code": "D3469AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "34",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3469AX_24HS_RD93_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-normal-bel-kisa-paca-poplin-sort-3148515",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-normal-bel-kisa-paca-poplin-sort-3148515"
+        },
+        {
+          "excel_satiri": 7102,
+          "Product Option Code": "D3469AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "36",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3469AX_24HS_RD93_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-normal-bel-kisa-paca-poplin-sort-3148515",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-normal-bel-kisa-paca-poplin-sort-3148515"
+        },
+        {
+          "excel_satiri": 7103,
+          "Product Option Code": "D3469AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "40",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3469AX_24HS_RD93_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-normal-bel-kisa-paca-poplin-sort-3148515",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-normal-bel-kisa-paca-poplin-sort-3148515"
+        },
+        {
+          "excel_satiri": 7104,
+          "Product Option Code": "D3469AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "44",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3469AX_24HS_RD93_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-normal-bel-kisa-paca-poplin-sort-3148515",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-normal-bel-kisa-paca-poplin-sort-3148515"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D3469AX_24HS_RD93_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:32:44+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-normal-bel-kisa-paca-poplin-sort-3148515",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

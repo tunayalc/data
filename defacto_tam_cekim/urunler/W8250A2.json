@@ -1,0 +1,57 @@
+{
+  "model_kodu": "W8250A2",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "W8250A2PN361",
+      "renk_kodu": "PN361",
+      "renk_adi": "NEON PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "6-9 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47387,
+          "Product Option Code": "W8250A2.PN361",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimsuit",
+          "Product Color Name": "NEON PINK",
+          "SizeDefinition": "6-9 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/W8250A2_22SM_PN361_01_01.jpg",
+          "FabricDetail": "RACHEL",
+          "Toplam": 2,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 19.99,
+          "Product Color HEX": "#FF52A8",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/W8250A2_22SM_PN361_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

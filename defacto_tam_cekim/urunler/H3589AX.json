@@ -1,0 +1,98 @@
+{
+  "model_kodu": "H3589AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3589AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Küpe",
+      "kisa_aciklama": "İçi boş tasarımlı, kalın halka küpe. Parlak metal yüzeye sahip.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-kupe-3443128",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3589AX_NS_GD1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3589AX_NS_GD1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3589AX_NS_GD1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3589AX_NS_GD1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3589AX_NS_GD1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Metal 60%, 40%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Küpe"
+      },
+      "urun_hakkinda": [
+        "İçi boş tasarımlı, kalın halka küpe. Parlak metal yüzeye sahip."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27512,
+          "Product Option Code": "H3589AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3589AX_NS_GD1_01_02.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com/en-ma/kadin-kupe-3443128",
+          "Model Page URL": "https://www.defacto.com/en-ma/kadin-3443129"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3589AX_NS_GD1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:23:05+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kadin-3443129",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

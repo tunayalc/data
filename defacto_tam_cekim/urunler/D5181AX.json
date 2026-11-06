@@ -1,0 +1,135 @@
+{
+  "model_kodu": "D5181AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5181AXRD93",
+      "renk_kodu": "RD93",
+      "renk_adi": "LT.RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XS",
+          "XXS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7882,
+          "Product Option Code": "D5181AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5181AX_24AU_RD93_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/en-iq/fitted-vucuda-oturan-waffle-basic-tisort-3156690",
+          "Model Page URL": "https://www.defacto.com/en-iq/fitted-vucuda-oturan-waffle-basic-tisort-3156689"
+        },
+        {
+          "excel_satiri": 7883,
+          "Product Option Code": "D5181AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5181AX_24AU_RD93_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/en-iq/fitted-vucuda-oturan-waffle-basic-tisort-3156690",
+          "Model Page URL": "https://www.defacto.com/en-iq/fitted-vucuda-oturan-waffle-basic-tisort-3156689"
+        },
+        {
+          "excel_satiri": 7884,
+          "Product Option Code": "D5181AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5181AX_24AU_RD93_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 4,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/en-iq/fitted-vucuda-oturan-waffle-basic-tisort-3156690",
+          "Model Page URL": "https://www.defacto.com/en-iq/fitted-vucuda-oturan-waffle-basic-tisort-3156689"
+        },
+        {
+          "excel_satiri": 7885,
+          "Product Option Code": "D5181AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "XXS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5181AX_24AU_RD93_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/en-iq/fitted-vucuda-oturan-waffle-basic-tisort-3156690",
+          "Model Page URL": "https://www.defacto.com/en-iq/fitted-vucuda-oturan-waffle-basic-tisort-3156689"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D5181AX_24AU_RD93_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:35:43+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fitted-vucuda-oturan-waffle-basic-tisort-3156690",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/fitted-vucuda-oturan-waffle-basic-tisort-3156689",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

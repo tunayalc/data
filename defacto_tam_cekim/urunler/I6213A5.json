@@ -1,0 +1,86 @@
+{
+  "model_kodu": "I6213A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I6213A5BN333",
+      "renk_kodu": "BN333",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "4/5 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43665,
+          "Product Option Code": "I6213A5.BN333",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6213A5_26HS_BN333_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-cizgili-bagcikli-regular-fit-kalin-kumas-pantolon-erkek-bebek-3592938",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-cizgili-bagcikli-regular-fit-kalin-kumas-pantolon-erkek-bebek-3592938"
+        },
+        {
+          "excel_satiri": 43666,
+          "Product Option Code": "I6213A5.BN333",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6213A5_26HS_BN333_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-cizgili-bagcikli-regular-fit-kalin-kumas-pantolon-erkek-bebek-3592938",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-cizgili-bagcikli-regular-fit-kalin-kumas-pantolon-erkek-bebek-3592938"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I6213A5_26HS_BN333_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:51:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-cizgili-bagcikli-regular-fit-kalin-kumas-pantolon-erkek-bebek-3592938",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

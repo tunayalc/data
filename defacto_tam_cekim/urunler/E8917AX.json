@@ -1,0 +1,64 @@
+{
+  "model_kodu": "E8917AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8917AXBR170",
+      "renk_kodu": "BR170",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12725,
+          "Product Option Code": "E8917AX.BR170",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E8917AX_25AU_BR170_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.eg/airtech-nba-chicago-bulls-standart-fit-cepli-jogger-paca-pantolon-3342597",
+          "Model Page URL": "https://www.defacto.com.eg/airtech-nba-chicago-bulls-standart-fit-cepli-jogger-paca-pantolon-3342597"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E8917AX_25AU_BR170_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:47:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/airtech-nba-chicago-bulls-standart-fit-cepli-jogger-paca-pantolon-3342597",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D4578AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4578AXNM87",
+      "renk_kodu": "NM87",
+      "renk_adi": "LT.KHAKI",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "32",
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7694,
+          "Product Option Code": "D4578AX.NM87",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "32",
+          "Fit": "SKIRT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4578AX_24HS_NM87_01_03.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com/en-ma/yuksek-bel-jean-sort-etek-3159019",
+          "Model Page URL": "https://www.defacto.com/en-ma/yuksek-bel-jean-sort-etek-3159019"
+        },
+        {
+          "excel_satiri": 7695,
+          "Product Option Code": "D4578AX.NM87",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "36",
+          "Fit": "SKIRT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4578AX_24HS_NM87_01_03.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com/en-ma/yuksek-bel-jean-sort-etek-3159019",
+          "Model Page URL": "https://www.defacto.com/en-ma/yuksek-bel-jean-sort-etek-3159019"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4578AX_24HS_NM87_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:34:52+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/yuksek-bel-jean-sort-etek-3159019",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "model_kodu": "F7635AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F7635AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15751,
+          "Product Option Code": "F7635AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F7635AX_25AU_BK81_01_03.jpg",
+          "FabricDetail": "INTERLOCK DOUBLE FACE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/standart-fit-dik-yaka-fermuarli-sweatshirt-3396006",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/standart-fit-dik-yaka-fermuarli-sweatshirt-3396006"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F7635AX_25AU_BK81_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:54:03+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-sweatshirt-3396006",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

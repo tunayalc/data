@@ -1,0 +1,64 @@
+{
+  "model_kodu": "F2711A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F2711A8BE829",
+      "renk_kodu": "BE829",
+      "renk_adi": "DARK BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "7/8 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14167,
+          "Product Option Code": "F2711A8.BE829",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "DARK BLUE",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F2711A8_25AU_BE829_01_02.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/oversize-genis-kalip-polo-yaka-nakisli-uzun-kollu-okul-tisortu-erkek-cocuk-3395886",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/oversize-genis-kalip-polo-yaka-nakisli-uzun-kollu-okul-tisortu-erkek-cocuk-3395886"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F2711A8_25AU_BE829_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:51:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/oversize-genis-kalip-polo-yaka-nakisli-uzun-kollu-okul-tisortu-erkek-cocuk-3395886",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

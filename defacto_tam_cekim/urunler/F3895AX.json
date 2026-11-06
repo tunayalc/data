@@ -1,0 +1,712 @@
+{
+  "model_kodu": "F3895AX",
+  "urun_grubu": "Kadın Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 51,
+    "yorum_sayisi": 51,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 32.4,
+      "tam_oldu": 61.8,
+      "buyuk_geldi": 5.9
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-09-19",
+        "puan": 5.0,
+        "metin": "@Rengine aşık oldum. Tam acı kahve, bitter. Çok yumuşak tuşesi var. kendi bedeninizi alırsanız biraz bol olacaktır kollar ve koltuk…"
+      },
+      {
+        "tarih": "2026-10-03",
+        "puan": 3.0,
+        "metin": "@Görseldeki gibi çikolata kahve değil, daha açık sıcak tonda bir kahve. Orta kalınlıkta. Görseldeki kadar tok durmuyor.İndirimde alınır."
+      },
+      {
+        "tarih": "2026-05-20",
+        "puan": 5.0,
+        "metin": "@Tesettüre uygundur diye düşündüm ama maalesefuygun değil o yüzden iade ettim ürün tam beden"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3895AXAR104",
+      "renk_kodu": "AR104",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Oversize Bisiklet Yaka Düşük Omuzlu Basic Triko Kazak",
+      "kisa_aciklama": "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3323057",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_AR104_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_AR104_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_AR104_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_AR104_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_AR104_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_AR104_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_AR104_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,81cm - 83/58/90",
+        "ana_kumas_icerigi": "Akrilik 75%,Poliester 25%",
+        "marka": "Defacto",
+        "mensei": "MA",
+        "cinsiyet": "Kadın",
+        "kumas": "Triko",
+        "kol_boyu": "Uzun Kollu",
+        "triko_kalinligi": "Orta Kalın",
+        "kalip": "Oversıze",
+        "urun_tipi": "Kazak"
+      },
+      "urun_hakkinda": [
+        "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14558,
+          "Product Option Code": "F3895AX.AR104",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F3895AX_25WN_AR104_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3323057",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3323054"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F3895AX_25WN_AR104_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F3895AXBN214",
+      "renk_kodu": "BN214",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Oversize Bisiklet Yaka Düşük Omuzlu Basic Triko Kazak",
+      "kisa_aciklama": "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3323055",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_BN214_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_BN214_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_BN214_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_BN214_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,79cm - 81/59/88",
+        "ana_kumas_icerigi": "Akrilik 75%,Poliester 25%",
+        "marka": "Defacto",
+        "mensei": "MA",
+        "urun_tipi": "Kazak",
+        "triko_kalinligi": "Orta Kalın",
+        "kalip": "Oversıze",
+        "kumas": "Triko",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14559,
+          "Product Option Code": "F3895AX.BN214",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F3895AX_25WN_BN214_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3323055",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3323054"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F3895AX_25WN_BN214_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F3895AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Oversize Bisiklet Yaka Düşük Omuzlu Basic Triko Kazak",
+      "kisa_aciklama": "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3323054",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_ER105_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_ER105_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_ER105_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_25WN_ER105_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 82/59/89",
+        "ana_kumas_icerigi": "Akrilik 75%,Poliester 25%",
+        "marka": "Defacto",
+        "mensei": "MA",
+        "cinsiyet": "Kadın",
+        "triko_kalinligi": "Orta Kalın",
+        "kol_boyu": "Uzun Kollu",
+        "kumas": "Triko",
+        "kalip": "Oversıze",
+        "urun_tipi": "Kazak"
+      },
+      "urun_hakkinda": [
+        "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F3895AXBE505",
+      "renk_kodu": "BE505",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Oversize Bisiklet Yaka Düşük Omuzlu Basic Triko Kazak",
+      "kisa_aciklama": "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3376026",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BE505_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BE505_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BE505_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BE505_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BE505_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 76/60/89",
+        "ana_kumas_icerigi": "Akrilik 75%,Poliester 25%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Kazak",
+        "triko_kalinligi": "Orta Kalın",
+        "kalip": "Oversıze",
+        "cinsiyet": "Kadın",
+        "kumas": "Triko"
+      },
+      "urun_hakkinda": [
+        "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F3895AXBG373",
+      "renk_kodu": "BG373",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Oversize Bisiklet Yaka Düşük Omuzlu Basic Triko Kazak",
+      "kisa_aciklama": "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3442070",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BG373_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BG373_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BG373_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BG373_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BG373_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Akrilik 80%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "triko_kalinligi": "Orta Kalın",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Kazak",
+        "kalip": "Oversıze",
+        "cinsiyet": "Kadın",
+        "kumas": "Triko"
+      },
+      "urun_hakkinda": [
+        "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F3895AXBR452",
+      "renk_kodu": "BR452",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Oversize Bisiklet Yaka Düşük Omuzlu Basic Triko Kazak",
+      "kisa_aciklama": "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3497584",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BR452_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BR452_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BR452_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BR452_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,73cm - 82/60/89",
+        "ana_kumas_icerigi": "Akrilik 80%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Oversıze",
+        "kol_boyu": "Uzun Kollu",
+        "triko_kalinligi": "Orta Kalın",
+        "kumas": "Triko",
+        "urun_tipi": "Kazak",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F3895AXBN303",
+      "renk_kodu": "BN303",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Oversize Bisiklet Yaka Düşük Omuzlu Basic Triko Kazak",
+      "kisa_aciklama": "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3376025",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BN303_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BN303_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BN303_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BN303_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26SP_BN303_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,79cm - 85/60/90",
+        "ana_kumas_icerigi": "Akrilik 75%,Poliester 25%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "triko_kalinligi": "Orta Kalın",
+        "urun_tipi": "Kazak",
+        "kumas": "Triko",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Oversıze",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F3895AXBN297",
+      "renk_kodu": "BN297",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Oversize Bisiklet Yaka Düşük Omuzlu Basic Triko Kazak",
+      "kisa_aciklama": "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-dusuk-omuzlu-basic-triko-kazak-3442069",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BN297_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BN297_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BN297_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BN297_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_BN297_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Akrilik 80%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Oversıze",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "kumas": "Triko",
+        "triko_kalinligi": "Orta Kalın",
+        "urun_tipi": "Kazak"
+      },
+      "urun_hakkinda": [
+        "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F3895AXNV131",
+      "renk_kodu": "NV131",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Oversıze Bisiklet Yaka Triko Bordo Kazak",
+      "kisa_aciklama": "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-triko-bordo-kazak-3497583",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_NV131_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_NV131_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_NV131_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_NV131_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3895AX_26WN_NV131_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 80%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kazak",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu",
+        "triko_kalinligi": "Orta Kalın",
+        "kalip": "Oversıze",
+        "kumas": "Triko"
+      },
+      "urun_hakkinda": [
+        "Oversize bisiklet yaka kazak. Düşük omuz detaylı. Yaka, kol ağzı ve etek ucu fitilli bitişli. Kırçıllı doku."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:45:43+03:00",
+    "denenen_sayfa": 9,
+    "dogrulanan_renk": 9
+  }
+}

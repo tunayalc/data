@@ -1,0 +1,136 @@
+{
+  "model_kodu": "F8142AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-17",
+        "puan": 5.0,
+        "metin": "@Yaka ve kollar güzel, young olduğu için bir beden büyük alınabilir."
+      },
+      {
+        "tarih": "2026-06-09",
+        "puan": 5.0,
+        "metin": "@Diğer renklerinden de aldım geniş kalıp güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8142AXPN287",
+      "renk_kodu": "PN287",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Pamuklu Nefes Alabilen Loose Fit Baskılı Tişört",
+      "kisa_aciklama": "Nefes Alabilir Nefes Alabilen Baskılı Tişört, özel dokulu kumaş teknolojisi sayesinde hava sirkülasyonunu maksimuma çıkararak en hareketli günlerde bile ferah…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-loose-fit-baskili-tisort-3376145",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8142AX_26SP_PN287_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8142AX_26SP_PN287_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8142AX_26SP_PN287_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8142AX_26SP_PN287_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,82cm - 95/80/97",
+        "ana_kumas_icerigi": "Pamuk 79%,Poliester 21%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kol_boyu": "Kısa Kollu",
+        "desen": "Baskılı",
+        "kalip": "Loose Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Nefes Alabilir Nefes Alabilen Baskılı Tişört, özel dokulu kumaş teknolojisi sayesinde hava sirkülasyonunu maksimuma çıkararak en hareketli günlerde bile ferah…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16061,
+          "Product Option Code": "F8142AX.PN287",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8142AX_26SP_PN287_01_02.jpg",
+          "FabricDetail": "INTERLOCK DOUBLE FACE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-loose-fit-baskili-tisort-3376145",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-loose-fit-baskili-tisort-3376145"
+        },
+        {
+          "excel_satiri": 16062,
+          "Product Option Code": "F8142AX.PN287",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8142AX_26SP_PN287_01_02.jpg",
+          "FabricDetail": "INTERLOCK DOUBLE FACE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-loose-fit-baskili-tisort-3376145",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-loose-fit-baskili-tisort-3376145"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8142AX_26SP_PN287_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:51:26+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

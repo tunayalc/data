@@ -1,0 +1,161 @@
+{
+  "model_kodu": "I5803AX",
+  "urun_grubu": "Kadın Cüzdan",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-21",
+        "puan": 5.0,
+        "metin": "@Harikaa"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I5803AXGN2",
+      "renk_kodu": "GN2",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "Kadın Bozuk Para Çantası",
+      "kisa_aciklama": "Kadın çanta.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-bozuk-para-cantasi-3515837",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I5803AX_NS_GN2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5803AX_NS_GN2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5803AX_NS_GN2_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5803AX_NS_GN2_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_olcusu": "2*7*10",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Mini Çanta",
+        "canta_tipi": "Bozuk Para Çantası"
+      },
+      "urun_hakkinda": [
+        "Kadın çanta."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43472,
+          "Product Option Code": "I5803AX.GN2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Small Acc",
+          "LifeStyle": "Casual",
+          "Class Name": "Mini Bag",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I5803AX_NS_GN2_01_01.jpg",
+          "FabricDetail": "POLYURETHANE",
+          "Toplam": 3,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-bozuk-para-cantasi-3515837",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-bozuk-para-cantasi-3515837"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I5803AX_NS_GN2_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I5803AXPN2",
+      "renk_kodu": "PN2",
+      "renk_adi": "LT.PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43473,
+          "Product Option Code": "I5803AX.PN2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Small Acc",
+          "LifeStyle": "Casual",
+          "Class Name": "Mini Bag",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I5803AX_NS_PN2_01_01.jpg",
+          "FabricDetail": "POLYURETHANE",
+          "Toplam": 2,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-bozuk-para-cantasi-3515837"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I5803AX_NS_PN2_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:50:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "model_kodu": "X7895A2",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "X7895A2RD40",
+      "renk_kodu": "RD40",
+      "renk_adi": "LT.CORAL",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47845,
+          "Product Option Code": "X7895A2.RD40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Set",
+          "Product Color Name": "LT.CORAL",
+          "SizeDefinition": "12-18 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/X7895A2_22SM_RD40_01_03.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 39.99,
+          "Product Color HEX": "#F57562",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/X7895A2_22SM_RD40_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

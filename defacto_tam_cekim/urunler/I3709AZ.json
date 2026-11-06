@@ -1,0 +1,64 @@
+{
+  "model_kodu": "I3709AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3709AZBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41885,
+          "Product Option Code": "I3709AZ.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "44",
+          "Fit": "HAREM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/I3709AZ_24SM_BK27_01_03.jpg",
+          "FabricDetail": "VISKON",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-ma/harem-yuksek-bel-pantolon-3083310",
+          "Model Page URL": "https://www.defacto.com/en-ma/harem-yuksek-bel-pantolon-3083310"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/I3709AZ_24SM_BK27_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:48:05+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/harem-yuksek-bel-pantolon-3083310",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

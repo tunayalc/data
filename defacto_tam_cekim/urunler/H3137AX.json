@@ -1,0 +1,101 @@
+{
+  "model_kodu": "H3137AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-14",
+        "puan": 5.0,
+        "metin": "@çooook tatlı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3137AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Çiçekli 7'li Pamuklu Patik Çorap",
+      "kisa_aciklama": "Kadın Çiçekli 7'li Pamuklu Patik Çorap",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-cicekli-7li-pamuklu-patik-corap-3427566",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3137AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3137AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3137AX_NS_KR1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3137AX_NS_KR1_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 73%,Poliamid 25%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Patik Çorap",
+        "takim_icerigi": "7'li",
+        "cinsiyet": "Kadın",
+        "desen": "Çiçekli",
+        "kumas": "Pamuklu",
+        "urun_tipi": "Kısa Çorap"
+      },
+      "urun_hakkinda": [
+        "Kadın Çiçekli 7'li Pamuklu Patik Çorap",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27020,
+          "Product Option Code": "H3137AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "36-40",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3137AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-cicekli-7li-pamuklu-patik-corap-3427566",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-cicekli-7li-pamuklu-patik-corap-3427566"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3137AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:21:55+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

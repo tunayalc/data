@@ -1,0 +1,101 @@
+{
+  "model_kodu": "F6238AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F6238AXRD51",
+      "renk_kodu": "RD51",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3XL",
+          "XL",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15314,
+          "Product Option Code": "F6238AX.RD51",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "RED",
+          "SizeDefinition": "3XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F6238AX_25HS_RD51_01_03.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 15315,
+          "Product Option Code": "F6238AX.RD51",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F6238AX_25HS_RD51_01_03.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 15316,
+          "Product Option Code": "F6238AX.RD51",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F6238AX_25HS_RD51_01_03.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/F6238AX_25HS_RD51_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

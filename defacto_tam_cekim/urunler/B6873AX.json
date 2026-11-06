@@ -1,0 +1,79 @@
+{
+  "model_kodu": "B6873AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B6873AXGR454",
+      "renk_kodu": "GR454",
+      "renk_adi": "LT.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2196,
+          "Product Option Code": "B6873AX.GR454",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "40",
+          "Fit": "STRAIGHT FIT CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B6873AX_23WN_GR454_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2197,
+          "Product Option Code": "B6873AX.GR454",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "42",
+          "Fit": "STRAIGHT FIT CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B6873AX_23WN_GR454_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/B6873AX_23WN_GR454_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

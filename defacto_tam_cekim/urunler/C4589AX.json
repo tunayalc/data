@@ -1,0 +1,130 @@
+{
+  "model_kodu": "C4589AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4589AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4318,
+          "Product Option Code": "C4589AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4589AX_24SM_ER105_01_02.jpg",
+          "FabricDetail": "STRUCTURE",
+          "Toplam": 3,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/crop-halter-yaka-atlet-3109081",
+          "Model Page URL": "https://www.defacto.com/crop-halter-yaka-atlet-3109081"
+        },
+        {
+          "excel_satiri": 4319,
+          "Product Option Code": "C4589AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4589AX_24SM_ER105_01_02.jpg",
+          "FabricDetail": "STRUCTURE",
+          "Toplam": 3,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/crop-halter-yaka-atlet-3109081",
+          "Model Page URL": "https://www.defacto.com/crop-halter-yaka-atlet-3109081"
+        },
+        {
+          "excel_satiri": 4320,
+          "Product Option Code": "C4589AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4589AX_24SM_ER105_01_02.jpg",
+          "FabricDetail": "STRUCTURE",
+          "Toplam": 3,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/crop-halter-yaka-atlet-3109081",
+          "Model Page URL": "https://www.defacto.com/crop-halter-yaka-atlet-3109081"
+        },
+        {
+          "excel_satiri": 4321,
+          "Product Option Code": "C4589AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4589AX_24SM_ER105_01_02.jpg",
+          "FabricDetail": "STRUCTURE",
+          "Toplam": 3,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/crop-halter-yaka-atlet-3109081",
+          "Model Page URL": "https://www.defacto.com/crop-halter-yaka-atlet-3109081"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C4589AX_24SM_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:26:31+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/crop-halter-yaka-atlet-3109081",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

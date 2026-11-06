@@ -1,0 +1,55 @@
+{
+  "model_kodu": "CRG0001",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "CRG0001KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "KARMA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5901,
+          "Product Option Code": "CRG0001.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Non-Commercial",
+          "Sub Division Name": "Non-Commercial",
+          "Buyer Group Name": "Non-Commercial",
+          "LifeStyle": "Non-Commercial",
+          "Class Name": "Non-Commercial",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 0.1,
+          "Actual Price Value": 0.1,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

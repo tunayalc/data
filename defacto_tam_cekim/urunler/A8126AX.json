@@ -1,0 +1,57 @@
+{
+  "model_kodu": "A8126AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A8126AXBG187",
+      "renk_kodu": "BG187",
+      "renk_adi": "SAND",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 810,
+          "Product Option Code": "A8126AX.BG187",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Capri",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "38",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/A8126AX_23SM_BG187_01_01.jpg",
+          "FabricDetail": "LINEN LOOK",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/A8126AX_23SM_BG187_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

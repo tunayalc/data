@@ -1,0 +1,57 @@
+{
+  "model_kodu": "W8689AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "W8689AZGR93",
+      "renk_kodu": "GR93",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47391,
+          "Product Option Code": "W8689AZ.GR93",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Young",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "T-SHIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22AU/W8689AZ_22AU_GR93_01_06.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22AU/W8689AZ_22AU_GR93_01_06.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

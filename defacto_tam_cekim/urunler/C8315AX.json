@@ -1,0 +1,123 @@
+{
+  "model_kodu": "C8315AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 19,
+    "yorum_sayisi": 19,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 25.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-10",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre kalitesi gayet iyi, çok hoşuma gitti. Eşim için almıştım, teşekkürler #eskatekakşapları #."
+      },
+      {
+        "tarih": "2025-08-05",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Hediye olarak almıştım, beğenildi. Görseldekiyle aynı geldi, teşekkürler."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8315AXER42",
+      "renk_kodu": "ER42",
+      "renk_adi": "Açık Taş",
+      "renk_hex": "#CBC6BA",
+      "urun_adi": "Regular Fit Yazlık Polo Yaka Çizgili Pamuklu Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit polo yaka çizgili pamuklu yazlık kısa kollu gömlek, hafif ve nefes alabilir pamuklu kumaşıyla yaz aylarında konfor sağlar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-baskili-pamuklu-kisa-kollu-gomlek-3211048",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8315AX_25SP_ER42_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8315AX_25SP_ER42_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8315AX_25SP_ER42_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8315AX_25SP_ER42_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8315AX_25SP_ER42_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Pamuk 48%,Poliester 52%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Baskılı",
+        "kumas": "Pamuklu",
+        "yaka": "Polo Yaka",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit polo yaka çizgili pamuklu yazlık kısa kollu gömlek, hafif ve nefes alabilir pamuklu kumaşıyla yaz aylarında konfor sağlar.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5431,
+          "Product Option Code": "C8315AX.ER42",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.STONE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C8315AX_25SP_ER42_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#CBC6BA",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-baskili-pamuklu-kisa-kollu-gomlek-3211048",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-baskili-pamuklu-kisa-kollu-gomlek-3211048"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/C8315AX_25SP_ER42_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:24:59+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

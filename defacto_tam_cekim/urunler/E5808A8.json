@@ -1,0 +1,460 @@
+{
+  "model_kodu": "E5808A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 29,
+    "yorum_sayisi": 29,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 55.6,
+      "buyuk_geldi": 11.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-06",
+        "puan": 5.0,
+        "metin": "@rengi güzel . biraz bedeni büyük"
+      },
+      {
+        "tarih": "2025-12-14",
+        "puan": 5.0,
+        "metin": "@Harika! Kızım çok beğendi, cosplay yapmak için almıştı."
+      },
+      {
+        "tarih": "2025-06-23",
+        "puan": 5.0,
+        "metin": "@İnce kumaşlı, biz plajda giymek için aldık ama aldıktan 3 gün sonra 100 TL indirime girdi, pişman olduk."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5808A8BE412",
+      "renk_kodu": "BE412",
+      "renk_adi": "Saks",
+      "renk_hex": "#0263C3",
+      "urun_adi": "%100 Pamuk A Kesim Kolsuz Yazlık Elbise Kız Çocuk",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş kolsuz kız çocuk elbise. Kolsuz, pembe pamuklu elbise. Büzgülü yaka ve ince askı detaylı. Düz kesim ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-a-kesim-kolsuz-yazlik-elbise-kiz-cocuk-3257664",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_BE412_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_BE412_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_BE412_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_BE412_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_BE412_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)"
+        ],
+        "excel": [
+          "5/6 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,27cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "kol_boyu": "Kolsuz",
+        "kalip": "A Kesim",
+        "urun_tipi": "Elbise",
+        "ozel_urun": "Günlük",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş kolsuz kız çocuk elbise. Kolsuz, pembe pamuklu elbise. Büzgülü yaka ve ince askı detaylı. Düz kesim ve…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11742,
+          "Product Option Code": "E5808A8.BE412",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "SAX",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/E5808A8_25HS_BE412_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0263C3",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-a-kesim-kolsuz-yazlik-elbise-kiz-cocuk-3257664",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/E5808A8_25HS_BE412_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E5808A8PN657",
+      "renk_kodu": "PN657",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "%100 Pamuk Kolsuz Elbise Kız Çocuk",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş kolsuz kız çocuk elbise. Kolsuz, pembe pamuklu elbise. Büzgülü yaka ve ince askı detaylı. Düz kesim ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5808A8_26HS_PN657_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_26HS_PN657_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_26HS_PN657_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_26HS_PN657_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_26HS_PN657_05_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,35cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kolsuz",
+        "kalip": "A Kesim",
+        "kumas": "Pamuklu",
+        "urun_tipi": "Elbise",
+        "ozel_urun": "Günlük",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş kolsuz kız çocuk elbise. Kolsuz, pembe pamuklu elbise. Büzgülü yaka ve ince askı detaylı. Düz kesim ve…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11743,
+          "Product Option Code": "E5808A8.PN657",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/E5808A8_26HS_PN657_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824"
+        },
+        {
+          "excel_satiri": 11744,
+          "Product Option Code": "E5808A8.PN657",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/E5808A8_26HS_PN657_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824"
+        },
+        {
+          "excel_satiri": 11745,
+          "Product Option Code": "E5808A8.PN657",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/E5808A8_26HS_PN657_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824"
+        },
+        {
+          "excel_satiri": 11746,
+          "Product Option Code": "E5808A8.PN657",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/E5808A8_26HS_PN657_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-elbise-kiz-cocuk-3455824"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/E5808A8_26HS_PN657_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E5808A8PN3",
+      "renk_kodu": "PN3",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "%100 Pamuk A Kesim Pamuklu Askılı Yazlık Elbise Kız Çocuk",
+      "kisa_aciklama": "%100 Pamuk Kız Çocuk Balloon Fit Geniş Paça Jean Pantolon, geniş paçaları ve balon kesimiyle rahatlık ve şıklığı bir arada…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-a-kesim-pamuklu-askili-yazlik-elbise-kiz-cocuk-3257663",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN3_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN3_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN3_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN3_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN3_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN3_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,34cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "A Kesim",
+        "ozel_urun": "Günlük",
+        "kol_boyu": "Kolsuz",
+        "cinsiyet": "Kız Çocuk",
+        "kumas": "Pamuklu",
+        "urun_tipi": "Elbise"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk Kız Çocuk Balloon Fit Geniş Paça Jean Pantolon, geniş paçaları ve balon kesimiyle rahatlık ve şıklığı bir arada…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E5808A8PN179",
+      "renk_kodu": "PN179",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "A Kesim Pamuklu Kolsuz Yazlık Elbise Kız Çocuk",
+      "kisa_aciklama": "%100 Pamuk Kız Çocuk Balloon Fit Oval Paça Gabardin Pantolon, geniş ve balon kesimiyle rahat hareket imkanı sunar. Dayanıklı gabardin…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/a-kesim-pamuklu-kolsuz-yazlik-elbise-kiz-cocuk-3257665",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN179_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN179_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN179_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN179_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN179_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5808A8_25HS_PN179_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,34cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "kalip": "A Kesim",
+        "ozel_urun": "Günlük",
+        "kol_boyu": "Kolsuz",
+        "urun_tipi": "Elbise",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk Kız Çocuk Balloon Fit Oval Paça Gabardin Pantolon, geniş ve balon kesimiyle rahat hareket imkanı sunar. Dayanıklı gabardin…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:45:18+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

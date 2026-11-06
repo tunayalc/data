@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D7712A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7712A8OG605",
+      "renk_kodu": "OG605",
+      "renk_adi": "D.ORANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "5/6 Y",
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8903,
+          "Product Option Code": "D7712A8.OG605",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "D.ORANGE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7712A8_25SP_OG605_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 6,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#DA981E",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-baskili-sweatshirt-erkek-cocuk-3239408",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-baskili-sweatshirt-erkek-cocuk-3239408"
+        },
+        {
+          "excel_satiri": 8904,
+          "Product Option Code": "D7712A8.OG605",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "D.ORANGE",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7712A8_25SP_OG605_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#DA981E",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-baskili-sweatshirt-erkek-cocuk-3239408",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-baskili-sweatshirt-erkek-cocuk-3239408"
+        },
+        {
+          "excel_satiri": 8905,
+          "Product Option Code": "D7712A8.OG605",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "D.ORANGE",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7712A8_25SP_OG605_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#DA981E",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-baskili-sweatshirt-erkek-cocuk-3239408",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-baskili-sweatshirt-erkek-cocuk-3239408"
+        },
+        {
+          "excel_satiri": 8906,
+          "Product Option Code": "D7712A8.OG605",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "D.ORANGE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7712A8_25SP_OG605_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#DA981E",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-baskili-sweatshirt-erkek-cocuk-3239408",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-baskili-sweatshirt-erkek-cocuk-3239408"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D7712A8_25SP_OG605_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:38:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/bisiklet-yaka-baskili-sweatshirt-erkek-cocuk-3239408",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

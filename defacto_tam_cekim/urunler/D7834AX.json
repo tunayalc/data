@@ -1,0 +1,107 @@
+{
+  "model_kodu": "D7834AX",
+  "urun_grubu": "Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-20",
+        "puan": 5.0,
+        "metin": "@güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7834AXKH30",
+      "renk_kodu": "KH30",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Erkek Etiket Baskılı Dokuma Beyzbol Basketbol Şapkası",
+      "kisa_aciklama": "Erkek Etiket Baskılı Dokuma Beyzbol Basketbol Şapkası, şık ve spor bir stil sunar. Dokuma kumaşı ve etiket baskısı, modern bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-etiket-baskili-dokuma-beyzbol-basketbol-sapkasi-3210593",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7834AX_25SM_KH30_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7834AX_25SM_KH30_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7834AX_25SM_KH30_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7834AX_25SM_KH30_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7834AX_25SM_KH30_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7834AX_25SM_KH30_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7834AX_25SM_KH30_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7834AX_25SM_KH30_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "kumas": "Dokuma",
+        "urun_olcusu": "58 cm",
+        "sapka_tipi": "Beyzbol Basketbol Şapkası"
+      },
+      "urun_hakkinda": [
+        "Erkek Etiket Baskılı Dokuma Beyzbol Basketbol Şapkası, şık ve spor bir stil sunar. Dokuma kumaşı ve etiket baskısı, modern bir…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8965,
+          "Product Option Code": "D7834AX.KH30",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/D7834AX_26SM_KH30_01_01.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-etiket-baskili-dokuma-beyzbol-basketbol-sapkasi-3210593",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-etiket-baskili-dokuma-beyzbol-basketbol-sapkasi-3210593"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/D7834AX_26SM_KH30_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:38:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

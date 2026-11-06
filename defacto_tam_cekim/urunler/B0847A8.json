@@ -1,0 +1,119 @@
+{
+  "model_kodu": "B0847A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B0847A8ER85",
+      "renk_kodu": "ER85",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "7/8 Y",
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1210,
+          "Product Option Code": "B0847A8.ER85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/B0847A8_25HS_ER85_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 1211,
+          "Product Option Code": "B0847A8.ER85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/B0847A8_25HS_ER85_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/B0847A8_25HS_ER85_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B0847A8GN384",
+      "renk_kodu": "GN384",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1212,
+          "Product Option Code": "B0847A8.GN384",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/B0847A8_24HS_GN384_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/B0847A8_24HS_GN384_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

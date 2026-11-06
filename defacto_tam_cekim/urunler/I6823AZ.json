@@ -1,0 +1,119 @@
+{
+  "model_kodu": "I6823AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I6823AZNV91",
+      "renk_kodu": "NV91",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "46"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44136,
+          "Product Option Code": "I6823AZ.NV91",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Capri",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "46",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/I6823AZ_23SM_NV91_01_02.jpg",
+          "FabricDetail": "VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 449.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/I6823AZ_23SM_NV91_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I6823AZOG311",
+      "renk_kodu": "OG311",
+      "renk_adi": "ORANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44137,
+          "Product Option Code": "I6823AZ.OG311",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Capri",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "36",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/I6823AZ_24SM_OG311_01_03.jpg",
+          "FabricDetail": "VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Doğrulanamadı"
+        },
+        {
+          "excel_satiri": 44138,
+          "Product Option Code": "I6823AZ.OG311",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Capri",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "40",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/I6823AZ_24SM_OG311_01_03.jpg",
+          "FabricDetail": "VISKON",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/I6823AZ_24SM_OG311_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "model_kodu": "E5828A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-16",
+        "puan": 5.0,
+        "metin": "@Çok güzel ürün, düşünmeden alabilirsiniz."
+      },
+      {
+        "tarih": "2025-07-08",
+        "puan": 5.0,
+        "metin": "@Çok güzel, muhteşem bir ürün, hiç düşünmeden alın."
+      },
+      {
+        "tarih": "2026-09-13",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5828A8ER238",
+      "renk_kodu": "ER238",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Carrot Fit Normal Kalıp Daralan Paça Keten Görünümlü Pantolon",
+      "kisa_aciklama": "Erkek Çocuk Carrot Fıt Keten Görünümlü Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Daralan paça kesimi…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/carrot-fit-normal-kalip-daralan-paca-keten-gorunumlu-pantolon-3325223",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5828A8_25SM_ER238_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5828A8_25SM_ER238_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5828A8_25SM_ER238_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5828A8_25SM_ER238_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5828A8_25SM_ER238_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5828A8_25SM_ER238_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5828A8_25SM_ER238_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5828A8_25SM_ER238_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "7/8 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "9/10 Yaş (140cm) Beden - 1,44cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Carrot Fıt",
+        "cinsiyet": "Erkek Çocuk",
+        "urun_tipi": "Pantolon",
+        "kumas": "Keten Görünümlü",
+        "cep_ve_fermuar_detayi": "Cep Detaylı"
+      },
+      "urun_hakkinda": [
+        "Erkek Çocuk Carrot Fıt Keten Görünümlü Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Daralan paça kesimi…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11747,
+          "Product Option Code": "E5828A8.ER238",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "CARROT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E5828A8_25SM_ER238_01_02.jpg",
+          "FabricDetail": "LINEN LOOK",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/carrot-fit-normal-kalip-daralan-paca-keten-gorunumlu-pantolon-3325223",
+          "Model Page URL": "https://www.defacto.com.tr/carrot-fit-normal-kalip-daralan-paca-keten-gorunumlu-pantolon-3325223"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E5828A8_25SM_ER238_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:45:20+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

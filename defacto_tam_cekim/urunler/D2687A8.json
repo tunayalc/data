@@ -1,0 +1,104 @@
+{
+  "model_kodu": "D2687A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D2687A8NM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6843,
+          "Product Option Code": "D2687A8.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "BERMUDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D2687A8_24SM_NM28_01_03.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/en-iq/jean-sort-erkek-cocuk-3139267"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D2687A8_24SM_NM28_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D2687A8NM34",
+      "renk_kodu": "NM34",
+      "renk_adi": "D.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6844,
+          "Product Option Code": "D2687A8.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "BERMUDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D2687A8_24SM_NM34_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/en-iq/jean-sort-erkek-cocuk-3139267",
+          "Model Page URL": "https://www.defacto.com/en-iq/jean-sort-erkek-cocuk-3139267"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D2687A8_24SM_NM34_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:31:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/jean-sort-erkek-cocuk-3139267",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

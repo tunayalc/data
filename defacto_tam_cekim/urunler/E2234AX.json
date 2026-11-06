@@ -1,0 +1,466 @@
+{
+  "model_kodu": "E2234AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-19",
+        "puan": 5.0,
+        "metin": "@Harika, çok beğendik."
+      },
+      {
+        "tarih": "2026-06-13",
+        "puan": 5.0,
+        "metin": "@Harikaydı: Çok hoşumuza gitti, yumuşacıktı. Çok beğendik."
+      },
+      {
+        "tarih": "2026-07-03",
+        "puan": 5.0,
+        "metin": "@Eşim için aldım. 180 boy 90 kilo 32 beden tam geldi. Kumaşı keten çok beğendi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E2234AXBG406",
+      "renk_kodu": "BG406",
+      "renk_adi": "Koyu Bej",
+      "renk_hex": "#ECDEC3",
+      "urun_adi": "Regular Fit Dokulu Bermuda Şort",
+      "kisa_aciklama": "Regular Fit Dokulu Bermuda Şort, rahat kesimi ve şık dokusu ile yaz kombinlerine modern bir dokunuş katıyor. Nefes alabilen kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bermuda-3325586",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_BG406_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_BG406_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_BG406_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_BG406_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_BG406_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_BG406_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 97%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Dokulu Bermuda Şort, rahat kesimi ve şık dokusu ile yaz kombinlerine modern bir dokunuş katıyor. Nefes alabilen kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10827,
+          "Product Option Code": "E2234AX.BG406",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "D.BEIGE",
+          "SizeDefinition": "34",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_BG406_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#ECDEC3",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        },
+        {
+          "excel_satiri": 10828,
+          "Product Option Code": "E2234AX.BG406",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "D.BEIGE",
+          "SizeDefinition": "36",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_BG406_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#ECDEC3",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        },
+        {
+          "excel_satiri": 10829,
+          "Product Option Code": "E2234AX.BG406",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "D.BEIGE",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_BG406_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#ECDEC3",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_BG406_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E2234AXIN269",
+      "renk_kodu": "IN269",
+      "renk_adi": "İndigo",
+      "renk_hex": "#3F00FF",
+      "urun_adi": "Regular Fit Dokulu Bermuda Şort",
+      "kisa_aciklama": "Regular Fit Dokulu Bermuda Şort, rahat kesimi ve şık dokusu ile yaz kombinlerine modern bir dokunuş katıyor. Nefes alabilen kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bermuda-3325587",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_IN269_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_IN269_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_IN269_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_IN269_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_IN269_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2234AX_25SM_IN269_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "32",
+          "34",
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 97%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Dokulu Bermuda Şort, rahat kesimi ve şık dokusu ile yaz kombinlerine modern bir dokunuş katıyor. Nefes alabilen kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10834,
+          "Product Option Code": "E2234AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_IN269_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325587",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        },
+        {
+          "excel_satiri": 10835,
+          "Product Option Code": "E2234AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "32",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_IN269_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325587",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        },
+        {
+          "excel_satiri": 10836,
+          "Product Option Code": "E2234AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "34",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_IN269_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325587",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        },
+        {
+          "excel_satiri": 10837,
+          "Product Option Code": "E2234AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "36",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_IN269_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325587",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_IN269_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E2234AXER117",
+      "renk_kodu": "ER117",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10830,
+          "Product Option Code": "E2234AX.ER117",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "34",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_ER117_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/ar-iq/regular-fit-bermuda-3325588",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        },
+        {
+          "excel_satiri": 10831,
+          "Product Option Code": "E2234AX.ER117",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "36",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_ER117_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/ar-iq/regular-fit-bermuda-3325588",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        },
+        {
+          "excel_satiri": 10832,
+          "Product Option Code": "E2234AX.ER117",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_ER117_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/ar-iq/regular-fit-bermuda-3325588",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        },
+        {
+          "excel_satiri": 10833,
+          "Product Option Code": "E2234AX.ER117",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "40",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_ER117_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/ar-iq/regular-fit-bermuda-3325588",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bermuda-3325586"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E2234AX_25SM_ER117_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:34:19+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 2
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-bermuda-3325588",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

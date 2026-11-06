@@ -1,0 +1,116 @@
+{
+  "model_kodu": "C6743AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 12,
+    "yorum_sayisi": 12,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-12-11",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-01-24",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-09-12",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C6743AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Renk Bloklu Dikişsiz 3'lü Bambu Patik Çorap",
+      "kisa_aciklama": "",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-3170646",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C6743AX_NS_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6743AX_NS_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6743AX_NS_BK27_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6743AX_NS_BK27_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6743AX_NS_BK27_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6743AX_NS_BK27_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44",
+          "STD"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 18%,Elastan 2%,Viskoz 80%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Bambu",
+        "urun_tipi": "Kısa Çorap",
+        "takim_icerigi": "3'lü",
+        "corap_tipi": "Patik Çorap",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 79.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4975,
+          "Product Option Code": "C6743AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/C6743AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "Bamboo",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/erkek-3170646",
+          "Model Page URL": "https://www.defacto.com/en-iq/erkek-3170646"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/C6743AX_NS_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:27:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "model_kodu": "H4530A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Atkı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4530A8NV175",
+      "renk_kodu": "NV175",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Desenli Bandana Erkek Çocuk",
+      "kisa_aciklama": "Desenli bandana erkek çocuk ürün.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/desenli-bandana-erkek-cocuk-3463115",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4530A8_26SM_NV175_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4530A8_26SM_NV175_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4530A8_26SM_NV175_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4530A8_26SM_NV175_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,30cm - 30/40/30",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek Çocuk",
+        "kumas": "Pamuklu",
+        "esarp_sal_olcusu": "50x50",
+        "sal_katagori": "Bandana"
+      },
+      "urun_hakkinda": [
+        "Desenli bandana erkek çocuk ürün."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29028,
+          "Product Option Code": "H4530A8.NV175",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Shawl",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H4530A8_26SM_NV175_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/desenli-bandana-erkek-cocuk-3463115",
+          "Model Page URL": "https://www.defacto.com.tr/desenli-bandana-erkek-cocuk-3463115"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H4530A8_26SM_NV175_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:28:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

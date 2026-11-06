@@ -1,0 +1,79 @@
+{
+  "model_kodu": "D7137AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7137AXNV241",
+      "renk_kodu": "NV241",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8543,
+          "Product Option Code": "D7137AX.NV241",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7137AX_25SP_NV241_01_02.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 8544,
+          "Product Option Code": "D7137AX.NV241",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7137AX_25SP_NV241_01_02.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D7137AX_25SP_NV241_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

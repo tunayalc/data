@@ -1,0 +1,57 @@
+{
+  "model_kodu": "S0612AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "S0612AZBN151",
+      "renk_kodu": "BN151",
+      "renk_adi": "LT.BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46251,
+          "Product Option Code": "S0612AZ.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "40",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/S0612AZ_23WN_BN151_01_01.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/S0612AZ_23WN_BN151_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

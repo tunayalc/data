@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D4235AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4235AXNV241",
+      "renk_kodu": "NV241",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7453,
+          "Product Option Code": "D4235AX.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4235AX_24HS_NV241_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 4,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-ma/coool-fitted-atlet-3150151",
+          "Model Page URL": "https://www.defacto.com/en-ma/coool-fitted-atlet-3150151"
+        },
+        {
+          "excel_satiri": 7454,
+          "Product Option Code": "D4235AX.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4235AX_24HS_NV241_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 12,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-ma/coool-fitted-atlet-3150151",
+          "Model Page URL": "https://www.defacto.com/en-ma/coool-fitted-atlet-3150151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4235AX_24HS_NV241_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:34:07+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-fitted-atlet-3150151",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

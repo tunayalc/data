@@ -1,0 +1,79 @@
+{
+  "model_kodu": "D5020AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5020AXBN540",
+      "renk_kodu": "BN540",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7831,
+          "Product Option Code": "D5020AX.BN540",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5020AX_24AU_BN540_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 7832,
+          "Product Option Code": "D5020AX.BN540",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5020AX_24AU_BN540_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D5020AX_24AU_BN540_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

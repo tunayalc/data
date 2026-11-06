@@ -1,0 +1,121 @@
+{
+  "model_kodu": "G8960AX",
+  "urun_grubu": "Kadın Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8960AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Şal Yaka Desenli Gömlek",
+      "kisa_aciklama": "Şal Yaka Desenli Gömlek, zarif şal yaka detayı ve özgün desenleriyle stilinize sofistike bir dokunuş katar. Rahat kesimi sayesinde hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/sal-yaka-desenli-gomlek-3416081",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8960AX_26SP_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8960AX_26SP_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8960AX_26SP_ER105_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 84/61/92",
+        "ana_kumas_icerigi": "Poliamid 13%,Viskoz 87%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt",
+        "desen": "Baskılı",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "V Yaka"
+      },
+      "urun_hakkinda": [
+        "Şal Yaka Desenli Gömlek, zarif şal yaka detayı ve özgün desenleriyle stilinize sofistike bir dokunuş katar. Rahat kesimi sayesinde hem…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22742,
+          "Product Option Code": "G8960AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8960AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "LILYUM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/sal-yaka-desenli-gomlek-3416081",
+          "Model Page URL": "https://www.defacto.com.tr/sal-yaka-desenli-gomlek-3416081"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8960AX_26SP_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:12:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

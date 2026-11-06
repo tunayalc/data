@@ -1,0 +1,57 @@
+{
+  "model_kodu": "B0821A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B0821A8OG47",
+      "renk_kodu": "OG47",
+      "renk_adi": "ORANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1194,
+          "Product Option Code": "B0821A8.OG47",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Knitted Pyjamas",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/B0821A8_23SM_OG47_01_04.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/B0821A8_23SM_OG47_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

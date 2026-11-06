@@ -1,0 +1,224 @@
+{
+  "model_kodu": "Z3406AZ",
+  "urun_grubu": "Kadın Tesettür Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 55,
+    "yorum_sayisi": 55,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 71.4,
+      "buyuk_geldi": 3.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-04-22",
+        "puan": 5.0,
+        "metin": "@ben bu ürünü aldım yamuk kesim geldi iade ettim birdaha aldım birdaha yamuk geldi üstelik aldım ertesi gün 80 TL…"
+      },
+      {
+        "tarih": "2023-08-02",
+        "puan": 5.0,
+        "metin": "@güzel pamuklu bir kumaş"
+      },
+      {
+        "tarih": "2024-01-07",
+        "puan": 5.0,
+        "metin": "@ürün güzel tam oldu"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z3406AZBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Beli Bağcıklı Viskon Maxi Tesettür Etek",
+      "kisa_aciklama": "Viskon malzemeden üretilmiş , 95 cm yüksekliğinde etek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/beli-bagcikli-viskon-maxi-tesettur-etek-3408068",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Z3406AZ_26SP_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3406AZ_26SP_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3406AZ_26SP_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3406AZ_26SP_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3406AZ_26SP_BK81_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Etek",
+        "urun_yuksekligi": "95",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Viskon malzemeden üretilmiş , 95 cm yüksekliğinde etek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "Z3406AZBN323",
+      "renk_kodu": "BN323",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Beli Bağcıklı Viskon Maxi Tesettür Etek",
+      "kisa_aciklama": "Viskon malzemeden üretilmiş , 95 cm yüksekliğinde etek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/beli-bagcikli-viskon-maxi-tesettur-etek-3408069",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Z3406AZ_26SP_BN323_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3406AZ_26SP_BN323_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3406AZ_26SP_BN323_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3406AZ_26SP_BN323_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Etek",
+        "urun_yuksekligi": "95",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Viskon malzemeden üretilmiş , 95 cm yüksekliğinde etek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "Z3406AZNV257",
+      "renk_kodu": "NV257",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48729,
+          "Product Option Code": "Z3406AZ.NV257",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "CNS",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "38",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/Z3406AZ_24SP_NV257_01_03.jpg",
+          "FabricDetail": "30-1VIS",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/beli-bagcikli-viskon-maxi-tesettur-etek-3408068"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/Z3406AZ_24SP_NV257_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:18:43+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

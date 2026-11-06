@@ -1,0 +1,130 @@
+{
+  "model_kodu": "G7860AX",
+  "urun_grubu": "Kadın Hırka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-05",
+        "puan": 5.0,
+        "metin": "@Çok beğendim çok güzel kaliteli bir hırka. Ne ince ne de kalın. Mevsimlik denilebilir. Başka hırkalar da sipariş verdim bunu…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7860AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Çizgili Yün Karışımlı Hırka",
+      "kisa_aciklama": "Çizgili desenli regular fit bisiklet yaka hırka.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-cizgili-yun-karisimli-hirka-3429980",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7860AX_26AU_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7860AX_26AU_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7860AX_26AU_ER105_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Viskoz 93%,Poliester 7%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "desen": "Çizgili",
+        "urun_tipi": "Hırka",
+        "kumas_kalinligi": "İnce",
+        "kalip": "Regular Fıt",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Çizgili desenli regular fit bisiklet yaka hırka."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21608,
+          "Product Option Code": "G7860AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7860AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "VISCON POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-cizgili-yun-karisimli-hirka-3429980",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-cizgili-yun-karisimli-hirka-3429980"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G7860AX_26SP_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:08:05+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

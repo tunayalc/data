@@ -1,0 +1,79 @@
+{
+  "model_kodu": "D2175AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D2175AXBN348",
+      "renk_kodu": "BN348",
+      "renk_adi": "LT.BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6651,
+          "Product Option Code": "D2175AX.BN348",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Capri",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "36",
+          "Fit": "CULOTTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D2175AX_24SM_BN348_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 0,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6652,
+          "Product Option Code": "D2175AX.BN348",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Capri",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "44",
+          "Fit": "CULOTTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D2175AX_24SM_BN348_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D2175AX_24SM_BN348_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

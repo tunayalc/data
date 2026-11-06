@@ -1,0 +1,101 @@
+{
+  "model_kodu": "B6782AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B6782AXBE168",
+      "renk_kodu": "BE168",
+      "renk_adi": "ROYAL",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "10/12 Y",
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2186,
+          "Product Option Code": "B6782AX.BE168",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "10/12 Y",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B6782AX_23WN_BE168_01_03.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2187,
+          "Product Option Code": "B6782AX.BE168",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B6782AX_23WN_BE168_01_03.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2188,
+          "Product Option Code": "B6782AX.BE168",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B6782AX_23WN_BE168_01_03.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/B6782AX_23WN_BE168_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

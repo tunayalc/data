@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I4269AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4269AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın 3'lü Dokulu Halka ve Sallantılı Küpe Seti",
+      "kisa_aciklama": "Farklı boyutlarda dokulu halka ve sallantılı modellerden oluşan 3 çift kadın küpe seti. Günlük ve şık kombinlerinizi tamamlayacak modern tasarım.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-3lu-dokulu-halka-ve-sallantili-kupe-seti-3507716",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4269AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4269AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4269AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko Alaşım 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Küpe"
+      },
+      "urun_hakkinda": [
+        "Farklı boyutlarda dokulu halka ve sallantılı modellerden oluşan 3 çift kadın küpe seti. Günlük ve şık kombinlerinizi tamamlayacak modern tasarım."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42550,
+          "Product Option Code": "I4269AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4269AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-3lu-dokulu-halka-ve-sallantili-kupe-seti-3507716",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-3lu-dokulu-halka-ve-sallantili-kupe-seti-3507716"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4269AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:49:22+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

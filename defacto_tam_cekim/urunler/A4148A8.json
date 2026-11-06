@@ -1,0 +1,119 @@
+{
+  "model_kodu": "A4148A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A4148A8BK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "7/8 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 419,
+          "Product Option Code": "A4148A8.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/A4148A8_24HS_BK81_01_02.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 420,
+          "Product Option Code": "A4148A8.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/A4148A8_24HS_BK81_01_02.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/A4148A8_24HS_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A4148A8GR93",
+      "renk_kodu": "GR93",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 421,
+          "Product Option Code": "A4148A8.GR93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/A4148A8_23HS_GR93_01_02.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/A4148A8_23HS_GR93_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

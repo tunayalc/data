@@ -1,0 +1,98 @@
+{
+  "model_kodu": "G0444AX",
+  "urun_grubu": "Kadın Cüzdan",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-13",
+        "puan": 5.0,
+        "metin": "@rengi çok hoş retro ürün"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0444AXBG356",
+      "renk_kodu": "BG356",
+      "renk_adi": "Açık Bej",
+      "renk_hex": "#FFF6E5",
+      "urun_adi": "Kadın Suni Deri Cüzdan",
+      "kisa_aciklama": "Şık ve dayanıklı suni deri malzemeden üretilen bu kadın cüzdan, kompakt tasarımıyla pratik kullanım sunar. Çoklu bölmeleri sayesinde kartlar, nakit…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-suni-deri-cuzdan-3344099",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0444AX_NS_BG356_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0444AX_NS_BG356_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0444AX_NS_BG356_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kumas": "Suni Deri",
+        "urun_olcusu": "17*10",
+        "canta_tipi": "Cüzdan"
+      },
+      "urun_hakkinda": [
+        "Şık ve dayanıklı suni deri malzemeden üretilen bu kadın cüzdan, kompakt tasarımıyla pratik kullanım sunar. Çoklu bölmeleri sayesinde kartlar, nakit…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17536,
+          "Product Option Code": "G0444AX.BG356",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Wallets",
+          "LifeStyle": "Casual",
+          "Class Name": "Wallet",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G0444AX_NS_BG356_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-cuzdan-3344099",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-cuzdan-3344099"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G0444AX_NS_BG356_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:58:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

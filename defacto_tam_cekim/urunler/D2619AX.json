@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D2619AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D2619AXGR439",
+      "renk_kodu": "GR439",
+      "renk_adi": "DARK GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6820,
+          "Product Option Code": "D2619AX.GR439",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "DARK GREY",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D2619AX_24AU_GR439_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-polo-yaka-uzun-kollu-gomlek-3154555",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-polo-yaka-uzun-kollu-gomlek-3154555"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D2619AX_24AU_GR439_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:31:43+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-polo-yaka-uzun-kollu-gomlek-3154555",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

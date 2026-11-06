@@ -1,0 +1,571 @@
+{
+  "model_kodu": "F8572AX",
+  "urun_grubu": "Kadın Pijama Üst",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 39,
+    "yorum_sayisi": 39,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 27.8,
+      "tam_oldu": 72.2,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-26",
+        "puan": 5.0,
+        "metin": "@Defacto tasarımlarını ailece çok beğeniyoruz. Hem estetik oluşu, hem de ulaşılabilir fiyatlara satışa sunulması harika. Ürün çok güzel ve zarif,…"
+      },
+      {
+        "tarih": "2025-11-22",
+        "puan": 4.0,
+        "metin": "@Harika! Çok hoşuma gitti."
+      },
+      {
+        "tarih": "2025-10-24",
+        "puan": 5.0,
+        "metin": "@Harika bir kumaşı var, çok yumuşak ve bedeni de tam oturdu. Kumaşı da yumuşacık. Rengi de şahane. Kesinlikle tavsiye ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8572AXBN202",
+      "renk_kodu": "BN202",
+      "renk_adi": "Camel",
+      "renk_hex": "#C19A6B",
+      "urun_adi": "Çapraz Bağlamalı Uzun Kollu Bluz",
+      "kisa_aciklama": "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3436143",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN202_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN202_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN202_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN202_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 86/60/89",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 95%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16413,
+          "Product Option Code": "F8572AX.BN202",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Loungewear",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "L",
+          "Fit": "TOP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_BN202_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3436143",
+          "Model Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010"
+        },
+        {
+          "excel_satiri": 16414,
+          "Product Option Code": "F8572AX.BN202",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Loungewear",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "S",
+          "Fit": "TOP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_BN202_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3436143",
+          "Model Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010"
+        },
+        {
+          "excel_satiri": 16415,
+          "Product Option Code": "F8572AX.BN202",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Loungewear",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "XL",
+          "Fit": "TOP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_BN202_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3436143",
+          "Model Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_BN202_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F8572AXBN207",
+      "renk_kodu": "BN207",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Çapraz Bağlamalı Uzun Kollu Bluz",
+      "kisa_aciklama": "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374012",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN207_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN207_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN207_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN207_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN207_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN207_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN207_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_BN207_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 95%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16416,
+          "Product Option Code": "F8572AX.BN207",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Loungewear",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "TOP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_BN207_01_03.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374012",
+          "Model Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010"
+        },
+        {
+          "excel_satiri": 16417,
+          "Product Option Code": "F8572AX.BN207",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Loungewear",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "TOP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_BN207_01_03.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374012",
+          "Model Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010"
+        },
+        {
+          "excel_satiri": 16418,
+          "Product Option Code": "F8572AX.BN207",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Loungewear",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "TOP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_BN207_01_03.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374012",
+          "Model Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_BN207_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F8572AXGR93",
+      "renk_kodu": "GR93",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Çapraz Bağlamalı Uzun Kollu Bluz",
+      "kisa_aciklama": "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_GR93_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_GR93_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_GR93_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_GR93_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_GR93_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_GR93_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_GR93_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26SP_GR93_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Elastan 6%,Viskoz 94%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "markalar": "Fall ın Love",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16419,
+          "Product Option Code": "F8572AX.GR93",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Loungewear",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "TOP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_GR93_01_03.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010",
+          "Model Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010"
+        },
+        {
+          "excel_satiri": 16420,
+          "Product Option Code": "F8572AX.GR93",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Loungewear",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "S",
+          "Fit": "TOP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_GR93_01_03.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010",
+          "Model Page URL": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3374010"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8572AX_26SP_GR93_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F8572AXGR371",
+      "renk_kodu": "GR371",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Çapraz Bağlamalı Uzun Kollu Bluz",
+      "kisa_aciklama": "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3521289",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_GR371_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_GR371_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_GR371_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_GR371_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_GR371_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_GR371_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_GR371_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 78/62/89",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 95%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Wrap Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "urun_grubu": "Kadın Bluz",
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F8572AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Çapraz Bağlamalı Uzun Kollu Bluz",
+      "kisa_aciklama": "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/capraz-baglamali-uzun-kollu-bluz-3521290",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_BK81_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8572AX_26AU_BK81_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 78/62/89",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 95%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Wrap Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kruvaze kapamalı dar kesim hafif crop basic uzun kollu bluz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "urun_grubu": "Kadın Bluz",
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:52:23+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

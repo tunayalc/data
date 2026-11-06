@@ -1,0 +1,545 @@
+{
+  "model_kodu": "H4146AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-08",
+        "puan": 5.0,
+        "metin": "@Rahat ve kaliteli"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4146AXAR138",
+      "renk_kodu": "AR138",
+      "renk_adi": "Koyu Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Ultra Yumuşak Standart Fit Koyu Düğmesiz Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Ultra Yumuşak Baskılı standart fit kısa kollu polo tişört. Etek ucu yanları yırtmaçlı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-koyu-dugmesiz-kisa-kollu-polo-tisort-3453292",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_AR138_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_AR138_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_AR138_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_AR138_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_AR138_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_AR138_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_AR138_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Pamuk 25%,Elastan 8%,Modal 31%,Poliester 36%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "yaka": "Polo Yaka",
+        "desen": "Baskılı",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak Baskılı standart fit kısa kollu polo tişört. Etek ucu yanları yırtmaçlı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28425,
+          "Product Option Code": "H4146AX.AR138",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "D.ANTHRA",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_AR138_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-koyu-dugmesiz-kisa-kollu-polo-tisort-3453292",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28426,
+          "Product Option Code": "H4146AX.AR138",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "D.ANTHRA",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_AR138_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-koyu-dugmesiz-kisa-kollu-polo-tisort-3453292",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28427,
+          "Product Option Code": "H4146AX.AR138",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "D.ANTHRA",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_AR138_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-koyu-dugmesiz-kisa-kollu-polo-tisort-3453292",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28428,
+          "Product Option Code": "H4146AX.AR138",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "D.ANTHRA",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_AR138_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-koyu-dugmesiz-kisa-kollu-polo-tisort-3453292",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28429,
+          "Product Option Code": "H4146AX.AR138",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "D.ANTHRA",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_AR138_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-koyu-dugmesiz-kisa-kollu-polo-tisort-3453292",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_AR138_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H4146AXBG816",
+      "renk_kodu": "BG816",
+      "renk_adi": "Taş",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Ultra Yumuşak Standart Fıt Baskılı Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Ultra Yumuşak Baskılı standart fit kısa kollu polo tişört. Etek ucu yanları yırtmaçlı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453293",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_BG816_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_BG816_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_BG816_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_BG816_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_BG816_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Pamuk 25%,Elastan 8%,Modal 31%,Poliester 36%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Standart Fıt",
+        "desen": "Baskılı",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak Baskılı standart fit kısa kollu polo tişört. Etek ucu yanları yırtmaçlı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28430,
+          "Product Option Code": "H4146AX.BG816",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_BG816_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453293",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28431,
+          "Product Option Code": "H4146AX.BG816",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_BG816_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453293",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28432,
+          "Product Option Code": "H4146AX.BG816",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_BG816_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453293",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28433,
+          "Product Option Code": "H4146AX.BG816",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_BG816_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453293",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28434,
+          "Product Option Code": "H4146AX.BG816",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_BG816_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453293",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_BG816_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H4146AXGN1107",
+      "renk_kodu": "GN1107",
+      "renk_adi": "Açık Yeşil",
+      "renk_hex": "#B4EC9A",
+      "urun_adi": "Ultra Yumuşak Standart Fıt Baskılı Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Ultra Yumuşak Baskılı standart fit kısa kollu polo tişört. Etek ucu yanları yırtmaçlı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_GN1107_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_GN1107_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_GN1107_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_GN1107_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_GN1107_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_GN1107_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4146AX_26AU_GN1107_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Pamuk 25%,Elastan 8%,Modal 31%,Poliester 36%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Standart Fıt",
+        "yaka": "Polo Yaka",
+        "desen": "Baskılı"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak Baskılı standart fit kısa kollu polo tişört. Etek ucu yanları yırtmaçlı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28435,
+          "Product Option Code": "H4146AX.GN1107",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_GN1107_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28436,
+          "Product Option Code": "H4146AX.GN1107",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_GN1107_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        },
+        {
+          "excel_satiri": 28437,
+          "Product Option Code": "H4146AX.GN1107",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_GN1107_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-baskili-kisa-kollu-polo-tisort-3453291"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H4146AX_26AU_GN1107_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:27:15+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

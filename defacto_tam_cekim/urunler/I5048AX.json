@@ -1,0 +1,104 @@
+{
+  "model_kodu": "I5048AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I5048AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42984,
+          "Product Option Code": "I5048AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "BackPack",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I5048AX_NS_BK27_01_01.jpg",
+          "FabricDetail": "Impertex",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/su-gecirmez-siyah-fermuarli-logolu-unisex-sirt-cantasi-3589312",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/su-gecirmez-siyah-fermuarli-logolu-unisex-sirt-cantasi-3589312"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I5048AX_NS_BK27_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I5048AXKH3",
+      "renk_kodu": "KH3",
+      "renk_adi": "Khaki",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42985,
+          "Product Option Code": "I5048AX.KH3",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "BackPack",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I5048AX_NS_KH3_01_02.jpg",
+          "FabricDetail": "Impertex",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/su-gecirmez-siyah-fermuarli-logolu-unisex-sirt-cantasi-3589312"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I5048AX_NS_KH3_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:50:00+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/su-gecirmez-siyah-fermuarli-logolu-unisex-sirt-cantasi-3589312",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "model_kodu": "A6994AX",
+  "urun_grubu": "Kadın Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 30,
+    "yorum_sayisi": 30,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 6.9,
+      "tam_oldu": 75.9,
+      "buyuk_geldi": 17.2
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-12-26",
+        "puan": 5.0,
+        "metin": "@ilk oncelikle çok esnek bir kumaşı var. o yüzden bir beden küçük alınmalı. pantalon da kesim hatası var sol bacak…"
+      },
+      {
+        "tarih": "2024-01-10",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2023-12-04",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A6994AXNM36",
+      "renk_kodu": "NM36",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Anna Skinny Fit Yüksel Bel Dar Paça Cepli Bilek Boy Jean Pantolon",
+      "kisa_aciklama": "Skinny Fit Yüksel Bel Dar Paça. Slim fit dar kalıba sahip, spor veya günlük giyiminizde tercih ederek trend görünebileceğiniz, basic…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/skinny-fit-pantolon-2839270",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A6994AX_23WN_NM36_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6994AX_23WN_NM36_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6994AX_23WN_NM36_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6994AX_23WN_NM36_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6994AX_23WN_NM36_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6994AX_23WN_NM36_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6994AX_23WN_NM36_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46",
+          "48"
+        ],
+        "excel": [
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,77cm - 80/64/90",
+        "ana_kumas_icerigi": "Pamuk 83%,Elastan 2%,Poliester 15%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Skınny Fıt",
+        "yikama_detayi": "Yıkamalı",
+        "cinsiyet": "Kadın",
+        "urun_boyu": "Bilek Boy",
+        "kumas": "Jean"
+      },
+      "urun_hakkinda": [
+        "Slim fit dar kalıba sahip, spor veya günlük giyiminizde tercih ederek trend görünebileceğiniz, basic crop tişört, sweatshirt, kapüşonlu hırkalarla spor…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 673,
+          "Product Option Code": "A6994AX.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "34",
+          "Fit": "SKINNY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/A6994AX_23WN_NM36_01_02.jpg",
+          "FabricDetail": "JEAN",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/skinny-fit-pantolon-2839270",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/skinny-fit-pantolon-2839270"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/A6994AX_23WN_NM36_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:21:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

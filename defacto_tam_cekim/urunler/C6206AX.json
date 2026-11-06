@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C6206AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C6206AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4898,
+          "Product Option Code": "C6206AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "SLIM CROP FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C6206AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "COTTON+ELASTANE",
+          "Toplam": 7,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/crop-bisiklet-yaka-atlet-3108065",
+          "Model Page URL": "https://www.defacto.com/crop-bisiklet-yaka-atlet-3108065"
+        },
+        {
+          "excel_satiri": 4899,
+          "Product Option Code": "C6206AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM CROP FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C6206AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "COTTON+ELASTANE",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/crop-bisiklet-yaka-atlet-3108065",
+          "Model Page URL": "https://www.defacto.com/crop-bisiklet-yaka-atlet-3108065"
+        },
+        {
+          "excel_satiri": 4900,
+          "Product Option Code": "C6206AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM CROP FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C6206AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "COTTON+ELASTANE",
+          "Toplam": 4,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/crop-bisiklet-yaka-atlet-3108065",
+          "Model Page URL": "https://www.defacto.com/crop-bisiklet-yaka-atlet-3108065"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C6206AX_24SM_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:27:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/crop-bisiklet-yaka-atlet-3108065",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

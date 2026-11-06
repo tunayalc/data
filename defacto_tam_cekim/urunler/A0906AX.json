@@ -1,0 +1,121 @@
+{
+  "model_kodu": "A0906AX",
+  "urun_grubu": "Kadın Deri Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 147,
+    "yorum_sayisi": 147,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 15.8,
+      "tam_oldu": 82.1,
+      "buyuk_geldi": 2.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-09-17",
+        "puan": 5.0,
+        "metin": "@çok kaliteli ve güzel bi ürün. Ben bi beden büyük aldım içene kalın bir şeyler giyince rahat olması için"
+      },
+      {
+        "tarih": "2024-09-07",
+        "puan": 5.0,
+        "metin": "@bı benden büyük seçin çok güzel"
+      },
+      {
+        "tarih": "2024-09-03",
+        "puan": 5.0,
+        "metin": "@ürün görseldekiyle aynı m beden aldım salaş durması için çok güzel oldu. boyundan şüphe ediyordum kısa olur mu diye tam…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A0906AXBG414",
+      "renk_kodu": "BG414",
+      "renk_adi": "Kum",
+      "renk_hex": "#C49C7A",
+      "urun_adi": "Su İtici Kruvaze Yaka Fermuar Kapamalı Cepli Mevsimlik Suni Deri Ceket Mont",
+      "kisa_aciklama": "Suni deri montun şık detayları, tasarımını zenginleştirirken pratik kullanım sağlar. Üzerinize giydiğiniz her kombini tamamlayacak olan bu mont, soğuk havalarda…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-suni-deri-mont-2775855",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A0906AX_23AU_BG414_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0906AX_23AU_BG414_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0906AX_23AU_BG414_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0906AX_23AU_BG414_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0906AX_23AU_BG414_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 82/60/88",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_tipi": "Mont",
+        "dis_giyim_urun_grubu": "Suni Deri Ceket",
+        "kumas_kalinligi": "Kalın",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "kumas": "Suni Deri"
+      },
+      "urun_hakkinda": [
+        "Suni deri montun şık detayları, tasarımını zenginleştirirken pratik kullanım sağlar. Üzerinize giydiğiniz her kombini tamamlayacak olan bu mont, soğuk havalarda…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1399.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 118,
+          "Product Option Code": "A0906AX.BG414",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "PU Mont",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/A0906AX_24AU_BG414_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-suni-deri-mont-2775855",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-suni-deri-mont-2775855"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/A0906AX_24AU_BG414_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:19:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

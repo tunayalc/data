@@ -1,0 +1,57 @@
+{
+  "model_kodu": "S8871AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "S8871AZBN1",
+      "renk_kodu": "BN1",
+      "renk_adi": "LT.BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46314,
+          "Product Option Code": "S8871AZ.BN1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "M",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/20HS/S8871AZ_20HS_BN1_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/20HS/S8871AZ_20HS_BN1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

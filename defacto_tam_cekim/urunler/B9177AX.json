@@ -1,0 +1,108 @@
+{
+  "model_kodu": "B9177AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B9177AXNM40",
+      "renk_kodu": "NM40",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2748,
+          "Product Option Code": "B9177AX.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Capri",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9177AX_24SM_NM40_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/fr-ma/yuksek-bel-jean-kapri-3106737",
+          "Model Page URL": "https://www.defacto.com/fr-ma/yuksek-bel-jean-kapri-3106737"
+        },
+        {
+          "excel_satiri": 2749,
+          "Product Option Code": "B9177AX.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Capri",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9177AX_24SM_NM40_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 9,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/fr-ma/yuksek-bel-jean-kapri-3106737",
+          "Model Page URL": "https://www.defacto.com/fr-ma/yuksek-bel-jean-kapri-3106737"
+        },
+        {
+          "excel_satiri": 2750,
+          "Product Option Code": "B9177AX.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Capri",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "38",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9177AX_24SM_NM40_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/fr-ma/yuksek-bel-jean-kapri-3106737",
+          "Model Page URL": "https://www.defacto.com/fr-ma/yuksek-bel-jean-kapri-3106737"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B9177AX_24SM_NM40_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:23:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/yuksek-bel-jean-kapri-3106737",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

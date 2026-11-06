@@ -1,0 +1,104 @@
+{
+  "model_kodu": "H5457AX",
+  "urun_grubu": "Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5457AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Suni Deri Kasket Cap Şapka",
+      "kisa_aciklama": "Suni deri kumaşlı kasket şapka. Ön siperlikli, dikişli panel yapılı ve tepesinde kaplama düğme detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-suni-deri-kasket-cap-sapka-3507079",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5457AX_26WN_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5457AX_26WN_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5457AX_26WN_BK27_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5457AX_26WN_BK27_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5457AX_26WN_BK27_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5457AX_26WN_BK27_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5457AX_26WN_BK27_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5457AX_26WN_BK27_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "58 cm",
+        "kumas": "Suni Deri",
+        "sapka_tipi": "Cap Şapka",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Suni deri kumaşlı kasket şapka. Ön siperlikli, dikişli panel yapılı ve tepesinde kaplama düğme detaylı.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30425,
+          "Product Option Code": "H5457AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H5457AX_26WN_BK27_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-suni-deri-kasket-cap-sapka-3582852",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-suni-deri-kasket-cap-sapka-3582852"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/H5457AX_26WN_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:32:10+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-suni-deri-kasket-cap-sapka-3582852",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

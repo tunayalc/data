@@ -1,0 +1,115 @@
+{
+  "model_kodu": "D7518A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 35,
+    "yorum_sayisi": 35,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 23.1,
+      "tam_oldu": 69.2,
+      "buyuk_geldi": 7.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@DeFacto kalitesi."
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@Beğendim, DeFacto kalitesi. 1 beden büyük aldım."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7518A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Basic Düz 2'li 40 Denye Diz Altı Çorap Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk 2'li Dizaltı Çorap seti, renkli ve eğlenceli tasarımıyla miniklerin stiline neşe katıyor. Yumuşak yapısı sayesinde rahatlık sunarken, esnek…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/basic-duz-2li-40-denye-diz-alti-corap-kiz-cocuk-3171158",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7518A8_NS_KR1_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7518A8_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7518A8_NS_KR1_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7518A8_NS_KR1_04_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "35 - 39 Beden - 1,36cm",
+        "ana_kumas_icerigi": "Poliamid 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "takim_icerigi": "2'li",
+        "corap_tipi": "Diz Altı Çorap"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk 2'li Dizaltı Çorap seti, renkli ve eğlenceli tasarımıyla miniklerin stiline neşe katıyor. Yumuşak yapısı sayesinde rahatlık sunarken, esnek…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 149.99,
+        "sepette_fiyat": 59.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8751,
+          "Product Option Code": "D7518A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "KNEE SOCKS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/D7518A8_NS_KR1_01_04.jpg",
+          "FabricDetail": "POLYAMIDE",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com/basic-duz-2li-40-denye-diz-alti-corap-kiz-cocuk-3171158",
+          "Model Page URL": "https://www.defacto.com/basic-duz-2li-40-denye-diz-alti-corap-kiz-cocuk-3171158"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/D7518A8_NS_KR1_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:37:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

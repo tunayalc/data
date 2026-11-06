@@ -1,0 +1,149 @@
+{
+  "model_kodu": "F9816AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-11",
+        "puan": 5.0,
+        "metin": "@Kumaş kalitesi oldukça güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9816AXYL166",
+      "renk_kodu": "YL166",
+      "renk_adi": "Sarı",
+      "renk_hex": "#FFFF00",
+      "urun_adi": "%100 Pamuk Boxy Fıt Tişört",
+      "kisa_aciklama": "%100 Pamuk Boxy Fit Tişört, yumuşak pamuklu kumaşı ve geniş boxy fit kesimiyle rahatlık sunar. Modern ve tarz bir görünüm…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-tisort-3374214",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9816AX_26SP_YL166_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9816AX_26SP_YL166_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9816AX_26SP_YL166_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9816AX_26SP_YL166_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9816AX_26SP_YL166_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,82cm - 95/80/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Boxy Fıt"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk Boxy Fit Tişört, yumuşak pamuklu kumaşı ve geniş boxy fit kesimiyle rahatlık sunar. Modern ve tarz bir görünüm…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17201,
+          "Product Option Code": "F9816AX.YL166",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9816AX_26SP_YL166_01_02.jpg",
+          "FabricDetail": "DIAGONAL",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-tisort-3374214",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-tisort-3374214"
+        },
+        {
+          "excel_satiri": 17202,
+          "Product Option Code": "F9816AX.YL166",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9816AX_26SP_YL166_01_02.jpg",
+          "FabricDetail": "DIAGONAL",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-tisort-3374214",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-tisort-3374214"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9816AX_26SP_YL166_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:55:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

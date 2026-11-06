@@ -1,0 +1,79 @@
+{
+  "model_kodu": "D1007AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1007AXRD303",
+      "renk_kodu": "RD303",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6289,
+          "Product Option Code": "D1007AX.RD303",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1007AX_24SM_RD303_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6290,
+          "Product Option Code": "D1007AX.RD303",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1007AX_24SM_RD303_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1007AX_24SM_RD303_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

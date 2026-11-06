@@ -1,0 +1,123 @@
+{
+  "model_kodu": "C7447A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C7447A8NM40",
+      "renk_kodu": "NM40",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "5/6 Y",
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5178,
+          "Product Option Code": "C7447A8.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "CARGO FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C7447A8_25SP_NM40_01_05.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5179,
+          "Product Option Code": "C7447A8.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "CARGO FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C7447A8_25SP_NM40_01_05.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5180,
+          "Product Option Code": "C7447A8.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "CARGO FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C7447A8_25SP_NM40_01_05.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5181,
+          "Product Option Code": "C7447A8.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "CARGO FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C7447A8_25SP_NM40_01_05.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/C7447A8_25SP_NM40_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

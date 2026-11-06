@@ -1,0 +1,93 @@
+{
+  "model_kodu": "G9699AX",
+  "urun_grubu": "Kadın Güneş Gözlüğü",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G9699AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kadın Güneş Gözlüğü",
+      "kisa_aciklama": "Gözlerinizi güneşin zararlı ışınlarından korurken stilinize şık bir dokunuş katıyor. Modern ve hafif tasarımı sayesinde günlük kombinlerinizin vazgeçilmez bir tamamlayıcısı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-gunes-gozlugu-3422217",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G9699AX_NS_BK23_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9699AX_NS_BK23_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9699AX_NS_BK23_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9699AX_NS_BK23_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9699AX_NS_BK23_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Metal 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Güneş Gözlüğü",
+        "filtre_tipi": "UV"
+      },
+      "urun_hakkinda": [
+        "Gözlerinizi güneşin zararlı ışınlarından korurken stilinize şık bir dokunuş katıyor. Modern ve hafif tasarımı sayesinde günlük kombinlerinizin vazgeçilmez bir tamamlayıcısı…",
+        "Bu ürünü en yakın DeFacto mağazasında ücretsiz olarak değiştirebilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23257,
+          "Product Option Code": "G9699AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Sunglasses",
+          "LifeStyle": "Casual",
+          "Class Name": "Sunglasses",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G9699AX_NS_BK23_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-gunes-gozlugu-3422217",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-gunes-gozlugu-3422217"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G9699AX_NS_BK23_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:12:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

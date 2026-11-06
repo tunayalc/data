@@ -1,0 +1,145 @@
+{
+  "model_kodu": "F5731AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-23",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok iyi, fiyatına göre de gayet iyi. Harika!."
+      },
+      {
+        "tarih": "2026-02-25",
+        "puan": 5.0,
+        "metin": "@Rengi ve kalıbı çok hoşumuza gitti. Kalınlığını ve üzerimdeki duruşunu da çok beğendik."
+      },
+      {
+        "tarih": "2026-02-16",
+        "puan": 5.0,
+        "metin": "@Harika! Gerçekten çok güzel, kesinlikle alın aldırın. DeFactonun kalitesi de ortada. Fiyatını hak ediyor. Kesinlikle tavsiye ederim. Fiyatına göre de…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F5731AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Loose Fit Baskılı Tişört",
+      "kisa_aciklama": "Rahat kalıbıyla öne çıkan Loose Fit bisiklet yaka baskılı kısa kollu tişört, günlük stilin vazgeçilmez parçalarından biridir. Nefes alabilen kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-loose-fit-baskili-tisort-3337905",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F5731AX_25AU_ER105_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5731AX_25AU_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5731AX_25AU_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5731AX_25AU_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5731AX_25AU_ER105_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5731AX_25AU_ER105_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5731AX_25AU_ER105_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5731AX_25AU_ER105_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5731AX_25AU_ER105_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/76/99",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Loose Fıt"
+      },
+      "urun_hakkinda": [
+        "Rahat kalıbıyla öne çıkan Loose Fit bisiklet yaka baskılı kısa kollu tişört, günlük stilin vazgeçilmez parçalarından biridir. Nefes alabilen kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15102,
+          "Product Option Code": "F5731AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F5731AX_25AU_ER105_01_03.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-loose-fit-baskili-tisort-3337905",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-loose-fit-baskili-tisort-3337905"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F5731AX_25AU_ER105_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:47:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D4593AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4593AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7711,
+          "Product Option Code": "D4593AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4593AX_24AU_WT34_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/en-iq/oversize-genis-kalip-cepli-poplin-uzun-kollu-gomlek-3172200",
+          "Model Page URL": "https://www.defacto.com/en-iq/oversize-genis-kalip-cepli-poplin-uzun-kollu-gomlek-3172200"
+        },
+        {
+          "excel_satiri": 7712,
+          "Product Option Code": "D4593AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4593AX_24AU_WT34_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/en-iq/oversize-genis-kalip-cepli-poplin-uzun-kollu-gomlek-3172200",
+          "Model Page URL": "https://www.defacto.com/en-iq/oversize-genis-kalip-cepli-poplin-uzun-kollu-gomlek-3172200"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D4593AX_24AU_WT34_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:34:54+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/oversize-genis-kalip-cepli-poplin-uzun-kollu-gomlek-3172200",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

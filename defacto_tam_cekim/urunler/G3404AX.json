@@ -1,0 +1,383 @@
+{
+  "model_kodu": "G3404AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3404AXER100",
+      "renk_kodu": "ER100",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Standart Fıt Polo Yaka Kısa Kollu Triko Polo Tişört",
+      "kisa_aciklama": "Standart fit kısa kollu polo tişört. Ön kısmında iki düğmeli pat detayı bulunur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_ER100_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_ER100_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_ER100_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_ER100_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_ER100_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Triko",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Standart Fıt",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek",
+        "triko_kalinligi": "İnce Kalınlık"
+      },
+      "urun_hakkinda": [
+        "Standart fit kısa kollu polo tişört. Ön kısmında iki düğmeli pat detayı bulunur."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18805,
+          "Product Option Code": "G3404AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_ER100_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341"
+        },
+        {
+          "excel_satiri": 18806,
+          "Product Option Code": "G3404AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_ER100_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341"
+        },
+        {
+          "excel_satiri": 18807,
+          "Product Option Code": "G3404AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_ER100_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341"
+        },
+        {
+          "excel_satiri": 18808,
+          "Product Option Code": "G3404AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_ER100_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_ER100_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G3404AXPN56",
+      "renk_kodu": "PN56",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "%100 Pamuk Standart Fıt Polo Yaka Kısa Kollu Triko Polo Tişört",
+      "kisa_aciklama": "Standart fit kısa kollu polo tişört. Ön kısmında iki düğmeli pat detayı bulunur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3454468",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_PN56_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_PN56_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_PN56_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_PN56_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kumas": "Triko",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Standart Fıt",
+        "triko_kalinligi": "İnce Kalınlık",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Standart fit kısa kollu polo tişört. Ön kısmında iki düğmeli pat detayı bulunur."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18809,
+          "Product Option Code": "G3404AX.PN56",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_PN56_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3454468",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341"
+        },
+        {
+          "excel_satiri": 18810,
+          "Product Option Code": "G3404AX.PN56",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_PN56_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3454468",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341"
+        },
+        {
+          "excel_satiri": 18811,
+          "Product Option Code": "G3404AX.PN56",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_PN56_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3454468",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341"
+        },
+        {
+          "excel_satiri": 18812,
+          "Product Option Code": "G3404AX.PN56",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XS",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_PN56_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3454468",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3452341"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G3404AX_26SM_PN56_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G3404AXGN1255",
+      "renk_kodu": "GN1255",
+      "renk_adi": "Mint",
+      "renk_hex": "#9BECCF",
+      "urun_adi": "%100 Pamuk Standart Fıt Polo Yaka Kısa Kollu Triko Polo Tişört",
+      "kisa_aciklama": "Standart fit kısa kollu polo tişört. Ön kısmında iki düğmeli pat detayı bulunur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-standart-fit-polo-yaka-kisa-kollu-triko-polo-tisort-3454467",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_GN1255_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_GN1255_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_GN1255_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_GN1255_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_GN1255_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3404AX_26SM_GN1255_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kumas": "Triko",
+        "kalip": "Standart Fıt",
+        "yaka": "Polo Yaka",
+        "triko_kalinligi": "İnce Kalınlık"
+      },
+      "urun_hakkinda": [
+        "Standart fit kısa kollu polo tişört. Ön kısmında iki düğmeli pat detayı bulunur."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:00:24+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

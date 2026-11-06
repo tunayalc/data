@@ -1,0 +1,885 @@
+{
+  "model_kodu": "C7381AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 88,
+    "yorum_sayisi": 88,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 20.5,
+      "tam_oldu": 71.8,
+      "buyuk_geldi": 7.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-09-14",
+        "puan": 4.0,
+        "metin": "@Eşim için aldım kendisi beğendi yumuşak rahat kullanışlı bir ürün bedeni biraz bol oldu ama yıkayınca biraz da olsa çekeceğe…"
+      },
+      {
+        "tarih": "2025-07-08",
+        "puan": 5.0,
+        "metin": "@Çok kaliteli."
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@Harika bir ürün, keten görünümlü deniyor ama gerçekten keten. Çok güzel ve kaliteli. Eşim 190 cm, 120 kilo, 40 beden…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C7381AXBE524",
+      "renk_kodu": "BE524",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "%100 Pamuk Relax Fit Cepli Keten Görünümlü Bermuda Şort",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260967",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BE524_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "36",
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5153,
+          "Product Option Code": "C7381AX.BE524",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "36",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BE524_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260967",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5154,
+          "Product Option Code": "C7381AX.BE524",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "38",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BE524_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260967",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BE524_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7381AXBG655",
+      "renk_kodu": "BG655",
+      "renk_adi": "Açık Bej",
+      "renk_hex": "#FFF6E5",
+      "urun_adi": "%100 Pamuk Relax Fit Cepli Keten Görünümlü Bermuda Şort",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260966",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BG655_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BG655_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BG655_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BG655_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BG655_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BG655_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_BG655_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "38",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,87cm - 100/78/98",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5155,
+          "Product Option Code": "C7381AX.BG655",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "28",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BG655_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260966",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5156,
+          "Product Option Code": "C7381AX.BG655",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BG655_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260966",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5157,
+          "Product Option Code": "C7381AX.BG655",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BG655_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260966",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5158,
+          "Product Option Code": "C7381AX.BG655",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BG655_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260966",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5159,
+          "Product Option Code": "C7381AX.BG655",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "38",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BG655_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260966",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5160,
+          "Product Option Code": "C7381AX.BG655",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "40",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BG655_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260966",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_BG655_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7381AXIN269",
+      "renk_kodu": "IN269",
+      "renk_adi": "İndigo",
+      "renk_hex": "#3F00FF",
+      "urun_adi": "%100 Pamuk Relax Fit Cepli Keten Görünümlü Bermuda Şort",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3404135",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_IN269_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_IN269_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_IN269_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_IN269_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_IN269_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Relax Fıt",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5161,
+          "Product Option Code": "C7381AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "28",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7381AX_26SM_IN269_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3404135",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5162,
+          "Product Option Code": "C7381AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7381AX_26SM_IN269_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3404135",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5163,
+          "Product Option Code": "C7381AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7381AX_26SM_IN269_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3404135",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5164,
+          "Product Option Code": "C7381AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7381AX_26SM_IN269_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3404135",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/C7381AX_26SM_IN269_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7381AXKH418",
+      "renk_kodu": "KH418",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "%100 Pamuk Relax Fit Cepli Keten Görünümlü Bermuda Şort",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_25SM_KH418_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5165,
+          "Product Option Code": "C7381AX.KH418",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "28",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_KH418_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5166,
+          "Product Option Code": "C7381AX.KH418",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_KH418_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5167,
+          "Product Option Code": "C7381AX.KH418",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_KH418_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5168,
+          "Product Option Code": "C7381AX.KH418",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_KH418_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        },
+        {
+          "excel_satiri": 5169,
+          "Product Option Code": "C7381AX.KH418",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "36",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_KH418_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3260965"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C7381AX_25SM_KH418_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7381AXBG74",
+      "renk_kodu": "BG74",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "%100 Pamuk Relax Fit Cepli Keten Görünümlü Bermuda Şort",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3404134",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BG74_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BG74_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BG74_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BG74_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BG74_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kumas": "Pamuklu",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C7381AXBN534",
+      "renk_kodu": "BN534",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "%100 Pamuk Relax Fit Cepli Keten Görünümlü Bermuda Şort",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-cepli-keten-gorunumlu-bermuda-sort-3404136",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BN534_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BN534_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BN534_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BN534_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7381AX_26SM_BN534_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş relaxed fit bermuda şort. Relax fit kesim, ekru pamuklu bermuda. Diz üstü boy, bel bandı ve yan…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:24:15+03:00",
+    "denenen_sayfa": 6,
+    "dogrulanan_renk": 6
+  }
+}

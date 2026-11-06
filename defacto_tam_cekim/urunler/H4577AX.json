@@ -1,0 +1,86 @@
+{
+  "model_kodu": "H4577AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4577AXGR100",
+      "renk_kodu": "GR100",
+      "renk_adi": "LT.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29104,
+          "Product Option Code": "H4577AX.GR100",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Bottoms",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "S",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H4577AX_26SP_GR100_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.eg/baggy-fit-elastik-bel-cepli-kisa-penye-sort-3524497",
+          "Model Page URL": "https://www.defacto.com.eg/baggy-fit-elastik-bel-cepli-kisa-penye-sort-3524497"
+        },
+        {
+          "excel_satiri": 29105,
+          "Product Option Code": "H4577AX.GR100",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Bottoms",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "XXL",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H4577AX_26SP_GR100_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.eg/baggy-fit-elastik-bel-cepli-kisa-penye-sort-3524497",
+          "Model Page URL": "https://www.defacto.com.eg/baggy-fit-elastik-bel-cepli-kisa-penye-sort-3524497"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H4577AX_26SP_GR100_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:26:23+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/baggy-fit-elastik-bel-cepli-kisa-penye-sort-3524497",
+      "http": 200,
+      "durum": "Sayfada bu modelin ürün kodu bulunamadı"
+    }
+  ]
+}

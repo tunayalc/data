@@ -1,0 +1,159 @@
+{
+  "model_kodu": "G3411A5",
+  "urun_grubu": "Kız Bebek Jean",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 75.0,
+      "buyuk_geldi": 25.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-06",
+        "puan": 5.0,
+        "metin": "@boyu bi tık büyük ama sorun değil kıvıracam alta. çok hoş duruyor ama beğendim"
+      },
+      {
+        "tarih": "2026-10-12",
+        "puan": 5.0,
+        "metin": "@Çok kaliteli çok güzel"
+      },
+      {
+        "tarih": "2026-08-11",
+        "puan": 5.0,
+        "metin": "@Çok beğendim. Çok güzel pantolon. 5 yaşındaki kızım için almıştım. Kızım normalden biraz daha uzun olduğuı için boyu kısa geldi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3411A5NM40",
+      "renk_kodu": "NM40",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Paperbag Jean Pantolon Kız Bebek",
+      "kisa_aciklama": "Paperbag Jean Pantolon, yumuşak ve dayanıklı kumaşıyla gün boyu rahatlık sağlar. Bel kısmındaki modern paperbag detayları, şıklığı ve hareket özgürlüğünü…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/paperbag-jean-pantolon-kiz-bebek-3377493",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3411A5_26SP_NM40_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3411A5_26SP_NM40_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3411A5_26SP_NM40_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "2/3 Y",
+          "3/4 Y",
+          "4/5 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Paperbag",
+        "bel_detayi": "Beli Lastikli",
+        "cinsiyet": "Kız Bebek"
+      },
+      "urun_hakkinda": [
+        "Paperbag Jean Pantolon, yumuşak ve dayanıklı kumaşıyla gün boyu rahatlık sağlar. Bel kısmındaki modern paperbag detayları, şıklığı ve hareket özgürlüğünü…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18813,
+          "Product Option Code": "G3411A5.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "2/3 Y",
+          "Fit": "PAPERBAG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G3411A5_26SP_NM40_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/paperbag-jean-pantolon-kiz-bebek-3377493",
+          "Model Page URL": "https://www.defacto.com.tr/paperbag-jean-pantolon-kiz-bebek-3377493"
+        },
+        {
+          "excel_satiri": 18814,
+          "Product Option Code": "G3411A5.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "PAPERBAG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G3411A5_26SP_NM40_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/paperbag-jean-pantolon-kiz-bebek-3377493",
+          "Model Page URL": "https://www.defacto.com.tr/paperbag-jean-pantolon-kiz-bebek-3377493"
+        },
+        {
+          "excel_satiri": 18815,
+          "Product Option Code": "G3411A5.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "PAPERBAG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G3411A5_26SP_NM40_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/paperbag-jean-pantolon-kiz-bebek-3377493",
+          "Model Page URL": "https://www.defacto.com.tr/paperbag-jean-pantolon-kiz-bebek-3377493"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G3411A5_26SP_NM40_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:01:58+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

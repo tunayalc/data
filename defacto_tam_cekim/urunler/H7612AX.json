@@ -1,0 +1,99 @@
+{
+  "model_kodu": "H7612AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7612AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Regular Fıt Bisiklet Yaka Nakış Baskı Baskılı Penye Kısa Kollu Tişört",
+      "kisa_aciklama": "Penye kumaştan üretilmiş regular fit kadın Baskılı tişört. Bisiklet yaka ve kısa kollu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-nakis-baski-baskili-penye-kisa-kollu-tisort-3460117",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7612AX_26SM_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7612AX_26SM_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7612AX_26SM_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7612AX_26SM_ER105_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "desen": "Slogan Baskılı",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "urun_tipi": "Kısa Kollu Tişört"
+      },
+      "urun_hakkinda": [
+        "Penye kumaştan üretilmiş regular fit kadın Baskılı tişört. Bisiklet yaka ve kısa kollu."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33349,
+          "Product Option Code": "H7612AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H7612AX_26SM_ER105_01_01.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-nakis-baski-baskili-penye-kisa-kollu-tisort-3460117",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-nakis-baski-baskili-penye-kisa-kollu-tisort-3460117"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H7612AX_26SM_ER105_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:40:11+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

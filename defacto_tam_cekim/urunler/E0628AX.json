@@ -1,0 +1,887 @@
+{
+  "model_kodu": "E0628AX",
+  "urun_grubu": "Kadın Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 66,
+    "yorum_sayisi": 66,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 51.8,
+      "tam_oldu": 48.2,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-04-03",
+        "puan": 5.0,
+        "metin": "@Aynı beden ve aynı renkten 2 adet aldım. Biri benim diğeri kızım için. Benim boyum 170 paça boyu bende yere…"
+      },
+      {
+        "tarih": "2026-05-13",
+        "puan": 2.0,
+        "metin": "@Kalıp çook dar normalde S M bana oluyor ama boyum uzun olduğu için L alıyorum alt giyimi büyük tercih etmek…"
+      },
+      {
+        "tarih": "2025-04-02",
+        "puan": 5.0,
+        "metin": "@Çok rahat ve şık."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0628AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Flare Fıt Ribana Siyah Pantolon",
+      "kisa_aciklama": "Ribana kumaştan üretilmiş pantolon. Geniş bel bandına ve ön orta dikiş detayına sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/flare-fit-ribana-siyah-pantolon-3497946",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_BK81_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_BK81_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_BK81_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_BK81_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,74cm - 83/63/88",
+        "ana_kumas_icerigi": "Pamuk 44%,Elastan 3%,Modal 53%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kumas": "Ribana",
+        "kalip": "Flare Fıt"
+      },
+      "urun_hakkinda": [
+        "Ribana kumaştan üretilmiş pantolon. Geniş bel bandına ve ön orta dikiş detayına sahiptir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10237,
+          "Product Option Code": "E0628AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-siyah-pantolon-3497946",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10238,
+          "Product Option Code": "E0628AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E0628AX_26SP_BK81_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-siyah-pantolon-3497946",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10239,
+          "Product Option Code": "E0628AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 3,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-siyah-pantolon-3497946",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10240,
+          "Product Option Code": "E0628AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 4,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-siyah-pantolon-3497946",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10241,
+          "Product Option Code": "E0628AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-siyah-pantolon-3497946",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10242,
+          "Product Option Code": "E0628AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-siyah-pantolon-3497946",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10243,
+          "Product Option Code": "E0628AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-siyah-pantolon-3497946",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_BK81_01_03.jpg",
+        "https://image.defacto.com.tr/product/26SP/E0628AX_26SP_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0628AXBN539",
+      "renk_kodu": "BN539",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Flare Fit Ribana Pantolon",
+      "kisa_aciklama": "Flare Fit Ribana Pantolon, esnek ribana dokusu ve geniş paça kesimiyle gün boyu konfor sunar. Modern ve rahat tarzıyla hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/flare-fit-ribana-pantolon-3344044",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0628AX_25AU_BN539_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_25AU_BN539_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_25AU_BN539_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_25AU_BN539_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_25AU_BN539_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_25AU_BN539_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_25AU_BN539_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_25AU_BN539_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_25AU_BN539_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,71cm/58",
+        "ana_kumas_icerigi": "Pamuk 45%,Elastan 4%,Modal 51%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "markalar": "Coool",
+        "kalip": "Flare Fıt",
+        "kumas": "Ribana",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Flare Fit Ribana Pantolon, esnek ribana dokusu ve geniş paça kesimiyle gün boyu konfor sunar. Modern ve rahat tarzıyla hem…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10244,
+          "Product Option Code": "E0628AX.BN539",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E0628AX_25AU_BN539_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-pantolon-3344044",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10245,
+          "Product Option Code": "E0628AX.BN539",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E0628AX_25AU_BN539_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-pantolon-3344044",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10246,
+          "Product Option Code": "E0628AX.BN539",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E0628AX_25AU_BN539_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-pantolon-3344044",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E0628AX_25AU_BN539_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0628AXGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Flare Fıt Ribana Gri Melanj Pantolon",
+      "kisa_aciklama": "Ribana kumaştan üretilmiş pantolon. Geniş bel bandına ve ön orta dikiş detayına sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/flare-fit-ribana-gri-melanj-pantolon-3497945",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_GR210_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_GR210_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_GR210_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_GR210_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_GR210_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_GR210_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 45%,Elastan 4%,Poliester 51%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Flare Fıt",
+        "kumas": "Ribana"
+      },
+      "urun_hakkinda": [
+        "Ribana kumaştan üretilmiş pantolon. Geniş bel bandına ve ön orta dikiş detayına sahiptir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10247,
+          "Product Option Code": "E0628AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_GR210_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-gri-melanj-pantolon-3497945",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10248,
+          "Product Option Code": "E0628AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E0628AX_26SP_GR210_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-gri-melanj-pantolon-3497945",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10249,
+          "Product Option Code": "E0628AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XL",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_GR210_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-gri-melanj-pantolon-3497945",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10250,
+          "Product Option Code": "E0628AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XL",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E0628AX_26SP_GR210_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-gri-melanj-pantolon-3497945",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10251,
+          "Product Option Code": "E0628AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XS",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E0628AX_26SP_GR210_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-gri-melanj-pantolon-3497945",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10252,
+          "Product Option Code": "E0628AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XXL",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_GR210_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-gri-melanj-pantolon-3497945",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10253,
+          "Product Option Code": "E0628AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XXL",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E0628AX_26SP_GR210_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-gri-melanj-pantolon-3497945",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_GR210_01_02.jpg",
+        "https://image.defacto.com.tr/product/26SP/E0628AX_26SP_GR210_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0628AXNV248",
+      "renk_kodu": "NV248",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Flare Fıt Ribana Lacivert Pantolon",
+      "kisa_aciklama": "Ribana kumaştan üretilmiş pantolon. Geniş bel bandına ve ön orta dikiş detayına sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/flare-fit-ribana-lacivert-pantolon-3497944",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_NV248_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_NV248_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_NV248_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_NV248_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_NV248_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_NV248_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26AU_NV248_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 44%,Elastan 3%,Modal 53%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kumas": "Ribana",
+        "kalip": "Flare Fıt"
+      },
+      "urun_hakkinda": [
+        "Ribana kumaştan üretilmiş pantolon. Geniş bel bandına ve ön orta dikiş detayına sahiptir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10254,
+          "Product Option Code": "E0628AX.NV248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_NV248_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-lacivert-pantolon-3497944",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10255,
+          "Product Option Code": "E0628AX.NV248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_NV248_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-lacivert-pantolon-3497944",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10256,
+          "Product Option Code": "E0628AX.NV248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_NV248_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-lacivert-pantolon-3497944",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        },
+        {
+          "excel_satiri": 10257,
+          "Product Option Code": "E0628AX.NV248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_NV248_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ribana-lacivert-pantolon-3497944",
+          "Model Page URL": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E0628AX_26AU_NV248_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0628AXNV253",
+      "renk_kodu": "NV253",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Flare Fıt Ribana Pantolon",
+      "kisa_aciklama": "Coool markasına ait Lacivert renkte yaz mevsimi için ideal Örme Alt Pantolon. Flare Fıt kalıbıyla modern tasarımı ve ribana kumaşıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/coool-flare-fit-ribana-pantolon-3402564",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26SP_NV253_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26SP_NV253_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26SP_NV253_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26SP_NV253_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26SP_NV253_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0628AX_26SP_NV253_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm - 77/60/89",
+        "ana_kumas_icerigi": "Pamuk 47%,Elastan 3%,Modal 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kumas": "Ribana",
+        "markalar": "Coool",
+        "kalip": "Flare Fıt"
+      },
+      "urun_hakkinda": [
+        "Coool markasına ait Lacivert renkte yaz mevsimi için ideal Örme Alt Pantolon. Flare Fıt kalıbıyla modern tasarımı ve ribana kumaşıyla…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:33:00+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

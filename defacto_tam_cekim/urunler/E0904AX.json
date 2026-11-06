@@ -1,0 +1,122 @@
+{
+  "model_kodu": "E0904AX",
+  "urun_grubu": "Erkek Yüzme Şortu",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0904AXNV256",
+      "renk_kodu": "NV256",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "File Astarlı Önü Düğmeli Kısa Boy Deniz Şortu",
+      "kisa_aciklama": "Önü Düğmeli file astarlı kısa boy deniz şortu",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/file-astarli-onu-dugmeli-kisa-boy-deniz-sortu-3212055",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0904AX_25HS_NV256_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0904AX_25HS_NV256_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0904AX_25HS_NV256_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0904AX_25HS_NV256_04_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0904AX_25HS_NV256_05_05.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "urun_boyu": "Kısa Boy"
+      },
+      "urun_hakkinda": [
+        "Önü Düğmeli file astarlı kısa boy deniz şortu",
+        "Bu ürün hijyen açısından iade ve değişime uygun değildir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/SENSITIVE_WASHING_EIEKQJRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10384,
+          "Product Option Code": "E0904AX.NV256",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimming Short",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "LUKE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/E0904AX_25HS_NV256_01_05.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/file-astarli-onu-dugmeli-kisa-boy-deniz-sortu-3212055",
+          "Model Page URL": "https://www.defacto.com.tr/file-astarli-onu-dugmeli-kisa-boy-deniz-sortu-3212055"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/E0904AX_25HS_NV256_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:33:20+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

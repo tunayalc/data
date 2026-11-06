@@ -1,0 +1,112 @@
+{
+  "model_kodu": "F8432A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 3.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 50.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@bize biraz uzun geldi fakat oğlumun boyu yaşıtlarından kısa güzel beğendik iade etmedim seneye giyer"
+      },
+      {
+        "tarih": "2026-09-04",
+        "puan": 1.0,
+        "metin": "@Ürünün görselle alakası bile yok. Kalıbı da duruşu da rengi de çok alakasız . Asla tavsiye etmiyorum"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8432A8NM40",
+      "renk_kodu": "NM40",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Straight Fit Klasik Düz Kesim Jean Pantolon Erkek Çocuk",
+      "kisa_aciklama": "Her güne uyum sağlayan düz kesimiyle ne çok bol ne çok dar. Çocukların oyun alanlarındaki tüm hareketlerine eşlik edecek dayanıklı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-fit-klasik-duz-kesim-jean-pantolon-erkek-cocuk-3377661",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8432A8_26SM_NM40_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8432A8_26SM_NM40_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8432A8_26SM_NM40_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8432A8_26SM_NM40_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 68%,Elastan 2%,Poliester 30%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Erkek Çocuk",
+        "kalip": "Straıght Fıt"
+      },
+      "urun_hakkinda": [
+        "Her güne uyum sağlayan düz kesimiyle ne çok bol ne çok dar. Çocukların oyun alanlarındaki tüm hareketlerine eşlik edecek dayanıklı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16299,
+          "Product Option Code": "F8432A8.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/F8432A8_26SM_NM40_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-klasik-duz-kesim-jean-pantolon-erkek-cocuk-3377661",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-klasik-duz-kesim-jean-pantolon-erkek-cocuk-3377661"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/F8432A8_26SM_NM40_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:55:23+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

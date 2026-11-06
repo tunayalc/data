@@ -1,0 +1,86 @@
+{
+  "model_kodu": "G3197AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3197AXBR363",
+      "renk_kodu": "BR363",
+      "renk_adi": "LT.BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XL",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18682,
+          "Product Option Code": "G3197AX.BR363",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "LT.BORDEAUX",
+          "SizeDefinition": "XL",
+          "Fit": "SWEATSHIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G3197AX_25WN_BR363_01_02.jpg",
+          "FabricDetail": "3 Thread with brushed",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#A70B32",
+          "Product Page URL": "https://www.defacto.com/ar-iq/bisiklet-yaka-baskili-sweatshirt-3355718",
+          "Model Page URL": "https://www.defacto.com/ar-iq/bisiklet-yaka-baskili-sweatshirt-3355718"
+        },
+        {
+          "excel_satiri": 18683,
+          "Product Option Code": "G3197AX.BR363",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "LT.BORDEAUX",
+          "SizeDefinition": "XXL",
+          "Fit": "SWEATSHIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G3197AX_25WN_BR363_01_02.jpg",
+          "FabricDetail": "3 Thread with brushed",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#A70B32",
+          "Product Page URL": "https://www.defacto.com/ar-iq/bisiklet-yaka-baskili-sweatshirt-3355718",
+          "Model Page URL": "https://www.defacto.com/ar-iq/bisiklet-yaka-baskili-sweatshirt-3355718"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G3197AX_25WN_BR363_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:01:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/bisiklet-yaka-baskili-sweatshirt-3355718",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

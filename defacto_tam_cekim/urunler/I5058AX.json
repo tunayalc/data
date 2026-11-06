@@ -1,0 +1,97 @@
+{
+  "model_kodu": "I5058AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I5058AXBN1",
+      "renk_kodu": "BN1",
+      "renk_adi": "LT.BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43002,
+          "Product Option Code": "I5058AX.BN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Cosmetics",
+          "LifeStyle": "Casual",
+          "Class Name": "Personal Care",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I5058AX_NS_BN1_01_01.jpg",
+          "FabricDetail": "None",
+          "Toplam": 11,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I5058AX_NS_BN1_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I5058AXPN1",
+      "renk_kodu": "PN1",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43003,
+          "Product Option Code": "I5058AX.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Cosmetics",
+          "LifeStyle": "Casual",
+          "Class Name": "Personal Care",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I5058AX_NS_PN1_01_01.jpg",
+          "FabricDetail": "None",
+          "Toplam": 12,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I5058AX_NS_PN1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

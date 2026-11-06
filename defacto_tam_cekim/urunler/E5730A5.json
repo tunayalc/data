@@ -1,0 +1,57 @@
+{
+  "model_kodu": "E5730A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5730A5RD54",
+      "renk_kodu": "RD54",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11659,
+          "Product Option Code": "E5730A5.RD54",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "RED",
+          "SizeDefinition": "12-18 M",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E5730A5_25SP_RD54_01_01.jpg",
+          "FabricDetail": "SUPREM-KAŞKORSE",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 119.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E5730A5_25SP_RD54_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

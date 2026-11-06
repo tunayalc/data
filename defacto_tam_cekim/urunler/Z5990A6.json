@@ -1,0 +1,57 @@
+{
+  "model_kodu": "Z5990A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z5990A6BG189",
+      "renk_kodu": "BG189",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12/13 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48878,
+          "Product Option Code": "Z5990A6.BG189",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "12/13 Y",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/Z5990A6_23SM_BG189_01_03.jpg",
+          "FabricDetail": "COTTON-PES-VISCON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/Z5990A6_23SM_BG189_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

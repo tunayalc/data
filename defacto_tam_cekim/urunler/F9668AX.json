@@ -1,0 +1,430 @@
+{
+  "model_kodu": "F9668AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 57.1,
+      "tam_oldu": 42.9,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-10",
+        "puan": 1.0,
+        "metin": "@%100 pamuk diye aldık %100 polyester çıktı"
+      },
+      {
+        "tarih": "2026-06-29",
+        "puan": 5.0,
+        "metin": "@Ürünün rahatlığını deneyimledikten sonra çevremden 2 kişiye daha aldırdım. Bu yaz ve gelecek yazlar için uzun süreli kullanacağım gibi görünüyor"
+      },
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@aşırı rahat ve hafif bir yapısı var hemen kuruyor kirismiyor"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9668AXBG716",
+      "renk_kodu": "BG716",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Regular Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374468",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_BG716_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_BG716_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_BG716_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_BG716_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_BG716_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_BG716_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "34",
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 629.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17084,
+          "Product Option Code": "F9668AX.BG716",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_BG716_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374468",
+          "Model Page URL": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470"
+        },
+        {
+          "excel_satiri": 17085,
+          "Product Option Code": "F9668AX.BG716",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_BG716_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374468",
+          "Model Page URL": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470"
+        },
+        {
+          "excel_satiri": 17086,
+          "Product Option Code": "F9668AX.BG716",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "34",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_BG716_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 4,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374468",
+          "Model Page URL": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470"
+        },
+        {
+          "excel_satiri": 17087,
+          "Product Option Code": "F9668AX.BG716",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "36",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_BG716_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374468",
+          "Model Page URL": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_BG716_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9668AXGR206",
+      "renk_kodu": "GR206",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Regular Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374469",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_GR206_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_GR206_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_GR206_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_GR206_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17088,
+          "Product Option Code": "F9668AX.GR206",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_GR206_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374469",
+          "Model Page URL": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470"
+        },
+        {
+          "excel_satiri": 17089,
+          "Product Option Code": "F9668AX.GR206",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "32",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_GR206_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374469",
+          "Model Page URL": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_GR206_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9668AXIN269",
+      "renk_kodu": "IN269",
+      "renk_adi": "İndigo",
+      "renk_hex": "#3F00FF",
+      "urun_adi": "Regular Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374467",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_IN269_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_IN269_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_IN269_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_IN269_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 629.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17090,
+          "Product Option Code": "F9668AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_IN269_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3374467",
+          "Model Page URL": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_IN269_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9668AXKH401",
+      "renk_kodu": "KH401",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Çabuk Kuruyan %100 Pamuk Regular Fit Pantolon",
+      "kisa_aciklama": "Çabuk Kuruyan %100 Pamuk Regular Fit Pantolon",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_KH401_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_KH401_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_KH401_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_KH401_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_KH401_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9668AX_26SP_KH401_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Çabuk Kuruyan %100 Pamuk Regular Fit Pantolon"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17091,
+          "Product Option Code": "F9668AX.KH401",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_KH401_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470",
+          "Model Page URL": "https://www.defacto.com.tr/cabuk-kuruyan-100-pamuk-regular-fit-pantolon-3374470"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9668AX_26SP_KH401_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:54:36+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

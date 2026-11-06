@@ -1,0 +1,93 @@
+{
+  "model_kodu": "I0411A5",
+  "urun_grubu": "Kız Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0411A5KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Meyve Baskılı Dikişsiz 4'lü Pamuklu Uzun Karma Çorap Kız Bebek",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş çorap. 4'Lü set. Baskılı. Dikişsiz üretim.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/meyve-baskili-dikissiz-4lu-pamuklu-uzun-karma-corap-kiz-bebek-3484676",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0411A5_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0411A5_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0411A5_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliamid 21%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Bebek",
+        "takim_icerigi": "4'lü",
+        "corap_tipi": "Uzun Çorap",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş çorap. 4'Lü set. Baskılı. Dikişsiz üretim."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37809,
+          "Product Option Code": "I0411A5.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "6-12 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0411A5_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/meyve-baskili-dikissiz-4lu-pamuklu-uzun-karma-corap-kiz-bebek-3484676",
+          "Model Page URL": "https://www.defacto.com.tr/meyve-baskili-dikissiz-4lu-pamuklu-uzun-karma-corap-kiz-bebek-3484676"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0411A5_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:41:08+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

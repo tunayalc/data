@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D4249AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4249AXRD63",
+      "renk_kodu": "RD63",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7474,
+          "Product Option Code": "D4249AX.RD63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "RED",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4249AX_24HS_RD63_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-spor-baskili-ribana-atlet-3150164",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-spor-baskili-ribana-atlet-3150164"
+        },
+        {
+          "excel_satiri": 7475,
+          "Product Option Code": "D4249AX.RD63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "RED",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4249AX_24HS_RD63_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-spor-baskili-ribana-atlet-3150164",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-spor-baskili-ribana-atlet-3150164"
+        },
+        {
+          "excel_satiri": 7476,
+          "Product Option Code": "D4249AX.RD63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "RED",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4249AX_24HS_RD63_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 6,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-spor-baskili-ribana-atlet-3150164",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-spor-baskili-ribana-atlet-3150164"
+        },
+        {
+          "excel_satiri": 7477,
+          "Product Option Code": "D4249AX.RD63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4249AX_24HS_RD63_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-spor-baskili-ribana-atlet-3150164",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-spor-baskili-ribana-atlet-3150164"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4249AX_24HS_RD63_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:34:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fitted-spor-baskili-ribana-atlet-3150164",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

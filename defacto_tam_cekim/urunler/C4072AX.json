@@ -1,0 +1,79 @@
+{
+  "model_kodu": "C4072AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4072AXGN689",
+      "renk_kodu": "GN689",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4072,
+          "Product Option Code": "C4072AX.GN689",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C4072AX_24SP_GN689_01_01.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 4073,
+          "Product Option Code": "C4072AX.GN689",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "XS",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C4072AX_24SP_GN689_01_01.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C4072AX_24SP_GN689_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

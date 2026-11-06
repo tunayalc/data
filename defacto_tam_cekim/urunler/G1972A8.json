@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G1972A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G1972A8GN653",
+      "renk_kodu": "GN653",
+      "renk_adi": "MINT",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3/4 Y",
+          "4/5 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18149,
+          "Product Option Code": "G1972A8.GN653",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G1972A8_25AU_GN653_01_01.jpg",
+          "FabricDetail": "POINTELLE",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuklu-3lu-slip-kulot-kiz-cocuk-3417244",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuklu-3lu-slip-kulot-kiz-cocuk-3417244"
+        },
+        {
+          "excel_satiri": 18150,
+          "Product Option Code": "G1972A8.GN653",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G1972A8_25AU_GN653_01_01.jpg",
+          "FabricDetail": "POINTELLE",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuklu-3lu-slip-kulot-kiz-cocuk-3417244",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuklu-3lu-slip-kulot-kiz-cocuk-3417244"
+        },
+        {
+          "excel_satiri": 18151,
+          "Product Option Code": "G1972A8.GN653",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G1972A8_25AU_GN653_01_01.jpg",
+          "FabricDetail": "POINTELLE",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuklu-3lu-slip-kulot-kiz-cocuk-3417244",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuklu-3lu-slip-kulot-kiz-cocuk-3417244"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G1972A8_25AU_GN653_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:00:11+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuklu-3lu-slip-kulot-kiz-cocuk-3417244",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

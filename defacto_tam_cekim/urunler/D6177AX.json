@@ -1,0 +1,119 @@
+{
+  "model_kodu": "D6177AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D6177AXBG715",
+      "renk_kodu": "BG715",
+      "renk_adi": "STONE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8205,
+          "Product Option Code": "D6177AX.BG715",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Vest",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D6177AX_25SP_BG715_01_02.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 8206,
+          "Product Option Code": "D6177AX.BG715",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Vest",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D6177AX_25SP_BG715_01_02.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D6177AX_25SP_BG715_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D6177AXKH513",
+      "renk_kodu": "KH513",
+      "renk_adi": "LT.KHAKI",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8207,
+          "Product Option Code": "D6177AX.KH513",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Vest",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D6177AX_25SP_KH513_01_02.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D6177AX_25SP_KH513_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

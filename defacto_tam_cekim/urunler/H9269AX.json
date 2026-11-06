@@ -1,0 +1,64 @@
+{
+  "model_kodu": "H9269AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H9269AXBN45",
+      "renk_kodu": "BN45",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 36222,
+          "Product Option Code": "H9269AX.BN45",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9269AX_NS_BN45_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 8,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-dikissiz-5li-pamuklu-sneaker-corap-3550717",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-dikissiz-5li-pamuklu-sneaker-corap-3550717"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H9269AX_NS_BN45_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:38:20+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-dikissiz-5li-pamuklu-sneaker-corap-3550717",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

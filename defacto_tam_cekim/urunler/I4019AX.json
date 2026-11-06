@@ -1,0 +1,187 @@
+{
+  "model_kodu": "I4019AX",
+  "urun_grubu": "Erkek Boxer",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4019AXNV30",
+      "renk_kodu": "NV30",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fit Çizgili ve Düz 2'li Boxer",
+      "kisa_aciklama": "Çizgili desenli ve ikili regular fit ürün. Esnek dokulu kumaştan üretilmiş boxer. Kontrast renk detaylı elastik bel bantlı, önü dikişli,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-cizgili-ve-duz-2li-boxer-3513584",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4019AX_26AU_NV30_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4019AX_26AU_NV30_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4019AX_26AU_NV30_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4019AX_26AU_NV30_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4019AX_26AU_NV30_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "takim_icerigi": "2'li",
+        "desen": "Çizgili",
+        "ic_giyim_kategori": "Boxer"
+      },
+      "urun_hakkinda": [
+        "Çizgili desenli ve ikili regular fit ürün. Esnek dokulu kumaştan üretilmiş boxer. Kontrast renk detaylı elastik bel bantlı, önü dikişli,…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42299,
+          "Product Option Code": "I4019AX.NV30",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I4019AX_26AU_NV30_01_02.jpg",
+          "FabricDetail": "36/1 Jersey",
+          "Toplam": 3,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cizgili-ve-duz-2li-boxer-3513584",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cizgili-ve-duz-2li-boxer-3513584"
+        },
+        {
+          "excel_satiri": 42300,
+          "Product Option Code": "I4019AX.NV30",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I4019AX_26AU_NV30_01_02.jpg",
+          "FabricDetail": "36/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cizgili-ve-duz-2li-boxer-3513584",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cizgili-ve-duz-2li-boxer-3513584"
+        },
+        {
+          "excel_satiri": 42301,
+          "Product Option Code": "I4019AX.NV30",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I4019AX_26AU_NV30_01_02.jpg",
+          "FabricDetail": "36/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cizgili-ve-duz-2li-boxer-3513584",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cizgili-ve-duz-2li-boxer-3513584"
+        },
+        {
+          "excel_satiri": 42302,
+          "Product Option Code": "I4019AX.NV30",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I4019AX_26AU_NV30_01_02.jpg",
+          "FabricDetail": "36/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cizgili-ve-duz-2li-boxer-3513584",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cizgili-ve-duz-2li-boxer-3513584"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I4019AX_26AU_NV30_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:02:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

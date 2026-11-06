@@ -1,0 +1,64 @@
+{
+  "model_kodu": "G3090AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3090AXAR161",
+      "renk_kodu": "AR161",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18603,
+          "Product Option Code": "G3090AX.AR161",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "40",
+          "Fit": "SKIRT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G3090AX_25AU_AR161_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/normal-bel-kemer-detayli-mini-etek-3417544",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/normal-bel-kemer-detayli-mini-etek-3417544"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G3090AX_25AU_AR161_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:01:22+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/normal-bel-kemer-detayli-mini-etek-3417544",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "model_kodu": "G7939AX",
+  "urun_grubu": "Kadın Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-28",
+        "puan": 5.0,
+        "metin": "@Kazak çok güzel ancak fotoğraftaki gibi şal ile birlikte gönderilecek sanıyordum"
+      },
+      {
+        "tarih": "2026-10-20",
+        "puan": 5.0,
+        "metin": "@tam beden ve yumusacık. ama bogazındaki aksesuarı yokmus 👍"
+      },
+      {
+        "tarih": "2026-02-10",
+        "puan": 5.0,
+        "metin": "@Ürün fiyat performans olarak çok iyi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7939AXBE521",
+      "renk_kodu": "BE521",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Çizgili Triko Kazak",
+      "kisa_aciklama": "Bu üstün kaliteli mavi kazak, yetişkin kadınlar için ideal bir seçimdir. Triko kumaşı ve polo yaka detayıyla şık ve rahattır.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cizgili-triko-kazak-3375572",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7939AX_26SP_BE521_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7939AX_26SP_BE521_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7939AX_26SP_BE521_03_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden",
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Kazak",
+        "desen": "Çizgili",
+        "kumas": "Triko",
+        "kalip": "Regular Fıt",
+        "triko_kalinligi": "Orta Kalın",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Bu üstün kaliteli mavi kazak, yetişkin kadınlar için ideal bir seçimdir. Triko kumaşı ve polo yaka detayıyla şık ve rahattır.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21636,
+          "Product Option Code": "G7939AX.BE521",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7939AX_26SP_BE521_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-triko-kazak-3375572",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-triko-kazak-3375572"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G7939AX_26SP_BE521_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:08:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

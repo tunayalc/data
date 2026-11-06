@@ -1,0 +1,89 @@
+{
+  "model_kodu": "I0076AX",
+  "urun_grubu": "Kadın Diğer Aksesuarlar",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0076AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "4'lü Broş Rozet Seti",
+      "kisa_aciklama": "Dört adet farklı tasarımlara sahip, çeşitli renklerde metal pin veya broş seti.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/4lu-bros-rozet-seti-3491028",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0076AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0076AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0076AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 90%,Epoksi 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "4'lü"
+      },
+      "urun_hakkinda": [
+        "Dört adet farklı tasarımlara sahip, çeşitli renklerde metal pin veya broş seti."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37328,
+          "Product Option Code": "I0076AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Brooch",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0076AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/4lu-bros-rozet-seti-3491028",
+          "Model Page URL": "https://www.defacto.com.tr/4lu-bros-rozet-seti-3491028"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0076AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:40:11+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

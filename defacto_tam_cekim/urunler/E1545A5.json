@@ -1,0 +1,57 @@
+{
+  "model_kodu": "E1545A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1545A5PN144",
+      "renk_kodu": "PN144",
+      "renk_adi": "LT.PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "4/5 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10599,
+          "Product Option Code": "E1545A5.PN144",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Pyjamas",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1545A5_25SM_PN144_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E1545A5_25SM_PN144_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

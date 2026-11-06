@@ -1,0 +1,553 @@
+{
+  "model_kodu": "H8158AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8158AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Standart Fit Düz Paça Pantolon",
+      "kisa_aciklama": "Standart fit pantolon. Kemer köprülü bel, yan cepler. Önü fermuar ve düğme kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527020",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BK81_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Poliamid 87%,Elastan 13%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart fit pantolon. Kemer köprülü bel, yan cepler. Önü fermuar ve düğme kapamalı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34550,
+          "Product Option Code": "H8158AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527020",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34551,
+          "Product Option Code": "H8158AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 4,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527020",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34552,
+          "Product Option Code": "H8158AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527020",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34553,
+          "Product Option Code": "H8158AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527020",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34554,
+          "Product Option Code": "H8158AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527020",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8158AXBN337",
+      "renk_kodu": "BN337",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Standart Fit Düz Paça Pantolon",
+      "kisa_aciklama": "Standart fit pantolon. Kemer köprülü bel, yan cepler. Önü fermuar ve düğme kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3529037",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BN337_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BN337_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BN337_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BN337_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BN337_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BN337_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_BN337_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Poliamid 87%,Elastan 13%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart fit pantolon. Kemer köprülü bel, yan cepler. Önü fermuar ve düğme kapamalı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34555,
+          "Product Option Code": "H8158AX.BN337",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BN337_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3529037",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34556,
+          "Product Option Code": "H8158AX.BN337",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BN337_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3529037",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34557,
+          "Product Option Code": "H8158AX.BN337",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BN337_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3529037",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34558,
+          "Product Option Code": "H8158AX.BN337",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BN337_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3529037",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_BN337_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8158AXNV123",
+      "renk_kodu": "NV123",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Standart Fit Düz Paça Pantolon",
+      "kisa_aciklama": "Standart fit pantolon. Kemer köprülü bel, yan cepler. Önü fermuar ve düğme kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_NV123_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_NV123_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_NV123_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_NV123_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_NV123_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8158AX_26AU_NV123_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Poliamid 87%,Elastan 13%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart fit pantolon. Kemer köprülü bel, yan cepler. Önü fermuar ve düğme kapamalı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34559,
+          "Product Option Code": "H8158AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_NV123_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 4,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34560,
+          "Product Option Code": "H8158AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_NV123_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 4,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34561,
+          "Product Option Code": "H8158AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_NV123_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34562,
+          "Product Option Code": "H8158AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_NV123_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        },
+        {
+          "excel_satiri": 34563,
+          "Product Option Code": "H8158AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_NV123_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-duz-paca-pantolon-3527019"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H8158AX_26AU_NV123_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:43:06+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

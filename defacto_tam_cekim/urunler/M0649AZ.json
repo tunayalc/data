@@ -1,0 +1,57 @@
+{
+  "model_kodu": "M0649AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "M0649AZNV95",
+      "renk_kodu": "NV95",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45839,
+          "Product Option Code": "M0649AZ.NV95",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "36",
+          "Fit": "REBECA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/M0649AZ_23SM_NV95_01_01.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/M0649AZ_23SM_NV95_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

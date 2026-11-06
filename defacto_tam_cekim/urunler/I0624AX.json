@@ -1,0 +1,946 @@
+{
+  "model_kodu": "I0624AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 17,
+    "yorum_sayisi": 17,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 85.7,
+      "tam_oldu": 14.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-15",
+        "puan": 5.0,
+        "metin": "@kumaşın dokusu çok güzel rahat bedeninizden bir küçük beden alın"
+      },
+      {
+        "tarih": "2026-09-26",
+        "puan": 5.0,
+        "metin": "@yuummuşak. Bir kumasiı var üstümde yoook gibi teşekkür teşekkür ederim"
+      },
+      {
+        "tarih": "2026-09-17",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0624AXBE177",
+      "renk_kodu": "BE177",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Pike Kısa Kollu Basic Açık Mavi Tişört",
+      "kisa_aciklama": "Regular fit bisiklet yaka kısa kollu tişört. Pike lisanslı ürün.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BE177_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BE177_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BE177_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BE177_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BE177_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BE177_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BE177_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BE177_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Viskoz 43%,Poliester 57%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kumas": "Pike"
+      },
+      "urun_hakkinda": [
+        "Regular fit bisiklet yaka kısa kollu tişört. Pike lisanslı ürün."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38079,
+          "Product Option Code": "I0624AX.BE177",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_BE177_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38080,
+          "Product Option Code": "I0624AX.BE177",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_BE177_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38081,
+          "Product Option Code": "I0624AX.BE177",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_BE177_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_BE177_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0624AXBG216",
+      "renk_kodu": "BG216",
+      "renk_adi": "Bej Melanj",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Pike Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481686",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BG216_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BG216_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BG216_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BG216_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BG216_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_BG216_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Viskoz 43%,Poliester 57%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pike",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38082,
+          "Product Option Code": "I0624AX.BG216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BEIGE MELANGE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_BG216_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481686",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38083,
+          "Product Option Code": "I0624AX.BG216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BEIGE MELANGE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_BG216_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481686",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_BG216_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0624AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Pike Kısa Kollu Basic Ekru Tişört",
+      "kisa_aciklama": "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-ekru-tisort-3512646",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_ER105_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_ER105_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_ER105_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_ER105_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_ER105_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_ER105_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_ER105_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Viskoz 43%,Poliester 57%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kumas": "Pike",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38084,
+          "Product Option Code": "I0624AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_ER105_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-ekru-tisort-3512646",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_ER105_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0624AXGN1255",
+      "renk_kodu": "GN1255",
+      "renk_adi": "Mint",
+      "renk_hex": "#9BECCF",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Pike Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481688",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GN1255_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GN1255_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GN1255_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GN1255_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GN1255_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GN1255_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GN1255_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Viskoz 43%,Poliester 57%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pike",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38085,
+          "Product Option Code": "I0624AX.GN1255",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GN1255_01_04.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481688",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38086,
+          "Product Option Code": "I0624AX.GN1255",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GN1255_01_04.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481688",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38087,
+          "Product Option Code": "I0624AX.GN1255",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GN1255_01_04.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481688",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GN1255_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0624AXGR305",
+      "renk_kodu": "GR305",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Pike Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481685",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GR305_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GR305_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GR305_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GR305_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GR305_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_GR305_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Viskoz 43%,Poliester 57%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kumas": "Pike",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38088,
+          "Product Option Code": "I0624AX.GR305",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GR305_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481685",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38089,
+          "Product Option Code": "I0624AX.GR305",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GR305_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481685",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38090,
+          "Product Option Code": "I0624AX.GR305",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GR305_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481685",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38091,
+          "Product Option Code": "I0624AX.GR305",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GR305_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481685",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38092,
+          "Product Option Code": "I0624AX.GR305",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GR305_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481685",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_GR305_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0624AXIN131",
+      "renk_kodu": "IN131",
+      "renk_adi": "Koyu İndigo",
+      "renk_hex": "#19025D",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Pike Kısa Kollu Basic Indigo Tişört",
+      "kisa_aciklama": "Regular fit bisiklet yaka kısa kollu tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-indigo-tisort-3481684",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_IN131_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_IN131_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_IN131_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_IN131_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_IN131_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_IN131_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_IN131_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_IN131_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Viskoz 43%,Poliester 57%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kumas": "Pike"
+      },
+      "urun_hakkinda": [
+        "Regular fit bisiklet yaka kısa kollu tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38093,
+          "Product Option Code": "I0624AX.IN131",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.INDIGO",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_IN131_01_02.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#19025D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-indigo-tisort-3481684",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_IN131_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0624AXPN702",
+      "renk_kodu": "PN702",
+      "renk_adi": "Gülkurusu",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Pike Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481687",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_PN702_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_PN702_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_PN702_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_PN702_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_PN702_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0624AX_26SM_PN702_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Viskoz 43%,Poliester 57%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "kumas": "Pike"
+      },
+      "urun_hakkinda": [
+        "Kaliteli pike kumaştan üretilmiştir. Klasik regular fit kesim kısa kollu tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38094,
+          "Product Option Code": "I0624AX.PN702",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_PN702_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481687",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38095,
+          "Product Option Code": "I0624AX.PN702",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_PN702_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 6,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481687",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        },
+        {
+          "excel_satiri": 38096,
+          "Product Option Code": "I0624AX.PN702",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_PN702_01_03.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-tisort-3481687",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-pike-kisa-kollu-basic-acik-mavi-tisort-3512647"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0624AX_26SM_PN702_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:51:09+03:00",
+    "denenen_sayfa": 7,
+    "dogrulanan_renk": 7
+  }
+}

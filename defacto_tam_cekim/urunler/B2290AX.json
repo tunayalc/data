@@ -1,0 +1,57 @@
+{
+  "model_kodu": "B2290AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B2290AXOG37",
+      "renk_kodu": "OG37",
+      "renk_adi": "ORANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1314,
+          "Product Option Code": "B2290AX.OG37",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/B2290AX_23HS_OG37_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/B2290AX_23HS_OG37_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

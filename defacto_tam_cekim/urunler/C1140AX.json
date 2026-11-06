@@ -1,0 +1,285 @@
+{
+  "model_kodu": "C1140AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 49,
+    "yorum_sayisi": 49,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 20.0,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 13.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-09-30",
+        "puan": 5.0,
+        "metin": "@hem yazlik kumas hem ici gostermiyor super"
+      },
+      {
+        "tarih": "2024-07-13",
+        "puan": 5.0,
+        "metin": "@Ürün mükemmel kalitede ve tarz. Mağazada deneyip buradan sipariş verdim. 1.84 boy 90 kg 36 beden çok iyi oldu."
+      },
+      {
+        "tarih": "2025-08-05",
+        "puan": 5.0,
+        "metin": "@Yaz için ideal"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C1140AXKH494",
+      "renk_kodu": "KH494",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "Relaxed Fit Keten Karışımlı Dar Paça Pantolon",
+      "kisa_aciklama": "Relaxed Fıt Keten Karışımlı Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relaxed-fit-keten-karisimli-dar-paca-pantolon-3209492",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_KH494_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_KH494_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_KH494_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_KH494_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_KH494_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_KH494_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_KH494_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,87cm - 98/79/97",
+        "ana_kumas_icerigi": "Viskoz 47%,Keten 53%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "cinsiyet": "Erkek",
+        "kumas": "Keten Karışımlı",
+        "kalip": "Relax Fıt",
+        "paca_detayi": "Dar Paça"
+      },
+      "urun_hakkinda": [
+        "Relaxed Fıt Keten Karışımlı Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3170,
+          "Product Option Code": "C1140AX.KH494",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C1140AX_25SM_KH494_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-keten-karisimli-dar-paca-pantolon-3209492",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-keten-karisimli-dar-paca-pantolon-3209415"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C1140AX_25SM_KH494_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C1140AXBG750",
+      "renk_kodu": "BG750",
+      "renk_adi": "Doğal Açık Bej",
+      "renk_hex": "#F5F5DC",
+      "urun_adi": "Relaxed Fit Keten Karışımlı Dar Paça Pantolon",
+      "kisa_aciklama": "Relaxed Fıt Keten Karışımlı Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relaxed-fit-keten-karisimli-dar-paca-pantolon-3209415",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_BG750_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_BG750_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_BG750_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_BG750_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_BG750_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_BG750_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1140AX_25SM_BG750_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,87cm - 98/79/97",
+        "ana_kumas_icerigi": "Viskoz 47%,Keten 53%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Relax Fıt",
+        "paca_detayi": "Dar Paça",
+        "cinsiyet": "Erkek",
+        "kumas": "Keten Karışımlı"
+      },
+      "urun_hakkinda": [
+        "Relaxed Fıt Keten Karışımlı Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C1140AXWT33",
+      "renk_kodu": "WT33",
+      "renk_adi": "OFF WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "30",
+          "34"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3171,
+          "Product Option Code": "C1140AX.WT33",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C1140AX_25SM_WT33_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-keten-karisimli-dar-paca-pantolon-3209415"
+        },
+        {
+          "excel_satiri": 3172,
+          "Product Option Code": "C1140AX.WT33",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C1140AX_25SM_WT33_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-keten-karisimli-dar-paca-pantolon-3209415"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C1140AX_25SM_WT33_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:20:58+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

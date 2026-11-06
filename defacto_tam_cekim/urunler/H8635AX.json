@@ -1,0 +1,100 @@
+{
+  "model_kodu": "H8635AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-14",
+        "puan": 5.0,
+        "metin": "@Güzel gümüş küpeler ama ben aldıktan sonra tekrar indirime girmiş, bu üzdü. 😔 Lütfen ürünlere indirim yaparken en son indirimi…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8635AXSR4",
+      "renk_kodu": "SR4",
+      "renk_adi": "Gümüş",
+      "renk_hex": null,
+      "urun_adi": "Kadın Gümüş Renk 2'li Halka Küpe",
+      "kisa_aciklama": "Yetişkin kadınlar için gümüş renk halka küpe takımı. Temel çeşit kategorisinde yer alan bu takılar, Tarzınıza şıklık katacak. Tüm sezon…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-gumus-renk-2li-halka-kupe-3475087",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8635AX_NS_SR4_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8635AX_NS_SR4_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 20%,Çinko 30%,Demir 20%,Pirinç 30%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Jean",
+        "taki_tipi": "Küpe",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için gümüş renk halka küpe takımı. Temel çeşit kategorisinde yer alan bu takılar, Tarzınıza şıklık katacak. Tüm sezon…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 35466,
+          "Product Option Code": "H8635AX.SR4",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "SILVER",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H8635AX_NS_SR4_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 7,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C0C0C0",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-gumus-renk-2li-halka-kupe-3475087",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-gumus-renk-2li-halka-kupe-3475087"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H8635AX_NS_SR4_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:45:15+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "model_kodu": "I3148A5",
+  "urun_grubu": "Kız Bebek Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3148A5BN1",
+      "renk_kodu": "BN1",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Kalp Desenli Fiyonk Saç Aksesuarı Kız Bebek",
+      "kisa_aciklama": "Pembe zemin üzerine kırmızı kalp desenli fiyonk saç tokası. Pamuklu kumaştan üretilmiştir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kalp-desenli-fiyonk-sac-aksesuari-kiz-bebek-3499497",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3148A5_NS_BN1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3148A5_NS_BN1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3148A5_NS_BN1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 95%,Metal 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kız Bebek"
+      },
+      "urun_hakkinda": [
+        "Pembe zemin üzerine kırmızı kalp desenli fiyonk saç tokası. Pamuklu kumaştan üretilmiştir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41094,
+          "Product Option Code": "I3148A5.BN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3148A5_NS_BN1_01_01.jpg",
+          "FabricDetail": "Plastic",
+          "Toplam": 5,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/kalp-desenli-fiyonk-sac-aksesuari-kiz-bebek-3499497",
+          "Model Page URL": "https://www.defacto.com.tr/kalp-desenli-fiyonk-sac-aksesuari-kiz-bebek-3499497"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3148A5_NS_BN1_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I3148A5PN1",
+      "renk_kodu": "PN1",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41095,
+          "Product Option Code": "I3148A5.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3148A5_NS_PN1_01_01.jpg",
+          "FabricDetail": "Plastic",
+          "Toplam": 4,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/kalp-desenli-fiyonk-sac-aksesuari-kiz-bebek-3499497"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3148A5_NS_PN1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:46:49+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

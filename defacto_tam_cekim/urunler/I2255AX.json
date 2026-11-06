@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I2255AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2255AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Çok Katmanlı Taş Görünümlü Charm Detaylı 3'lü Kolye Kadın",
+      "kisa_aciklama": "Çok katmanlı gold tonlu metal zincir kolye. Kahverengi boncuk ve farklı renklerde taş görünümlü, kalp ve anahtar şekilli metal charm…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cok-katmanli-tas-gorunumlu-charm-detayli-3lu-kolye-kadin-3493193",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2255AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2255AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2255AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 39%,Çinko Alaşım 60%,Emaye 1%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Jean",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Kolye"
+      },
+      "urun_hakkinda": [
+        "Çok katmanlı gold tonlu metal zincir kolye. Kahverengi boncuk ve farklı renklerde taş görünümlü, kalp ve anahtar şekilli metal charm…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40088,
+          "Product Option Code": "I2255AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2255AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/cok-katmanli-tas-gorunumlu-charm-detayli-3lu-kolye-kadin-3493193",
+          "Model Page URL": "https://www.defacto.com.tr/cok-katmanli-tas-gorunumlu-charm-detayli-3lu-kolye-kadin-3493193"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2255AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:44:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

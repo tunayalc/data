@@ -1,0 +1,141 @@
+{
+  "model_kodu": "R8650AZ",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 415,
+    "yorum_sayisi": 415,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 5.6,
+      "tam_oldu": 93.8,
+      "buyuk_geldi": 0.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-10-10",
+        "puan": 1.0,
+        "metin": "@Tüylenme yaptı tek giymede"
+      },
+      {
+        "tarih": "2021-12-17",
+        "puan": 5.0,
+        "metin": "@çok beğendim tavsiye ederim"
+      },
+      {
+        "tarih": "2022-02-24",
+        "puan": 3.0,
+        "metin": "@İnnncecik maalesef iyi bir ürün değil terletme yaptı eşimde.Daha iyi çorapları çok daha uyguna alabilirsiniz."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "R8650AZGR2",
+      "renk_kodu": "GR2",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Erkek Desenli 5'li Patik Çorap",
+      "kisa_aciklama": "Desenli, pamuklu yumuşak kumaşı ve sade renkleriyle rahat bir kullanım imkanı sunan DeFacto Erkek Desenli 5'li Patik Çorap.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-2336557",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/R8650AZ_NS_GR2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8650AZ_NS_GR2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8650AZ_NS_GR2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8650AZ_NS_GR2_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8650AZ_NS_GR2_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8650AZ_NS_GR2_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8650AZ_NS_GR2_07_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44",
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 55%,Poliamid 21%,Elastan 2%,Poliester 22%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Patik Çorap",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "5'li",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Kısa Çorap"
+      },
+      "urun_hakkinda": [
+        "Desenli, pamuklu yumuşak kumaşı ve sade renkleriyle rahat bir kullanım imkanı sunan DeFacto Erkek Desenli 5'li Patik Çorap.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 179.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46176,
+          "Product Option Code": "R8650AZ.GR2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "STD",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/R8650AZ_NS_GR2_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 5,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 19.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-2336557",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-2336557"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/R8650AZ_NS_GR2_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:54:19+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

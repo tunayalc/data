@@ -1,0 +1,57 @@
+{
+  "model_kodu": "M7180AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "M7180AZOG488",
+      "renk_kodu": "OG488",
+      "renk_adi": "ORANJ",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45903,
+          "Product Option Code": "M7180AZ.OG488",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ORANJ",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SP/M7180AZ_22SP_OG488_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SP/M7180AZ_22SP_OG488_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

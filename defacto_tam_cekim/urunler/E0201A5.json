@@ -1,0 +1,86 @@
+{
+  "model_kodu": "E0201A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0201A5BG744",
+      "renk_kodu": "BG744",
+      "renk_adi": "SAND",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "18-24 M",
+          "3/4 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10041,
+          "Product Option Code": "E0201A5.BG744",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "18-24 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E0201A5_25SP_BG744_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kiz-bebek-2li-takim-meyve-desenli-sweatshirt-beli-lastikli-esofman-alti-3241487",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kiz-bebek-2li-takim-meyve-desenli-sweatshirt-beli-lastikli-esofman-alti-3241487"
+        },
+        {
+          "excel_satiri": 10042,
+          "Product Option Code": "E0201A5.BG744",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E0201A5_25SP_BG744_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kiz-bebek-2li-takim-meyve-desenli-sweatshirt-beli-lastikli-esofman-alti-3241487",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kiz-bebek-2li-takim-meyve-desenli-sweatshirt-beli-lastikli-esofman-alti-3241487"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E0201A5_25SP_BG744_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:41:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kiz-bebek-2li-takim-meyve-desenli-sweatshirt-beli-lastikli-esofman-alti-3241487",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

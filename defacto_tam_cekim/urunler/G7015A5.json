@@ -1,0 +1,122 @@
+{
+  "model_kodu": "G7015A5",
+  "urun_grubu": "Erkek Bebek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-30",
+        "puan": 5.0,
+        "metin": "@kumaşı dokusu çok güzel. biz çok beğendik."
+      },
+      {
+        "tarih": "2026-03-16",
+        "puan": 5.0,
+        "metin": "@farklı bedenlerden 2 tane aldıö kumaş kalitesi cok iyi cok beğendik"
+      },
+      {
+        "tarih": "2026-04-15",
+        "puan": 5.0,
+        "metin": "@gönül rahatlığıyla alabileceğiniz kumaşı dokusu çok iyi iki tane oğlumu almıştım. bu sefer de yeğenimi aldım. çok beğendiler."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7015A5NM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "Mavi",
+      "renk_hex": "#30D5C8",
+      "urun_adi": "%100 Pamuk Fermuarlı Nakışlı Denım Ceket Erkek Bebek",
+      "kisa_aciklama": "%100 pamuklu kumaştan üretilen fermuarlı nakışlı denim ceket, erkek bebeklerin şık ve rahat bir stil yakalamasını sağlar. Yumuşak denim dokusu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-fermuarli-nakisli-denim-ceket-erkek-bebek-3374952",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7015A5_26SP_NM28_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7015A5_26SP_NM28_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7015A5_26SP_NM28_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7015A5_26SP_NM28_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7015A5_26SP_NM28_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "9-12 Ay (80cm)",
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "9-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "12-18 Ay (86cm) Beden",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "yaka": "Polo Yaka",
+        "kapama_detayi": "Fermuarlı",
+        "cinsiyet": "Erkek Bebek",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Oversıze"
+      },
+      "urun_hakkinda": [
+        "%100 pamuklu kumaştan üretilen fermuarlı nakışlı denim ceket, erkek bebeklerin şık ve rahat bir stil yakalamasını sağlar. Yumuşak denim dokusu…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20866,
+          "Product Option Code": "G7015A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Jacket",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "9-12 M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7015A5_26SP_NM28_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-fermuarli-nakisli-denim-ceket-erkek-bebek-3374952",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-fermuarli-nakisli-denim-ceket-erkek-bebek-3374952"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G7015A5_26SP_NM28_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:08:07+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

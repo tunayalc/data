@@ -1,0 +1,91 @@
+{
+  "model_kodu": "F3687AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3687AXBR34",
+      "renk_kodu": "BR34",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14491,
+          "Product Option Code": "F3687AX.BR34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "CNS",
+          "Class Name": "Trousers",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "L",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F3687AX_25WN_BR34_01_03.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-pantolon-3414024",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-pantolon-3387063"
+        },
+        {
+          "excel_satiri": 14492,
+          "Product Option Code": "F3687AX.BR34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "CNS",
+          "Class Name": "Trousers",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F3687AX_25WN_BR34_01_03.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-pantolon-3414024",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-pantolon-3387063"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F3687AX_25WN_BR34_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:51:59+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-pantolon-3414024",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-pantolon-3387063",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

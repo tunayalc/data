@@ -1,0 +1,118 @@
+{
+  "model_kodu": "E8499AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 28,
+    "yorum_sayisi": 28,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 10.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Eşime almıştım ama kalıp büyük geldiği için iade etmek zorunda kaldım."
+      },
+      {
+        "tarih": "2025-10-18",
+        "puan": 5.0,
+        "metin": "@Kesimi çok hoşumuza gitti, fiyatı da gayet uygundu."
+      },
+      {
+        "tarih": "2025-12-24",
+        "puan": 5.0,
+        "metin": "@Harika! Çok hoşuma gitti, gayet memnun kaldım, kesinlikle tavsiye ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8499AXNM36",
+      "renk_kodu": "NM36",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Slim Fıt Normal Bel Dar Paça Jean Pantolon",
+      "kisa_aciklama": "Slim Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Klasik dar paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-normal-bel-dar-paca-jean-pantolon-3373999",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8499AX_26SP_NM36_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8499AX_26SP_NM36_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8499AX_26SP_NM36_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8499AX_26SP_NM36_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "36"
+        ],
+        "excel": [
+          "30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,90cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "90's Slım Fıt",
+        "paca_detayi": "Dar Paça",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Slim Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Klasik dar paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12617,
+          "Product Option Code": "E8499AX.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "30",
+          "Fit": "90’S SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E8499AX_26SP_NM36_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-normal-bel-dar-paca-jean-pantolon-3373999",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-normal-bel-dar-paca-jean-pantolon-3373999"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/E8499AX_26SP_NM36_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:39:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

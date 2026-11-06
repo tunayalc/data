@@ -1,0 +1,57 @@
+{
+  "model_kodu": "Z4923A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z4923A6OG44",
+      "renk_kodu": "OG44",
+      "renk_adi": "SALMON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "10/11 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48818,
+          "Product Option Code": "Z4923A6.OG44",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "SALMON",
+          "SizeDefinition": "10/11 Y",
+          "Fit": "CROP-STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22WN/Z4923A6_22WN_OG44_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22WN/Z4923A6_22WN_OG44_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

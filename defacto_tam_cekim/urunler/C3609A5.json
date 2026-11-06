@@ -1,0 +1,57 @@
+{
+  "model_kodu": "C3609A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C3609A5BG286",
+      "renk_kodu": "BG286",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "18-24 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3881,
+          "Product Option Code": "C3609A5.BG286",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "18-24 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3609A5_24SP_BG286_01_01.jpg",
+          "FabricDetail": "20/1 Brushed Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C3609A5_24SP_BG286_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

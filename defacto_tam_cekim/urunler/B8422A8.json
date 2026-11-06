@@ -1,0 +1,64 @@
+{
+  "model_kodu": "B8422A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B8422A8BE43",
+      "renk_kodu": "BE43",
+      "renk_adi": "ROYAL",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2550,
+          "Product Option Code": "B8422A8.BE43",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B8422A8_24SP_BE43_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 0,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-cocuk-2li-atlet-3064726",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-cocuk-2li-atlet-3064726"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/B8422A8_24SP_BE43_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:23:38+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-cocuk-2li-atlet-3064726",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

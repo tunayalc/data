@@ -1,0 +1,64 @@
+{
+  "model_kodu": "E1694AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1694AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10642,
+          "Product Option Code": "E1694AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1694AX_24WN_BK81_01_04.jpg",
+          "FabricDetail": "MESH",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/a-kesim-yuksek-bel-tul-maxi-etek-3201094",
+          "Model Page URL": "https://www.defacto.com/a-kesim-yuksek-bel-tul-maxi-etek-3201094"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E1694AX_24WN_BK81_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:42:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/a-kesim-yuksek-bel-tul-maxi-etek-3201094",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

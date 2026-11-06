@@ -1,0 +1,124 @@
+{
+  "model_kodu": "G3141AX",
+  "urun_grubu": "Kadın Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 19,
+    "yorum_sayisi": 19,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-16",
+        "puan": 5.0,
+        "metin": "@Harika! Gerçekten de çok güzel."
+      },
+      {
+        "tarih": "2026-03-01",
+        "puan": 5.0,
+        "metin": "@Ay, gerçekten çok güzel, bayıldım! Kendi bedeninizi ya da bir beden büyük almanızı tavsiye ederim. Gerçekten harika. Fiyatına göre de…"
+      },
+      {
+        "tarih": "2026-02-18",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi. Bana dar geldi, bu yüzden iade ettim ama kumaşı ve üzerimdeki duruşu şahane. Kesinlikle tavsiye ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3141AXER102",
+      "renk_kodu": "ER102",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Fıtted Bisiklet Yaka Dantel Hırka",
+      "kisa_aciklama": "Fitted kesimi ve bisiklet yaka tasarımıyla zarif bir siluet sunan bu dantel hırka, şık detaylarıyla feminen bir görünüm kazandırır. İnce…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-bisiklet-yaka-dantel-hirka-3354059",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3141AX_25AU_ER102_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 82/59/88",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Fıtted",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Hırka",
+        "kumas": "Dantel"
+      },
+      "urun_hakkinda": [
+        "Fitted kesimi ve bisiklet yaka tasarımıyla zarif bir siluet sunan bu dantel hırka, şık detaylarıyla feminen bir görünüm kazandırır. İnce…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18643,
+          "Product Option Code": "G3141AX.ER102",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G3141AX_25AU_ER102_01_02.jpg",
+          "FabricDetail": "LACE",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-bisiklet-yaka-dantel-hirka-3354059",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-bisiklet-yaka-dantel-hirka-3354059"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G3141AX_25AU_ER102_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:00:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

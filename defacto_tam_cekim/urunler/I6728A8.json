@@ -1,0 +1,101 @@
+{
+  "model_kodu": "I6728A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I6728A8YL466",
+      "renk_kodu": "YL466",
+      "renk_adi": "YELLOW",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "5/6 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44005,
+          "Product Option Code": "I6728A8.YL466",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "OVERSHIRT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6728A8_26HS_YL466_01_02.jpg",
+          "FabricDetail": "24/1 Jersey",
+          "Toplam": 6,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        },
+        {
+          "excel_satiri": 44006,
+          "Product Option Code": "I6728A8.YL466",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "OVERSHIRT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6728A8_26HS_YL466_01_02.jpg",
+          "FabricDetail": "24/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        },
+        {
+          "excel_satiri": 44007,
+          "Product Option Code": "I6728A8.YL466",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "OVERSHIRT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6728A8_26HS_YL466_01_02.jpg",
+          "FabricDetail": "24/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I6728A8_26HS_YL466_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

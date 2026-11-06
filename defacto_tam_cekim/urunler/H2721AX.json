@@ -1,0 +1,93 @@
+{
+  "model_kodu": "H2721AX",
+  "urun_grubu": "Erkek Parfüm",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2721AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek 50 ml Brave Bear Parfüm",
+      "kisa_aciklama": "Erkek Amber - Spicy Parfüm, maskülen gücü ve gizemi temsil eden oryantal notaların modern bir yorumudur. 50 ml’lik kompakt tasarımıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-3424256",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H2721AX_NS_BK23_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2721AX_NS_BK23_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2721AX_NS_BK23_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2721AX_NS_BK23_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2721AX_NS_BK23_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Kozmetik 100%",
+        "marka": "Defacto",
+        "cinsiyet": "Erkek",
+        "urun_hacmi": "50 ml",
+        "parfum_urun_tipi_bilgisi": "Parfüm",
+        "parfum_paketleme_bilgisi": "Kutu"
+      },
+      "urun_hakkinda": [
+        "Erkek Amber - Spicy Parfüm, maskülen gücü ve gizemi temsil eden oryantal notaların modern bir yorumudur. 50 ml’lik kompakt tasarımıyla…",
+        "İstediğiniz kozmetik ve kişisel bakım ürünlerini hemen sipariş verin, ürününüzü evinizden teslim almanın ayrıcalığını yaşayın."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 26417,
+          "Product Option Code": "H2721AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H2721AX_NS_BK23_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-3424256",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-3424256"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H2721AX_NS_BK23_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:21:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

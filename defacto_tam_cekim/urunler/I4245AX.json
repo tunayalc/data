@@ -1,0 +1,101 @@
+{
+  "model_kodu": "I4245AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-06",
+        "puan": 5.0,
+        "metin": "@Çok şık bir parça. Kombinleri yükseltici duruyor."
+      },
+      {
+        "tarih": "2026-10-22",
+        "puan": 5.0,
+        "metin": "@Çok güzel görselin aynısı çok beğendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4245AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kadın Sert 3'lü Bileklik",
+      "kisa_aciklama": "Parlak yüzeyli, sert formlu 3'lü bileklik seti.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-sert-3lu-bileklik-3510279",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4245AX_NS_BK23_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4245AX_NS_BK23_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4245AX_NS_BK23_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Bileklik",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Parlak yüzeyli, sert formlu 3'lü bileklik seti."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42536,
+          "Product Option Code": "I4245AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4245AX_NS_BK23_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-sert-3lu-bileklik-3510279",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-sert-3lu-bileklik-3510279"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4245AX_NS_BK23_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:02:34+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

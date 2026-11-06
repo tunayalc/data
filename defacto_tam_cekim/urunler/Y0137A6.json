@@ -1,0 +1,57 @@
+{
+  "model_kodu": "Y0137A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y0137A6OG152",
+      "renk_kodu": "OG152",
+      "renk_adi": "SALMON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "4/5 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48040,
+          "Product Option Code": "Y0137A6.OG152",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "SALMON",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/Y0137A6_22SM_OG152_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 3,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 39.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/Y0137A6_22SM_OG152_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

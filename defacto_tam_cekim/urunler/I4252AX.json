@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I4252AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4252AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Oval Taş Detaylı Açık Kelepçe 2'li Bileklik",
+      "kisa_aciklama": "Uç kısımlarında oval formlu taş detayları bulunan, açık kelepçe tasarımlı ikili metal bileklik seti.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-oval-tas-detayli-acik-kelepce-2li-bileklik-3509246",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4252AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4252AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4252AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 20%,Çinko 80%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "taki_tipi": "Bileklik",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Uç kısımlarında oval formlu taş detayları bulunan, açık kelepçe tasarımlı ikili metal bileklik seti."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42540,
+          "Product Option Code": "I4252AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4252AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-oval-tas-detayli-acik-kelepce-2li-bileklik-3509246",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-oval-tas-detayli-acik-kelepce-2li-bileklik-3509246"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4252AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:02:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "model_kodu": "I7161AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I7161AXAG1",
+      "renk_kodu": "AG1",
+      "renk_adi": "Antik Sarı",
+      "renk_hex": null,
+      "urun_adi": "Kadın Taş Uçlu Çoklu 3'lü Kolye",
+      "kisa_aciklama": "Farklı boylarda katmanlı zincirlerden oluşan çoklu kolye. Taş ve damla formlu kolye ucu detaylı. Ayarlanabilir klips kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-tas-uclu-coklu-3lu-kolye-3525385",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I7161AX_NS_AG1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I7161AX_NS_AG1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I7161AX_NS_AG1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 30%,Çinko 30%,Demir 40%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Jean",
+        "takim_icerigi": "3'lü",
+        "taki_tipi": "Kolye",
+        "urun_olcusu": "1 cm",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Farklı boylarda katmanlı zincirlerden oluşan çoklu kolye. Taş ve damla formlu kolye ucu detaylı. Ayarlanabilir klips kapamalı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44341,
+          "Product Option Code": "I7161AX.AG1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "ANTIQUE GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I7161AX_NS_AG1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#B0903D",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-tas-uclu-coklu-3lu-kolye-3525385",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-tas-uclu-coklu-3lu-kolye-3525385"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I7161AX_NS_AG1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:07:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

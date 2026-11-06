@@ -1,0 +1,88 @@
+{
+  "model_kodu": "I3647AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3647AXBG106",
+      "renk_kodu": "BG106",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Kadın Bandana Desenli Fiyonk Saç Tokası",
+      "kisa_aciklama": "Bandana desenli, büyük fiyonk formunda ve uzun şerit detaylı kumaş saç tokası.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-bandana-desenli-fiyonk-sac-tokasi-3507696",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3647AX_NS_BG106_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3647AX_NS_BG106_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3647AX_NS_BG106_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 45%,Poliester 45%,Metal 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Bandana desenli, büyük fiyonk formunda ve uzun şerit detaylı kumaş saç tokası."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41782,
+          "Product Option Code": "I3647AX.BG106",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3647AX_NS_BG106_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 4,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-bandana-desenli-fiyonk-sac-tokasi-3507696",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-bandana-desenli-fiyonk-sac-tokasi-3507696"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3647AX_NS_BG106_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:00:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

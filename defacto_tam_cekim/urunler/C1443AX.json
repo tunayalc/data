@@ -1,0 +1,130 @@
+{
+  "model_kodu": "C1443AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C1443AXAR226",
+      "renk_kodu": "AR226",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3259,
+          "Product Option Code": "C1443AX.AR226",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "M",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C1443AX_24SP_AR226_01_03.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/basic-beli-pacasi-lastikli-kargo-cepli-jogger-esofman-alti-3082603",
+          "Model Page URL": "https://www.defacto.com/basic-beli-pacasi-lastikli-kargo-cepli-jogger-esofman-alti-3082603"
+        },
+        {
+          "excel_satiri": 3260,
+          "Product Option Code": "C1443AX.AR226",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "S",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C1443AX_24SP_AR226_01_03.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/basic-beli-pacasi-lastikli-kargo-cepli-jogger-esofman-alti-3082603",
+          "Model Page URL": "https://www.defacto.com/basic-beli-pacasi-lastikli-kargo-cepli-jogger-esofman-alti-3082603"
+        },
+        {
+          "excel_satiri": 3261,
+          "Product Option Code": "C1443AX.AR226",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "XL",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C1443AX_24SP_AR226_01_03.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/basic-beli-pacasi-lastikli-kargo-cepli-jogger-esofman-alti-3082603",
+          "Model Page URL": "https://www.defacto.com/basic-beli-pacasi-lastikli-kargo-cepli-jogger-esofman-alti-3082603"
+        },
+        {
+          "excel_satiri": 3262,
+          "Product Option Code": "C1443AX.AR226",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "XS",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C1443AX_24SP_AR226_01_03.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/basic-beli-pacasi-lastikli-kargo-cepli-jogger-esofman-alti-3082603",
+          "Model Page URL": "https://www.defacto.com/basic-beli-pacasi-lastikli-kargo-cepli-jogger-esofman-alti-3082603"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C1443AX_24SP_AR226_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:24:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/basic-beli-pacasi-lastikli-kargo-cepli-jogger-esofman-alti-3082603",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

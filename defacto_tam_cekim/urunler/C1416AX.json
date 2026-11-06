@@ -1,0 +1,86 @@
+{
+  "model_kodu": "C1416AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C1416AXNM39",
+      "renk_kodu": "NM39",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "32",
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3228,
+          "Product Option Code": "C1416AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "32",
+          "Fit": "CARGO JOGGER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C1416AX_24SM_NM39_01_03.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/en-ma/kargo-jogger-yuksek-bel-bilek-boy-jean-pantolon-3076174",
+          "Model Page URL": "https://www.defacto.com/en-ma/kargo-jogger-yuksek-bel-bilek-boy-jean-pantolon-3076174"
+        },
+        {
+          "excel_satiri": 3229,
+          "Product Option Code": "C1416AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "36",
+          "Fit": "CARGO JOGGER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C1416AX_24SM_NM39_01_03.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/en-ma/kargo-jogger-yuksek-bel-bilek-boy-jean-pantolon-3076174",
+          "Model Page URL": "https://www.defacto.com/en-ma/kargo-jogger-yuksek-bel-bilek-boy-jean-pantolon-3076174"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C1416AX_24SM_NM39_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:24:48+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kargo-jogger-yuksek-bel-bilek-boy-jean-pantolon-3076174",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

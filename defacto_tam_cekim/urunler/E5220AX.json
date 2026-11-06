@@ -1,0 +1,142 @@
+{
+  "model_kodu": "E5220AX",
+  "urun_grubu": "Erkek Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 16,
+    "yorum_sayisi": 16,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 66.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Paranoid: Hem kaliteli hem de pratik."
+      },
+      {
+        "tarih": "2025-02-26",
+        "puan": 5.0,
+        "metin": "@İnce ama iyi bir ürün."
+      },
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Rengi bana biraz yeşil gibi geldi. Fotoğraftakinden farklı bir rengi vardı ama biz çok beğendik. Gayet güzel bir ürün."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5220AXER100",
+      "renk_kodu": "ER100",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Standart Fit Polo Yaka Triko Kazak",
+      "kisa_aciklama": "Şıklığı ve rahatlığı bir arada sunan bu standart fit polo yaka triko kazak, her mevsime uyum sağlayan zarif bir tercih.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-triko-kazak-3204975",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5220AX_24WN_ER100_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5220AX_24WN_ER100_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5220AX_24WN_ER100_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5220AX_24WN_ER100_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5220AX_24WN_ER100_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5220AX_24WN_ER100_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 18%,Poliester 82%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Standart Fıt",
+        "kumas": "Triko",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Şıklığı ve rahatlığı bir arada sunan bu standart fit polo yaka triko kazak, her mevsime uyum sağlayan zarif bir tercih.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11478,
+          "Product Option Code": "E5220AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E5220AX_24WN_ER100_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-triko-kazak-3204975",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-triko-kazak-3204975"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E5220AX_24WN_ER100_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:44:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "model_kodu": "F0136A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-16",
+        "puan": 5.0,
+        "metin": "@Harika! Çok hoşumuza gitti, aşırı güzel. Çok beğendik."
+      },
+      {
+        "tarih": "2026-01-27",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet rahat ve pratik."
+      },
+      {
+        "tarih": "2026-02-12",
+        "puan": 5.0,
+        "metin": "@Kışa bayıldım! Kendi bedeninizi rahatlıkla alabilirsiniz, ben de kendim için takım yaptım. Harika durdu. Çok teşekkür ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0136A8AR163",
+      "renk_kodu": "AR163",
+      "renk_adi": "Antrasit Melanj",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Kapüşonlu Fermuarlı Sweatshirt Erkek Çocuk",
+      "kisa_aciklama": "Yumuşak kumaşı ve kapüşonlu tasarımıyla erkek çocuklar için ideal olan fermuarlı sweatshirt, konforlu ve pratik kullanım sunar. Günlük aktivitelerde sıcak…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kapusonlu-fermuarli-sweatshirt-erkek-cocuk-3344143",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0136A8_25WN_AR163_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0136A8_25WN_AR163_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0136A8_25WN_AR163_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0136A8_25WN_AR163_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0136A8_25WN_AR163_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "13/14 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 35%,Poliester 65%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek Çocuk",
+        "kumas": "İnce Sweatshirt Kumaşı",
+        "yaka": "Kapüşonlu",
+        "cep_ve_fermuar_detayi": "Fermuar Cepli"
+      },
+      "urun_hakkinda": [
+        "Yumuşak kumaşı ve kapüşonlu tasarımıyla erkek çocuklar için ideal olan fermuarlı sweatshirt, konforlu ve pratik kullanım sunar. Günlük aktivitelerde sıcak…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13374,
+          "Product Option Code": "F0136A8.AR163",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F0136A8_25WN_AR163_01_01.jpg",
+          "FabricDetail": "R. 2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/kapusonlu-fermuarli-sweatshirt-erkek-cocuk-3344143",
+          "Model Page URL": "https://www.defacto.com.tr/kapusonlu-fermuarli-sweatshirt-erkek-cocuk-3344143"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F0136A8_25WN_AR163_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:41:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

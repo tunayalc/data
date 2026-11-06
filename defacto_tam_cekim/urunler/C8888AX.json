@@ -1,0 +1,79 @@
+{
+  "model_kodu": "C8888AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8888AXBE114",
+      "renk_kodu": "BE114",
+      "renk_adi": "SAX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5607,
+          "Product Option Code": "C8888AX.BE114",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "SAX",
+          "SizeDefinition": "36",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8888AX_24SM_BE114_01_04.jpg",
+          "FabricDetail": "MAROKEN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 449.99,
+          "Product Color HEX": "#0263C3",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5608,
+          "Product Option Code": "C8888AX.BE114",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "SAX",
+          "SizeDefinition": "40",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8888AX_24SM_BE114_01_04.jpg",
+          "FabricDetail": "MAROKEN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 449.99,
+          "Product Color HEX": "#0263C3",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C8888AX_24SM_BE114_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

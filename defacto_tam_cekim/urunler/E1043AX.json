@@ -1,0 +1,108 @@
+{
+  "model_kodu": "E1043AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1043AXBR248",
+      "renk_kodu": "BR248",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10455,
+          "Product Option Code": "E1043AX.BR248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "34",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1043AX_24WN_BR248_01_03.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 3,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-yuksek-bel-pantolon-3197190",
+          "Model Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-yuksek-bel-pantolon-3197190"
+        },
+        {
+          "excel_satiri": 10456,
+          "Product Option Code": "E1043AX.BR248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "36",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1043AX_24WN_BR248_01_03.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 5,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-yuksek-bel-pantolon-3197190",
+          "Model Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-yuksek-bel-pantolon-3197190"
+        },
+        {
+          "excel_satiri": 10457,
+          "Product Option Code": "E1043AX.BR248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "38",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1043AX_24WN_BR248_01_03.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-yuksek-bel-pantolon-3197190",
+          "Model Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-yuksek-bel-pantolon-3197190"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E1043AX_24WN_BR248_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:42:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3197190",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

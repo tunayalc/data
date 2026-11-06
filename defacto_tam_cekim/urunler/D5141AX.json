@@ -1,0 +1,131 @@
+{
+  "model_kodu": "D5141AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5141AXAR191",
+      "renk_kodu": "AR191",
+      "renk_adi": "ANTRACITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7874,
+          "Product Option Code": "D5141AX.AR191",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5141AX_24AU_AR191_01_03.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/en-ma/wide-leg-burumcuk-pantolon-3163250",
+          "Model Page URL": "https://www.defacto.com/en-ma/wide-leg-burumcuk-pantolon-3161417"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D5141AX_24AU_AR191_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D5141AXGR302",
+      "renk_kodu": "GR302",
+      "renk_adi": "GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7875,
+          "Product Option Code": "D5141AX.GR302",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5141AX_24AU_GR302_01_04.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-ma/wide-leg-burumcuk-pantolon-3161417",
+          "Model Page URL": "https://www.defacto.com/en-ma/wide-leg-burumcuk-pantolon-3161417"
+        },
+        {
+          "excel_satiri": 7876,
+          "Product Option Code": "D5141AX.GR302",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XS",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5141AX_24AU_GR302_01_04.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-ma/wide-leg-burumcuk-pantolon-3161417",
+          "Model Page URL": "https://www.defacto.com/en-ma/wide-leg-burumcuk-pantolon-3161417"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D5141AX_24AU_GR302_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:35:41+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-burumcuk-pantolon-3163250",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-burumcuk-pantolon-3161417",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

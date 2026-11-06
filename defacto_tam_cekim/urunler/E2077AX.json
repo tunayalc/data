@@ -1,0 +1,79 @@
+{
+  "model_kodu": "E2077AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E2077AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L - XL",
+          "S - M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10778,
+          "Product Option Code": "E2077AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L - XL",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E2077AX_NS_BK23_01_02.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 10779,
+          "Product Option Code": "E2077AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S - M",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E2077AX_NS_BK23_01_02.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 6,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/E2077AX_NS_BK23_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

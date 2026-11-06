@@ -1,0 +1,98 @@
+{
+  "model_kodu": "G6164A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6164A8NM40",
+      "renk_kodu": "NM40",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Cargo Fit Çok Cepli Rahat Jean Pantolon Erkek Çocuk",
+      "kisa_aciklama": "Eğlenceli kargo cepleriyle çocuklara kendi minik hazinelerini taşıma imkanı verir. Bol kesimi ve dayanıklı yapısıyla dışarıdaki en zorlu oyunlarda bile…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cargo-fit-cok-cepli-rahat-jean-pantolon-erkek-cocuk-3375075",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6164A8_26SP_NM40_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6164A8_26SP_NM40_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6164A8_26SP_NM40_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6164A8_26SP_NM40_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6164A8_26SP_NM40_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 81%,Elastan 2%,Poliester 17%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Kargo Fıt",
+        "cinsiyet": "Erkek Çocuk",
+        "bel_detayi": "Beli Lastikli"
+      },
+      "urun_hakkinda": [
+        "Eğlenceli kargo cepleriyle çocuklara kendi minik hazinelerini taşıma imkanı verir. Bol kesimi ve dayanıklı yapısıyla dışarıdaki en zorlu oyunlarda bile…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20020,
+          "Product Option Code": "G6164A8.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "CARGO FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6164A8_26SP_NM40_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/cargo-fit-cok-cepli-rahat-jean-pantolon-erkek-cocuk-3375075",
+          "Model Page URL": "https://www.defacto.com.tr/cargo-fit-cok-cepli-rahat-jean-pantolon-erkek-cocuk-3375075"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6164A8_26SP_NM40_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:05:38+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

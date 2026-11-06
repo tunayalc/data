@@ -1,0 +1,133 @@
+{
+  "model_kodu": "F3445AX",
+  "urun_grubu": "Kadın Atkı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 11,
+    "yorum_sayisi": 11,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-11",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika. Bacıma aldım. Çok rahat, hiç tüylenmedi."
+      },
+      {
+        "tarih": "2026-03-01",
+        "puan": 5.0,
+        "metin": "@Ürün gerçekten çok kaliteli, renkleri de aşırı güzel. İçi de gereksiz geniş değil, şal gibi duruyor. Çok hoşuma gitti, teşekkürler.…"
+      },
+      {
+        "tarih": "2026-01-09",
+        "puan": 5.0,
+        "metin": "@Harika! Çok beğendim. Teşekkürler."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3445AXPN1",
+      "renk_kodu": "PN1",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Kadın Kareli Atkı",
+      "kisa_aciklama": "Kadın Kareli Atkı, yumuşak dokusu ve klasik deseniyle soğuk günlerde sıcak bir şıklık sunar. Zamansız kareli tasarımı, her kombine kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-kareli-atki-3513170",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3445AX_26WN_PN1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3445AX_26WN_PN1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3445AX_26WN_PN1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "esarp_sal_olcusu": "50x180",
+        "kumas_kalinligi": "İnce"
+      },
+      "urun_hakkinda": [
+        "Kadın Kareli Atkı, yumuşak dokusu ve klasik deseniyle soğuk günlerde sıcak bir şıklık sunar. Zamansız kareli tasarımı, her kombine kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14404,
+          "Product Option Code": "F3445AX.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Scarf & Set",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F3445AX_26WN_PN1_01_01.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-kareli-atki-3513170",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-kareli-atki-3513170"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/F3445AX_26WN_PN1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:51:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

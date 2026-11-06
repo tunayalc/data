@@ -1,0 +1,134 @@
+{
+  "model_kodu": "D9988AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Çok şirin, beğendim."
+      },
+      {
+        "tarih": "2025-06-17",
+        "puan": 5.0,
+        "metin": "@Çok şık bir toka olsa da fiyatı yüksek, indirimden aldım ancak öyle."
+      },
+      {
+        "tarih": "2025-07-08",
+        "puan": 4.0,
+        "metin": "@Beklentimin üzerinde, çok hoş bir elbise, kumaşı da harika."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9988AXWT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Kadın Beyaz Kurdeleli Çıtçıtlı Toka",
+      "kisa_aciklama": "Zarif ve şık Kadın Saç Tokası, günlük kullanımınızı veya özel günlerinizi tamamlamak için mükemmel bir seçenektir. Saçınıza zarif bir dokunuş…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-beyaz-kurdeleli-citcitli-toka-3194134",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9988AX_NS_WT1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9988AX_NS_WT1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9988AX_NS_WT1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 80%,Demir 20%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Dokuma",
+        "cinsiyet": "Kadın",
+        "urun_aksesuari": "Saç Tokası",
+        "ozel_gunler": "Okula Dönüş"
+      },
+      "urun_hakkinda": [
+        "Zarif ve şık Kadın Saç Tokası, günlük kullanımınızı veya özel günlerinizi tamamlamak için mükemmel bir seçenektir. Saçınıza zarif bir dokunuş…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 174.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9913,
+          "Product Option Code": "D9988AX.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/D9988AX_NS_WT1_01_01.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-beyaz-kurdeleli-citcitli-toka-3194134",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-beyaz-kurdeleli-citcitli-toka-3194134"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/D9988AX_NS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:40:55+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

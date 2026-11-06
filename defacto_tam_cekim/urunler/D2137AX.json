@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D2137AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D2137AXER103",
+      "renk_kodu": "ER103",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6635,
+          "Product Option Code": "D2137AX.ER103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "BRALETTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D2137AX_24SM_ER103_01_02.jpg",
+          "FabricDetail": "BENGALIN",
+          "Toplam": 2,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-kolsuz-bluz-3138739",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-kolsuz-bluz-3138739"
+        },
+        {
+          "excel_satiri": 6636,
+          "Product Option Code": "D2137AX.ER103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "BRALETTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D2137AX_24SM_ER103_01_02.jpg",
+          "FabricDetail": "BENGALIN",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-kolsuz-bluz-3138739",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-kolsuz-bluz-3138739"
+        },
+        {
+          "excel_satiri": 6637,
+          "Product Option Code": "D2137AX.ER103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "BRALETTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D2137AX_24SM_ER103_01_02.jpg",
+          "FabricDetail": "BENGALIN",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-kolsuz-bluz-3138739",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-kolsuz-bluz-3138739"
+        },
+        {
+          "excel_satiri": 6638,
+          "Product Option Code": "D2137AX.ER103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "BRALETTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D2137AX_24SM_ER103_01_02.jpg",
+          "FabricDetail": "BENGALIN",
+          "Toplam": 2,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-kolsuz-bluz-3138739",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-kolsuz-bluz-3138739"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D2137AX_24SM_ER103_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:31:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-kolsuz-bluz-3138739",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

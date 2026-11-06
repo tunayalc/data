@@ -1,0 +1,57 @@
+{
+  "model_kodu": "D7159A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7159A5BG480",
+      "renk_kodu": "BG480",
+      "renk_adi": "VISON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8545,
+          "Product Option Code": "D7159A5.BG480",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Pyjamas",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "12-18 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/D7159A5_24WN_BG480_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/D7159A5_24WN_BG480_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

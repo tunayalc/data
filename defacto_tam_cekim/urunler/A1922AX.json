@@ -1,0 +1,336 @@
+{
+  "model_kodu": "A1922AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 164,
+    "yorum_sayisi": 164,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 13.3,
+      "tam_oldu": 62.2,
+      "buyuk_geldi": 24.5
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-06-08",
+        "puan": 5.0,
+        "metin": "@takım olarak aldımm çok tatlı oldu tam bedenimi aldım gayet iyi hatta beli bir tık bol oldu büyük beden alın…"
+      },
+      {
+        "tarih": "2023-04-28",
+        "puan": 5.0,
+        "metin": "@rengi aşırı soluk keten değil incecik bez gibi o parayı asla haketmiyor iade ettim"
+      },
+      {
+        "tarih": "2023-04-19",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1922AXBN335",
+      "renk_kodu": "BN335",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Wıde Leg Geniş Paça Keten Karışımlı Yüksek Bel Pantolon",
+      "kisa_aciklama": "Wıde Leg Keten Karışımlı Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3109897",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A1922AX_24SM_BN335_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_24SM_BN335_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_24SM_BN335_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_24SM_BN335_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_24SM_BN335_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_24SM_BN335_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,77cm - 82/62/89",
+        "ana_kumas_icerigi": "Viskoz 81%,Keten 19%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Geniş Paça",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kalip": "Wıde Leg",
+        "urun_tipi": "Pantolon",
+        "kumas": "Keten Karışımlı",
+        "bel_detayi": "Yüksek Bel"
+      },
+      "urun_hakkinda": [
+        "Wıde Leg Keten Karışımlı Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1099.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 184,
+          "Product Option Code": "A1922AX.BN335",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "44",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/A1922AX_24SM_BN335_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3109897",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3109897"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/A1922AX_24SM_BN335_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A1922AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Wıde Leg Geniş Paça Keten Karışımlı Yüksek Bel Pantolon",
+      "kisa_aciklama": "Wıde Leg Keten Karışımlı Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3297174",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A1922AX_25SM_WT34_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_25SM_WT34_02_07.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_25SM_WT34_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_25SM_WT34_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_25SM_WT34_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_25SM_WT34_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1922AX_25SM_WT34_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,76cm - 84/61/88",
+        "ana_kumas_icerigi": "Viskoz 83%,Keten 17%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "bel_detayi": "Yüksek Bel",
+        "kalip": "Wıde Leg",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kumas": "Keten Karışımlı",
+        "paca_detayi": "Geniş Paça",
+        "urun_tipi": "Pantolon",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Wıde Leg Keten Karışımlı Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1099.99,
+        "sepette_fiyat": 439.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 187,
+          "Product Option Code": "A1922AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "36",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/A1922AX_25SM_WT34_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3297174",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3109897"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/A1922AX_25SM_WT34_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A1922AXKH176",
+      "renk_kodu": "KH176",
+      "renk_adi": "Khaki",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 185,
+          "Product Option Code": "A1922AX.KH176",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "38",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/A1922AX_24SM_KH176_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3109881",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3109897"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/A1922AX_24SM_KH176_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A1922AXKH271",
+      "renk_kodu": "KH271",
+      "renk_adi": "LT.KHAKI",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 186,
+          "Product Option Code": "A1922AX.KH271",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "44",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/A1922AX_25SM_KH271_01_04.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3109897"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/A1922AX_25SM_KH271_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:20:05+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 2
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-genis-paca-keten-karisimli-yuksek-bel-pantolon-3109881",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

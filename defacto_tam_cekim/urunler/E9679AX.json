@@ -1,0 +1,131 @@
+{
+  "model_kodu": "E9679AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E9679AXAR129",
+      "renk_kodu": "AR129",
+      "renk_adi": "LT.ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13206,
+          "Product Option Code": "E9679AX.AR129",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.ANTHRA",
+          "SizeDefinition": "L",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9679AX_25AU_AR129_01_04.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/airtech-flare-fit-ispanyol-paca-soft-touch-premium-sporcu-pantolon-3386437",
+          "Model Page URL": "https://www.defacto.com.eg/airtech-flare-fit-ispanyol-paca-soft-touch-premium-sporcu-pantolon-3386436"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E9679AX_25AU_AR129_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E9679AXBR457",
+      "renk_kodu": "BR457",
+      "renk_adi": "D.BORDOEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13207,
+          "Product Option Code": "E9679AX.BR457",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BORDOEAUX",
+          "SizeDefinition": "S",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9679AX_25AU_BR457_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#630119",
+          "Product Page URL": "https://www.defacto.com.eg/airtech-flare-fit-ispanyol-paca-soft-touch-premium-sporcu-pantolon-3386436",
+          "Model Page URL": "https://www.defacto.com.eg/airtech-flare-fit-ispanyol-paca-soft-touch-premium-sporcu-pantolon-3386436"
+        },
+        {
+          "excel_satiri": 13208,
+          "Product Option Code": "E9679AX.BR457",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BORDOEAUX",
+          "SizeDefinition": "XL",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9679AX_25AU_BR457_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#630119",
+          "Product Page URL": "https://www.defacto.com.eg/airtech-flare-fit-ispanyol-paca-soft-touch-premium-sporcu-pantolon-3386436",
+          "Model Page URL": "https://www.defacto.com.eg/airtech-flare-fit-ispanyol-paca-soft-touch-premium-sporcu-pantolon-3386436"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E9679AX_25AU_BR457_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:48:37+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/airtech-flare-fit-ispanyol-paca-soft-touch-premium-sporcu-pantolon-3386437",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/airtech-flare-fit-ispanyol-paca-soft-touch-premium-sporcu-pantolon-3386436",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

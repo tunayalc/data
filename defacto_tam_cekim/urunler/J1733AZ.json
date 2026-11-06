@@ -1,0 +1,79 @@
+{
+  "model_kodu": "J1733AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "J1733AZNV167",
+      "renk_kodu": "NV167",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45380,
+          "Product Option Code": "J1733AZ.NV167",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/18SM/J1733AZ_18SM_NV167_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 45381,
+          "Product Option Code": "J1733AZ.NV167",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/18SM/J1733AZ_18SM_NV167_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 4,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/18SM/J1733AZ_18SM_NV167_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

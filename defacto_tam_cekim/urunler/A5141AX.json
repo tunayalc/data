@@ -1,0 +1,57 @@
+{
+  "model_kodu": "A5141AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A5141AXNM85",
+      "renk_kodu": "NM85",
+      "renk_adi": "LT.INDIGO",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 474,
+          "Product Option Code": "A5141AX.NM85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "34",
+          "Fit": "SKINNY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/A5141AX_23HS_NM85_01_01.jpg",
+          "FabricDetail": "JEAN",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/A5141AX_23HS_NM85_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

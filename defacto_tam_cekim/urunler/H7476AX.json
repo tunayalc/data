@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H7476AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7476AXYL240",
+      "renk_kodu": "YL240",
+      "renk_adi": "LT.YELLOW",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33128,
+          "Product Option Code": "H7476AX.YL240",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H7476AX_26HS_YL240_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-boxy-fit-bisiklet-yaka-slogan-baskili-kisa-kollu-tisort-3548545",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-boxy-fit-bisiklet-yaka-slogan-baskili-kisa-kollu-tisort-3548545"
+        },
+        {
+          "excel_satiri": 33129,
+          "Product Option Code": "H7476AX.YL240",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H7476AX_26HS_YL240_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-boxy-fit-bisiklet-yaka-slogan-baskili-kisa-kollu-tisort-3548545",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-boxy-fit-bisiklet-yaka-slogan-baskili-kisa-kollu-tisort-3548545"
+        },
+        {
+          "excel_satiri": 33130,
+          "Product Option Code": "H7476AX.YL240",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "XL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H7476AX_26HS_YL240_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-boxy-fit-bisiklet-yaka-slogan-baskili-kisa-kollu-tisort-3548545",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-boxy-fit-bisiklet-yaka-slogan-baskili-kisa-kollu-tisort-3548545"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H7476AX_26HS_YL240_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:33:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-slogan-baskili-kisa-kollu-tisort-3548545",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

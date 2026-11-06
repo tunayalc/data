@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I4270AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4270AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Halka ve Düğüm Detaylı 2'li Küpe",
+      "kisa_aciklama": "İki farklı tasarımdan oluşan parlak yüzeyli küpe seti. Biri düğüm görünümlü, diğeri iç içe geçmiş çift halka detayına sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-halka-ve-dugum-detayli-2li-kupe-3507706",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4270AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4270AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4270AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko Alaşım 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Küpe",
+        "takim_icerigi": "2'li"
+      },
+      "urun_hakkinda": [
+        "İki farklı tasarımdan oluşan parlak yüzeyli küpe seti. Biri düğüm görünümlü, diğeri iç içe geçmiş çift halka detayına sahiptir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42551,
+          "Product Option Code": "I4270AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4270AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-halka-ve-dugum-detayli-2li-kupe-3507706",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-halka-ve-dugum-detayli-2li-kupe-3507706"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4270AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:02:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

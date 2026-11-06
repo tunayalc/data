@@ -1,0 +1,117 @@
+{
+  "model_kodu": "C0166AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 28,
+    "yorum_sayisi": 28,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 11.1,
+      "tam_oldu": 83.3,
+      "buyuk_geldi": 5.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-23",
+        "puan": 4.0,
+        "metin": "@Fiyatına göre çok iyi. Nişanlıma hediye aldım, fiyatına göre de gayet iyi. Teşekkürler."
+      },
+      {
+        "tarih": "2025-11-23",
+        "puan": 3.0,
+        "metin": "@Harikalar, aşırı güzeller."
+      },
+      {
+        "tarih": "2025-01-16",
+        "puan": 5.0,
+        "metin": "@Güzel, yumuşak bir ürün."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0166AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Erkek 5'li Pamuklu Soket Çorap",
+      "kisa_aciklama": "Erkek 3'lü Pamuklu Soket Çorap, konfor ve stilin mükemmel bir kombinasyonunu sunuyor. Yüksek kaliteli pamuklu malzeme, ayaklarınızı rahat ve serin…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-5li-pamuklu-soket-corap-3071765",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C0166AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0166AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0166AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0166AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0166AX_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0166AX_NS_KR1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0166AX_NS_KR1_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44",
+          "STD"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliamid 21%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Soket Çorap",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "5'li",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Erkek 3'lü Pamuklu Soket Çorap, konfor ve stilin mükemmel bir kombinasyonunu sunuyor. Yüksek kaliteli pamuklu malzeme, ayaklarınızı rahat ve serin…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2962,
+          "Product Option Code": "C0166AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "41-44",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/C0166AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 12,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-soket-corap-3071765",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-soket-corap-3071765"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/C0166AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:20:44+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

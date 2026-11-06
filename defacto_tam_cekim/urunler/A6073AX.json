@@ -1,0 +1,117 @@
+{
+  "model_kodu": "A6073AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 96,
+    "yorum_sayisi": 96,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 12.3,
+      "tam_oldu": 87.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-12-27",
+        "puan": 5.0,
+        "metin": "@güzeldi kaliteli"
+      },
+      {
+        "tarih": "2024-09-02",
+        "puan": 5.0,
+        "metin": "@Kaliteli, beğendim."
+      },
+      {
+        "tarih": "2025-01-16",
+        "puan": 5.0,
+        "metin": "@Çok güzel, her şeyle uyum sağlıyor."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A6073AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Erkek 5'li Pamuklu Uzun Çorap",
+      "kisa_aciklama": "DeFacto Erkek 5'li Pamuklu Uzun Çorap, beş çift uzun çoraptan oluşan bu set, rahatlığı ve stilini bir araya getirir. Pamuklu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-5li-pamuklu-uzun-corap-2907524",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A6073AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6073AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6073AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6073AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6073AX_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6073AX_NS_KR1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A6073AX_NS_KR1_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44",
+          "STD"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 73%,Poliamid 24%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Uzun Çorap",
+        "takim_icerigi": "5'li",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "DeFacto Erkek 5'li Pamuklu Uzun Çorap, beş çift uzun çoraptan oluşan bu set, rahatlığı ve stilini bir araya getirir. Pamuklu…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 552,
+          "Product Option Code": "A6073AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "41-44",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/A6073AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 9,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-uzun-corap-2907524",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-uzun-corap-2907524"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/A6073AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:20:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "model_kodu": "C4150AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 69,
+    "yorum_sayisi": 69,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 11.9,
+      "tam_oldu": 71.4,
+      "buyuk_geldi": 16.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-06-12",
+        "puan": 3.0,
+        "metin": "@kalıbı çok büyük"
+      },
+      {
+        "tarih": "2024-06-11",
+        "puan": 2.0,
+        "metin": "@ürün güzel ama kalıbı çok geniş iade"
+      },
+      {
+        "tarih": "2025-08-01",
+        "puan": 5.0,
+        "metin": "@DeFacto triko da mükemmel ürünler çıkarmış.."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4150AXIN250",
+      "renk_kodu": "IN250",
+      "renk_adi": "Açık İndigo",
+      "renk_hex": "#2800A1",
+      "urun_adi": "Regular Fit Polo Yaka Çizgili Triko Kısa Kollu Tişört",
+      "kisa_aciklama": "Yetişkin erkekler için özel tasarlanmış kahverengi polo tişört. Kısa kollu ve regular fit kalıbıyla rahat bir kullanım sunar. Yaz mevsiminde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-cizgili-triko-kisa-kollu-tisort-3210252",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_IN250_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_IN250_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_IN250_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_IN250_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_IN250_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_IN250_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 90%,Poliester 10%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için özel tasarlanmış kahverengi polo tişört. Kısa kollu ve regular fit kalıbıyla rahat bir kullanım sunar. Yaz mevsiminde…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4115,
+          "Product Option Code": "C4150AX.IN250",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4150AX_25SM_IN250_01_01.jpg",
+          "FabricDetail": "TRICOT LIKE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-cizgili-triko-kisa-kollu-tisort-3210252",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-cizgili-triko-kisa-kollu-tisort-3207407"
+        },
+        {
+          "excel_satiri": 4116,
+          "Product Option Code": "C4150AX.IN250",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4150AX_25SM_IN250_01_01.jpg",
+          "FabricDetail": "TRICOT LIKE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-cizgili-triko-kisa-kollu-tisort-3210252",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-cizgili-triko-kisa-kollu-tisort-3207407"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C4150AX_25SM_IN250_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4150AXNV42",
+      "renk_kodu": "NV42",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fit Polo Yaka Çizgili Triko Kısa Kollu Tişört",
+      "kisa_aciklama": "Yetişkin erkekler için özel tasarlanmış kahverengi polo tişört. Kısa kollu ve regular fit kalıbıyla rahat bir kullanım sunar. Yaz mevsiminde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-cizgili-triko-kisa-kollu-tisort-3207407",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_NV42_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_NV42_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_NV42_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_NV42_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_NV42_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_NV42_06_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 93/72/91",
+        "ana_kumas_icerigi": "Pamuk 90%,Poliester 10%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için özel tasarlanmış kahverengi polo tişört. Kısa kollu ve regular fit kalıbıyla rahat bir kullanım sunar. Yaz mevsiminde…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4117,
+          "Product Option Code": "C4150AX.NV42",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C4150AX_25SM_NV42_01_04.jpg",
+          "FabricDetail": "TRICOT LIKE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-cizgili-triko-kisa-kollu-tisort-3207407",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-cizgili-triko-kisa-kollu-tisort-3207407"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C4150AX_25SM_NV42_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4150AXBN312",
+      "renk_kodu": "BN312",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Regular Fit Polo Yaka Çizgili Triko Kısa Kollu Tişört",
+      "kisa_aciklama": "Yetişkin erkekler için özel tasarlanmış kahverengi polo tişört. Kısa kollu ve regular fit kalıbıyla rahat bir kullanım sunar. Yaz mevsiminde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-cizgili-triko-kisa-kollu-tisort-3212887",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_BN312_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_BN312_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_BN312_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_BN312_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_BN312_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4150AX_25SM_BN312_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 90%,Poliester 10%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için özel tasarlanmış kahverengi polo tişört. Kısa kollu ve regular fit kalıbıyla rahat bir kullanım sunar. Yaz mevsiminde…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:22:34+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

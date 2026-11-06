@@ -1,0 +1,131 @@
+{
+  "model_kodu": "Z7165AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z7165AZBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 49008,
+          "Product Option Code": "Z7165AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/Z7165AZ_25SM_BK81_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/premium-regular-fit-modal-boxer-3414371"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/Z7165AZ_25SM_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "Z7165AZNV135",
+      "renk_kodu": "NV135",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 49009,
+          "Product Option Code": "Z7165AZ.NV135",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Z7165AZ_25AU_NV135_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/premium-regular-fit-modal-boxer-3414374",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/premium-regular-fit-modal-boxer-3414371"
+        },
+        {
+          "excel_satiri": 49010,
+          "Product Option Code": "Z7165AZ.NV135",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/Z7165AZ_25SM_NV135_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/premium-regular-fit-modal-boxer-3414374",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/premium-regular-fit-modal-boxer-3414371"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/Z7165AZ_25AU_NV135_01_01.jpg",
+        "https://image.defacto.com.tr/product/25SM/Z7165AZ_25SM_NV135_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:56:53+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/premium-regular-fit-modal-boxer-3414374",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/premium-regular-fit-modal-boxer-3414371",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

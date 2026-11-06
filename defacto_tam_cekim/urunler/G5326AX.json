@@ -1,0 +1,64 @@
+{
+  "model_kodu": "G5326AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G5326AXRD85",
+      "renk_kodu": "RD85",
+      "renk_adi": "D.RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19554,
+          "Product Option Code": "G5326AX.RD85",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "D.RED",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G5326AX_NS_RD85_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 12,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#DB0202",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-50-ml-nba-miami-heat-3497955",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-50-ml-nba-miami-heat-3497955"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G5326AX_NS_RD85_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:04:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-50-ml-nba-miami-heat-3497955",
+      "http": 200,
+      "durum": "Sayfada bu modelin ürün kodu bulunamadı"
+    }
+  ]
+}

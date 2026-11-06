@@ -1,0 +1,57 @@
+{
+  "model_kodu": "A8353A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A8353A5BN300",
+      "renk_kodu": "BN300",
+      "renk_adi": "VISON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "9-12 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 822,
+          "Product Option Code": "A8353A5.BN300",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "9-12 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/A8353A5_23HS_BN300_01_02.jpg",
+          "FabricDetail": "SLUBBY POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 39.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/A8353A5_23HS_BN300_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

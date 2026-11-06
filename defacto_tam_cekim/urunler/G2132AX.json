@@ -1,0 +1,92 @@
+{
+  "model_kodu": "G2132AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2132AXBN1",
+      "renk_kodu": "BN1",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Erkek Dikişsiz 3'lü Uzun Çorap",
+      "kisa_aciklama": "Erkek Dikişsiz 3'lü Bambu Uzun Çorap, doğal bambu liflerinden gelen ekstra yumuşaklığı ve dikişsiz burun yapısıyla maksimum konfor sunar. Nefes…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikissiz-3lu-uzun-corap-3369945",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2132AX_NS_BN1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2132AX_NS_BN1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2132AX_NS_BN1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2132AX_NS_BN1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 15%,Elastan 2%,Viskoz 83%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "takim_icerigi": "3'lü",
+        "corap_tipi": "Uzun Çorap"
+      },
+      "urun_hakkinda": [
+        "Erkek Dikişsiz 3'lü Bambu Uzun Çorap, doğal bambu liflerinden gelen ekstra yumuşaklığı ve dikişsiz burun yapısıyla maksimum konfor sunar. Nefes…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18205,
+          "Product Option Code": "G2132AX.BN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "41-44",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G2132AX_NS_BN1_01_01.jpg",
+          "FabricDetail": "30/2 Bamboo",
+          "Toplam": 6,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-uzun-corap-3369945",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-uzun-corap-3369945"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G2132AX_NS_BN1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:58:48+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

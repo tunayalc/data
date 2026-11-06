@@ -1,0 +1,89 @@
+{
+  "model_kodu": "H3204AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3204AXER156",
+      "renk_kodu": "ER156",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Kadın 3'lü Saç Aksesuarı",
+      "kisa_aciklama": "Kadın Krem Gözenek Sıkılaştırıcı",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-3lu-sac-aksesuari-3428427",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3204AX_NS_ER156_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3204AX_NS_ER156_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3204AX_NS_ER156_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 90%,Demir 5%,Epoksi 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın Krem Gözenek Sıkılaştırıcı"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27077,
+          "Product Option Code": "H3204AX.ER156",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3204AX_NS_ER156_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-iq/kadin-3lu-sac-aksesuari-3428427",
+          "Model Page URL": "https://www.defacto.com/en-iq/kadin-3lu-sac-aksesuari-3428427"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3204AX_NS_ER156_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:22:11+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

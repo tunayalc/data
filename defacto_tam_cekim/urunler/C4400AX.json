@@ -1,0 +1,161 @@
+{
+  "model_kodu": "C4400AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 18,
+    "yorum_sayisi": 18,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 80.0,
+      "buyuk_geldi": 20.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-07-01",
+        "puan": 5.0,
+        "metin": "@Çok beğendim, kalıbı bayağı geniş, oversize sevmeyenler küçük beden alabilir."
+      },
+      {
+        "tarih": "2024-09-21",
+        "puan": 5.0,
+        "metin": "@sonbaharda giyilecek en guzel parcalardan asiri rahat"
+      },
+      {
+        "tarih": "2024-09-21",
+        "puan": 5.0,
+        "metin": "@bi beden küçük alin derim boyu da ideal ne kisa ne uzun kumaşı da sonbaharlik"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4400AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Loose Fit Bisiklet Yaka Çizgili Uzun Kollu Tişört",
+      "kisa_aciklama": "Şıklığı ve rahatlığı bir arada sunan Loose Fit Çizgili Uzun Kollu Tişört, gardırobunuzun vazgeçilmezi olmaya aday. İnce çizgileri ve uzun…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/loose-fit-bisiklet-yaka-cizgili-uzun-kollu-tisort-3080625",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4400AX_24SP_WT32_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4400AX_24SP_WT32_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4400AX_24SP_WT32_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4400AX_24SP_WT32_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4400AX_24SP_WT32_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 84/58/91",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "markalar": "Coool",
+        "kalip": "Loose Fıt",
+        "urun_tipi": "Uzun Kollu Tişört"
+      },
+      "urun_hakkinda": [
+        "Şıklığı ve rahatlığı bir arada sunan Loose Fit Çizgili Uzun Kollu Tişört, gardırobunuzun vazgeçilmezi olmaya aday. İnce çizgileri ve uzun…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4171,
+          "Product Option Code": "C4400AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C4400AX_24SP_WT32_01_02.jpg",
+          "FabricDetail": "30/2 JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com/en-ma/loose-fit-bisiklet-yaka-cizgili-uzun-kollu-tisort-3080625",
+          "Model Page URL": "https://www.defacto.com/en-ma/loose-fit-bisiklet-yaka-cizgili-uzun-kollu-tisort-3080625"
+        },
+        {
+          "excel_satiri": 4172,
+          "Product Option Code": "C4400AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C4400AX_24SP_WT32_01_02.jpg",
+          "FabricDetail": "30/2 JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com/en-ma/loose-fit-bisiklet-yaka-cizgili-uzun-kollu-tisort-3080625",
+          "Model Page URL": "https://www.defacto.com/en-ma/loose-fit-bisiklet-yaka-cizgili-uzun-kollu-tisort-3080625"
+        },
+        {
+          "excel_satiri": 4173,
+          "Product Option Code": "C4400AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C4400AX_24SP_WT32_01_02.jpg",
+          "FabricDetail": "30/2 JERSEY",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com/en-ma/loose-fit-bisiklet-yaka-cizgili-uzun-kollu-tisort-3080625",
+          "Model Page URL": "https://www.defacto.com/en-ma/loose-fit-bisiklet-yaka-cizgili-uzun-kollu-tisort-3080625"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C4400AX_24SP_WT32_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:26:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

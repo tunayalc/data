@@ -1,0 +1,123 @@
+{
+  "model_kodu": "A0012AX",
+  "urun_grubu": "Kadın Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 197,
+    "yorum_sayisi": 197,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.8,
+      "tam_oldu": 68.2,
+      "buyuk_geldi": 3.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-08-18",
+        "puan": 5.0,
+        "metin": "@Çok güzel bayıldım. Beyaz rengini de aldım"
+      },
+      {
+        "tarih": "2024-09-19",
+        "puan": 5.0,
+        "metin": "@çok tatlı bir gömlek güzel"
+      },
+      {
+        "tarih": "2024-10-30",
+        "puan": 3.0,
+        "metin": "@boyu aşırı kısa keşke biraz daha uzun olsaydi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A0012AXGN1156",
+      "renk_kodu": "GN1156",
+      "renk_adi": "Mint",
+      "renk_hex": "#9BECCF",
+      "urun_adi": "Coool Fitted Uzun Kollu Gömlek",
+      "kisa_aciklama": "Trend fttedt, basic tasarımı ve kaliteli kumaşı, rahat modeli ile her tarz tayt, jean ve dokuma pantolonlarınızla kombinleyebileceğiniz, her tarz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/coool-fitted-gomlek-yaka-uzun-kollu-gomlek-2782264",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_07_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_08_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0012AX_23SP_GN1156_10_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 80/62/91",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Gömlek Yaka",
+        "kalip": "Fıtted",
+        "kol_boyu": "Uzun Kollu",
+        "markalar": "Coool",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Trend fttedt, basic tasarımı ve kaliteli kumaşı, rahat modeli ile her tarz tayt, jean ve dokuma pantolonlarınızla kombinleyebileceğiniz, her tarz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19,
+          "Product Option Code": "A0012AX.GN1156",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SP/A0012AX_23SP_GN1156_01_03.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com.tr/coool-fitted-gomlek-yaka-uzun-kollu-gomlek-2782264",
+          "Model Page URL": "https://www.defacto.com.tr/coool-fitted-gomlek-yaka-uzun-kollu-gomlek-2782264"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SP/A0012AX_23SP_GN1156_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:19:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

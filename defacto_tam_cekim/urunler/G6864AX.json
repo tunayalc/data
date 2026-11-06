@@ -1,0 +1,116 @@
+{
+  "model_kodu": "G6864AX",
+  "urun_grubu": "Kadın Çanta",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6864AXBN69",
+      "renk_kodu": "BN69",
+      "renk_adi": "Taba",
+      "renk_hex": "#704214",
+      "urun_adi": "Kadın Süet Hobo Omuz Çantası",
+      "kisa_aciklama": "Süet kumaştan üretilmiş, metal halka detaylı omuz askısına sahip, dökümlü ve geniş formlu hobo omuz çantası.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-suet-hobo-omuz-cantasi-3369993",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6864AX_NS_BN69_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6864AX_NS_BN69_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6864AX_NS_BN69_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6864AX_NS_BN69_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6864AX_NS_BN69_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6864AX_NS_BN69_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,77cm - 78/62/89",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MA",
+        "cinsiyet": "Kadın",
+        "canta_tipi": "Omuz Çantası",
+        "kumas": "Süet"
+      },
+      "urun_hakkinda": [
+        "Süet kumaştan üretilmiş, metal halka detaylı omuz askısına sahip, dökümlü ve geniş formlu hobo omuz çantası."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20722,
+          "Product Option Code": "G6864AX.BN69",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "Bag",
+          "Product Color Name": "TABA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G6864AX_NS_BN69_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 4,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#704214",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suet-hobo-omuz-cantasi-3369993",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suet-hobo-omuz-cantasi-3369993"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G6864AX_NS_BN69_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:05:38+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

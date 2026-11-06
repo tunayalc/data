@@ -1,0 +1,110 @@
+{
+  "model_kodu": "G6698A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 2.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 100.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-20",
+        "puan": 2.0,
+        "metin": "@11 12 yaş aldım oğlumun herzamsn ki aldığım bedeni 2 yaş büyük geldi yani 9 yaş alınmalı bu kalıpları neye…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6698A8NM39",
+      "renk_kodu": "NM39",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Loose Fit Ekstra Rahat Kesim Jean Pantolon Erkek Çocuk",
+      "kisa_aciklama": "Vücuda yapışmayan ferah kalıbıyla çocukların en hareketli anlarında bile nefes almasını sağlar. Kesintisiz maceralar için maksimum rahatlık sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/loose-fit-ekstra-rahat-kesim-jean-pantolon-erkek-cocuk-3375088",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6698A8_26SP_NM39_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6698A8_26SP_NM39_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6698A8_26SP_NM39_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6698A8_26SP_NM39_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6698A8_26SP_NM39_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yikama_detayi": "Yıkamalı",
+        "paca_detayi": "Düz Paça",
+        "kalip": "Loose Fıt",
+        "cinsiyet": "Erkek Çocuk",
+        "yirtik_detayi": "Yırtık Detaylı"
+      },
+      "urun_hakkinda": [
+        "Vücuda yapışmayan ferah kalıbıyla çocukların en hareketli anlarında bile nefes almasını sağlar. Kesintisiz maceralar için maksimum rahatlık sunar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20500,
+          "Product Option Code": "G6698A8.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6698A8_26SP_NM39_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-ekstra-rahat-kesim-jean-pantolon-erkek-cocuk-3375088",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-ekstra-rahat-kesim-jean-pantolon-erkek-cocuk-3375088"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6698A8_26SP_NM39_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:07:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

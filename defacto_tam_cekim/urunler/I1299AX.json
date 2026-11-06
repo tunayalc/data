@@ -1,0 +1,121 @@
+{
+  "model_kodu": "I1299AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1299AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Pamuklu Regular Fıt Bisiklet Yaka Modal Kısa Kollu Tişört",
+      "kisa_aciklama": "Erkekler için şıklığın vazgeçilmezi olan bu lacivert kısa kollu tişört, modal kumaşıyla konforu ve şıklığı bir araya getiriyor. Regular fit…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-modal-kisa-kollu-tisort-3485833",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1299AX_26SM_NV64_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1299AX_26SM_NV64_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1299AX_26SM_NV64_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1299AX_26SM_NV64_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1299AX_26SM_NV64_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Pamuk 48%,Modal 52%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kumas": "Modal",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Erkekler için şıklığın vazgeçilmezi olan bu lacivert kısa kollu tişört, modal kumaşıyla konforu ve şıklığı bir araya getiriyor. Regular fit…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38892,
+          "Product Option Code": "I1299AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I1299AX_26SM_NV64_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-modal-kisa-kollu-tisort-3485833",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-modal-kisa-kollu-tisort-3485833"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I1299AX_26SM_NV64_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:42:54+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

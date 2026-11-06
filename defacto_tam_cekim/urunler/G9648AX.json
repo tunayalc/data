@@ -1,0 +1,128 @@
+{
+  "model_kodu": "G9648AX",
+  "urun_grubu": "Kadın Tunik",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-11-02",
+        "puan": 5.0,
+        "metin": "@L olmaz zannettim ama oldu kalıbı genişmiş rengi de mavi çok severim yazlık popoyu örten güzel bir gömlek"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G9648AXBE52",
+      "renk_kodu": "BE52",
+      "renk_adi": "Koyu Mavi",
+      "renk_hex": "#00008B",
+      "urun_adi": "Regular Fıt Kareli Poplin Uzun Kollu Tunik",
+      "kisa_aciklama": "Yetişkinler için ideal olan mavi ekose desenli pamuklu poplin kumaştan üretilmiş uzun kollu tunik. Regular fit kesimiyle rahatlık ve şıklığı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-kareli-poplin-uzun-kollu-tunik-3402923",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G9648AX_26SP_BE52_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9648AX_26SP_BE52_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9648AX_26SP_BE52_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9648AX_26SP_BE52_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9648AX_26SP_BE52_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9648AX_26SP_BE52_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Pamuk 58%,Poliester 42%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_yuksekligi": "75",
+        "kumas_kalinligi": "İnce",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt",
+        "desen": "Kareli",
+        "kumas": "Poplin"
+      },
+      "urun_hakkinda": [
+        "Yetişkinler için ideal olan mavi ekose desenli pamuklu poplin kumaştan üretilmiş uzun kollu tunik. Regular fit kesimiyle rahatlık ve şıklığı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23235,
+          "Product Option Code": "G9648AX.BE52",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "DARK BLUE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G9648AX_26SP_BE52_01_03.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kareli-poplin-uzun-kollu-tunik-3402923",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kareli-poplin-uzun-kollu-tunik-3402923"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G9648AX_26SP_BE52_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:14:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

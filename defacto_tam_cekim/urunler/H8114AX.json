@@ -1,0 +1,616 @@
+{
+  "model_kodu": "H8114AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 100.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-12",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8114AXBE144",
+      "renk_kodu": "BE144",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Modern Fıt Uzun Kollu Gömlek",
+      "kisa_aciklama": "Modern fit uzun kollu gömlek. Klasik yaka ve önü düğmeli kapamaya sahiptir. Manşetli kol bitişleri mevcuttur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465401",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_BE144_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_BE144_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_BE144_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_BE144_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_BE144_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_BE144_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_BE144_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Modern Fıt",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "yaka": "Gömlek Yaka"
+      },
+      "urun_hakkinda": [
+        "Modern fit uzun kollu gömlek. Klasik yaka ve önü düğmeli kapamaya sahiptir. Manşetli kol bitişleri mevcuttur."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34471,
+          "Product Option Code": "H8114AX.BE144",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "M",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8114AX_26SM_BE144_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465401",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        },
+        {
+          "excel_satiri": 34472,
+          "Product Option Code": "H8114AX.BE144",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8114AX_26SM_BE144_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465401",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8114AX_26SM_BE144_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8114AXBR150",
+      "renk_kodu": "BR150",
+      "renk_adi": "Koyu Bordo",
+      "renk_hex": "#630119",
+      "urun_adi": "Modern Fıt Uzun Kollu Koyu Bordo Gömlek",
+      "kisa_aciklama": "Modern fit uzun kollu gömlek. Klasik yaka ve önü düğmeli kapamaya sahiptir. Manşetli kol bitişleri mevcuttur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/modern-fit-uzun-kollu-koyu-bordo-gomlek-3510168",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_BR150_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_BR150_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_BR150_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_BR150_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_BR150_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_BR150_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "yaka": "Gömlek Yaka",
+        "kalip": "Modern Fıt",
+        "urun_tipi": "Uzun Kollu Gömlek"
+      },
+      "urun_hakkinda": [
+        "Modern fit uzun kollu gömlek. Klasik yaka ve önü düğmeli kapamaya sahiptir. Manşetli kol bitişleri mevcuttur."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34473,
+          "Product Option Code": "H8114AX.BR150",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "D.BORDEAUX",
+          "SizeDefinition": "L",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_BR150_01_02.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#630119",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-koyu-bordo-gomlek-3510168",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        },
+        {
+          "excel_satiri": 34474,
+          "Product Option Code": "H8114AX.BR150",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "D.BORDEAUX",
+          "SizeDefinition": "M",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_BR150_01_02.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#630119",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-koyu-bordo-gomlek-3510168",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        },
+        {
+          "excel_satiri": 34475,
+          "Product Option Code": "H8114AX.BR150",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "D.BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_BR150_01_02.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#630119",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-koyu-bordo-gomlek-3510168",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        },
+        {
+          "excel_satiri": 34476,
+          "Product Option Code": "H8114AX.BR150",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "D.BORDEAUX",
+          "SizeDefinition": "XL",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_BR150_01_02.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#630119",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-koyu-bordo-gomlek-3510168",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_BR150_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8114AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Modern Fıt Uzun Kollu Gömlek",
+      "kisa_aciklama": "Modern fit uzun kollu gömlek. Klasik yaka ve önü düğmeli kapamaya sahiptir. Manşetli kol bitişleri mevcuttur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_ER105_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_ER105_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_ER105_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_ER105_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26SM_ER105_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Gömlek Yaka",
+        "cinsiyet": "Erkek",
+        "kalip": "Modern Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Uzun Kollu Gömlek"
+      },
+      "urun_hakkinda": [
+        "Modern fit uzun kollu gömlek. Klasik yaka ve önü düğmeli kapamaya sahiptir. Manşetli kol bitişleri mevcuttur."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34477,
+          "Product Option Code": "H8114AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8114AX_26SM_ER105_01_03.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        },
+        {
+          "excel_satiri": 34478,
+          "Product Option Code": "H8114AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8114AX_26SM_ER105_01_03.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8114AX_26SM_ER105_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8114AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Modern Fıt Uzun Kollu Gömlek",
+      "kisa_aciklama": "Modern fit uzun kollu gömlek. Klasik yaka ve önü düğmeli kapamaya sahiptir. Manşetli kol bitişleri mevcuttur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3510169",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_WT34_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_WT34_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_WT34_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_WT34_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_WT34_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_WT34_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_WT34_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8114AX_26AU_WT34_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "XXL Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Modern Fıt",
+        "yaka": "Gömlek Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Uzun Kollu Gömlek"
+      },
+      "urun_hakkinda": [
+        "Modern fit uzun kollu gömlek. Klasik yaka ve önü düğmeli kapamaya sahiptir. Manşetli kol bitişleri mevcuttur."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34479,
+          "Product Option Code": "H8114AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "L",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_WT34_01_05.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3510169",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        },
+        {
+          "excel_satiri": 34480,
+          "Product Option Code": "H8114AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "M",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_WT34_01_05.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 5,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3510169",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        },
+        {
+          "excel_satiri": 34481,
+          "Product Option Code": "H8114AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_WT34_01_05.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 5,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3510169",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        },
+        {
+          "excel_satiri": 34482,
+          "Product Option Code": "H8114AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XXL",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_WT34_01_05.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3510169",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-uzun-kollu-gomlek-3465400"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H8114AX_26AU_WT34_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:42:58+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

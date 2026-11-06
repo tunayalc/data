@@ -1,0 +1,123 @@
+{
+  "model_kodu": "D1827AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1827AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6552,
+          "Product Option Code": "D1827AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D1827AX_24HS_ER105_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 3,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6553,
+          "Product Option Code": "D1827AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D1827AX_24HS_ER105_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6554,
+          "Product Option Code": "D1827AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D1827AX_24HS_ER105_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6555,
+          "Product Option Code": "D1827AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D1827AX_24HS_ER105_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D1827AX_24HS_ER105_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

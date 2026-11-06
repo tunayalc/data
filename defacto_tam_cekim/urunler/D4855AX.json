@@ -1,0 +1,108 @@
+{
+  "model_kodu": "D4855AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4855AXBE86",
+      "renk_kodu": "BE86",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7785,
+          "Product Option Code": "D4855AX.BE86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "34",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4855AX_24HS_BE86_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/en-ma/straight-fit-duz-paca-poplin-normal-bel-pantolon-3157147",
+          "Model Page URL": "https://www.defacto.com/en-ma/straight-fit-duz-paca-poplin-normal-bel-pantolon-3157147"
+        },
+        {
+          "excel_satiri": 7786,
+          "Product Option Code": "D4855AX.BE86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "36",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4855AX_24HS_BE86_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/en-ma/straight-fit-duz-paca-poplin-normal-bel-pantolon-3157147",
+          "Model Page URL": "https://www.defacto.com/en-ma/straight-fit-duz-paca-poplin-normal-bel-pantolon-3157147"
+        },
+        {
+          "excel_satiri": 7787,
+          "Product Option Code": "D4855AX.BE86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "42",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4855AX_24HS_BE86_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/en-ma/straight-fit-duz-paca-poplin-normal-bel-pantolon-3157147",
+          "Model Page URL": "https://www.defacto.com/en-ma/straight-fit-duz-paca-poplin-normal-bel-pantolon-3157147"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4855AX_24HS_BE86_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:35:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/straight-fit-duz-paca-poplin-normal-bel-pantolon-3157147",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

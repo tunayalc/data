@@ -1,0 +1,79 @@
+{
+  "model_kodu": "C2220AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C2220AXAR15",
+      "renk_kodu": "AR15",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3503,
+          "Product Option Code": "C2220AX.AR15",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "L",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C2220AX_24SP_AR15_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3504,
+          "Product Option Code": "C2220AX.AR15",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "XS",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C2220AX_24SP_AR15_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C2220AX_24SP_AR15_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I2899AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2899AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "4'lü Puantiyeli Saç Tokası Seti",
+      "kisa_aciklama": "Dörtlü set halinde saç tokası. Mandallı yapıya ve parlak yüzeye sahiptir. Siyah, beyaz, turuncu ve kahverengi renklerde, puantiyeli ve benekli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/4lu-puantiyeli-sac-tokasi-seti-3495450",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2899AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2899AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2899AX_NS_KR1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2899AX_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Akrilik 50%,Plastik 45%,Demir 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "4'lü",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Dörtlü set halinde saç tokası. Mandallı yapıya ve parlak yüzeye sahiptir. Siyah, beyaz, turuncu ve kahverengi renklerde, puantiyeli ve benekli…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40735,
+          "Product Option Code": "I2899AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2899AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/4lu-puantiyeli-sac-tokasi-seti-3495450",
+          "Model Page URL": "https://www.defacto.com.tr/4lu-puantiyeli-sac-tokasi-seti-3495450"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2899AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:46:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

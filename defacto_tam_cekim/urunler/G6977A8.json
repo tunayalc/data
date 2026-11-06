@@ -1,0 +1,130 @@
+{
+  "model_kodu": "G6977A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6977A8BE789",
+      "renk_kodu": "BE789",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "7/8 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20813,
+          "Product Option Code": "G6977A8.BE789",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6977A8_26SP_BE789_01_02.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-kazak-kiz-cocuk-3441882",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-kazak-kiz-cocuk-3441882"
+        },
+        {
+          "excel_satiri": 20814,
+          "Product Option Code": "G6977A8.BE789",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6977A8_26SP_BE789_01_02.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-kazak-kiz-cocuk-3441882",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-kazak-kiz-cocuk-3441882"
+        },
+        {
+          "excel_satiri": 20815,
+          "Product Option Code": "G6977A8.BE789",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6977A8_26SP_BE789_01_02.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-kazak-kiz-cocuk-3441882",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-kazak-kiz-cocuk-3441882"
+        },
+        {
+          "excel_satiri": 20816,
+          "Product Option Code": "G6977A8.BE789",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6977A8_26SP_BE789_01_02.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-kazak-kiz-cocuk-3441882",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-kazak-kiz-cocuk-3441882"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6977A8_26SP_BE789_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:07:57+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/polo-yaka-kazak-kiz-cocuk-3441882",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "model_kodu": "F3535AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3535AXPN441",
+      "renk_kodu": "PN441",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14447,
+          "Product Option Code": "F3535AX.PN441",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F3535AX_25SM_PN441_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 5,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 14448,
+          "Product Option Code": "F3535AX.PN441",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F3535AX_25SM_PN441_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 14449,
+          "Product Option Code": "F3535AX.PN441",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F3535AX_25SM_PN441_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 14450,
+          "Product Option Code": "F3535AX.PN441",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F3535AX_25SM_PN441_01_01.jpg",
+          "FabricDetail": "COTTON LYCRA",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F3535AX_25SM_PN441_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "model_kodu": "E7342AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E7342AXGR443",
+      "renk_kodu": "GR443",
+      "renk_adi": "Gri Orta",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "Orta Boy"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12157,
+          "Product Option Code": "E7342AX.GR443",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Unisex",
+          "Buyer Group Name": "Baggage",
+          "LifeStyle": "Casual",
+          "Class Name": "Baggage",
+          "Product Color Name": "Gri Orta",
+          "SizeDefinition": "Orta Boy",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E7342AX_NS_GR443_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/E7342AX_NS_GR443_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

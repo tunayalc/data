@@ -1,0 +1,146 @@
+{
+  "model_kodu": "D8602AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 16,
+    "yorum_sayisi": 16,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 55.6,
+      "buyuk_geldi": 11.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-05-20",
+        "puan": 4.0,
+        "metin": "@Kaliteli ve uygun beden."
+      },
+      {
+        "tarih": "2026-01-09",
+        "puan": 5.0,
+        "metin": "@Kardeşim için aldım, 80 kiloya 32 beden tam oturdu, gayet de uygun fiyata aldım, teşekkür ederim. Teşekkürler. Fiyatı da gayet…"
+      },
+      {
+        "tarih": "2025-11-12",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi bir ürün, tam bedeninizi alın, kumaşı falan da çok kaliteli, tıpkı fotoğraftaki gibi. Gerçekten çok iyi.…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D8602AXNM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "Mavi",
+      "renk_hex": "#30D5C8",
+      "urun_adi": "Slim Fıt Normal Bel Dar Paça Jean Pantolon",
+      "kisa_aciklama": "Slim Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Klasik dar paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-normal-bel-dar-paca-jean-pantolon-3376679",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D8602AX_26SP_NM28_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8602AX_26SP_NM28_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8602AX_26SP_NM28_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8602AX_26SP_NM28_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8602AX_26SP_NM28_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8602AX_26SP_NM28_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8602AX_26SP_NM28_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8602AX_26SP_NM28_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "28",
+          "30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "90's Slım Fıt",
+        "paca_detayi": "Dar Paça",
+        "yikama_detayi": "Yıkamalı",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Slim Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Klasik dar paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9378,
+          "Product Option Code": "D8602AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "28",
+          "Fit": "90’S SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D8602AX_26SP_NM28_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-normal-bel-dar-paca-jean-pantolon-3376679",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-normal-bel-dar-paca-jean-pantolon-3376679"
+        },
+        {
+          "excel_satiri": 9379,
+          "Product Option Code": "D8602AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "30",
+          "Fit": "90’S SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D8602AX_26SP_NM28_01_04.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-normal-bel-dar-paca-jean-pantolon-3376679",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-normal-bel-dar-paca-jean-pantolon-3376679"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D8602AX_26SP_NM28_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:31:27+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

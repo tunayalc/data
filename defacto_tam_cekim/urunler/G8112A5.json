@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G8112A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8112A5BK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M",
+          "2/3 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21868,
+          "Product Option Code": "G8112A5.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "12-18 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8112A5_26SP_BK81_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/cizgili-tisort-kiz-bebek-3442106",
+          "Model Page URL": "https://www.defacto.com.eg/cizgili-tisort-kiz-bebek-3442106"
+        },
+        {
+          "excel_satiri": 21869,
+          "Product Option Code": "G8112A5.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "2/3 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8112A5_26SP_BK81_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/cizgili-tisort-kiz-bebek-3442106",
+          "Model Page URL": "https://www.defacto.com.eg/cizgili-tisort-kiz-bebek-3442106"
+        },
+        {
+          "excel_satiri": 21870,
+          "Product Option Code": "G8112A5.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8112A5_26SP_BK81_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/cizgili-tisort-kiz-bebek-3442106",
+          "Model Page URL": "https://www.defacto.com.eg/cizgili-tisort-kiz-bebek-3442106"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8112A5_26SP_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:10:40+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/cizgili-tisort-kiz-bebek-3442106",
+      "http": 200,
+      "durum": "Sayfada bu modelin ürün kodu bulunamadı"
+    }
+  ]
+}

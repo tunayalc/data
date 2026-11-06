@@ -1,0 +1,57 @@
+{
+  "model_kodu": "B1359AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B1359AXGR83",
+      "renk_kodu": "GR83",
+      "renk_adi": "GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1237,
+          "Product Option Code": "B1359AX.GR83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "36",
+          "Fit": "CHINO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23AU/B1359AX_23AU_GR83_01_01.jpg",
+          "FabricDetail": "DOUBLEFACE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23AU/B1359AX_23AU_GR83_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

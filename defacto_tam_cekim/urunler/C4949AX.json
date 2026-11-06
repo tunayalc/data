@@ -1,0 +1,540 @@
+{
+  "model_kodu": "C4949AX",
+  "urun_grubu": "Kadın Yağmurluk",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 24,
+    "yorum_sayisi": 24,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 36.4,
+      "tam_oldu": 63.6,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-30",
+        "puan": 4.0,
+        "metin": "@Rengi çok güzel. İç astarı da olsaydı daha rahat olurdu. Kalıbı da standart fakat bu fiyat bu yağmurluk için fazla…"
+      },
+      {
+        "tarih": "2026-01-03",
+        "puan": 5.0,
+        "metin": "@Harika! Gerçekten de çok güzel bir ürün."
+      },
+      {
+        "tarih": "2026-02-19",
+        "puan": 5.0,
+        "metin": "@Rengi de, kalıbı da harika. Teşekkürler."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4949AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Rüzgar Geçirmez Regular Fit Reglan Kol Kapüşonlu Yağmurluk",
+      "kisa_aciklama": "Rüzgar geçirmez hafif kumaşı ve hareket kabiliyetini artıran reglan kol formuyla tasarlanan yağmurluk, konforlu bir koruma sunar. Regular fit kalıbı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_BK81_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 81/60/89",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "yaka": "Kapüşonlu",
+        "dis_giyim_urun_grubu": "Yağmurluk",
+        "kumas_kalinligi": "İnce"
+      },
+      "urun_hakkinda": [
+        "Rüzgar geçirmez hafif kumaşı ve hareket kabiliyetini artıran reglan kol formuyla tasarlanan yağmurluk, konforlu bir koruma sunar. Regular fit kalıbı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4425,
+          "Product Option Code": "C4949AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4426,
+          "Product Option Code": "C4949AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4427,
+          "Product Option Code": "C4949AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4428,
+          "Product Option Code": "C4949AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4429,
+          "Product Option Code": "C4949AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4430,
+          "Product Option Code": "C4949AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4949AXPR524",
+      "renk_kodu": "PR524",
+      "renk_adi": "Mürdüm",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Rüzgar Geçirmez Regular Fit Reglan Kollu Kapüşonlu Yağmurluk",
+      "kisa_aciklama": "Su itici özelliği ve regular fit kesimiyle bu kapüşonlu yağmurluk, yağmurlu havalarda koruma ve konfor sağlar. Hafif yapısı sayesinde pratik…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kollu-kapusonlu-yagmurluk-3430300",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_PR524_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_PR524_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_PR524_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_PR524_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_PR524_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,81cm - 76/61/91",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "dis_giyim_urun_grubu": "Yağmurluk",
+        "kalip": "Regular Fıt",
+        "yaka": "Kapüşonlu",
+        "kumas_kalinligi": "İnce"
+      },
+      "urun_hakkinda": [
+        "Su itici özelliği ve regular fit kesimiyle bu kapüşonlu yağmurluk, yağmurlu havalarda koruma ve konfor sağlar. Hafif yapısı sayesinde pratik…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4431,
+          "Product Option Code": "C4949AX.PR524",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "PLUM",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_PR524_01_01.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kollu-kapusonlu-yagmurluk-3430300",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4432,
+          "Product Option Code": "C4949AX.PR524",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "PLUM",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_PR524_01_01.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kollu-kapusonlu-yagmurluk-3430300",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4433,
+          "Product Option Code": "C4949AX.PR524",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "PLUM",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_PR524_01_01.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kollu-kapusonlu-yagmurluk-3430300",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4434,
+          "Product Option Code": "C4949AX.PR524",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "PLUM",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_PR524_01_01.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kollu-kapusonlu-yagmurluk-3430300",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_PR524_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4949AXWT80",
+      "renk_kodu": "WT80",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Rüzgar Geçirmez Regular Fit Reglan Kol Kapüşonlu Yağmurluk",
+      "kisa_aciklama": "Rüzgar geçirmez hafif kumaşı ve hareket kabiliyetini artıran reglan kol formuyla tasarlanan yağmurluk, konforlu bir koruma sunar. Regular fit kalıbı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466387",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_WT80_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_WT80_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_WT80_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_WT80_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_WT80_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_WT80_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_WT80_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_WT80_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4949AX_26AU_WT80_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 99/77/96",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kumas_kalinligi": "İnce",
+        "yaka": "Kapüşonlu",
+        "dis_giyim_urun_grubu": "Yağmurluk",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Rüzgar geçirmez hafif kumaşı ve hareket kabiliyetini artıran reglan kol formuyla tasarlanan yağmurluk, konforlu bir koruma sunar. Regular fit kalıbı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4435,
+          "Product Option Code": "C4949AX.WT80",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_WT80_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466387",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4436,
+          "Product Option Code": "C4949AX.WT80",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_WT80_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466387",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4437,
+          "Product Option Code": "C4949AX.WT80",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_WT80_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466387",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        },
+        {
+          "excel_satiri": 4438,
+          "Product Option Code": "C4949AX.WT80",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Rain Coat",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_WT80_01_02.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466387",
+          "Model Page URL": "https://www.defacto.com.tr/ruzgar-gecirmez-regular-fit-reglan-kol-kapusonlu-yagmurluk-3466386"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C4949AX_26AU_WT80_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:22:51+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

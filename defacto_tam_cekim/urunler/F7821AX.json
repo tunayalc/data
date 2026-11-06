@@ -1,0 +1,113 @@
+{
+  "model_kodu": "F7821AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-10",
+        "puan": 5.0,
+        "metin": "@Ceket çok güzel mağazada görüp beğendik beden olmadığı için buradan sipariş verdik tavsiye ederim çok güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F7821AXIN269",
+      "renk_kodu": "IN269",
+      "renk_adi": "İndigo",
+      "renk_hex": "#3F00FF",
+      "urun_adi": "Regular Fit Polo Yaka Astarlı Fermuarlı Mont",
+      "kisa_aciklama": "Regular fit kalıbı ile gün boyu rahatlık sunan bu mont, polo yakasıyla şık bir detay kazanıyor. Fermuarlı ve astarlı tasarımı,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-astarli-fermuarli-mont-3375892",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7821AX_26SP_IN269_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7821AX_26SP_IN269_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7821AX_26SP_IN269_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7821AX_26SP_IN269_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7821AX_26SP_IN269_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7821AX_26SP_IN269_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliamid 85%,Elastan 15%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "dis_giyim_urun_grubu": "Mont",
+        "kumas_kalinligi": "İnce",
+        "yaka": "Polo Yaka",
+        "kapama_detayi": "Fermuarlı",
+        "astar_bilgisi": "Astarlı",
+        "urun_tipi": "Mont",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kalıbı ile gün boyu rahatlık sunan bu mont, polo yakasıyla şık bir detay kazanıyor. Fermuarlı ve astarlı tasarımı,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2499.99,
+        "sepette_fiyat": 1249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15903,
+          "Product Option Code": "F7821AX.IN269",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7821AX_26SP_IN269_01_03.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-astarli-fermuarli-mont-3375892",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-astarli-fermuarli-mont-3375892"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F7821AX_26SP_IN269_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:54:20+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "model_kodu": "I1079AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1079AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38629,
+          "Product Option Code": "I1079AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Wallets",
+          "LifeStyle": "Casual",
+          "Class Name": "Card Holder",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1079AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 4,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-suni-puantyeli-siyah-deri-kartlik-3570313",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-suni-puantyeli-siyah-deri-kartlik-3570313"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1079AX_NS_BK27_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I1079AXBN45",
+      "renk_kodu": "BN45",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38630,
+          "Product Option Code": "I1079AX.BN45",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Wallets",
+          "LifeStyle": "Casual",
+          "Class Name": "Card Holder",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1079AX_NS_BN45_01_03.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-suni-puantyeli-siyah-deri-kartlik-3570313"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1079AX_NS_BN45_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:42:15+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kadin-suni-puantyeli-siyah-deri-kartlik-3570313",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

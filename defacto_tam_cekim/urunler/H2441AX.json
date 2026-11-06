@@ -1,0 +1,104 @@
+{
+  "model_kodu": "H2441AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2441AXPN690",
+      "renk_kodu": "PN690",
+      "renk_adi": "PINK ORTA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "Orta Boy"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 26158,
+          "Product Option Code": "H2441AX.PN690",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Unisex",
+          "Buyer Group Name": "Baggage",
+          "LifeStyle": "Casual",
+          "Class Name": "Baggage",
+          "Product Color Name": "PINK ORTA",
+          "SizeDefinition": "Orta Boy",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H2441AX_NS_PN690_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/unisex-valiz-3502164"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H2441AX_NS_PN690_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H2441AXPN691",
+      "renk_kodu": "PN691",
+      "renk_adi": "PINK KUCUK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "Küçük Boy"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 26159,
+          "Product Option Code": "H2441AX.PN691",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Unisex",
+          "Buyer Group Name": "Baggage",
+          "LifeStyle": "Casual",
+          "Class Name": "Baggage",
+          "Product Color Name": "PINK KUCUK",
+          "SizeDefinition": "Küçük Boy",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H2441AX_NS_PN691_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 2299.99,
+          "Actual Price Value": 2299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/unisex-valiz-3502164",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/unisex-valiz-3502164"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H2441AX_NS_PN691_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:20:05+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/unisex-valiz-3502164",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

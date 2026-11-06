@@ -1,0 +1,101 @@
+{
+  "model_kodu": "B9215AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B9215AXWT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "WHITE (000)",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2758,
+          "Product Option Code": "B9215AX.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "34",
+          "Fit": "WANNA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9215AX_24SM_WT1_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2759,
+          "Product Option Code": "B9215AX.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "36",
+          "Fit": "WANNA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9215AX_24SM_WT1_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2760,
+          "Product Option Code": "B9215AX.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "38",
+          "Fit": "WANNA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9215AX_24SM_WT1_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B9215AX_24SM_WT1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

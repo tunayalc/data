@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G8559A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8559A8GN425",
+      "renk_kodu": "GN425",
+      "renk_adi": "LT.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3/4 Y",
+          "4/5 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22405,
+          "Product Option Code": "G8559A8.GN425",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8559A8_26SP_GN425_01_01.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/ayi-baskili-penye-3lu-boxer-erkek-cocuk-3491361",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/ayi-baskili-penye-3lu-boxer-erkek-cocuk-3491361"
+        },
+        {
+          "excel_satiri": 22406,
+          "Product Option Code": "G8559A8.GN425",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8559A8_26SP_GN425_01_01.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 2,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/ayi-baskili-penye-3lu-boxer-erkek-cocuk-3491361",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/ayi-baskili-penye-3lu-boxer-erkek-cocuk-3491361"
+        },
+        {
+          "excel_satiri": 22407,
+          "Product Option Code": "G8559A8.GN425",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8559A8_26SP_GN425_01_01.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/ayi-baskili-penye-3lu-boxer-erkek-cocuk-3491361",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/ayi-baskili-penye-3lu-boxer-erkek-cocuk-3491361"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8559A8_26SP_GN425_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:12:03+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/ayi-baskili-penye-3lu-boxer-erkek-cocuk-3491361",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

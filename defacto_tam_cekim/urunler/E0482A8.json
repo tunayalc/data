@@ -1,0 +1,122 @@
+{
+  "model_kodu": "E0482A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 29,
+    "yorum_sayisi": 29,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-10",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Harika, malzeme mükemmel, marka tamamen harika."
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0482A8ER99",
+      "renk_kodu": "ER99",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "PowerPuff Girls Cropped Fit Bisiklet Yaka Fitilli Kaşkorse Kısa Kollu Tişört Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk PowerPuff Girls Crop Bisiklet Yaka Fitilli Kaşkorse Kısa Kollu Tişört, enerjik ve sevimli PowerPuff Girls baskısı ile çocukların…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/powerpuff-girls-cropped-fit-bisiklet-yaka-fitilli-kaskorse-kisa-kollu-tisort-kiz-cocuk-3213542",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0482A8_25SP_ER99_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0482A8_25SP_ER99_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0482A8_25SP_ER99_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0482A8_25SP_ER99_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0482A8_25SP_ER99_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0482A8_25SP_ER99_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0482A8_25SP_ER99_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,36cm",
+        "ana_kumas_icerigi": "Pamuk 93%,Elastan 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Fitilli Kaşkorse",
+        "lisans_bilgisi": "PowerPuff Gırls",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Kız Çocuk",
+        "kalip": "Cropped Fıt"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk PowerPuff Girls Crop Bisiklet Yaka Fitilli Kaşkorse Kısa Kollu Tişört, enerjik ve sevimli PowerPuff Girls baskısı ile çocukların…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10192,
+          "Product Option Code": "E0482A8.ER99",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E0482A8_25SP_ER99_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-ma/powerpuff-girls-cropped-fit-bisiklet-yaka-fitilli-kaskorse-kisa-kollu-tisort-kiz-cocuk-3213542",
+          "Model Page URL": "https://www.defacto.com/en-ma/powerpuff-girls-cropped-fit-bisiklet-yaka-fitilli-kaskorse-kisa-kollu-tisort-kiz-cocuk-3213542"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E0482A8_25SP_ER99_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:41:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

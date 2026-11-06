@@ -1,0 +1,831 @@
+{
+  "model_kodu": "C3215AX",
+  "urun_grubu": "Kadın Blazer Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 177,
+    "yorum_sayisi": 177,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 21.2,
+      "tam_oldu": 72.7,
+      "buyuk_geldi": 6.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-02-25",
+        "puan": 1.0,
+        "metin": "@ilk önce 38 beden almıştım onu iade ettim büyük olduğu için 36 beden sipariş verdim oda kusurlu geldi. yani hiç…"
+      },
+      {
+        "tarih": "2024-05-18",
+        "puan": 5.0,
+        "metin": "@çeket tam oldu 59 kilo 36 beden tavsiye ediyorum çok güzel"
+      },
+      {
+        "tarih": "2024-10-15",
+        "puan": 5.0,
+        "metin": "@40 BEDEN BİRAZ SIKTIĞI İÇİN İADE ETTİM RENGİDE TATLI PEMBE DEĞİLDE TOZLU PEMBE GİBİ SEVEMEDİM 75 KİLOYA 40 SIKTI"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C3215AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Oversıze Basic Siyah Blazer Ceket",
+      "kisa_aciklama": "Siyah oversize blazer ceket. Çentikli yaka. Uzun kollu. Yan cepler. Kol manşetinde dekoratif düğme detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-basic-siyah-blazer-ceket-3502940",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_BK81_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "34",
+          "42",
+          "44",
+          "46"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,75cm - 82/62/87",
+        "ana_kumas_icerigi": "Elastan 14%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "yaka": "Ceket Yaka",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Siyah oversize blazer ceket. Çentikli yaka. Uzun kollu. Yan cepler. Kol manşetinde dekoratif düğme detaylı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3783,
+          "Product Option Code": "C3215AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 0,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-siyah-blazer-ceket-3502940",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3784,
+          "Product Option Code": "C3215AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "42",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 3,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-siyah-blazer-ceket-3502940",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3785,
+          "Product Option Code": "C3215AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "44",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 2,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-siyah-blazer-ceket-3502940",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3786,
+          "Product Option Code": "C3215AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "46",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-siyah-blazer-ceket-3502940",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C3215AXKH462",
+      "renk_kodu": "KH462",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Oversıze Basic Blazer Haki Ceket",
+      "kisa_aciklama": "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-basic-blazer-haki-ceket-3502939",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_KH462_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_KH462_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_KH462_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_KH462_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_KH462_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_KH462_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_KH462_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_KH462_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_KH462_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,77cm - 78/62/89",
+        "ana_kumas_icerigi": "Elastan 14%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Ceket Yaka",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 1259.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3787,
+          "Product Option Code": "C3215AX.KH462",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "34",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_KH462_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 0,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-haki-ceket-3502939",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3788,
+          "Product Option Code": "C3215AX.KH462",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "36",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_KH462_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-haki-ceket-3502939",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3789,
+          "Product Option Code": "C3215AX.KH462",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "36",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C3215AX_26SM_KH462_01_01.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-haki-ceket-3502939",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3790,
+          "Product Option Code": "C3215AX.KH462",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "38",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_KH462_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-haki-ceket-3502939",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3791,
+          "Product Option Code": "C3215AX.KH462",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "40",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_KH462_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-haki-ceket-3502939",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3792,
+          "Product Option Code": "C3215AX.KH462",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "42",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_KH462_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-haki-ceket-3502939",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3793,
+          "Product Option Code": "C3215AX.KH462",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "44",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_KH462_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 2,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-haki-ceket-3502939",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_KH462_01_02.jpg",
+        "https://image.defacto.com.tr/product/26SM/C3215AX_26SM_KH462_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C3215AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Oversıze Basic Blazer Beyaz Ceket",
+      "kisa_aciklama": "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-basic-blazer-beyaz-ceket-3502937",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_WT34_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_WT34_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_WT34_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_WT34_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_WT34_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_WT34_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_WT34_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Elastan 14%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Kadın",
+        "yaka": "Ceket Yaka"
+      },
+      "urun_hakkinda": [
+        "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 1259.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3794,
+          "Product Option Code": "C3215AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "36",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_WT34_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-beyaz-ceket-3502937",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3795,
+          "Product Option Code": "C3215AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "38",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_WT34_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 2,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-beyaz-ceket-3502937",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3796,
+          "Product Option Code": "C3215AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "40",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_WT34_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 2,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-beyaz-ceket-3502937",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3797,
+          "Product Option Code": "C3215AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "42",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_WT34_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 2,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-beyaz-ceket-3502937",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        },
+        {
+          "excel_satiri": 3798,
+          "Product Option Code": "C3215AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "44",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_WT34_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-beyaz-ceket-3502937",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C3215AX_26AU_WT34_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C3215AXYL487",
+      "renk_kodu": "YL487",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "Oversıze Basic Blazer Açık Sarı Ceket",
+      "kisa_aciklama": "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-basic-blazer-acik-sari-ceket-3502938",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_YL487_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_YL487_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_YL487_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_YL487_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_YL487_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_YL487_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Elastan 14%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "yaka": "Ceket Yaka",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 1259.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C3215AXWT16",
+      "renk_kodu": "WT16",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Oversıze Basıc Blazer Ceket",
+      "kisa_aciklama": "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-basic-blazer-ceket-3420039",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26SM_WT16_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26SM_WT16_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26SM_WT16_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26SM_WT16_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26SM_WT16_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Elastan 14%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Oversıze",
+        "cinsiyet": "Kadın",
+        "yaka": "Ceket Yaka"
+      },
+      "urun_hakkinda": [
+        "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 1079.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C3215AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Oversıze Basic Blazer Ceket",
+      "kisa_aciklama": "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-basic-blazer-ceket-3525229",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_ER105_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_ER105_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_ER105_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_ER105_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_ER105_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3215AX_26AU_ER105_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,74cm - 79/61/88",
+        "ana_kumas_icerigi": "Elastan 14%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "yaka": "Ceket Yaka",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Loose fit kesimi ve ceket yaka tasarımıyla bu basic blazer ceket, modern ve rahat bir şıklık sunar. Günlük ve ofis…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 1079.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:21:59+03:00",
+    "denenen_sayfa": 6,
+    "dogrulanan_renk": 6
+  }
+}

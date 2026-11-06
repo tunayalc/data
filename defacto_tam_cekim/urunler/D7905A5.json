@@ -1,0 +1,131 @@
+{
+  "model_kodu": "D7905A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7905A5BE177",
+      "renk_kodu": "BE177",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "2/3 Y",
+          "9-12 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9038,
+          "Product Option Code": "D7905A5.BE177",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "2/3 Y",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7905A5_26SP_BE177_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/oversize-baskili-sweatshirt-erkek-bebek-3441942",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-bebek-bisiklet-yaka-baskili-sweatshirt-3243035"
+        },
+        {
+          "excel_satiri": 9039,
+          "Product Option Code": "D7905A5.BE177",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "9-12 M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7905A5_26SP_BE177_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/oversize-baskili-sweatshirt-erkek-bebek-3441942",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-bebek-bisiklet-yaka-baskili-sweatshirt-3243035"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D7905A5_26SP_BE177_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D7905A5BE534",
+      "renk_kodu": "BE534",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "6-9 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9040,
+          "Product Option Code": "D7905A5.BE534",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "6-9 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7905A5_25SP_BE534_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-bebek-bisiklet-yaka-baskili-sweatshirt-3243035",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-bebek-bisiklet-yaka-baskili-sweatshirt-3243035"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D7905A5_25SP_BE534_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:38:41+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/oversize-baskili-sweatshirt-erkek-bebek-3441942",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/erkek-bebek-bisiklet-yaka-baskili-sweatshirt-3243035",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "model_kodu": "D1045AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 68,
+    "yorum_sayisi": 68,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 55.6,
+      "tam_oldu": 41.7,
+      "buyuk_geldi": 2.8
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-05-26",
+        "puan": 5.0,
+        "metin": "@Güzel ama oğluma büyük geldi."
+      },
+      {
+        "tarih": "2025-05-26",
+        "puan": 5.0,
+        "metin": "@Çox keyfiyyətlidir."
+      },
+      {
+        "tarih": "2025-04-29",
+        "puan": 5.0,
+        "metin": "@Əla, tam istədiyim kimi gəldi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1045AXKH416",
+      "renk_kodu": "KH416",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Regular Fit Pamuklu Pantolon",
+      "kisa_aciklama": "Regular Fıt Pamuklu Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-pamuklu-pantolon-3212363",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D1045AX_25SP_KH416_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1045AX_25SP_KH416_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1045AX_25SP_KH416_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1045AX_25SP_KH416_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1045AX_25SP_KH416_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1045AX_25SP_KH416_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Pamuklu Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "D1045AXBG712",
+      "renk_kodu": "BG712",
+      "renk_adi": "STONE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28",
+          "30"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6298,
+          "Product Option Code": "D1045AX.BG712",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D1045AX_25SP_BG712_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-pamuklu-pantolon-3212363"
+        },
+        {
+          "excel_satiri": 6299,
+          "Product Option Code": "D1045AX.BG712",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D1045AX_25SP_BG712_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-pamuklu-pantolon-3212363"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D1045AX_25SP_BG712_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:26:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

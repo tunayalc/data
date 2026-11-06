@@ -1,0 +1,567 @@
+{
+  "model_kodu": "C7578AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 56,
+    "yorum_sayisi": 56,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 22.2,
+      "tam_oldu": 62.2,
+      "buyuk_geldi": 15.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-22",
+        "puan": 3.0,
+        "metin": "@Ürünün kumaşı çok güzel, fakat o kadar büyük bir beden için değil, alacaksanız 2 beden küçük alın."
+      },
+      {
+        "tarih": "2025-08-05",
+        "puan": 5.0,
+        "metin": "@Ürün şahane. Kumaşı çok beğendim. Keşke farklı renkleri de üretilse."
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Çok şık ve hafif, üzerinizde neredeyse yok gibi. Bir beden küçük alınmalı."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C7578AXBG695",
+      "renk_kodu": "BG695",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "%100 Pamuk Relax Fit Gömlek",
+      "kisa_aciklama": "%100 pamuk relax fit polo yaka pamuklu yazlık müslin kısa kollu gömlek, hafif ve nefes alabilir müslin kumaşıyla sıcak yaz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3211669",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_BG695_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_BG695_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_BG695_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_BG695_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_BG695_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_BG695_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_BG695_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Relax Fıt",
+        "yaka": "Resort Yaka",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "%100 pamuk relax fit polo yaka pamuklu yazlık müslin kısa kollu gömlek, hafif ve nefes alabilir müslin kumaşıyla sıcak yaz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5243,
+          "Product Option Code": "C7578AX.BG695",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7578AX_25SM_BG695_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3211669",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947"
+        },
+        {
+          "excel_satiri": 5244,
+          "Product Option Code": "C7578AX.BG695",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7578AX_25SM_BG695_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3211669",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947"
+        },
+        {
+          "excel_satiri": 5245,
+          "Product Option Code": "C7578AX.BG695",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7578AX_25SM_BG695_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3211669",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C7578AX_25SM_BG695_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7578AXBG734",
+      "renk_kodu": "BG734",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "%100 Pamuk Relax Fit Gömlek",
+      "kisa_aciklama": "%100 Pamuk Relax Fit kısa kollu gömlek",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376654",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BG734_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BG734_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BG734_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BG734_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BG734_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Relax Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "yaka": "Resort Yaka",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk Relax Fit kısa kollu gömlek"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5246,
+          "Product Option Code": "C7578AX.BG734",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7578AX_26SM_BG734_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376654",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947"
+        },
+        {
+          "excel_satiri": 5247,
+          "Product Option Code": "C7578AX.BG734",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7578AX_26SM_BG734_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376654",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/C7578AX_26SM_BG734_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7578AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk Relax Fit Gömlek",
+      "kisa_aciklama": "%100 Pamuk Relax Fit kısa kollu gömlek",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376651",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BK81_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Resort Yaka",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt",
+        "kumas": "Pamuklu",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk Relax Fit kısa kollu gömlek"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5248,
+          "Product Option Code": "C7578AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7578AX_25SM_BK81_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376651",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947"
+        },
+        {
+          "excel_satiri": 5249,
+          "Product Option Code": "C7578AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7578AX_25SM_BK81_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376651",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947"
+        },
+        {
+          "excel_satiri": 5250,
+          "Product Option Code": "C7578AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7578AX_25SM_BK81_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376651",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947"
+        },
+        {
+          "excel_satiri": 5251,
+          "Product Option Code": "C7578AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7578AX_26SM_BK81_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376651",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C7578AX_25SM_BK81_01_02.jpg",
+        "https://image.defacto.com.tr/product/26SM/C7578AX_26SM_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7578AXKH436",
+      "renk_kodu": "KH436",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "%100 Pamuk Relax Fit Gömlek",
+      "kisa_aciklama": "%100 pamuk relax fit polo yaka pamuklu yazlık müslin kısa kollu gömlek, hafif ve nefes alabilir müslin kumaşıyla sıcak yaz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3206947",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_KH436_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_KH436_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_KH436_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_KH436_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_KH436_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_25SM_KH436_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Relax Fıt",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Resort Yaka"
+      },
+      "urun_hakkinda": [
+        "%100 pamuk relax fit polo yaka pamuklu yazlık müslin kısa kollu gömlek, hafif ve nefes alabilir müslin kumaşıyla sıcak yaz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C7578AXBN192",
+      "renk_kodu": "BN192",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "%100 Pamuk Relax Fit Gömlek",
+      "kisa_aciklama": "%100 Pamuk Relax Fit kısa kollu gömlek",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376652",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BN192_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BN192_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_BN192_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "yaka": "Resort Yaka",
+        "kumas": "Pamuklu",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk Relax Fit kısa kollu gömlek"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C7578AXGR130",
+      "renk_kodu": "GR130",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "%100 Pamuk Relax Fit Gömlek",
+      "kisa_aciklama": "%100 Pamuk Relax Fit kısa kollu gömlek",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-gomlek-3376653",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_GR130_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_GR130_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_GR130_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7578AX_26SM_GR130_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Resort Yaka",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk Relax Fit kısa kollu gömlek"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:24:22+03:00",
+    "denenen_sayfa": 6,
+    "dogrulanan_renk": 6
+  }
+}

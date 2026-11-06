@@ -1,0 +1,331 @@
+{
+  "model_kodu": "H5279AX",
+  "urun_grubu": "Kadın Tunik",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 14,
+    "yorum_sayisi": 14,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 53.8,
+      "tam_oldu": 38.5,
+      "buyuk_geldi": 7.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-11",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-11-03",
+        "puan": 5.0,
+        "metin": "@tesettüre uygun"
+      },
+      {
+        "tarih": "2026-10-02",
+        "puan": 5.0,
+        "metin": "@kırmizi renginide almıştım kesinlikle bayıldığım bir ürün oldu teşekkürler defacto🤩"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5279AXBN317",
+      "renk_kodu": "BN317",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Relax Fıt Modal Uzun Kollu Kahverengi Tunik",
+      "kisa_aciklama": "Modal kumaştan üretilmiş relaxed fit uzun kollu tunik.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-modal-uzun-kollu-kahverengi-tunik-3470567",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_BN317_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_BN317_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_BN317_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_BN317_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_BN317_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Modal 87%,Poliester 13%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas_kalinligi": "İnce",
+        "urun_yuksekligi": "70",
+        "cinsiyet": "Kadın",
+        "kumas": "Modal",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Modal kumaştan üretilmiş relaxed fit uzun kollu tunik."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1099.99,
+        "sepette_fiyat": 549.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30141,
+          "Product Option Code": "H5279AX.BN317",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5279AX_26SM_BN317_01_03.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 2,
+          "Initial Price Value": 1099.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-modal-uzun-kollu-kahverengi-tunik-3470567",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-modal-uzun-kollu-acik-haki-tunik-3470565"
+        },
+        {
+          "excel_satiri": 30142,
+          "Product Option Code": "H5279AX.BN317",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5279AX_26SM_BN317_01_03.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 1099.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-modal-uzun-kollu-kahverengi-tunik-3470567",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-modal-uzun-kollu-acik-haki-tunik-3470565"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H5279AX_26SM_BN317_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5279AXKH474",
+      "renk_kodu": "KH474",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "Relax Fıt Modal Uzun Kollu Açık Haki Tunik",
+      "kisa_aciklama": "Modal kumaştan üretilmiş relaxed fit uzun kollu tunik.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-modal-uzun-kollu-acik-haki-tunik-3470565",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_KH474_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_KH474_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_KH474_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Modal 87%,Poliester 13%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Modal",
+        "kalip": "Relax Fıt",
+        "urun_yuksekligi": "70",
+        "kumas_kalinligi": "İnce",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Modal kumaştan üretilmiş relaxed fit uzun kollu tunik."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1099.99,
+        "sepette_fiyat": 549.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30143,
+          "Product Option Code": "H5279AX.KH474",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5279AX_26SM_KH474_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 4,
+          "Initial Price Value": 1099.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-modal-uzun-kollu-acik-haki-tunik-3470565",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-modal-uzun-kollu-acik-haki-tunik-3470565"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H5279AX_26SM_KH474_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5279AXRD352",
+      "renk_kodu": "RD352",
+      "renk_adi": "Koyu Mercan",
+      "renk_hex": "#CC3620",
+      "urun_adi": "Relax Fıt Modal Uzun Kollu Koyu Mercan Tunik",
+      "kisa_aciklama": "Modal kumaştan üretilmiş relaxed fit uzun kollu tunik.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-modal-uzun-kollu-koyu-mercan-tunik-3470566",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_RD352_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_RD352_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_RD352_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_RD352_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_RD352_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_RD352_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_RD352_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5279AX_26SM_RD352_08_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Modal 87%,Poliester 13%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Modal",
+        "kalip": "Relax Fıt",
+        "kumas_kalinligi": "İnce",
+        "cinsiyet": "Kadın",
+        "urun_yuksekligi": "70"
+      },
+      "urun_hakkinda": [
+        "Modal kumaştan üretilmiş relaxed fit uzun kollu tunik."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1099.99,
+        "sepette_fiyat": 549.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:28:05+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

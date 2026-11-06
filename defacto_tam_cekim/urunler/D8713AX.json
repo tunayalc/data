@@ -1,0 +1,249 @@
+{
+  "model_kodu": "D8713AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 13,
+    "yorum_sayisi": 13,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 71.4,
+      "tam_oldu": 28.6,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-01-01",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-08-05",
+        "puan": 5.0,
+        "metin": "@Ürün çok iyi olur"
+      },
+      {
+        "tarih": "2025-12-04",
+        "puan": 5.0,
+        "metin": "@fiatina göre çok hoş..beğenerek giyiyorum.."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D8713AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Regular Fit Polo Yaka Basic Düz Gofre Uzun Kollu Beyaz Gömlek",
+      "kisa_aciklama": "Regular fit polo yaka uzun kollu gömlek, şıklığı ve rahatlığı bir arada sunar. Klasik tasarımı ve rahat kesimiyle hem ofis…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-basic-duz-gofre-uzun-kollu-beyaz-gomlek-3209263",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D8713AX_25SP_WT32_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8713AX_25SP_WT32_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8713AX_25SP_WT32_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8713AX_25SP_WT32_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8713AX_25SP_WT32_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8713AX_25SP_WT32_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8713AX_25SP_WT32_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8713AX_25SP_WT32_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 91/78/95",
+        "ana_kumas_icerigi": "Elastan 2%,Poliester 98%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Polo Yaka",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Uzun Kollu Gömlek"
+      },
+      "urun_hakkinda": [
+        "Regular fit polo yaka uzun kollu gömlek, şıklığı ve rahatlığı bir arada sunar. Klasik tasarımı ve rahat kesimiyle hem ofis…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9407,
+          "Product Option Code": "D8713AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D8713AX_25SP_WT32_01_02.jpg",
+          "FabricDetail": "BASIC",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-basic-duz-gofre-uzun-kollu-beyaz-gomlek-3209263",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-basic-duz-gofre-uzun-kollu-beyaz-gomlek-3209263"
+        },
+        {
+          "excel_satiri": 9408,
+          "Product Option Code": "D8713AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D8713AX_25SP_WT32_01_02.jpg",
+          "FabricDetail": "BASIC",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-basic-duz-gofre-uzun-kollu-beyaz-gomlek-3209263",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-basic-duz-gofre-uzun-kollu-beyaz-gomlek-3209263"
+        },
+        {
+          "excel_satiri": 9409,
+          "Product Option Code": "D8713AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D8713AX_25SP_WT32_01_02.jpg",
+          "FabricDetail": "BASIC",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-basic-duz-gofre-uzun-kollu-beyaz-gomlek-3209263",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-basic-duz-gofre-uzun-kollu-beyaz-gomlek-3209263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D8713AX_25SP_WT32_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D8713AXAR15",
+      "renk_kodu": "AR15",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9405,
+          "Product Option Code": "D8713AX.AR15",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D8713AX_25SP_AR15_01_01.jpg",
+          "FabricDetail": "BASIC",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-basic-duz-gofre-uzun-kollu-beyaz-gomlek-3209263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D8713AX_25SP_AR15_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D8713AXKH492",
+      "renk_kodu": "KH492",
+      "renk_adi": "LT.KHAKI",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9406,
+          "Product Option Code": "D8713AX.KH492",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D8713AX_25SP_KH492_01_02.jpg",
+          "FabricDetail": "BASIC",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-basic-duz-gofre-uzun-kollu-beyaz-gomlek-3209263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D8713AX_25SP_KH492_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:39:27+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "model_kodu": "A8242AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A8242AXBE303",
+      "renk_kodu": "BE303",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 814,
+          "Product Option Code": "A8242AX.BE303",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/A8242AX_24SP_BE303_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/coool-slim-fit-bisiklet-yaka-triko-atlet-3065405",
+          "Model Page URL": "https://www.defacto.com/coool-slim-fit-bisiklet-yaka-triko-atlet-3065404"
+        },
+        {
+          "excel_satiri": 815,
+          "Product Option Code": "A8242AX.BE303",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/A8242AX_24SP_BE303_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/coool-slim-fit-bisiklet-yaka-triko-atlet-3065405",
+          "Model Page URL": "https://www.defacto.com/coool-slim-fit-bisiklet-yaka-triko-atlet-3065404"
+        },
+        {
+          "excel_satiri": 816,
+          "Product Option Code": "A8242AX.BE303",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/A8242AX_24SP_BE303_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/coool-slim-fit-bisiklet-yaka-triko-atlet-3065405",
+          "Model Page URL": "https://www.defacto.com/coool-slim-fit-bisiklet-yaka-triko-atlet-3065404"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/A8242AX_24SP_BE303_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:21:18+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-slim-fit-bisiklet-yaka-triko-atlet-3065405",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/coool-slim-fit-bisiklet-yaka-triko-atlet-3065404",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

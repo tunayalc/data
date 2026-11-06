@@ -1,0 +1,125 @@
+{
+  "model_kodu": "E0161A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 31,
+    "yorum_sayisi": 31,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 57.1,
+      "tam_oldu": 42.9,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-08",
+        "puan": 5.0,
+        "metin": "@Çok beğendim, harika bir takım."
+      },
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Harika! Oğluma aldım, çok hoşuna gitti."
+      },
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Çok güzel, teşekkür ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0161A8GR499",
+      "renk_kodu": "GR499",
+      "renk_adi": "Koyu Gri",
+      "renk_hex": "#6E6E6E",
+      "urun_adi": "%100 Pamuk Beli Lastikli Basic Düz Şort Erkek Çocuk",
+      "kisa_aciklama": "%100 Pamuk Erkek Çocuk Beli Lastikli Basic Düz Şort, yumuşak kumaşı ve rahat kalıbıyla gün boyu hareket özgürlüğü ve konfor…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-beli-lastikli-basic-duz-sort-erkek-cocuk-3210346",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0161A8_25SM_GR499_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "13/14 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "9/10 Yaş (140cm) Beden",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "urun_tipi": "Şort",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Erkek Çocuk",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk Erkek Çocuk Beli Lastikli Basic Düz Şort, yumuşak kumaşı ve rahat kalıbıyla gün boyu hareket özgürlüğü ve konfor…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10034,
+          "Product Option Code": "E0161A8.GR499",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0161A8_25SM_GR499_01_03.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com/en-ma/100-pamuk-beli-lastikli-basic-duz-sort-erkek-cocuk-3210346",
+          "Model Page URL": "https://www.defacto.com/en-ma/100-pamuk-beli-lastikli-basic-duz-sort-erkek-cocuk-3210346"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0161A8_25SM_GR499_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:41:11+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

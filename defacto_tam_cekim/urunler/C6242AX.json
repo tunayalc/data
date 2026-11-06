@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C6242AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C6242AXBG650",
+      "renk_kodu": "BG650",
+      "renk_adi": "LT.BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4902,
+          "Product Option Code": "C6242AX.BG650",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "34",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C6242AX_24SM_BG650_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com/ar-iq/sort-etek-sort-3107620",
+          "Model Page URL": "https://www.defacto.com/ar-iq/sort-etek-sort-3107620"
+        },
+        {
+          "excel_satiri": 4903,
+          "Product Option Code": "C6242AX.BG650",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "36",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C6242AX_24SM_BG650_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com/ar-iq/sort-etek-sort-3107620",
+          "Model Page URL": "https://www.defacto.com/ar-iq/sort-etek-sort-3107620"
+        },
+        {
+          "excel_satiri": 4904,
+          "Product Option Code": "C6242AX.BG650",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "LT.BEIGE",
+          "SizeDefinition": "40",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C6242AX_24SM_BG650_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFF6E5",
+          "Product Page URL": "https://www.defacto.com/ar-iq/sort-etek-sort-3107620",
+          "Model Page URL": "https://www.defacto.com/ar-iq/sort-etek-sort-3107620"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C6242AX_24SM_BG650_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:27:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/sort-etek-sort-3107620",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

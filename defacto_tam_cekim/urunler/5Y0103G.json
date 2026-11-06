@@ -1,0 +1,55 @@
+{
+  "model_kodu": "5Y0103G",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "5Y0103GPN93",
+      "renk_kodu": "PN93",
+      "renk_adi": "D.PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16,
+          "Product Option Code": "5Y0103G.PN93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Other",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Other",
+          "Class Name": "Pullover",
+          "Product Color Name": "D.PINK",
+          "SizeDefinition": "12",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/Model/5Y0103G_Model.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 0,
+          "Actual Price Value": 0,
+          "Product Color HEX": "#EF3A8E",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:21+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H7702AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-25",
+        "puan": 5.0,
+        "metin": "@güzel beğendim"
+      },
+      {
+        "tarih": "2026-10-09",
+        "puan": 5.0,
+        "metin": "@güzel"
+      },
+      {
+        "tarih": "2026-09-15",
+        "puan": 5.0,
+        "metin": "@güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7702AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Çiçek Detaylı Saç Aksesuarı",
+      "kisa_aciklama": "Altın rengi metal tel detaylı saç aksesuarı. İnci ve şeffaf kristal taşlarla süslenmiş, yaprak ve çiçek motifli bir düzeneğe sahiptir.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-cicek-detayli-sac-aksesuari-3460611",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7702AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7702AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7702AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 30%,Akrilik 30%,Demir 40%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Altın rengi metal tel detaylı saç aksesuarı. İnci ve şeffaf kristal taşlarla süslenmiş, yaprak ve çiçek motifli bir düzeneğe sahiptir.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33501,
+          "Product Option Code": "H7702AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H7702AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-cicek-detayli-sac-aksesuari-3460611",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-cicek-detayli-sac-aksesuari-3460611"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H7702AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:34:23+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

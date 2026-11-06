@@ -1,0 +1,148 @@
+{
+  "model_kodu": "F3557AX",
+  "urun_grubu": "Kadın Kaban / Parka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 33.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-01-08",
+        "puan": 5.0,
+        "metin": "@Ürün çok güzel tam kalıp mağazadan deneyip aldım zaten çok hoş"
+      },
+      {
+        "tarih": "2026-01-30",
+        "puan": 5.0,
+        "metin": "@1 beden küçük alın büyük"
+      },
+      {
+        "tarih": "2026-02-22",
+        "puan": 5.0,
+        "metin": "@Harika! Sıcacık tutuyor, gayet hoşuma gitti. Çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3557AXKH402",
+      "renk_kodu": "KH402",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Su İtici Regular Fıt Kapüşonlu Fermuarlı Parka",
+      "kisa_aciklama": "Su itici apreli kumaşı ile yağışlı günlerde üstün konfor sağlayan parka, koruyucu kapüşon ve fermuarlı ön kapamasıyla fonksiyoneldir. Dengeli regular…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-fermuarli-parka-3331856",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3557AX_25WN_KH402_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 82/59/88",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "dis_giyim_urun_grubu": "Parka",
+        "kumas_kalinligi": "Kalın",
+        "urun_tipi": "Parka",
+        "yaka": "Kapüşonlu",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Su itici apreli kumaşı ile yağışlı günlerde üstün konfor sağlayan parka, koruyucu kapüşon ve fermuarlı ön kapamasıyla fonksiyoneldir. Dengeli regular…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2999.99,
+        "sepette_fiyat": 1799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14459,
+          "Product Option Code": "F3557AX.KH402",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Coat/Parka",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F3557AX_25WN_KH402_01_02.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 0,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-fermuarli-parka-3331856",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-fermuarli-parka-3331856"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F3557AX_25WN_KH402_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:45:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

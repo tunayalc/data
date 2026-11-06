@@ -1,0 +1,79 @@
+{
+  "model_kodu": "J8739AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "J8739AZGN155",
+      "renk_kodu": "GN155",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40",
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45425,
+          "Product Option Code": "J8739AZ.GN155",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "40",
+          "Fit": "FLORIDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/J8739AZ_24SM_GN155_01_02.jpg",
+          "FabricDetail": "VISKON",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 45426,
+          "Product Option Code": "J8739AZ.GN155",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "44",
+          "Fit": "FLORIDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/J8739AZ_24SM_GN155_01_02.jpg",
+          "FabricDetail": "VISKON",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/J8739AZ_24SM_GN155_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

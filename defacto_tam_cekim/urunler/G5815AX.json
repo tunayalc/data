@@ -1,0 +1,103 @@
+{
+  "model_kodu": "G5815AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-11",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G5815AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Meyve Desenli Kolye",
+      "kisa_aciklama": "Kadın Meyve Desenli Kolye",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-meyve-desenli-kolye-3437232",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G5815AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5815AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5815AX_NS_KR1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5815AX_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Akrilik 10%,Poliester 50%,Çinko 30%,Epoksi 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "1 cm",
+        "kumas": "Jean",
+        "taki_tipi": "Kolye",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın Meyve Desenli Kolye"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19802,
+          "Product Option Code": "G5815AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G5815AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-meyve-desenli-kolye-3437232",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-meyve-desenli-kolye-3437232"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G5815AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:04:54+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

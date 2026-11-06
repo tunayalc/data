@@ -1,0 +1,122 @@
+{
+  "model_kodu": "E3133AX",
+  "urun_grubu": "Kadın Terlik",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-15",
+        "puan": 5.0,
+        "metin": "@Harika! Kar beyazı, harika bir terlik. Duş terliği olarak almıştım, hem çok güzel hem de rahat. Çok teşekkür ederim. Fiyatına…"
+      },
+      {
+        "tarih": "2026-01-11",
+        "puan": 5.0,
+        "metin": "@Harika! Kalitesi de gayet iyi, sorunsuz ulaştı. Teşekkürler."
+      },
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Güzel rahat bir terlik, kargo da hızlıydı, teşekkürler."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E3133AXWT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Kadın Düz Taban Eva Terlik",
+      "kisa_aciklama": "Yetişkinlere özel, yaz aylarının vazgeçilmezi beyaz renkli Parmak Arası Terlik. Eva kumaştan üretilmiş, paketli olarak sunulantek bantlı stilini yansıtıyor. İlkbahar/Yaz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-duz-taban-eva-terlik-3255123",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E3133AX_25HS_WT1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3133AX_25HS_WT1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3133AX_25HS_WT1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3133AX_25HS_WT1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3133AX_25HS_WT1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3133AX_25HS_WT1_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "37",
+          "38",
+          "39",
+          "40"
+        ],
+        "excel": [
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Polivinil Klorür 100%",
+        "marka": "Defacto",
+        "mensei": "MY",
+        "ayakkabi_tipi": "Terlik",
+        "kumas": "Eva",
+        "ayakkabi_uzunluk": "22 cm",
+        "ayakkabi_taban_tipi": "Düz Taban",
+        "paket_icerigi": "Paketli",
+        "urun_tipi": "Parmak Arası Terlik",
+        "topuk_boyu": "2,5 cm",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Yetişkinlere özel, yaz aylarının vazgeçilmezi beyaz renkli Parmak Arası Terlik. Eva kumaştan üretilmiş, paketli olarak sunulantek bantlı stilini yansıtıyor. İlkbahar/Yaz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11043,
+          "Product Option Code": "E3133AX.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Footwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Slippers",
+          "LifeStyle": "Casual",
+          "Class Name": "Slipper-Flipflop",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "40",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/E3133AX_25HS_WT1_01_01.jpg",
+          "FabricDetail": "Eva",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-duz-taban-eva-terlik-3255123",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-duz-taban-eva-terlik-3255123"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/E3133AX_25HS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:34:58+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "model_kodu": "B6024AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 16,
+    "yorum_sayisi": 16,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 37.5,
+      "tam_oldu": 62.5,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-09-26",
+        "puan": 5.0,
+        "metin": "@renkleri güzel beğendim"
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Severek kullanıyorum, çoraplar yumuşacık."
+      },
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Normal ve kargo da iyiydi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B6024AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Çiçekli 3'lü Pamuklu Sneaker Çorap",
+      "kisa_aciklama": "Kadın Çiçek Desenli 3'lü Pamuklu Patik Çorap: Şıklığı ve konforu bir arada sunan pamuklu patik çoraplar, günün her anında rahatlığı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-3lu-pamuklu-patik-corap-3065642",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B6024AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6024AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6024AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6024AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6024AX_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40",
+          "STD"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 73%,Poliamid 24%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Çiçekli",
+        "takim_icerigi": "3'lü",
+        "corap_tipi": "Sneaker Çorap",
+        "cinsiyet": "Kadın",
+        "kumas": "Pamuklu",
+        "urun_tipi": "Kısa Çorap"
+      },
+      "urun_hakkinda": [
+        "Kadın Çiçek Desenli 3'lü Pamuklu Patik Çorap: Şıklığı ve konforu bir arada sunan pamuklu patik çoraplar, günün her anında rahatlığı…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1992,
+          "Product Option Code": "B6024AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "36-40",
+          "Fit": "STEP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/B6024AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 5,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-3lu-pamuklu-patik-corap-3065642",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-3lu-pamuklu-patik-corap-3065642"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/B6024AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:18:59+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

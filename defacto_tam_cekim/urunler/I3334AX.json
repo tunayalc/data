@@ -1,0 +1,376 @@
+{
+  "model_kodu": "I3334AX",
+  "urun_grubu": "Kadın Blazer Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 33.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-27",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-09",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-20",
+        "puan": 5.0,
+        "metin": "@Cok guzel bir ceket"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3334AXAR168",
+      "renk_kodu": "AR168",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Regular Fıt Dik Yaka Blazer Ceket",
+      "kisa_aciklama": "Regular Fıt kalıba sahip Dik Yaka boydan boya düğmeli Blazer Ceket",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510155",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_AR168_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_AR168_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_AR168_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_AR168_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_AR168_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_AR168_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,78cm - 78/59/90",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 37%,Poliester 61%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "yaka": "Dik Yaka",
+        "kapama_detayi": "Düğmeli",
+        "kalip": "Regular Fıt",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt kalıba sahip Dik Yaka boydan boya düğmeli Blazer Ceket"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 1399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41435,
+          "Product Option Code": "I3334AX.AR168",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "36",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_AR168_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510155",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154"
+        },
+        {
+          "excel_satiri": 41436,
+          "Product Option Code": "I3334AX.AR168",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_AR168_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510155",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154"
+        },
+        {
+          "excel_satiri": 41437,
+          "Product Option Code": "I3334AX.AR168",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "40",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_AR168_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510155",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154"
+        },
+        {
+          "excel_satiri": 41438,
+          "Product Option Code": "I3334AX.AR168",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "42",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_AR168_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510155",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_AR168_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I3334AXNV216",
+      "renk_kodu": "NV216",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fıt Dik Yaka Blazer Ceket",
+      "kisa_aciklama": "Regular Fıt kalıba sahip Dik Yaka boydan boya düğmeli Blazer Ceket",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_NV216_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_NV216_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_NV216_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_NV216_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3334AX_26AU_NV216_05_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "34",
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,80cm - 83/59/90",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 37%,Poliester 61%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "yaka": "Dik Yaka",
+        "kalip": "Regular Fıt",
+        "kapama_detayi": "Düğmeli",
+        "paca_detayi": "Düz Paça",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt kalıba sahip Dik Yaka boydan boya düğmeli Blazer Ceket"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 1399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41439,
+          "Product Option Code": "I3334AX.NV216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "34",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_NV216_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154"
+        },
+        {
+          "excel_satiri": 41440,
+          "Product Option Code": "I3334AX.NV216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_NV216_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154"
+        },
+        {
+          "excel_satiri": 41441,
+          "Product Option Code": "I3334AX.NV216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "40",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_NV216_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154"
+        },
+        {
+          "excel_satiri": 41442,
+          "Product Option Code": "I3334AX.NV216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "42",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_NV216_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dik-yaka-blazer-ceket-3510154"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I3334AX_26AU_NV216_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:00:07+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

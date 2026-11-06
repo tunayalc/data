@@ -1,0 +1,120 @@
+{
+  "model_kodu": "E5546A5",
+  "urun_grubu": "Kız Bebek Tayt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 14.3,
+      "tam_oldu": 57.1,
+      "buyuk_geldi": 28.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-22",
+        "puan": 3.0,
+        "metin": "@Fena sayılmaz, iş görür."
+      },
+      {
+        "tarih": "2025-04-15",
+        "puan": 5.0,
+        "metin": "@Ayak kısmı biraz rahatsız ediyor."
+      },
+      {
+        "tarih": "2025-08-06",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5546A5BE194",
+      "renk_kodu": "BE194",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "İspanyol Paça Fitilli Kaşkorse Tayt Kız Bebek",
+      "kisa_aciklama": "Kız bebek İspanyol paça fitilli kaşkorse tayt, esnek ve yumuşak dokusuyla bebeğinizin hareket özgürlüğünü destekler. Şık fitilli tasarımıyla günlük kullanıma…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kiz-bebek-ispanyol-paca-fitilli-kaskorse-tayt-3258399",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5546A5_25SP_BE194_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5546A5_25SP_BE194_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5546A5_25SP_BE194_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5546A5_25SP_BE194_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "24-36 Ay (98 cm)",
+          "9-12 Ay (80cm)",
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "24-36 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Flare Fıt",
+        "kumas": "Fitilli Kaşkorse",
+        "urun_tipi": "Tayt",
+        "bel_detayi": "Beli Lastikli",
+        "paca_detayi": "İspanyol Paça",
+        "cinsiyet": "Kız Bebek"
+      },
+      "urun_hakkinda": [
+        "Kız bebek İspanyol paça fitilli kaşkorse tayt, esnek ve yumuşak dokusuyla bebeğinizin hareket özgürlüğünü destekler. Şık fitilli tasarımıyla günlük kullanıma…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11618,
+          "Product Option Code": "E5546A5.BE194",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Leggings",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "24-36 M",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E5546A5_25SP_BE194_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 69.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/en-ma/kiz-bebek-ispanyol-paca-fitilli-kaskorse-tayt-3258399",
+          "Model Page URL": "https://www.defacto.com/en-ma/kiz-bebek-ispanyol-paca-fitilli-kaskorse-tayt-3258399"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E5546A5_25SP_BE194_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:45:03+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

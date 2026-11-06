@@ -1,0 +1,86 @@
+{
+  "model_kodu": "H1949A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1949A8KH436",
+      "renk_kodu": "KH436",
+      "renk_adi": "LT.KHAKI",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "13/14 Y",
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25514,
+          "Product Option Code": "H1949A8.KH436",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1949A8_26SM_KH436_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.eg/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3495579",
+          "Model Page URL": "https://www.defacto.com.eg/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3495579"
+        },
+        {
+          "excel_satiri": 25515,
+          "Product Option Code": "H1949A8.KH436",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1949A8_26SM_KH436_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.eg/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3495579",
+          "Model Page URL": "https://www.defacto.com.eg/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3495579"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H1949A8_26SM_KH436_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:18:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3495579",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

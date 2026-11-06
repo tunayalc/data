@@ -1,0 +1,134 @@
+{
+  "model_kodu": "B7588A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@10 yaşındaki kızım kullanıyor, tam beden ve çok rahat, terletmiyor."
+      },
+      {
+        "tarih": "2025-11-07",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika, kalitesi de iyi, kesinlikle alınır."
+      },
+      {
+        "tarih": "2025-07-01",
+        "puan": 5.0,
+        "metin": "@Son derece rahat ve çok şık, bayıldım."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B7588A8TR118",
+      "renk_kodu": "TR118",
+      "renk_adi": "Deniz Mavisi",
+      "renk_hex": "#006994",
+      "urun_adi": "Yaz Temalı Cap Şapka Kız Çocuk",
+      "kisa_aciklama": "Sıcak yaz günlerinde kendinizi güneş ışınlarından korurken şık görünmenizi sağlayacak DeFacto Kız Çocuk Cap Şapka.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yaz-temali-cap-sapka-kiz-cocuk-3212529",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B7588A8_25SM_TR118_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B7588A8_25SM_TR118_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B7588A8_25SM_TR118_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "54 cm",
+        "sapka_tipi": "Cap Şapka",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Sıcak yaz günlerinde kendinizi güneş ışınlarından korurken şık görünmenizi sağlayacak DeFacto Kız Çocuk Cap Şapka.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 99.99,
+        "sepette_fiyat": 79.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2432,
+          "Product Option Code": "B7588A8.TR118",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "AQUA",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/B7588A8_25SM_TR118_01_01.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#006994",
+          "Product Page URL": "https://www.defacto.com.tr/yaz-temali-cap-sapka-kiz-cocuk-3212529",
+          "Model Page URL": "https://www.defacto.com.tr/yaz-temali-cap-sapka-kiz-cocuk-3212529"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/B7588A8_25SM_TR118_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:23:22+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "model_kodu": "H1618AX",
+  "urun_grubu": "Kadın Trençkot",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 11.1,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 22.2
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-15",
+        "puan": 5.0,
+        "metin": "@Bayıldık resssmen kalıp o kadar güzel ki sadece onu giyerek bile havalı olabilirsiniz 🥹🙌🏻🙌🏻🙌🏻🙌🏻🧡"
+      },
+      {
+        "tarih": "2026-10-24",
+        "puan": 5.0,
+        "metin": "@trençkotun kumaşı çok güzel tok bir duruşu var ama bedeni çok çok büyük. 44 beden giyen biri olarak xl olur…"
+      },
+      {
+        "tarih": "2026-09-16",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1618AXBG501",
+      "renk_kodu": "BG501",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Su İtici Boxy Fıt Kapüşonlu Twıll Bej Trençkot",
+      "kisa_aciklama": "Su İtici Boxy fit kapüşonlu trençkot. Bej renkli, twill kumaşından üretilmiş boxy kesim trençkot. Entegre kapüşonlu geniş rever yakalı ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-boxy-fit-kapusonlu-twill-bej-trenckot-3430211",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1618AX_26AU_BG501_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1618AX_26AU_BG501_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1618AX_26AU_BG501_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1618AX_26AU_BG501_04_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,80cm - 83/59/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Boxy Fıt",
+        "yaka": "Kapüşonlu",
+        "dis_giyim_urun_grubu": "Trenchcoat",
+        "cinsiyet": "Kadın",
+        "kumas": "Twıll"
+      },
+      "urun_hakkinda": [
+        "Su İtici Boxy fit kapüşonlu trençkot. Bej renkli, twill kumaşından üretilmiş boxy kesim trençkot. Entegre kapüşonlu geniş rever yakalı ve…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25050,
+          "Product Option Code": "H1618AX.BG501",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trenchcoat",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H1618AX_26AU_BG501_01_05.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 0,
+          "Initial Price Value": 2599.99,
+          "Actual Price Value": 2599.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-boxy-fit-kapusonlu-twill-bej-trenckot-3430211",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-boxy-fit-kapusonlu-twill-bej-trenckot-3430211"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H1618AX_26AU_BG501_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:18:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

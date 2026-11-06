@@ -1,0 +1,90 @@
+{
+  "model_kodu": "G4699AX",
+  "urun_grubu": "Erkek Parfüm",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4699AXBK21",
+      "renk_kodu": "BK21",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek 100 ml Nba Brandmark Parfüm",
+      "kisa_aciklama": "",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-nba-brandmark-nba-brooklyn-nets-amber-100-ml-3428307",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4699AX_NS_BK21_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4699AX_NS_BK21_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4699AX_NS_BK21_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4699AX_NS_BK21_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Kozmetik 100%",
+        "marka": "Defacto",
+        "urun_hacmi": "100 ml",
+        "cinsiyet": "Erkek",
+        "lisans_bilgisi": "NBA Brooklyn Nets"
+      },
+      "urun_hakkinda": [
+        "İstediğiniz kozmetik ve kişisel bakım ürünlerini hemen sipariş verin, ürününüzü evinizden teslim almanın ayrıcalığını yaşayın."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19260,
+          "Product Option Code": "G4699AX.BK21",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4699AX_NS_BK21_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 9,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-nba-brandmark-nba-brooklyn-nets-amber-100-ml-3428307",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-nba-brandmark-nba-brooklyn-nets-amber-100-ml-3428307"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G4699AX_NS_BK21_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:01:44+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

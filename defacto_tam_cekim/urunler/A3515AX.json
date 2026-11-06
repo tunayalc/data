@@ -1,0 +1,79 @@
+{
+  "model_kodu": "A3515AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A3515AXWT80",
+      "renk_kodu": "WT80",
+      "renk_adi": "WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 354,
+          "Product Option Code": "A3515AX.WT80",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Ski Wear",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/A3515AX_23WN_WT80_01_03.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 355,
+          "Product Option Code": "A3515AX.WT80",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Ski Wear",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/A3515AX_23WN_WT80_01_03.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/A3515AX_23WN_WT80_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

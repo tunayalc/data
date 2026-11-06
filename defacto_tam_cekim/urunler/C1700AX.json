@@ -1,0 +1,57 @@
+{
+  "model_kodu": "C1700AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C1700AXKH461",
+      "renk_kodu": "KH461",
+      "renk_adi": "Khaki",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3324,
+          "Product Option Code": "C1700AX.KH461",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "L",
+          "Fit": "A-LINE DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C1700AX_24SP_KH461_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C1700AX_24SP_KH461_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

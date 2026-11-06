@@ -1,0 +1,115 @@
+{
+  "model_kodu": "F7213A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-18",
+        "puan": 5.0,
+        "metin": "@Güzel"
+      },
+      {
+        "tarih": "2026-01-22",
+        "puan": 5.0,
+        "metin": "@Beğendim çok güzel çoraplar"
+      },
+      {
+        "tarih": "2025-12-14",
+        "puan": 5.0,
+        "metin": "@Bedeni tam ve çok tatlı duruyor"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F7213A8WT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "2'li Pamuklu Uzun Çorap Kız Çocuk",
+      "kisa_aciklama": "Yumuşak pamuklu kumaştan üretilen 2'li uzun çorap seti, miniklerin ayaklarını sıcak ve rahat tutar. Nefes alabilen yapısı sayesinde hassas ciltler…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/2li-pamuklu-uzun-corap-kiz-cocuk-3331867",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7213A8_NS_WT1_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7213A8_NS_WT1_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7213A8_NS_WT1_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7213A8_NS_WT1_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 71%,Poliamid 16%,Elastan 3%,Poliester 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kız Çocuk",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Uzun Çorap",
+        "takim_icerigi": "2'li"
+      },
+      "urun_hakkinda": [
+        "Yumuşak pamuklu kumaştan üretilen 2'li uzun çorap seti, miniklerin ayaklarını sıcak ve rahat tutar. Nefes alabilen yapısı sayesinde hassas ciltler…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 149.99,
+        "sepette_fiyat": 89.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15660,
+          "Product Option Code": "F7213A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "23 - 28",
+          "Fit": "KNEE SOCKS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F7213A8_NS_WT1_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/en-iq/2li-pamuklu-uzun-corap-kiz-cocuk-3331867",
+          "Model Page URL": "https://www.defacto.com/en-iq/2li-pamuklu-uzun-corap-kiz-cocuk-3331867"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F7213A8_NS_WT1_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:53:54+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

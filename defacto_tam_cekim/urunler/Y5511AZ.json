@@ -1,0 +1,749 @@
+{
+  "model_kodu": "Y5511AZ",
+  "urun_grubu": "Erkek Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 245,
+    "yorum_sayisi": 245,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 19.2,
+      "tam_oldu": 77.8,
+      "buyuk_geldi": 3.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-10-16",
+        "puan": 4.0,
+        "metin": "@gayet güzel geldi , kumaşı kalınlığı çok hoş sadece kalıbı fazla oversize değil"
+      },
+      {
+        "tarih": "2023-09-08",
+        "puan": 1.0,
+        "metin": "@Ürün yanlis gönderildi. bej rengi esofman aldim siyah 200 tl degerinde ustunde etiketi bile olmayan urun gönderildi."
+      },
+      {
+        "tarih": "2024-12-03",
+        "puan": 5.0,
+        "metin": "@Daha önce açık kahvesini almıştım. İçi POLARLI ve sıcak tutuyor. Fermuar lı olması da güzel detay. Paça lastikli şık duruyor.…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y5511AZBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fıt Fermuar Cepli Beli Lastikli Jogger",
+      "kisa_aciklama": "Regular Fıt Fermuar Cepli Beli Lastikli Jogger",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Y5511AZ_26AU_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y5511AZ_26AU_BK81_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 60%,Poliester 40%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "bel_detayi": "Beli Lastikli",
+        "cep_ve_fermuar_detayi": "Fermuar Cepli",
+        "desen": "Baskılı",
+        "kalip": "Regular Fıt",
+        "kumas_ic_yuzeyi": "İçi Yumuşak Tüylü"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Fermuar Cepli Beli Lastikli Jogger"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48371,
+          "Product Option Code": "Y5511AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48372,
+          "Product Option Code": "Y5511AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/Y5511AZ_24AU_BK81_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48373,
+          "Product Option Code": "Y5511AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48374,
+          "Product Option Code": "Y5511AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/Y5511AZ_26AU_BK81_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48375,
+          "Product Option Code": "Y5511AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/Y5511AZ_24AU_BK81_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48376,
+          "Product Option Code": "Y5511AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48377,
+          "Product Option Code": "Y5511AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/Y5511AZ_24AU_BK81_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48378,
+          "Product Option Code": "Y5511AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_BK81_01_02.jpg",
+        "https://image.defacto.com.tr/product/24AU/Y5511AZ_24AU_BK81_01_03.jpg",
+        "https://image.defacto.com.tr/product/26AU/Y5511AZ_26AU_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "Y5511AZBR230",
+      "renk_kodu": "BR230",
+      "renk_adi": "Koyu Bordo",
+      "renk_hex": "#630119",
+      "urun_adi": "Regular Fit Beli Bağcıklı İçi Yumuşak Tüylü Paçası Lastikli Baskılı Fermuar Cepli Eşofman Altı",
+      "kisa_aciklama": "Regular Fit Beli Bağcıklı Fermuar Cepli Eşofman Altı, rahat kesimi ve işlevsel fermuar cepleriyle günlük kullanıma uygundur. Bağcıklı beli sayesinde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-pantolon-3363158",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Y5511AZ_25AU_BR230_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y5511AZ_25AU_BR230_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y5511AZ_25AU_BR230_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y5511AZ_25AU_BR230_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Pamuk 67%,Poliester 33%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Baskılı",
+        "cep_ve_fermuar_detayi": "Fermuar Cepli",
+        "kumas_ic_yuzeyi": "İçi Yumuşak Tüylü",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Beli Bağcıklı Fermuar Cepli Eşofman Altı, rahat kesimi ve işlevsel fermuar cepleriyle günlük kullanıma uygundur. Bağcıklı beli sayesinde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48379,
+          "Product Option Code": "Y5511AZ.BR230",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BORDEAUX",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_BR230_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#630119",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-pantolon-3363158",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48380,
+          "Product Option Code": "Y5511AZ.BR230",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BORDEAUX",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_BR230_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#630119",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-pantolon-3363158",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48381,
+          "Product Option Code": "Y5511AZ.BR230",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_BR230_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#630119",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-pantolon-3363158",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_BR230_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "Y5511AZNV94",
+      "renk_kodu": "NV94",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fıt Fermuar Cepli Beli Lastikli Jogger",
+      "kisa_aciklama": "Regular Fıt Fermuar Cepli Beli Lastikli Jogger",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479719",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Y5511AZ_26AU_NV94_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y5511AZ_26AU_NV94_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 60%,Poliester 40%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "desen": "Baskılı",
+        "bel_detayi": "Beli Lastikli",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Fermuar Cepli",
+        "kalip": "Regular Fıt",
+        "kumas_ic_yuzeyi": "İçi Yumuşak Tüylü"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Fermuar Cepli Beli Lastikli Jogger"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48386,
+          "Product Option Code": "Y5511AZ.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_NV94_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479719",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48387,
+          "Product Option Code": "Y5511AZ.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/Y5511AZ_26AU_NV94_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479719",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48388,
+          "Product Option Code": "Y5511AZ.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_NV94_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479719",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48389,
+          "Product Option Code": "Y5511AZ.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/Y5511AZ_26AU_NV94_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479719",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48390,
+          "Product Option Code": "Y5511AZ.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_NV94_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479719",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48391,
+          "Product Option Code": "Y5511AZ.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_NV94_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479719",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48392,
+          "Product Option Code": "Y5511AZ.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_NV94_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479719",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_NV94_01_02.jpg",
+        "https://image.defacto.com.tr/product/26AU/Y5511AZ_26AU_NV94_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "Y5511AZGR184",
+      "renk_kodu": "GR184",
+      "renk_adi": "LT.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XS",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48382,
+          "Product Option Code": "Y5511AZ.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_GR184_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-fermuar-cepli-esofman-alti-3334306",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48383,
+          "Product Option Code": "Y5511AZ.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_GR184_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-fermuar-cepli-esofman-alti-3334306",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48384,
+          "Product Option Code": "Y5511AZ.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_GR184_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-fermuar-cepli-esofman-alti-3334306",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        },
+        {
+          "excel_satiri": 48385,
+          "Product Option Code": "Y5511AZ.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_GR184_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-fermuar-cepli-esofman-alti-3334306",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-beli-lastikli-jogger-3479718"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/Y5511AZ_25AU_GR184_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:56:05+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 3
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-fermuar-cepli-esofman-alti-3334306",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "model_kodu": "F8644AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 40.0,
+      "tam_oldu": 60.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-06",
+        "puan": 5.0,
+        "metin": "@tam baggy"
+      },
+      {
+        "tarih": "2026-05-22",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-24",
+        "puan": 4.0,
+        "metin": "@Model olarak beğendik.1.75 boy 65 kg için 28 beden oldu."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8644AXNM40",
+      "renk_kodu": "NM40",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Baggy Fıt Normal Bel Geniş Paça Jean Pantolon",
+      "kisa_aciklama": "Baggy Fit jean pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Rahat geniş paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-normal-bel-genis-paca-jean-pantolon-3375542",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8644AX_26SP_NM40_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_26SP_NM40_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_26SP_NM40_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_26SP_NM40_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_26SP_NM40_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_25AU_NM40_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_25AU_NM40_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_25AU_NM40_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_25AU_NM40_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_25AU_NM40_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8644AX_25AU_NM40_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Geniş Paça",
+        "kalip": "Baggy Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Baggy Fit jean pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Rahat geniş paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "diger_urun_sayfalari": [
+        "https://www.defacto.com.tr/baggy-fit-normal-bel-genis-paca-jean-pantolon-3346213"
+      ],
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16497,
+          "Product Option Code": "F8644AX.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F8644AX_25AU_NM40_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-normal-bel-genis-paca-jean-pantolon-3375542",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-normal-bel-genis-paca-jean-pantolon-3375542"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F8644AX_25AU_NM40_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:52:35+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  }
+}

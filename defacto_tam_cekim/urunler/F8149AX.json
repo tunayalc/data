@@ -1,0 +1,136 @@
+{
+  "model_kodu": "F8149AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-30",
+        "puan": 5.0,
+        "metin": "@Canlı renkli güzel"
+      },
+      {
+        "tarih": "2026-08-11",
+        "puan": 4.0,
+        "metin": "@Rengi beklediğimden biraz daha sarı geldi ama güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8149AXGN656",
+      "renk_kodu": "GN656",
+      "renk_adi": "Açık Yeşil",
+      "renk_hex": "#B4EC9A",
+      "urun_adi": "%100 Pamuk Boxy Fit Baskılı Tişört",
+      "kisa_aciklama": "Yetişkin erkekler için sürdürülebilir koleksiyonumuzdan yeşil baskılı bisiklet yaka kısa kollu tişört. Modern kalıbı ve kolej desenli tasarımıyla dikkat çekiyor.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3377692",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8149AX_26SP_GN656_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8149AX_26SP_GN656_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8149AX_26SP_GN656_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8149AX_26SP_GN656_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8149AX_26SP_GN656_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8149AX_26SP_GN656_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Boxy Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için sürdürülebilir koleksiyonumuzdan yeşil baskılı bisiklet yaka kısa kollu tişört. Modern kalıbı ve kolej desenli tasarımıyla dikkat çekiyor.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16067,
+          "Product Option Code": "F8149AX.GN656",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8149AX_26SP_GN656_01_02.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3377692",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3377692"
+        },
+        {
+          "excel_satiri": 16068,
+          "Product Option Code": "F8149AX.GN656",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8149AX_26SP_GN656_01_02.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3377692",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3377692"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8149AX_26SP_GN656_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:51:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

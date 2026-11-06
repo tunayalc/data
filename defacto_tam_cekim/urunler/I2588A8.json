@@ -1,0 +1,99 @@
+{
+  "model_kodu": "I2588A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-11-04",
+        "puan": 5.0,
+        "metin": "@Guzel renklerı fakan ama bıraz dar daha esnke olabılırdı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2588A8BR234",
+      "renk_kodu": "BR234",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "6'lı Saç Lastiği Kız Çocuk",
+      "kisa_aciklama": "6 adet saç lastiği seti. Set içerisinde bordo renkli metal halka detaylı iki adet saç lastiği, bordo ve açık pembe…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/6li-sac-lastigi-kiz-cocuk-3495036",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2588A8_NS_BR234_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2588A8_NS_BR234_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2588A8_NS_BR234_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 95%,Demir 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kız Çocuk",
+        "takim_icerigi": "6'lı"
+      },
+      "urun_hakkinda": [
+        "6 adet saç lastiği seti. Set içerisinde bordo renkli metal halka detaylı iki adet saç lastiği, bordo ve açık pembe…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 139.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40459,
+          "Product Option Code": "I2588A8.BR234",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2588A8_NS_BR234_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 8,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/6li-sac-lastigi-kiz-cocuk-3495036",
+          "Model Page URL": "https://www.defacto.com.tr/6li-sac-lastigi-kiz-cocuk-3495036"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2588A8_NS_BR234_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:45:24+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

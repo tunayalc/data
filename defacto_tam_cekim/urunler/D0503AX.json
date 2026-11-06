@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D0503AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D0503AXRD93",
+      "renk_kodu": "RD93",
+      "renk_adi": "LT.RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6080,
+          "Product Option Code": "D0503AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "36",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D0503AX_24SM_RD93_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 5,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/babydoll-kare-yaka-kisa-kollu-elbise-3135245",
+          "Model Page URL": "https://www.defacto.com/babydoll-kare-yaka-kisa-kollu-elbise-3135245"
+        },
+        {
+          "excel_satiri": 6081,
+          "Product Option Code": "D0503AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "38",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D0503AX_24SM_RD93_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/babydoll-kare-yaka-kisa-kollu-elbise-3135245",
+          "Model Page URL": "https://www.defacto.com/babydoll-kare-yaka-kisa-kollu-elbise-3135245"
+        },
+        {
+          "excel_satiri": 6082,
+          "Product Option Code": "D0503AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "40",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D0503AX_24SM_RD93_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/babydoll-kare-yaka-kisa-kollu-elbise-3135245",
+          "Model Page URL": "https://www.defacto.com/babydoll-kare-yaka-kisa-kollu-elbise-3135245"
+        },
+        {
+          "excel_satiri": 6083,
+          "Product Option Code": "D0503AX.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "42",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D0503AX_24SM_RD93_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com/babydoll-kare-yaka-kisa-kollu-elbise-3135245",
+          "Model Page URL": "https://www.defacto.com/babydoll-kare-yaka-kisa-kollu-elbise-3135245"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D0503AX_24SM_RD93_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:29:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/babydoll-kare-yaka-kisa-kollu-elbise-3135245",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "model_kodu": "H9555AX",
+  "urun_grubu": "Kadın Şemsiye",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H9555AXBG106",
+      "renk_kodu": "BG106",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Düz Katlanabilir Kutulu Şemsiye",
+      "kisa_aciklama": "Su itici teknik kumaşlı, cırt cırtlı sarma bant detayına sahip, çok panelli Kutulu şemsiye.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/duz-katlanabilir-kutulu-semsiye-3482323",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H9555AX_NS_BG106_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9555AX_NS_BG106_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9555AX_NS_BG106_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9555AX_NS_BG106_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Su itici teknik kumaşlı, cırt cırtlı sarma bant detayına sahip, çok panelli Kutulu şemsiye."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 36541,
+          "Product Option Code": "H9555AX.BG106",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Umbrella",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9555AX_NS_BG106_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/duz-katlanabilir-kutulu-semsiye-3482323",
+          "Model Page URL": "https://www.defacto.com.tr/duz-katlanabilir-kutulu-semsiye-3482323"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H9555AX_NS_BG106_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H9555AXPN1",
+      "renk_kodu": "PN1",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 36542,
+          "Product Option Code": "H9555AX.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Umbrella",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9555AX_NS_PN1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/duz-katlanabilir-kutulu-semsiye-3482323"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H9555AX_NS_PN1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:38:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

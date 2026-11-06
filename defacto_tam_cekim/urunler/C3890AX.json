@@ -1,0 +1,123 @@
+{
+  "model_kodu": "C3890AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C3890AXBG702",
+      "renk_kodu": "BG702",
+      "renk_adi": "STONE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3990,
+          "Product Option Code": "C3890AX.BG702",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "34",
+          "Fit": "WIDELEG CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3890AX_24SP_BG702_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3991,
+          "Product Option Code": "C3890AX.BG702",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "36",
+          "Fit": "WIDELEG CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3890AX_24SP_BG702_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 5,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3992,
+          "Product Option Code": "C3890AX.BG702",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "38",
+          "Fit": "WIDELEG CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3890AX_24SP_BG702_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": -1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3993,
+          "Product Option Code": "C3890AX.BG702",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "40",
+          "Fit": "WIDELEG CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3890AX_24SP_BG702_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C3890AX_24SP_BG702_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

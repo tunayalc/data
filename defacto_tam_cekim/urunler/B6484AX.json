@@ -1,0 +1,136 @@
+{
+  "model_kodu": "B6484AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 12,
+    "yorum_sayisi": 12,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 66.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-05-26",
+        "puan": 3.0,
+        "metin": "@Ürün çok hoş."
+      },
+      {
+        "tarih": "2026-01-06",
+        "puan": 5.0,
+        "metin": "@Rengi çok güzel. Kalıbı bol. Ama kalitesi şahane."
+      },
+      {
+        "tarih": "2026-01-09",
+        "puan": 4.0,
+        "metin": "@Kumaşı gayet güzel. Bir beden küçük alın. Kumaşı da çok yumuşak."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B6484AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Regular Fit Polo Yaka Krinkıl Basic Düz Uzun Kollu Beyaz Gömlek",
+      "kisa_aciklama": "Bu Regular Fit Polo Yaka Krinkıl Uzun Kollu Gömlek, şıklığı ve rahatlığı bir araya getiriyor. Yüksek kaliteli kumaşıyla gün boyu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-krinkil-uzun-kollu-gomlek-3066633",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B6484AX_24SP_WT32_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6484AX_24SP_WT32_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6484AX_24SP_WT32_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6484AX_24SP_WT32_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6484AX_24SP_WT32_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6484AX_24SP_WT32_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6484AX_24SP_WT32_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6484AX_24SP_WT32_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 92/70/94",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 30%,Poliester 68%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "kumas": "Krinkıl",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Bu Regular Fit Polo Yaka Krinkıl Uzun Kollu Gömlek, şıklığı ve rahatlığı bir araya getiriyor. Yüksek kaliteli kumaşıyla gün boyu…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "B6484AXBN367",
+      "renk_kodu": "BN367",
+      "renk_adi": "LT.BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2065,
+          "Product Option Code": "B6484AX.BN367",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B6484AX_24SP_BN367_01_03.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 2,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-polo-yaka-krinkil-uzun-kollu-gomlek-3066633"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/B6484AX_24SP_BN367_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:22:44+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

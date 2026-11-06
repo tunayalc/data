@@ -1,0 +1,108 @@
+{
+  "model_kodu": "I2641A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2641A8NM36",
+      "renk_kodu": "NM36",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40526,
+          "Product Option Code": "I2641A8.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2641A8_26AU_NM36_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/straight-fit-duz-kesim-jean-pantolon-kiz-cocuk-3581878",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/straight-fit-duz-kesim-jean-pantolon-kiz-cocuk-3581878"
+        },
+        {
+          "excel_satiri": 40527,
+          "Product Option Code": "I2641A8.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2641A8_26AU_NM36_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/straight-fit-duz-kesim-jean-pantolon-kiz-cocuk-3581878",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/straight-fit-duz-kesim-jean-pantolon-kiz-cocuk-3581878"
+        },
+        {
+          "excel_satiri": 40528,
+          "Product Option Code": "I2641A8.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2641A8_26AU_NM36_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/straight-fit-duz-kesim-jean-pantolon-kiz-cocuk-3581878",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/straight-fit-duz-kesim-jean-pantolon-kiz-cocuk-3581878"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I2641A8_26AU_NM36_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:45:44+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/straight-fit-duz-kesim-jean-pantolon-kiz-cocuk-3581878",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

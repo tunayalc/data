@@ -1,0 +1,107 @@
+{
+  "model_kodu": "H9213AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 3.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-18",
+        "puan": 3.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H9213AXNV2",
+      "renk_kodu": "NV2",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Erkek 5'li Pamuklu Patik Çorap Seti",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Düz örgü kumaş. Farklı mavi tonlarında renk seçenekleri. Elastik bilek bitişli.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-seti-3471966",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H9213AX_NS_NV2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9213AX_NS_NV2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9213AX_NS_NV2_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9213AX_NS_NV2_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 53%,Poliamid 21%,Elastan 2%,Poliester 24%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "5'li",
+        "cinsiyet": "Erkek",
+        "corap_tipi": "Patik Çorap",
+        "urun_tipi": "Kısa Çorap"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Düz örgü kumaş. Farklı mavi tonlarında renk seçenekleri. Elastik bilek bitişli.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 36178,
+          "Product Option Code": "H9213AX.NV2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9213AX_NS_NV2_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 5,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-5li-pamuklu-patik-corap-seti-3550851",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-5li-pamuklu-patik-corap-seti-3550851"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H9213AX_NS_NV2_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:46:51+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-seti-3550851",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

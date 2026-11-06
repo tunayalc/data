@@ -1,0 +1,795 @@
+{
+  "model_kodu": "E8236AX",
+  "urun_grubu": "Kadın Hırka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 33,
+    "yorum_sayisi": 33,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 37.5,
+      "tam_oldu": 62.5,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-18",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi bir ürün."
+      },
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet güzel, bir beden büyük alın. Çok beğendim."
+      },
+      {
+        "tarih": "2026-01-29",
+        "puan": 4.0,
+        "metin": "@Gerçekten çok güzel, sorunsuz bir şekilde elime ulaştı. Harika!."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8236AXBN450",
+      "renk_kodu": "BN450",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Slim Fit Yün Karışımlı Bisiklet Yaka Düğmeli Triko Hırka",
+      "kisa_aciklama": "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442963",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_BN450_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_BN450_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_BN450_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_BN450_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_BN450_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_BN450_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_BN450_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_BN450_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 81/60/90",
+        "ana_kumas_icerigi": "Akrilik 3%,Elastan 3%,Poliester 91%,Yün 3%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_tipi": "Hırka",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu",
+        "kapama_detayi": "Düğmeli",
+        "kalip": "Slım Fıt",
+        "triko_kalinligi": "Orta Kalın",
+        "markalar": "Coool"
+      },
+      "urun_hakkinda": [
+        "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12492,
+          "Product Option Code": "E8236AX.BN450",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_BN450_01_02.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442963",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12493,
+          "Product Option Code": "E8236AX.BN450",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_BN450_01_02.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442963",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12494,
+          "Product Option Code": "E8236AX.BN450",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_BN450_01_02.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442963",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_BN450_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E8236AXGR308",
+      "renk_kodu": "GR308",
+      "renk_adi": "Koyu Gri",
+      "renk_hex": "#6E6E6E",
+      "urun_adi": "Slim Fit Yün Karışımlı Bisiklet Yaka Düğmeli Triko Hırka",
+      "kisa_aciklama": "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3485702",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_GR308_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_GR308_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_GR308_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_GR308_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_GR308_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_GR308_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_GR308_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_GR308_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_GR308_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Akrilik 3%,Elastan 3%,Poliester 91%,Yün 3%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Slım Fıt",
+        "triko_kalinligi": "Orta Kalın",
+        "markalar": "Coool",
+        "urun_tipi": "Hırka",
+        "cinsiyet": "Kadın",
+        "kapama_detayi": "Düğmeli",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12495,
+          "Product Option Code": "E8236AX.GR308",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_GR308_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3485702",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12496,
+          "Product Option Code": "E8236AX.GR308",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_GR308_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3485702",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12497,
+          "Product Option Code": "E8236AX.GR308",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_GR308_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3485702",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12498,
+          "Product Option Code": "E8236AX.GR308",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_GR308_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3485702",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_GR308_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E8236AXKH451",
+      "renk_kodu": "KH451",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Slim Fit Yün Karışımlı Bisiklet Yaka Düğmeli Triko Hırka",
+      "kisa_aciklama": "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442962",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_KH451_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_KH451_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_KH451_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_KH451_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_KH451_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_KH451_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Akrilik 3%,Elastan 3%,Poliester 91%,Yün 3%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_tipi": "Hırka",
+        "kalip": "Slım Fıt",
+        "triko_kalinligi": "Orta Kalın",
+        "kapama_detayi": "Düğmeli",
+        "cinsiyet": "Kadın",
+        "markalar": "Coool",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12499,
+          "Product Option Code": "E8236AX.KH451",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_KH451_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442962",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12500,
+          "Product Option Code": "E8236AX.KH451",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_KH451_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 3,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442962",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12501,
+          "Product Option Code": "E8236AX.KH451",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_KH451_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442962",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12502,
+          "Product Option Code": "E8236AX.KH451",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_KH451_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442962",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12503,
+          "Product Option Code": "E8236AX.KH451",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_KH451_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442962",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_KH451_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E8236AXPR143",
+      "renk_kodu": "PR143",
+      "renk_adi": "Lila",
+      "renk_hex": "#C8A2C8",
+      "urun_adi": "Slim Fit Yün Karışımlı Bisiklet Yaka Düğmeli Triko Hırka",
+      "kisa_aciklama": "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3491457",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_PR143_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_PR143_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_PR143_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_PR143_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_PR143_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_PR143_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_PR143_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_PR143_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Akrilik 74%,Elastan 2%,Poliester 18%,Yün 6%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Hırka",
+        "kalip": "Slım Fıt",
+        "kapama_detayi": "Düğmeli",
+        "markalar": "Coool",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "triko_kalinligi": "Orta Kalın"
+      },
+      "urun_hakkinda": [
+        "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12504,
+          "Product Option Code": "E8236AX.PR143",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "LILAC",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_PR143_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#C8A2C8",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3491457",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12505,
+          "Product Option Code": "E8236AX.PR143",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "LILAC",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_PR143_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 3,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#C8A2C8",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3491457",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12506,
+          "Product Option Code": "E8236AX.PR143",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "LILAC",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_PR143_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#C8A2C8",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3491457",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        },
+        {
+          "excel_satiri": 12507,
+          "Product Option Code": "E8236AX.PR143",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "LILAC",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_PR143_01_01.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#C8A2C8",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3491457",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E8236AX_26AU_PR143_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E8236AXYL238",
+      "renk_kodu": "YL238",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "Slim Fit Yün Karışımlı Bisiklet Yaka Düğmeli Triko Hırka",
+      "kisa_aciklama": "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yun-karisimli-bisiklet-yaka-dugmeli-triko-hirka-3442961",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_YL238_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_YL238_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_YL238_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_YL238_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_YL238_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_YL238_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_YL238_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8236AX_26AU_YL238_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Akrilik 3%,Elastan 3%,Poliester 91%,Yün 3%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kol_boyu": "Uzun Kollu",
+        "triko_kalinligi": "Orta Kalın",
+        "kapama_detayi": "Düğmeli",
+        "markalar": "Coool",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Hırka",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Slim fit yün karışımlı bisiklet yaka düğmeli hırka, dar kesimiyle vücuda oturarak modern bir görünüm sunar. Hafif yapısı ve şık…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:38:43+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

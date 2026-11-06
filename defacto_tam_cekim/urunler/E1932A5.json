@@ -1,0 +1,101 @@
+{
+  "model_kodu": "E1932A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1932A5PR305",
+      "renk_kodu": "PR305",
+      "renk_adi": "LILAC",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M",
+          "6-9 M",
+          "9-12 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10739,
+          "Product Option Code": "E1932A5.PR305",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimsuit",
+          "Product Color Name": "LILAC",
+          "SizeDefinition": "12-18 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1932A5_25SM_PR305_01_01.jpg",
+          "FabricDetail": "RACHEL",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C8A2C8",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 10740,
+          "Product Option Code": "E1932A5.PR305",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimsuit",
+          "Product Color Name": "LILAC",
+          "SizeDefinition": "6-9 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1932A5_25SM_PR305_01_01.jpg",
+          "FabricDetail": "RACHEL",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C8A2C8",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 10741,
+          "Product Option Code": "E1932A5.PR305",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimsuit",
+          "Product Color Name": "LILAC",
+          "SizeDefinition": "9-12 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1932A5_25SM_PR305_01_01.jpg",
+          "FabricDetail": "RACHEL",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C8A2C8",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E1932A5_25SM_PR305_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

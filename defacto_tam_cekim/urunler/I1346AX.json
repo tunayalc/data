@@ -1,0 +1,100 @@
+{
+  "model_kodu": "I1346AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-10",
+        "puan": 5.0,
+        "metin": "@Harika bayildim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1346AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın 5'li Sarı Zincir Bileklik Seti",
+      "kisa_aciklama": "Kadın 5'li karma bileklik seti. Altın rengi metal ve beyaz detaylı. Farklı zincir örgüleri, yıldız, boncuk ve açık halka figürlü…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-5li-sari-zincir-bileklik-seti-3487403",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1346AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1346AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1346AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 18%,Demir 2%,Pirinç 80%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Bileklik",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Kadın 5'li karma bileklik seti. Altın rengi metal ve beyaz detaylı. Farklı zincir örgüleri, yıldız, boncuk ve açık halka figürlü…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38959,
+          "Product Option Code": "I1346AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1346AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-5li-sari-zincir-bileklik-seti-3487403?waw_keyword=B0044AX",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-5li-sari-zincir-bileklik-seti-3487403?waw_keyword=B0044AX"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1346AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:42:59+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

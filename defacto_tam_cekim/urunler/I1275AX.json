@@ -1,0 +1,91 @@
+{
+  "model_kodu": "I1275AX",
+  "urun_grubu": "Kadın Yüzük",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1275AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın 5'li Karma Yüzük Seti",
+      "kisa_aciklama": "Beş adet karma tasarımlı yüzük. Altın ve gümüş tonlarında metal. Bükümlü, boncuklu ve düz yüzük bantlarına sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-5li-karma-yuzuk-seti-3485832",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1275AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1275AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1275AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1275AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1275AX_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 30%,Çinko 70%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Yüzük",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Beş adet karma tasarımlı yüzük. Altın ve gümüş tonlarında metal. Bükümlü, boncuklu ve düz yüzük bantlarına sahiptir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38858,
+          "Product Option Code": "I1275AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Ring",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "S",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1275AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 4,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1275AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:53:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

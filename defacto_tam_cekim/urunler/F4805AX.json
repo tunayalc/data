@@ -1,0 +1,424 @@
+{
+  "model_kodu": "F4805AX",
+  "urun_grubu": "Kadın Kemer",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-25",
+        "puan": 5.0,
+        "metin": "@Harika! Kullanışlı ve uygun fiyata aldım."
+      },
+      {
+        "tarih": "2026-06-13",
+        "puan": 4.0,
+        "metin": "@Harika! Büyükymışım ama çok güzeller."
+      },
+      {
+        "tarih": "2025-11-30",
+        "puan": 5.0,
+        "metin": "@Harika! Aşırı güzel buldum. Çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F4805AXBE2",
+      "renk_kodu": "BE2",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Kadın Suni Deri 3'lü Günlük Kemer",
+      "kisa_aciklama": "Suni deri malzemeden üretilmiş kadın kemer seti.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3422721",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_BE2_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_BE2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_BE2_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "80",
+          "85",
+          "90",
+          "95",
+          "100"
+        ],
+        "excel": [
+          "80",
+          "85",
+          "90",
+          "95"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "kumas": "Suni Deri",
+        "kemer_adedi": "3'lü",
+        "urun_olcusu": "2 cm",
+        "urun_tipi": "Kemer",
+        "cinsiyet": "Kadın",
+        "urun_aksesuari": "Kemer"
+      },
+      "urun_hakkinda": [
+        "Suni deri malzemeden üretilmiş kadın kemer seti."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14804,
+          "Product Option Code": "F4805AX.BE2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "80",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4805AX_NS_BE2_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3422721",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753"
+        },
+        {
+          "excel_satiri": 14805,
+          "Product Option Code": "F4805AX.BE2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "85",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4805AX_NS_BE2_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3422721",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753"
+        },
+        {
+          "excel_satiri": 14806,
+          "Product Option Code": "F4805AX.BE2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4805AX_NS_BE2_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3422721",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753"
+        },
+        {
+          "excel_satiri": 14807,
+          "Product Option Code": "F4805AX.BE2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "95",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4805AX_NS_BE2_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3422721",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F4805AX_NS_BE2_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F4805AXBG26",
+      "renk_kodu": "BG26",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Kadın Suni Deri 3'lü Günlük Kemer",
+      "kisa_aciklama": "Suni deri malzemeden üretilmiş kadın kemer seti.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3422720",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_BG26_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_BG26_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_BG26_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_BG26_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "80",
+          "85",
+          "90",
+          "95",
+          "100"
+        ],
+        "excel": [
+          "85",
+          "90",
+          "95"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "80 Beden - 1,74cm - 79/61/88",
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "kumas": "Suni Deri",
+        "urun_olcusu": "2 cm",
+        "cinsiyet": "Kadın",
+        "urun_aksesuari": "Kemer",
+        "kemer_adedi": "3'lü",
+        "urun_tipi": "Kemer"
+      },
+      "urun_hakkinda": [
+        "Suni deri malzemeden üretilmiş kadın kemer seti."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14808,
+          "Product Option Code": "F4805AX.BG26",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "85",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4805AX_NS_BG26_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3422720",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753"
+        },
+        {
+          "excel_satiri": 14809,
+          "Product Option Code": "F4805AX.BG26",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4805AX_NS_BG26_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3422720",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753"
+        },
+        {
+          "excel_satiri": 14810,
+          "Product Option Code": "F4805AX.BG26",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "95",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4805AX_NS_BG26_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3422720",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F4805AX_NS_BG26_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F4805AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Suni Deri 3'lü Günlük Kemer",
+      "kisa_aciklama": "Suni deri malzemeden üretilmiş kadın kemer seti.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_KR1_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4805AX_NS_KR1_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "80",
+          "85",
+          "90",
+          "95",
+          "100"
+        ],
+        "excel": [
+          "90",
+          "95"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_tipi": "Kemer",
+        "urun_aksesuari": "Kemer",
+        "kemer_adedi": "3'lü",
+        "urun_olcusu": "2 cm",
+        "kumas": "Suni Deri",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Suni deri malzemeden üretilmiş kadın kemer seti."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14811,
+          "Product Option Code": "F4805AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4805AX_NS_KR1_01_03.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753"
+        },
+        {
+          "excel_satiri": 14812,
+          "Product Option Code": "F4805AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "95",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4805AX_NS_KR1_01_03.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-3lu-gunluk-kemer-3319753"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F4805AX_NS_KR1_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:46:35+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

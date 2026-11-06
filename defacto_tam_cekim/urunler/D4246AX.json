@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D4246AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4246AXPN614",
+      "renk_kodu": "PN614",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7464,
+          "Product Option Code": "D4246AX.PN614",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4246AX_24HS_PN614_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-baskili-fitilli-kaskorse-atlet-3150295",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-baskili-fitilli-kaskorse-atlet-3150295"
+        },
+        {
+          "excel_satiri": 7465,
+          "Product Option Code": "D4246AX.PN614",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4246AX_24HS_PN614_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-baskili-fitilli-kaskorse-atlet-3150295",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-baskili-fitilli-kaskorse-atlet-3150295"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4246AX_24HS_PN614_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:34:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-fitted-baskili-fitilli-kaskorse-atlet-3150295",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

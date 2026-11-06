@@ -1,0 +1,57 @@
+{
+  "model_kodu": "B9505A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B9505A5WT47",
+      "renk_kodu": "WT47",
+      "renk_adi": "OFF WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2804,
+          "Product Option Code": "B9505A5.WT47",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "New Born",
+          "Class Name": "Woven Set",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "12-18 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9505A5_24SM_WT47_01_02.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B9505A5_24SM_WT47_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

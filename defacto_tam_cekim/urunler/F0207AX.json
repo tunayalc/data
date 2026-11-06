@@ -1,0 +1,297 @@
+{
+  "model_kodu": "F0207AX",
+  "urun_grubu": "Erkek Hırka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-19",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok şık, kumaşı da gayet güzel, fermuarlı metalden yapılmış, aşırı hoşuma giden bir ürün, kesinlikle tavsiye ederim. Fiyatına göre…"
+      },
+      {
+        "tarih": "2025-12-17",
+        "puan": 4.0,
+        "metin": "@Harikaydı, çok beğendik, gayet başarılıydı."
+      },
+      {
+        "tarih": "2026-01-30",
+        "puan": 5.0,
+        "metin": "@gerçekten çok bayıldım kalıbı çok iyi gerçekten öneririm rengi zaten çok güzel Tam sporcu eşyası üstündeki hırkasını mı aldım ikisi…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0207AXGN245",
+      "renk_kodu": "GN245",
+      "renk_adi": "Koyu Yeşil",
+      "renk_hex": "#079507",
+      "urun_adi": "Standart Fit Dik Yaka Fermuarlı Şerit Detaylı Basic Hırka",
+      "kisa_aciklama": "Dik yaka, uzun kollu hırka. Kollarında kontrast şerit paneli bulunur. Önden metal fermuar kapamalıdır.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0207AX_26AU_GN245_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0207AX_26AU_GN245_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0207AX_26AU_GN245_03_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Elastan 4%,Poliester 96%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cep_ve_fermuar_detayi": "Fermuar Cepli",
+        "yasam_tarzi": "Sporcu",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Dik Yaka",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Dik yaka, uzun kollu hırka. Kollarında kontrast şerit paneli bulunur. Önden metal fermuar kapamalıdır."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 1199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13396,
+          "Product Option Code": "F0207AX.GN245",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F0207AX_26AU_GN245_01_02.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451"
+        },
+        {
+          "excel_satiri": 13397,
+          "Product Option Code": "F0207AX.GN245",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F0207AX_26AU_GN245_01_02.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451"
+        },
+        {
+          "excel_satiri": 13398,
+          "Product Option Code": "F0207AX.GN245",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F0207AX_26AU_GN245_01_02.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451"
+        },
+        {
+          "excel_satiri": 13399,
+          "Product Option Code": "F0207AX.GN245",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F0207AX_26AU_GN245_01_02.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451"
+        },
+        {
+          "excel_satiri": 13400,
+          "Product Option Code": "F0207AX.GN245",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F0207AX_26AU_GN245_01_02.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/F0207AX_26AU_GN245_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F0207AXGN536",
+      "renk_kodu": "GN536",
+      "renk_adi": "D.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13401,
+          "Product Option Code": "F0207AX.GN536",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F0207AX_25AU_GN536_01_03.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/standart-fit-dik-yaka-fermuarli-hirka-3416932",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451"
+        },
+        {
+          "excel_satiri": 13402,
+          "Product Option Code": "F0207AX.GN536",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F0207AX_25AU_GN536_01_03.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/standart-fit-dik-yaka-fermuarli-hirka-3416932",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-serit-detayli-basic-hirka-3498451"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F0207AX_25AU_GN536_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:49:07+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/standart-fit-dik-yaka-fermuarli-hirka-3416932",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

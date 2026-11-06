@@ -1,0 +1,116 @@
+{
+  "model_kodu": "H1702AX",
+  "urun_grubu": "Kadın Şal Eşarp",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1702AXBE2",
+      "renk_kodu": "BE2",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Kadın Saten Mavi Fular",
+      "kisa_aciklama": "Saten kumaştan üretilmiş kadın fular. Saten görünümlü, kare formda fular. Kırmızı çerçeveli, çok renkli kültürel motifler ve geometrik desenlere sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-saten-mavi-fular-3430143",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1702AX_26SM_BE2_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1702AX_26SM_BE2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1702AX_26SM_BE2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1702AX_26SM_BE2_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,76cm/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "esarp_sal_olcusu": "70x70",
+        "kumas": "Saten"
+      },
+      "urun_hakkinda": [
+        "Saten kumaştan üretilmiş kadın fular. Saten görünümlü, kare formda fular. Kırmızı çerçeveli, çok renkli kültürel motifler ve geometrik desenlere sahiptir.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25150,
+          "Product Option Code": "H1702AX.BE2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Shawl",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1702AX_26SM_BE2_01_02.jpg",
+          "FabricDetail": "SATIN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-saten-mavi-fular-3430143",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-saten-mavi-fular-3430143"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H1702AX_26SM_BE2_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:18:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "model_kodu": "G6123AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6123AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fit Fermuarlı Mont",
+      "kisa_aciklama": "Sadelikten yana olanlar için tasarlanmış bu regular fit mont, fermuarlı yapısıyla pratik ve kullanışlıdır. Her türlü kıyafetle kolayca kombinleyebileceğiniz bu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-fermuarli-mont-3374875",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6123AX_26SP_ER105_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6123AX_26SP_ER105_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6123AX_26SP_ER105_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6123AX_26SP_ER105_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6123AX_26SP_ER105_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "dis_giyim_urun_grubu": "Mont",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Sadelikten yana olanlar için tasarlanmış bu regular fit mont, fermuarlı yapısıyla pratik ve kullanışlıdır. Her türlü kıyafetle kolayca kombinleyebileceğiniz bu…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19968,
+          "Product Option Code": "G6123AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6123AX_26SP_ER105_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-fermuarli-mont-3374875",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-fermuarli-mont-3374875"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6123AX_26SP_ER105_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:04:00+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

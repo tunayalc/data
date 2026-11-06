@@ -1,0 +1,86 @@
+{
+  "model_kodu": "F6105AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F6105AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15197,
+          "Product Option Code": "F6105AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "CNS",
+          "Class Name": "Vest",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F6105AX_25AU_BK81_01_02.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-ceket-yaka-yelek-3345572",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-ceket-yaka-yelek-3345572"
+        },
+        {
+          "excel_satiri": 15198,
+          "Product Option Code": "F6105AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "CNS",
+          "Class Name": "Vest",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "42",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F6105AX_25AU_BK81_01_02.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-ceket-yaka-yelek-3345572",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-ceket-yaka-yelek-3345572"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F6105AX_25AU_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:53:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-ceket-yaka-yelek-3345572",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

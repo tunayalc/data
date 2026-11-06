@@ -1,0 +1,487 @@
+{
+  "model_kodu": "H2225AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-27",
+        "puan": 5.0,
+        "metin": "@Ürün çok kaliteli ve şık. Günlük kullanımda da özel günlerde de rahatlıkla giyilebilir. Bedeni tam kalıp ve duruşu gayet iyi."
+      },
+      {
+        "tarih": "2026-10-31",
+        "puan": 5.0,
+        "metin": "@Hediye aldım umarım beğenir eminim çok yakışacak ona"
+      },
+      {
+        "tarih": "2026-09-14",
+        "puan": 5.0,
+        "metin": "@kesinlikle mükemmel tam mevsimlik ne kalın ne ince mont kendi bedeninizi alabilirsiniz güzel ürün"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2225AXBG413",
+      "renk_kodu": "BG413",
+      "renk_adi": "Safran Sarı",
+      "renk_hex": "#FFFF00",
+      "urun_adi": "Ultra Yumuşak Regular Fit Polo Yaka Cepli Astarlı Fermuarlı Süet Ceket",
+      "kisa_aciklama": "Ultra yumuşak süet dokusu ve regular fit kalıbıyla gün boyu yüksek konfor sunan bu ceket, astarlı yapısıyla mevsim geçişleri için…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430252",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BG413_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BG413_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BG413_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BG413_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BG413_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "kumas_kalinligi": "İnce",
+        "urun_tipi": "Mont",
+        "kapama_detayi": "Fermuarlı",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek",
+        "astar_bilgisi": "Astarlı",
+        "kumas": "Süet",
+        "dis_giyim_urun_grubu": "Mont"
+      },
+      "urun_hakkinda": [
+        "Ultra yumuşak süet dokusu ve regular fit kalıbıyla gün boyu yüksek konfor sunan bu ceket, astarlı yapısıyla mevsim geçişleri için…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25926,
+          "Product Option Code": "H2225AX.BG413",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "SAFFRON",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_BG413_01_04.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430252",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_BG413_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H2225AXBN324",
+      "renk_kodu": "BN324",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Ultra Yumuşak Regular Fit Polo Yaka Cepli Astarlı Fermuarlı Süet Ceket",
+      "kisa_aciklama": "Ultra yumuşak süet dokusu ve regular fit kalıbıyla gün boyu yüksek konfor sunan bu ceket, astarlı yapısıyla mevsim geçişleri için…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430253",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BN324_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BN324_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BN324_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BN324_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BN324_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BN324_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_BN324_07_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,82cm/75/90",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "astar_bilgisi": "Astarlı",
+        "yaka": "Polo Yaka",
+        "kapama_detayi": "Fermuarlı",
+        "kalip": "Regular Fıt",
+        "dis_giyim_urun_grubu": "Mont",
+        "urun_tipi": "Mont",
+        "cinsiyet": "Erkek",
+        "kumas_kalinligi": "İnce",
+        "kumas": "Süet"
+      },
+      "urun_hakkinda": [
+        "Ultra yumuşak süet dokusu ve regular fit kalıbıyla gün boyu yüksek konfor sunan bu ceket, astarlı yapısıyla mevsim geçişleri için…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2499.99,
+        "sepette_fiyat": 1749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25927,
+          "Product Option Code": "H2225AX.BN324",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_BN324_01_03.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430253",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251"
+        },
+        {
+          "excel_satiri": 25928,
+          "Product Option Code": "H2225AX.BN324",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_BN324_01_03.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430253",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251"
+        },
+        {
+          "excel_satiri": 25929,
+          "Product Option Code": "H2225AX.BN324",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_BN324_01_03.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430253",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_BN324_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H2225AXNV255",
+      "renk_kodu": "NV255",
+      "renk_adi": "Açık Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Ultra Yumuşak Regular Fit Polo Yaka Cepli Astarlı Fermuarlı Süet Ceket",
+      "kisa_aciklama": "Ultra yumuşak süet dokusu ve regular fit kalıbıyla gün boyu yüksek konfor sunan bu ceket, astarlı yapısıyla mevsim geçişleri için…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_NV255_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_NV255_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_NV255_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_NV255_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2225AX_26AU_NV255_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kapama_detayi": "Fermuarlı",
+        "kumas_kalinligi": "İnce",
+        "yaka": "Polo Yaka",
+        "urun_tipi": "Mont",
+        "kalip": "Regular Fıt",
+        "dis_giyim_urun_grubu": "Mont",
+        "kumas": "Süet",
+        "cinsiyet": "Erkek",
+        "astar_bilgisi": "Astarlı"
+      },
+      "urun_hakkinda": [
+        "Ultra yumuşak süet dokusu ve regular fit kalıbıyla gün boyu yüksek konfor sunan bu ceket, astarlı yapısıyla mevsim geçişleri için…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25930,
+          "Product Option Code": "H2225AX.NV255",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "LT.NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_NV255_01_03.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251"
+        },
+        {
+          "excel_satiri": 25931,
+          "Product Option Code": "H2225AX.NV255",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "LT.NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_NV255_01_03.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251"
+        },
+        {
+          "excel_satiri": 25932,
+          "Product Option Code": "H2225AX.NV255",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "LT.NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_NV255_01_03.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251"
+        },
+        {
+          "excel_satiri": 25933,
+          "Product Option Code": "H2225AX.NV255",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "LT.NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_NV255_01_03.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251"
+        },
+        {
+          "excel_satiri": 25934,
+          "Product Option Code": "H2225AX.NV255",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "LT.NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_NV255_01_03.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-regular-fit-polo-yaka-cepli-astarli-fermuarli-suet-ceket-3430251"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H2225AX_26AU_NV255_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:20:21+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

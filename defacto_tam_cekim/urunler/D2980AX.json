@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D2980AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D2980AXPR469",
+      "renk_kodu": "PR469",
+      "renk_adi": "LT.VIOLET",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6949,
+          "Product Option Code": "D2980AX.PR469",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.VIOLET",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D2980AX_24HS_PR469_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF9AFF",
+          "Product Page URL": "https://www.defacto.com/defactofit-standart-fit-v-yaka-sporcu-kisa-kollu-tisort-3159066",
+          "Model Page URL": "https://www.defacto.com/defactofit-standart-fit-v-yaka-sporcu-kisa-kollu-tisort-3159066"
+        },
+        {
+          "excel_satiri": 6950,
+          "Product Option Code": "D2980AX.PR469",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.VIOLET",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D2980AX_24HS_PR469_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF9AFF",
+          "Product Page URL": "https://www.defacto.com/defactofit-standart-fit-v-yaka-sporcu-kisa-kollu-tisort-3159066",
+          "Model Page URL": "https://www.defacto.com/defactofit-standart-fit-v-yaka-sporcu-kisa-kollu-tisort-3159066"
+        },
+        {
+          "excel_satiri": 6951,
+          "Product Option Code": "D2980AX.PR469",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.VIOLET",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D2980AX_24HS_PR469_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF9AFF",
+          "Product Page URL": "https://www.defacto.com/defactofit-standart-fit-v-yaka-sporcu-kisa-kollu-tisort-3159066",
+          "Model Page URL": "https://www.defacto.com/defactofit-standart-fit-v-yaka-sporcu-kisa-kollu-tisort-3159066"
+        },
+        {
+          "excel_satiri": 6952,
+          "Product Option Code": "D2980AX.PR469",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.VIOLET",
+          "SizeDefinition": "XS",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D2980AX_24HS_PR469_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF9AFF",
+          "Product Page URL": "https://www.defacto.com/defactofit-standart-fit-v-yaka-sporcu-kisa-kollu-tisort-3159066",
+          "Model Page URL": "https://www.defacto.com/defactofit-standart-fit-v-yaka-sporcu-kisa-kollu-tisort-3159066"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D2980AX_24HS_PR469_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:32:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/defactofit-standart-fit-v-yaka-sporcu-kisa-kollu-tisort-3159066",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

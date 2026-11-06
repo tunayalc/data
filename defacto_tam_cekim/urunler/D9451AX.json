@@ -1,0 +1,311 @@
+{
+  "model_kodu": "D9451AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 17,
+    "yorum_sayisi": 17,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-23",
+        "puan": 5.0,
+        "metin": "@Çok iyi çok begendim"
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Kumaşı güzel. 84 kilo için L beden uydu."
+      },
+      {
+        "tarih": "2025-08-03",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9451AXGN1217",
+      "renk_kodu": "GN1217",
+      "renk_adi": "Açık Yeşil",
+      "renk_hex": "#B4EC9A",
+      "urun_adi": "Regular Fit Beli Bağcıklı Dokulu Bermuda Şort",
+      "kisa_aciklama": "Regular Fit Bermuda Şort, şık ve rahat tasarımıyla yazın vazgeçilmezi olacak bir seçenek. Nefes alabilen kumaşı ve regular fit kesimi,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3207917",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GN1217_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Elastan 2%,Poliester 98%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Bermuda Şort, şık ve rahat tasarımıyla yazın vazgeçilmezi olacak bir seçenek. Nefes alabilen kumaşı ve regular fit kesimi,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9649,
+          "Product Option Code": "D9451AX.GN1217",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9451AX_25SP_GN1217_01_04.jpg",
+          "FabricDetail": "2TH+PIQUE",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3207917",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3207917"
+        },
+        {
+          "excel_satiri": 9650,
+          "Product Option Code": "D9451AX.GN1217",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9451AX_25SP_GN1217_01_04.jpg",
+          "FabricDetail": "2TH+PIQUE",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3207917",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3207917"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D9451AX_25SP_GN1217_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D9451AXGR89",
+      "renk_kodu": "GR89",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Regular Fit Beli Bağcıklı Dokulu Bermuda Şort",
+      "kisa_aciklama": "Regular Fit Bermuda Şort, şık ve rahat tasarımıyla yazın vazgeçilmezi olacak bir seçenek. Nefes alabilen kumaşı ve regular fit kesimi,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3212290",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9451AX_25SP_GR89_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Elastan 2%,Poliester 98%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Bermuda Şort, şık ve rahat tasarımıyla yazın vazgeçilmezi olacak bir seçenek. Nefes alabilen kumaşı ve regular fit kesimi,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9651,
+          "Product Option Code": "D9451AX.GR89",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9451AX_25SP_GR89_01_04.jpg",
+          "FabricDetail": "2TH+PIQUE",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3212290",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3207917"
+        },
+        {
+          "excel_satiri": 9652,
+          "Product Option Code": "D9451AX.GR89",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9451AX_25SP_GR89_01_04.jpg",
+          "FabricDetail": "2TH+PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3212290",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3207917"
+        },
+        {
+          "excel_satiri": 9653,
+          "Product Option Code": "D9451AX.GR89",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "36",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9451AX_25SP_GR89_01_04.jpg",
+          "FabricDetail": "2TH+PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3212290",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3207917"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D9451AX_25SP_GR89_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D9451AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9648,
+          "Product Option Code": "D9451AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9451AX_25SP_BK27_01_04.jpg",
+          "FabricDetail": "2TH+PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-beli-bagcikli-dokulu-bermuda-sort-3207917"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D9451AX_25SP_BK27_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:31:52+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

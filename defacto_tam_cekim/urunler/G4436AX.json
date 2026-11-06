@@ -1,0 +1,116 @@
+{
+  "model_kodu": "G4436AX",
+  "urun_grubu": "Erkek Kemer",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4436AXBK26",
+      "renk_kodu": "BK26",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Dikdörtgen Toka Suni Deri Günlük Kemer",
+      "kisa_aciklama": "Erkek Dikdörtgen Toka Suni Deri Günlük Kemer, şık dikdörtgen toka tasarımıyla klasik bir görünüm sunar. Dayanıklı suni deri yapısı, günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-gunluk-kemer-3359703",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4436AX_NS_BK26_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4436AX_NS_BK26_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4436AX_NS_BK26_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "90",
+          "100",
+          "110"
+        ],
+        "excel": [
+          "90"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_olcusu": "4 cm",
+        "cinsiyet": "Erkek",
+        "toka_sekli": "Dikdörtgen Toka",
+        "urun_tipi": "Kemer",
+        "kumas": "Suni Deri"
+      },
+      "urun_hakkinda": [
+        "Erkek Dikdörtgen Toka Suni Deri Günlük Kemer, şık dikdörtgen toka tasarımıyla klasik bir görünüm sunar. Dayanıklı suni deri yapısı, günlük…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19196,
+          "Product Option Code": "G4436AX.BK26",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4436AX_NS_BK26_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-gunluk-kemer-3359703",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-gunluk-kemer-3359703"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G4436AX_NS_BK26_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:03:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

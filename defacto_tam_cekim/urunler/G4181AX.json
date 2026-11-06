@@ -1,0 +1,122 @@
+{
+  "model_kodu": "G4181AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4181AXNM84",
+      "renk_kodu": "NM84",
+      "renk_adi": "Mavi Gri",
+      "renk_hex": "#5B686D",
+      "urun_adi": "%100 Pamuk Straıght Fıt Bermuda",
+      "kisa_aciklama": "Düz kesim denim bermuda şort. Yıkamalı görünüm. Ön cepler ve ham paça detayı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-straight-fit-bermuda-3466603",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4181AX_26SM_NM84_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4181AX_26SM_NM84_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4181AX_26SM_NM84_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4181AX_26SM_NM84_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4181AX_26SM_NM84_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4181AX_26SM_NM84_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4181AX_26SM_NM84_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,87cm - 100/78/98",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Straıght Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Düz kesim denim bermuda şort. Yıkamalı görünüm. Ön cepler ve ham paça detayı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19053,
+          "Product Option Code": "G4181AX.NM84",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BLUE GREY",
+          "SizeDefinition": "30",
+          "Fit": "STRAIGHT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4181AX_26SM_NM84_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#5B686D",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-straight-fit-bermuda-3466603",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-straight-fit-bermuda-3466603"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G4181AX_26SM_NM84_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:02:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

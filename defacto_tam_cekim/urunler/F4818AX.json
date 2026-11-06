@@ -1,0 +1,115 @@
+{
+  "model_kodu": "F4818AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 15,
+    "yorum_sayisi": 15,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Güzel bir ürün."
+      },
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@İndirimdeyken aldım."
+      },
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@Çok güzel, bayağı beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F4818AXGR2",
+      "renk_kodu": "GR2",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Erkek Dikişsiz 5'li Bambu Patik Çorap",
+      "kisa_aciklama": "Yumuşak dokulu bambu kumaştan üretilen dikişsiz 5’li erkek patik çorap, gün boyu konfor ve nefes alabilirlik sunar. Dikişsiz yapısı sayesinde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikissiz-5li-bambu-patik-corap-3316305",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4818AX_NS_GR2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4818AX_NS_GR2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4818AX_NS_GR2_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "39-42",
+          "41-44",
+          "43-46"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 28%,Elastan 2%,Viskoz 70%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Çorap",
+        "corap_tipi": "Patik Çorap",
+        "takim_icerigi": "5'li",
+        "cinsiyet": "Erkek",
+        "kumas": "Bambu"
+      },
+      "urun_hakkinda": [
+        "Yumuşak dokulu bambu kumaştan üretilen dikişsiz 5’li erkek patik çorap, gün boyu konfor ve nefes alabilirlik sunar. Dikişsiz yapısı sayesinde…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14813,
+          "Product Option Code": "F4818AX.GR2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4818AX_NS_GR2_01_01.jpg",
+          "FabricDetail": "Bamboo",
+          "Toplam": 12,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikissiz-5li-bambu-patik-corap-3316305",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikissiz-5li-bambu-patik-corap-3316305"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F4818AX_NS_GR2_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:52:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

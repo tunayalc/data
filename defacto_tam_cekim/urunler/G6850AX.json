@@ -1,0 +1,119 @@
+{
+  "model_kodu": "G6850AX",
+  "urun_grubu": "Kadın Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 80.0,
+      "tam_oldu": 20.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-29",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-14",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-14",
+        "puan": 1.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6850AXNV131",
+      "renk_kodu": "NV131",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Slim Fit V Yaka Kazak",
+      "kisa_aciklama": "Slim fit dar kesim V yaka kazak, vücuda oturan tasarımıyla şık ve modern bir görünüm sunar. Yumuşak ve esnek kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-v-yaka-kazak-3375498",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6850AX_26SP_NV131_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6850AX_26SP_NV131_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6850AX_26SP_NV131_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6850AX_26SP_NV131_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6850AX_26SP_NV131_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6850AX_26SP_NV131_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,77cm - 78/63/90",
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "triko_kalinligi": "Orta Kalın",
+        "urun_tipi": "Kazak",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "V Yaka",
+        "cinsiyet": "Kadın",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Slim fit dar kesim V yaka kazak, vücuda oturan tasarımıyla şık ve modern bir görünüm sunar. Yumuşak ve esnek kumaşı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1099.99,
+        "sepette_fiyat": 439.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20704,
+          "Product Option Code": "G6850AX.NV131",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Pullover",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6850AX_26SP_NV131_01_02.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 1,
+          "Initial Price Value": 1099.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-ma/slim-fit-v-yaka-kazak-3375498",
+          "Model Page URL": "https://www.defacto.com/en-ma/slim-fit-v-yaka-kazak-3375498"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6850AX_26SP_NV131_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:07:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

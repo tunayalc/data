@@ -1,0 +1,64 @@
+{
+  "model_kodu": "Z8525AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z8525AZKH496",
+      "renk_kodu": "KH496",
+      "renk_adi": "Khaki",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 49074,
+          "Product Option Code": "Z8525AZ.KH496",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Young",
+          "Class Name": "Vest",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "40",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/Z8525AZ_24SM_KH496_01_01.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-keten-karisimli-yelek-3104411"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/Z8525AZ_24SM_KH496_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:57:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-keten-karisimli-yelek-3104411",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

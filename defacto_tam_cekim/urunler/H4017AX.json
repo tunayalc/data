@@ -1,0 +1,93 @@
+{
+  "model_kodu": "H4017AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4017AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Berrin Özkan x Defacto 4'lü Karma Mavi Bileklik",
+      "kisa_aciklama": "Kadınlar için dört adet boncuk bileklikten oluşan set. Mavi, turkuaz ve karışık pastel tonlarda boncuklar ile metal detaylar içerir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/berrin-ozkan-x-defacto-4lu-karma-mavi-bileklik-3439672",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4017AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4017AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4017AX_NS_KR1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4017AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4017AX_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Çinko 60%,Pirinç 40%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Bileklik"
+      },
+      "urun_hakkinda": [
+        "Kadınlar için dört adet boncuk bileklikten oluşan set. Mavi, turkuaz ve karışık pastel tonlarda boncuklar ile metal detaylar içerir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28081,
+          "Product Option Code": "H4017AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H4017AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "Plastic",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/berrin-ozkan-x-defacto-4lu-karma-mavi-bileklik-3439672",
+          "Model Page URL": "https://www.defacto.com.tr/berrin-ozkan-x-defacto-4lu-karma-mavi-bileklik-3439672"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H4017AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:24:20+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

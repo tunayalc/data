@@ -1,0 +1,130 @@
+{
+  "model_kodu": "H3890AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3890AXAR216",
+      "renk_kodu": "AR216",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "30",
+          "32",
+          "34",
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27919,
+          "Product Option Code": "H3890AX.AR216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H3890AX_26AU_AR216_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-fit-normal-bel-genis-paca-pantolon-3597508",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-fit-normal-bel-genis-paca-pantolon-3597508"
+        },
+        {
+          "excel_satiri": 27920,
+          "Product Option Code": "H3890AX.AR216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "32",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H3890AX_26AU_AR216_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-fit-normal-bel-genis-paca-pantolon-3597508",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-fit-normal-bel-genis-paca-pantolon-3597508"
+        },
+        {
+          "excel_satiri": 27921,
+          "Product Option Code": "H3890AX.AR216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "34",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H3890AX_26AU_AR216_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-fit-normal-bel-genis-paca-pantolon-3597508",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-fit-normal-bel-genis-paca-pantolon-3597508"
+        },
+        {
+          "excel_satiri": 27922,
+          "Product Option Code": "H3890AX.AR216",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "36",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H3890AX_26AU_AR216_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-fit-normal-bel-genis-paca-pantolon-3597508",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baggy-fit-fit-normal-bel-genis-paca-pantolon-3597508"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H3890AX_26AU_AR216_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:23:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3597508",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

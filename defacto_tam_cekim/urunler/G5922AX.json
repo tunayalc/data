@@ -1,0 +1,163 @@
+{
+  "model_kodu": "G5922AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-25",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-03-24",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-03-11",
+        "puan": 5.0,
+        "metin": "@flanel, esnek gömlek"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G5922AXGR184",
+      "renk_kodu": "GR184",
+      "renk_adi": "Açık Gri",
+      "renk_hex": "#A2A2A2",
+      "urun_adi": "Regular Fit Flanel Uzun Kollu Gömlek",
+      "kisa_aciklama": "Regular Fit Flanel Uzun Kollu Gömlek, yumuşak flanel kumaşı ve rahat regular fit kesimiyle gün boyu konfor sağlar. Klasik tasarımı,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/uzun-kollu-gomlek-3360671",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G5922AX_25WN_GR184_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5922AX_25WN_GR184_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5922AX_25WN_GR184_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5922AX_25WN_GR184_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5922AX_25WN_GR184_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/72/92",
+        "ana_kumas_icerigi": "Akrilik 3%,Pamuk 20%,Viskoz 19%,Poliester 58%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "kumas": "Flanel",
+        "yaka": "Gömlek Yaka",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Flanel Uzun Kollu Gömlek, yumuşak flanel kumaşı ve rahat regular fit kesimiyle gün boyu konfor sağlar. Klasik tasarımı,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 389.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19890,
+          "Product Option Code": "G5922AX.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G5922AX_25WN_GR184_01_01.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/uzun-kollu-gomlek-3360671",
+          "Model Page URL": "https://www.defacto.com.tr/uzun-kollu-gomlek-3360671"
+        },
+        {
+          "excel_satiri": 19891,
+          "Product Option Code": "G5922AX.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G5922AX_25WN_GR184_01_01.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/uzun-kollu-gomlek-3360671",
+          "Model Page URL": "https://www.defacto.com.tr/uzun-kollu-gomlek-3360671"
+        },
+        {
+          "excel_satiri": 19892,
+          "Product Option Code": "G5922AX.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G5922AX_25WN_GR184_01_01.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/uzun-kollu-gomlek-3360671",
+          "Model Page URL": "https://www.defacto.com.tr/uzun-kollu-gomlek-3360671"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G5922AX_25WN_GR184_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:05:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

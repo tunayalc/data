@@ -1,0 +1,108 @@
+{
+  "model_kodu": "D1308AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1308AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6430,
+          "Product Option Code": "D1308AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1308AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-balloon-fit-kolsuz-elbise-3139564",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-balloon-fit-kolsuz-elbise-3139564"
+        },
+        {
+          "excel_satiri": 6431,
+          "Product Option Code": "D1308AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1308AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-balloon-fit-kolsuz-elbise-3139564",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-balloon-fit-kolsuz-elbise-3139564"
+        },
+        {
+          "excel_satiri": 6432,
+          "Product Option Code": "D1308AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1308AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-balloon-fit-kolsuz-elbise-3139564",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-balloon-fit-kolsuz-elbise-3139564"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1308AX_24SM_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:30:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-balloon-fit-kolsuz-elbise-3139564",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

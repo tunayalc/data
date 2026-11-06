@@ -1,0 +1,114 @@
+{
+  "model_kodu": "I3783AX",
+  "urun_grubu": "Kadın Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3783AXNM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "Mavi",
+      "renk_hex": "#30D5C8",
+      "urun_adi": "Kadın Nakışlı Jean Balıkçı Şapka",
+      "kisa_aciklama": "Açık mavi tonlarında, çiçek nakışı detaylı pamuklu jean balıkçı şapkası.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-nakisli-jean-balikci-sapka-3503943",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3783AX_26SM_NM28_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3783AX_26SM_NM28_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3783AX_26SM_NM28_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 2%,Pamuk 57%,Viskoz 8%,Poliester 24%,Naylon 1%,Lyocell 8%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "urun_olcusu": "56 cm",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Açık mavi tonlarında, çiçek nakışı detaylı pamuklu jean balıkçı şapkası.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42017,
+          "Product Option Code": "I3783AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I3783AX_26SM_NM28_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-nakisli-jean-balikci-sapka-3503943",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-nakisli-jean-balikci-sapka-3503943"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I3783AX_26SM_NM28_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:01:18+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

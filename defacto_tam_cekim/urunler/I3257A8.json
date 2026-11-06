@@ -1,0 +1,97 @@
+{
+  "model_kodu": "I3257A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3257A8BE2",
+      "renk_kodu": "BE2",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41306,
+          "Product Option Code": "I3257A8.BE2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Wallets",
+          "LifeStyle": "Casual",
+          "Class Name": "Wallet",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3257A8_NS_BE2_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3257A8_NS_BE2_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I3257A8KH3",
+      "renk_kodu": "KH3",
+      "renk_adi": "Khaki",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41307,
+          "Product Option Code": "I3257A8.KH3",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Wallets",
+          "LifeStyle": "Casual",
+          "Class Name": "Wallet",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3257A8_NS_KH3_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3257A8_NS_KH3_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "model_kodu": "G9822AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-08",
+        "puan": 5.0,
+        "metin": "@Harika bir küpe cok kaliteli duruyor"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G9822AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın İncili Küpe",
+      "kisa_aciklama": "Altın rengi metal küpe. Dokulu yüzeyli parçalar ve alt kısmında düzensiz şekilli inci detayı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-incili-kupe-3410217",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G9822AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9822AX_NS_GD1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "2 cm",
+        "taki_tipi": "Küpe",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Altın rengi metal küpe. Dokulu yüzeyli parçalar ve alt kısmında düzensiz şekilli inci detayı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23402,
+          "Product Option Code": "G9822AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G9822AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-incili-kupe-3410217",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-incili-kupe-3410217"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G9822AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:14:24+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

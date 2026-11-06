@@ -1,0 +1,101 @@
+{
+  "model_kodu": "G9279AX",
+  "urun_grubu": "Erkek Boxer",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G9279AXBE785",
+      "renk_kodu": "BE785",
+      "renk_adi": "Petrol",
+      "renk_hex": "#226365",
+      "urun_adi": "Regular Fıt Şal Desenli 3'lü Boxer",
+      "kisa_aciklama": "Modern ve dengeli bir silüet sunan Regular Fit kesimiyle gün boyu konforu şıklıkla birleştirir. Pamuklu esnek dokusu ve geleneksel şal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-3405169",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G9279AX_26SP_BE785_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9279AX_26SP_BE785_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9279AX_26SP_BE785_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9279AX_26SP_BE785_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9279AX_26SP_BE785_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9279AX_26SP_BE785_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9279AX_26SP_BE785_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Erkek",
+        "ic_giyim_kategori": "Boxer",
+        "desen": "Şal Desenli"
+      },
+      "urun_hakkinda": [
+        "Modern ve dengeli bir silüet sunan Regular Fit kesimiyle gün boyu konforu şıklıkla birleştirir. Pamuklu esnek dokusu ve geleneksel şal…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22961,
+          "Product Option Code": "G9279AX.BE785",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "PETROL",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G9279AX_26SP_BE785_01_02.jpg",
+          "FabricDetail": "36/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#226365",
+          "Product Page URL": "https://www.defacto.com/fr-ma/regular-fit-3405169",
+          "Model Page URL": "https://www.defacto.com/fr-ma/regular-fit-3405169"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G9279AX_26SP_BE785_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:13:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "model_kodu": "L4885AZ",
+  "urun_grubu": "Erkek İç Giyim Üst",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 146,
+    "yorum_sayisi": 146,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 14.5,
+      "tam_oldu": 82.3,
+      "buyuk_geldi": 3.2
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2021-10-03",
+        "puan": 5.0,
+        "metin": "@gayet güzel"
+      },
+      {
+        "tarih": "2022-03-27",
+        "puan": 5.0,
+        "metin": "@Tam razmer oldu. ürünü aldıq. Çox yaxşıdı. . Razmer tam oldu."
+      },
+      {
+        "tarih": "2023-05-31",
+        "puan": 4.0,
+        "metin": "@idare eder"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "L4885AZBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slım Fıt Bisiklet Yaka Pamuklu Basic Tişört",
+      "kisa_aciklama": "Pamuklu kumaştan üretilen slim fit bisiklet yaka basic tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/L4885AZ_26AU_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/L4885AZ_26AU_BK27_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Slım Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilen slim fit bisiklet yaka basic tişört.",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45802,
+          "Product Option Code": "L4885AZ.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "3XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/L4885AZ_26SP_BK27_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45803,
+          "Product Option Code": "L4885AZ.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/L4885AZ_25SP_BK27_01_03.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": -1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45804,
+          "Product Option Code": "L4885AZ.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/L4885AZ_26SP_BK27_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 11,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45805,
+          "Product Option Code": "L4885AZ.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/L4885AZ_26SP_BK27_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/L4885AZ_26SP_BK27_01_02.jpg",
+        "https://image.defacto.com.tr/product/25SP/L4885AZ_25SP_BK27_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "L4885AZWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Slım Fıt Bisiklet Yaka Pamuklu Basic Tişört",
+      "kisa_aciklama": "Pamuklu kumaştan üretilen slim fit bisiklet yaka basic tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513152",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/L4885AZ_26AU_WT34_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/L4885AZ_26AU_WT34_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilen slim fit bisiklet yaka basic tişört.",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45809,
+          "Product Option Code": "L4885AZ.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "3XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/L4885AZ_25SP_WT34_01_03.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 69.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513152",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45810,
+          "Product Option Code": "L4885AZ.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "3XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/L4885AZ_26SP_WT34_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 69.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513152",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45811,
+          "Product Option Code": "L4885AZ.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/L4885AZ_25AU_WT34_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 2,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 69.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513152",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45812,
+          "Product Option Code": "L4885AZ.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/L4885AZ_26SP_WT34_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 69.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513152",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45813,
+          "Product Option Code": "L4885AZ.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/L4885AZ_26SP_WT34_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 69.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513152",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45814,
+          "Product Option Code": "L4885AZ.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/L4885AZ_26SP_WT34_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 69.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513152",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/L4885AZ_25SP_WT34_01_03.jpg",
+        "https://image.defacto.com.tr/product/26SP/L4885AZ_26SP_WT34_01_02.jpg",
+        "https://image.defacto.com.tr/product/25AU/L4885AZ_25AU_WT34_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "L4885AZGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3XL",
+          "L",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45806,
+          "Product Option Code": "L4885AZ.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "3XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/L4885AZ_25SP_GR210_01_01.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 89.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45807,
+          "Product Option Code": "L4885AZ.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/L4885AZ_25SP_GR210_01_01.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 89.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        },
+        {
+          "excel_satiri": 45808,
+          "Product Option Code": "L4885AZ.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/L4885AZ_25SP_GR210_01_01.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 89.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-pamuklu-basic-tisort-3513151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/L4885AZ_25SP_GR210_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:10:32+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

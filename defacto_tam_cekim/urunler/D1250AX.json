@@ -1,0 +1,101 @@
+{
+  "model_kodu": "D1250AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1250AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "OFF WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6403,
+          "Product Option Code": "D1250AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "34",
+          "Fit": "BERMUDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1250AX_24SM_WT32_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6404,
+          "Product Option Code": "D1250AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "36",
+          "Fit": "BERMUDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1250AX_24SM_WT32_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 6,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6405,
+          "Product Option Code": "D1250AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "38",
+          "Fit": "BERMUDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1250AX_24SM_WT32_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1250AX_24SM_WT32_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

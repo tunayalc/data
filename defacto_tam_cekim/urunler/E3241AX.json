@@ -1,0 +1,780 @@
+{
+  "model_kodu": "E3241AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 111,
+    "yorum_sayisi": 111,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 23.8,
+      "tam_oldu": 76.2,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-28",
+        "puan": 5.0,
+        "metin": "@178 cm 87kg için L beden tam oldu. Yumuşak dokulu kumaşı güzel."
+      },
+      {
+        "tarih": "2025-04-10",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-06-09",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E3241AXBE338",
+      "renk_kodu": "BE338",
+      "renk_adi": "Royal",
+      "renk_hex": "#4169E1",
+      "urun_adi": "Standart Fit Polo Yaka Kısa Kollu Triko Tişört",
+      "kisa_aciklama": "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3406610",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BE338_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BE338_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BE338_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BE338_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BE338_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Viskoz 58%,Poliester 42%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kumas": "Triko",
+        "kalip": "Standart Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11075,
+          "Product Option Code": "E3241AX.BE338",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E3241AX_26SP_BE338_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 5,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3406610",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3208521"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/E3241AX_26SP_BE338_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E3241AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Standart Fit Polo Yaka Kısa Kollu Triko Tişört",
+      "kisa_aciklama": "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3406611",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_WT32_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_WT32_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_WT32_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_WT32_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_WT32_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "S",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Viskoz 58%,Poliester 42%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Triko",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "triko_kalinligi": "İnce Kalınlık",
+        "yaka": "Polo Yaka",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11076,
+          "Product Option Code": "E3241AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E3241AX_26SP_WT32_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3406611",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3208521"
+        },
+        {
+          "excel_satiri": 11077,
+          "Product Option Code": "E3241AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E3241AX_26SP_WT32_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3406611",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3208521"
+        },
+        {
+          "excel_satiri": 11078,
+          "Product Option Code": "E3241AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E3241AX_26SP_WT32_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3406611",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3208521"
+        },
+        {
+          "excel_satiri": 11079,
+          "Product Option Code": "E3241AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E3241AX_26SP_WT32_01_01.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3406611",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3208521"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/E3241AX_26SP_WT32_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E3241AXBE571",
+      "renk_kodu": "BE571",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Standart Fit Polo Yaka Kısa Kollu Triko Tişört",
+      "kisa_aciklama": "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3208521",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BE571_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BE571_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BE571_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BE571_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BE571_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BE571_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BE571_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 98/79/97",
+        "ana_kumas_icerigi": "Viskoz 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Standart Fıt",
+        "yaka": "Polo Yaka",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kol_boyu": "Kısa Kollu",
+        "kumas": "Triko"
+      },
+      "urun_hakkinda": [
+        "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E3241AXBN340",
+      "renk_kodu": "BN340",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Standart Fit Polo Yaka Kısa Kollu Triko Tişört",
+      "kisa_aciklama": "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3406608",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BN340_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BN340_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BN340_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BN340_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BN340_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BN340_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Viskoz 58%,Poliester 42%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Polo Yaka",
+        "kalip": "Standart Fıt",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kumas": "Triko"
+      },
+      "urun_hakkinda": [
+        "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E3241AXBG129",
+      "renk_kodu": "BG129",
+      "renk_adi": "Açık Vizon",
+      "renk_hex": "#A98F7F",
+      "urun_adi": "Standart Fit Polo Yaka Kısa Kollu Triko Tişört",
+      "kisa_aciklama": "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3208773",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BG129_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BG129_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BG129_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BG129_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BG129_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BG129_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Viskoz 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Triko",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E3241AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Standart Fit Polo Yaka Kısa Kollu Triko Tişört",
+      "kisa_aciklama": "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3406609",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_26SP_BK27_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Viskoz 58%,Poliester 42%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Polo Yaka",
+        "kumas": "Triko",
+        "kalip": "Standart Fıt",
+        "cinsiyet": "Erkek",
+        "triko_kalinligi": "İnce Kalınlık"
+      },
+      "urun_hakkinda": [
+        "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E3241AXBN496",
+      "renk_kodu": "BN496",
+      "renk_adi": "Tarçın",
+      "renk_hex": "#C3862A",
+      "urun_adi": "Standart Fit Polo Yaka Kısa Kollu Triko Tişört",
+      "kisa_aciklama": "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3209928",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BN496_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BN496_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BN496_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BN496_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BN496_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BN496_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_BN496_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 98/79/97",
+        "ana_kumas_icerigi": "Viskoz 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "yaka": "Polo Yaka",
+        "kumas": "Triko",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E3241AXGR192",
+      "renk_kodu": "GR192",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Standart Fit Polo Yaka Kısa Kollu Triko Tişört",
+      "kisa_aciklama": "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-kisa-kollu-triko-tisort-3212646",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_GR192_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_GR192_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_GR192_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_GR192_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_GR192_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E3241AX_25SP_GR192_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Viskoz 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Polo Yaka",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kumas": "Triko",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart Fit Kısa Kollu Triko Polo Tişört, şıklığı ve rahatlığı bir arada sunar. Hafif triko kumaşı ve klasik polo yaka…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:35:00+03:00",
+    "denenen_sayfa": 8,
+    "dogrulanan_renk": 8
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "model_kodu": "G5923A5",
+  "urun_grubu": "Erkek Bebek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-22",
+        "puan": 5.0,
+        "metin": "@fiyat performans ürünü"
+      },
+      {
+        "tarih": "2026-07-10",
+        "puan": 5.0,
+        "metin": "@guzel kaliteli urunler"
+      },
+      {
+        "tarih": "2026-10-13",
+        "puan": 5.0,
+        "metin": "@duruşu iyi. Hediye aldım. dokusunu beğendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G5923A5ER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Oversize Baskılı Pike Tişört Erkek Bebek",
+      "kisa_aciklama": "%100 Pamuk erkek bebek oversize baskılı pike tişört, nefes alabilen yumuşak pike kumaşı ve rahat oversize kesimiyle miniklerin gün boyu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-oversize-baskili-pike-tisort-erkek-bebek-3377663",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G5923A5_26SM_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5923A5_26SM_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5923A5_26SM_ER105_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "9-12 Ay (80cm)",
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "12-18 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Oversıze",
+        "kumas": "Pike",
+        "kol_boyu": "Kısa Kollu",
+        "desen": "Slogan Baskılı",
+        "cinsiyet": "Erkek Bebek"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk erkek bebek oversize baskılı pike tişört, nefes alabilen yumuşak pike kumaşı ve rahat oversize kesimiyle miniklerin gün boyu…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19893,
+          "Product Option Code": "G5923A5.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "12-18 M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G5923A5_26SM_ER105_01_01.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-baskili-pike-tisort-erkek-bebek-3377663",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-baskili-pike-tisort-erkek-bebek-3377663"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G5923A5_26SM_ER105_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:03:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

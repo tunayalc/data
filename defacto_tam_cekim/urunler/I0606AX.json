@@ -1,0 +1,184 @@
+{
+  "model_kodu": "I0606AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-05",
+        "puan": 5.0,
+        "metin": "@Kalıbı büyük paça lastikleri gevşek durdu ayak altına kayıyor ama güzel XS stoklarda ne zaman olucak iade edip onu alıcam"
+      },
+      {
+        "tarih": "2026-09-21",
+        "puan": 5.0,
+        "metin": "@Çok güzel beğendim"
+      },
+      {
+        "tarih": "2026-10-12",
+        "puan": 5.0,
+        "metin": "@Çok güzel bayıldımmm"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0606AXWT84",
+      "renk_kodu": "WT84",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Balloon Fit Normal Bel Pantolon",
+      "kisa_aciklama": "Balloon Pantolon, hacimli kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca kombinleyebileceğiniz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/balloon-fit-normal-bel-pantolon-3486136",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0606AX_26HS_WT84_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0606AX_26HS_WT84_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0606AX_26HS_WT84_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0606AX_26HS_WT84_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "36",
+          "38",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 59%,Viskoz 41%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Balloon Fıt",
+        "urun_tipi": "Pantolon",
+        "cep_ve_fermuar_detayi": "Cep Detaylı"
+      },
+      "urun_hakkinda": [
+        "Balloon Pantolon, hacimli kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca kombinleyebileceğiniz…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38038,
+          "Product Option Code": "I0606AX.WT84",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "36",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I0606AX_26HS_WT84_01_02.jpg",
+          "FabricDetail": "VISCOSE-COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-normal-bel-pantolon-3486136",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-normal-bel-pantolon-3486136"
+        },
+        {
+          "excel_satiri": 38039,
+          "Product Option Code": "I0606AX.WT84",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "38",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I0606AX_26HS_WT84_01_02.jpg",
+          "FabricDetail": "VISCOSE-COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-normal-bel-pantolon-3486136",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-normal-bel-pantolon-3486136"
+        },
+        {
+          "excel_satiri": 38040,
+          "Product Option Code": "I0606AX.WT84",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "40",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I0606AX_26HS_WT84_01_02.jpg",
+          "FabricDetail": "VISCOSE-COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-normal-bel-pantolon-3486136",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-normal-bel-pantolon-3486136"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I0606AX_26HS_WT84_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:41:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

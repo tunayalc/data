@@ -1,0 +1,104 @@
+{
+  "model_kodu": "D0035AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D0035AXBR115",
+      "renk_kodu": "BR115",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5938,
+          "Product Option Code": "D0035AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/D0035AX_24WN_BR115_01_03.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/basic-triko-kazak-3201437"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/D0035AX_24WN_BR115_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D0035AXYL238",
+      "renk_kodu": "YL238",
+      "renk_adi": "LT.YELLOW",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5939,
+          "Product Option Code": "D0035AX.YL238",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/D0035AX_24WN_YL238_01_03.jpg",
+          "FabricDetail": "WOOL BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com/basic-triko-kazak-3201437",
+          "Model Page URL": "https://www.defacto.com/basic-triko-kazak-3201437"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/D0035AX_24WN_YL238_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:29:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/basic-triko-kazak-3201437",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

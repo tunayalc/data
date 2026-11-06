@@ -1,0 +1,521 @@
+{
+  "model_kodu": "H3488A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3488A8BG123",
+      "renk_kodu": "BG123",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Regular Fıt Keten Karışımlı Şort Erkek Çocuk",
+      "kisa_aciklama": "Keten karışımlı kumaştan üretilmiş regular fit erkek çocuk şort.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446994",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_BG123_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_BG123_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_BG123_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_BG123_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_BG123_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "7/8 Y",
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,30cm - 30/40/30",
+        "ana_kumas_icerigi": "Pamuk 85%,Keten 15%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek Çocuk",
+        "kalip": "Regular Fıt",
+        "urun_tipi": "Şort",
+        "paca_detayi": "Düz Paça",
+        "kumas": "Keten Karışımlı"
+      },
+      "urun_hakkinda": [
+        "Keten karışımlı kumaştan üretilmiş regular fit erkek çocuk şort."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27309,
+          "Product Option Code": "H3488A8.BG123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_BG123_01_02.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446994",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        },
+        {
+          "excel_satiri": 27310,
+          "Product Option Code": "H3488A8.BG123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_BG123_01_02.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446994",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_BG123_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H3488A8GN740",
+      "renk_kodu": "GN740",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "Regular Fıt Keten Karışımlı Şort Erkek Çocuk",
+      "kisa_aciklama": "Regular Fıt Keten Karışımlı Erkek Çocuk Şort",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_GN740_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_GN740_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_GN740_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_GN740_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_GN740_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden",
+        "ana_kumas_icerigi": "Pamuk 85%,Keten 15%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek Çocuk",
+        "kalip": "Regular Fıt",
+        "kumas": "Keten Karışımlı",
+        "paca_detayi": "Düz Paça",
+        "urun_tipi": "Şort"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Keten Karışımlı Erkek Çocuk Şort"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27311,
+          "Product Option Code": "H3488A8.GN740",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_GN740_01_03.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        },
+        {
+          "excel_satiri": 27312,
+          "Product Option Code": "H3488A8.GN740",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_GN740_01_03.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        },
+        {
+          "excel_satiri": 27313,
+          "Product Option Code": "H3488A8.GN740",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_GN740_01_03.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        },
+        {
+          "excel_satiri": 27314,
+          "Product Option Code": "H3488A8.GN740",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_GN740_01_03.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_GN740_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H3488A8NM35",
+      "renk_kodu": "NM35",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Regular Fıt Keten Karışımlı Şort Erkek Çocuk",
+      "kisa_aciklama": "Keten karışımlı kumaştan üretilmiş regular fit erkek çocuk şort.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446993",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_NM35_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_NM35_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_NM35_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_NM35_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3488A8_26HS_NM35_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "5/6 Y",
+          "7/8 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,30cm - 30/40/30",
+        "ana_kumas_icerigi": "Pamuk 85%,Keten 15%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Keten Karışımlı",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek Çocuk",
+        "urun_tipi": "Şort",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Keten karışımlı kumaştan üretilmiş regular fit erkek çocuk şort."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27315,
+          "Product Option Code": "H3488A8.NM35",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_NM35_01_02.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446993",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        },
+        {
+          "excel_satiri": 27316,
+          "Product Option Code": "H3488A8.NM35",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_NM35_01_02.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446993",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        },
+        {
+          "excel_satiri": 27317,
+          "Product Option Code": "H3488A8.NM35",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_NM35_01_02.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446993",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        },
+        {
+          "excel_satiri": 27318,
+          "Product Option Code": "H3488A8.NM35",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_NM35_01_02.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446993",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        },
+        {
+          "excel_satiri": 27319,
+          "Product Option Code": "H3488A8.NM35",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_NM35_01_02.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446993",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        },
+        {
+          "excel_satiri": 27320,
+          "Product Option Code": "H3488A8.NM35",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_NM35_01_02.jpg",
+          "FabricDetail": "LINEN-COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-sort-erkek-cocuk-3446993",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-regular-fit-sort-3435743"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H3488A8_26HS_NM35_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:24:44+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

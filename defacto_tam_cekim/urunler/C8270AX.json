@@ -1,0 +1,133 @@
+{
+  "model_kodu": "C8270AX",
+  "urun_grubu": "Erkek Atkı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-01-02",
+        "puan": 5.0,
+        "metin": "@Harika bir atkı. Çok beğendim."
+      },
+      {
+        "tarih": "2025-12-24",
+        "puan": 4.0,
+        "metin": "@Ürün gayet iyi, çok beğendim. Fiyatına göre de oldukça uygun. Harika. Çok teşekkür ederim."
+      },
+      {
+        "tarih": "2024-11-22",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8270AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Kareli Dokuma Atkı",
+      "kisa_aciklama": "Erkek Kareli Dokuma Atkı, yumuşak dokusu ve şık kareli deseniyle soğuk günlerde sıcaklık sağlar. Klasik tasarımı, günlük ve özel kombinlere…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-kareli-dokuma-atki-3509769",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8270AX_26WN_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8270AX_26WN_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8270AX_26WN_BK27_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "kumas": "Dokuma",
+        "desen": "Kareli"
+      },
+      "urun_hakkinda": [
+        "Erkek Kareli Dokuma Atkı, yumuşak dokusu ve şık kareli deseniyle soğuk günlerde sıcaklık sağlar. Klasik tasarımı, günlük ve özel kombinlere…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5415,
+          "Product Option Code": "C8270AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Scarf & Set",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/C8270AX_26WN_BK27_01_01.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-kareli-dokuma-atki-3509769",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-kareli-dokuma-atki-3509769"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/C8270AX_26WN_BK27_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:28:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

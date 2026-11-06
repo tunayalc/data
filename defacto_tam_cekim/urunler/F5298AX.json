@@ -1,0 +1,114 @@
+{
+  "model_kodu": "F5298AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 14,
+    "yorum_sayisi": 14,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-12",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-12-23",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-08-08",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F5298AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Dikişsiz 3'lü Bambu Uzun Çorap",
+      "kisa_aciklama": "Yumuşak bambu dokusu ve dikişsiz tasarımıyla bu uzun çoraplar, konforlu ve rahat bir kullanım sunar. Gün boyu rahatlık sağlar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-uzun-corap-3322426",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F5298AX_NS_BK23_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5298AX_NS_BK23_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5298AX_NS_BK23_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5298AX_NS_BK23_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5298AX_NS_BK23_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 1%,Viskoz 78%,Naylon 21%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "corap_tipi": "Uzun Çorap",
+        "cinsiyet": "Erkek",
+        "kumas": "Bambu",
+        "paket_icerigi": "Paketli",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Yumuşak bambu dokusu ve dikişsiz tasarımıyla bu uzun çoraplar, konforlu ve rahat bir kullanım sunar. Gün boyu rahatlık sağlar.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15024,
+          "Product Option Code": "F5298AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "41-44",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F5298AX_NS_BK23_01_01.jpg",
+          "FabricDetail": "Bamboo",
+          "Toplam": 12,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-uzun-corap-3322426",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-uzun-corap-3322426"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F5298AX_NS_BK23_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:47:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

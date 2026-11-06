@@ -1,0 +1,225 @@
+{
+  "model_kodu": "G6331AX",
+  "urun_grubu": "Kadın Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 36,
+    "yorum_sayisi": 36,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-01",
+        "puan": 5.0,
+        "metin": "@XS beden giymeme rağmen S beden üzerime tam oturdu, rengi de beklediğimden daha güzel çıktı ve takım olarak aldım. Fiyatı…"
+      },
+      {
+        "tarih": "2025-12-19",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet güzel bir ürün."
+      },
+      {
+        "tarih": "2026-06-12",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika! Hırkayı aşırı beğenerek giyiyorum, rengini de aldım. Kalitesi çok güzel, bele de tam oturuyor. Kendi bedeninizi rahatlıkla…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6331AXAR53",
+      "renk_kodu": "AR53",
+      "renk_adi": "Antrasit Melanj",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Regular Fıt V Yaka Hırka",
+      "kisa_aciklama": "Regular Fit V Yaka Hırka, yumuşak dokusu ve rahat kesimiyle günlük şıklığı tamamlar. V yaka tasarımı ve klasik düğme detaylarıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3371106",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6331AX_25WN_AR53_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6331AX_25WN_AR53_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6331AX_25WN_AR53_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6331AX_25WN_AR53_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6331AX_25WN_AR53_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm",
+        "ana_kumas_icerigi": "Pamuk 32%,Poliester 68%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Hırka",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "yaka": "V Yaka"
+      },
+      "urun_hakkinda": [
+        "Regular Fit V Yaka Hırka, yumuşak dokusu ve rahat kesimiyle günlük şıklığı tamamlar. V yaka tasarımı ve klasik düğme detaylarıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20130,
+          "Product Option Code": "G6331AX.AR53",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6331AX_25WN_AR53_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3371106",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3371106"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G6331AX_25WN_AR53_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G6331AXBN531",
+      "renk_kodu": "BN531",
+      "renk_adi": "VISON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20131,
+          "Product Option Code": "G6331AX.BN531",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6331AX_25WN_BN531_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3371106"
+        },
+        {
+          "excel_satiri": 20132,
+          "Product Option Code": "G6331AX.BN531",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6331AX_25WN_BN531_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3371106"
+        },
+        {
+          "excel_satiri": 20133,
+          "Product Option Code": "G6331AX.BN531",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6331AX_25WN_BN531_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3371106"
+        },
+        {
+          "excel_satiri": 20134,
+          "Product Option Code": "G6331AX.BN531",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6331AX_25WN_BN531_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3371106"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G6331AX_25WN_BN531_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:04:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

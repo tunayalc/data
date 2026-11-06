@@ -1,0 +1,112 @@
+{
+  "model_kodu": "F5311AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 12.5,
+      "tam_oldu": 87.5,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-01-10",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-11-20",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-12-10",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F5311AXWT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Erkek 3'lü Pamuklu Uzun Çorap",
+      "kisa_aciklama": "Erkekler için tasarlanmış 3'lü pamuklu uzun çorap seti, yumuşak ve nefes alabilen yapısıyla ayakları gün boyu rahat tutar. Hem spor…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-3lu-pamuklu-uzun-corap-3322421",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F5311AX_NS_WT1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5311AX_NS_WT1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5311AX_NS_WT1_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 73%,Poliamid 24%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "corap_tipi": "Uzun Çorap",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Erkekler için tasarlanmış 3'lü pamuklu uzun çorap seti, yumuşak ve nefes alabilen yapısıyla ayakları gün boyu rahat tutar. Hem spor…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15025,
+          "Product Option Code": "F5311AX.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "41-44",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F5311AX_NS_WT1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-3lu-pamuklu-uzun-corap-3322421",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-3lu-pamuklu-uzun-corap-3322421"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F5311AX_NS_WT1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:47:26+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

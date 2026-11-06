@@ -1,0 +1,103 @@
+{
+  "model_kodu": "H6677A5",
+  "urun_grubu": "Erkek Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-19",
+        "puan": 5.0,
+        "metin": "@Malı çok kaliteli"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H6677A5KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Baskılı Kaydırmaz Taban 5'li Pamuklu Patik Çorap Erkek Bebek",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Baskılı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baskili-kaydirmaz-taban-5li-pamuklu-patik-corap-erkek-bebek-3452312",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6677A5_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6677A5_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6677A5_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 70%,Poliamid 19%,Elastan 3%,Poliester 8%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "takim_icerigi": "5'li",
+        "corap_tipi": "Patik Çorap",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek Bebek"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Baskılı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31951,
+          "Product Option Code": "H6677A5.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "6-12 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H6677A5_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/baskili-kaydirmaz-taban-5li-pamuklu-patik-corap-erkek-bebek-3452312",
+          "Model Page URL": "https://www.defacto.com.tr/baskili-kaydirmaz-taban-5li-pamuklu-patik-corap-erkek-bebek-3452312"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H6677A5_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:36:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

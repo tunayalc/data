@@ -1,0 +1,101 @@
+{
+  "model_kodu": "B0186AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B0186AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L/XL",
+          "S/M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1051,
+          "Product Option Code": "B0186AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Bottoms",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L/XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B0186AX_23WN_BK81_01_01.jpg",
+          "FabricDetail": "THERMAL",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 449.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 1052,
+          "Product Option Code": "B0186AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Bottoms",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L/XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/B0186AX_24WN_BK81_01_01.jpg",
+          "FabricDetail": "THERMAL",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 449.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 1053,
+          "Product Option Code": "B0186AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Bottoms",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S/M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/B0186AX_24WN_BK81_01_01.jpg",
+          "FabricDetail": "THERMAL",
+          "Toplam": 2,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 449.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/B0186AX_23WN_BK81_01_01.jpg",
+        "https://image.defacto.com.tr/product/24WN/B0186AX_24WN_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

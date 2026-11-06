@@ -1,0 +1,122 @@
+{
+  "model_kodu": "E5469AX",
+  "urun_grubu": "Kadın Ev Terliği",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 29,
+    "yorum_sayisi": 29,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 42.9,
+      "buyuk_geldi": 7.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-04",
+        "puan": 4.0,
+        "metin": "@Güzel ama bir beden büyük alınmalı. Ayrıca ayakta kaba duruyor."
+      },
+      {
+        "tarih": "2025-03-03",
+        "puan": 5.0,
+        "metin": "@ay bayıldım muhteşem pofidik pofidk duruo kaliteside harika bu fiyata bu kalite cidden mükemmel"
+      },
+      {
+        "tarih": "2025-03-06",
+        "puan": 2.0,
+        "metin": "@Ürün göründüğünden kaba duruyor.37 aldım büyük geldi 36 olurmuş.Ama 37 sanki 40 gibi duruyo ayakta:((("
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5469AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kadın Düz Taban Tek Bantlı Babet",
+      "kisa_aciklama": "Zarif ve şık tasarımıyla öne çıkan Kadın Düz Taban Tek Bantlı Babet, konforlu taban yapısı ve modern stili ile günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-duz-taban-tek-bantli-babet-3207700",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5469AX_25SP_BK23_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5469AX_25SP_BK23_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5469AX_25SP_BK23_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5469AX_25SP_BK23_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5469AX_25SP_BK23_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5469AX_25SP_BK23_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5469AX_25SP_BK23_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "37",
+          "38",
+          "39",
+          "40"
+        ],
+        "excel": [
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Tekstil Malzemeleri 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Ev Terliği",
+        "ayakkabi_taban_tipi": "Düz Taban",
+        "cinsiyet": "Kadın",
+        "ayakkabi_tipi": "Babet",
+        "topuk_boyu": "1,5 cm",
+        "paket_icerigi": "Paketli",
+        "ayakkabi_kapama_sekli": "Tek Bantlı"
+      },
+      "urun_hakkinda": [
+        "Zarif ve şık tasarımıyla öne çıkan Kadın Düz Taban Tek Bantlı Babet, konforlu taban yapısı ve modern stili ile günlük…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11547,
+          "Product Option Code": "E5469AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Footwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Slippers",
+          "LifeStyle": "Casual",
+          "Class Name": "Home Slipper",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E5469AX_25SP_BK23_01_01.jpg",
+          "FabricDetail": "TEXTILE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-duz-taban-tek-bantli-babet-3207700",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-duz-taban-tek-bantli-babet-3207700"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E5469AX_25SP_BK23_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:35:55+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

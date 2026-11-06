@@ -1,0 +1,183 @@
+{
+  "model_kodu": "G3162AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 14,
+    "yorum_sayisi": 14,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 77.8,
+      "tam_oldu": 22.2,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-15",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok güzel, erkek arkadaşıma aldım, üzerine de tam oturdu. Boyu 180 cm, kilosu 92 ve 34 beden. Kumaşı da…"
+      },
+      {
+        "tarih": "2025-12-28",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok kaliteli, üzerimde duruşu ve kumaşı da harika. Eşim 1. Fiyatına göre harika bir ürün. Kumaşı da gayet kaliteli.…"
+      },
+      {
+        "tarih": "2026-02-15",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok güzel, erkek arkadaşıma aldım, üzerine de tam oturdu. Boyu 180 cm, kilosu 92 ve 34 beden. Kumaşı da…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3162AXBN571",
+      "renk_kodu": "BN571",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Beli Bağcıklı Cepli Düz Paça Pantolon",
+      "kisa_aciklama": "Beli bağcıklı ve cepli tasarımıyla hem şık hem kullanışlı olan düz paça pantolon, rahat kesimi sayesinde gün boyu konfor sağlar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/beli-bagcikli-cepli-duz-paca-pantolon-3354305",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3162AX_25AU_BN571_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3162AX_25AU_BN571_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3162AX_25AU_BN571_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3162AX_25AU_BN571_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3162AX_25AU_BN571_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3162AX_25AU_BN571_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "excel": [
+          "30",
+          "32",
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,85cm - 93/72/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Beli bağcıklı ve cepli tasarımıyla hem şık hem kullanışlı olan düz paça pantolon, rahat kesimi sayesinde gün boyu konfor sağlar.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburda Düşük Sıcaklıkta Kurutulabilir",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/TUMBLEDRYLOWTEMP_KQMMDZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18663,
+          "Product Option Code": "G3162AX.BN571",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "30",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G3162AX_25AU_BN571_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/beli-bagcikli-cepli-duz-paca-pantolon-3354305",
+          "Model Page URL": "https://www.defacto.com.tr/beli-bagcikli-cepli-duz-paca-pantolon-3354305"
+        },
+        {
+          "excel_satiri": 18664,
+          "Product Option Code": "G3162AX.BN571",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "32",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G3162AX_25AU_BN571_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/beli-bagcikli-cepli-duz-paca-pantolon-3354305",
+          "Model Page URL": "https://www.defacto.com.tr/beli-bagcikli-cepli-duz-paca-pantolon-3354305"
+        },
+        {
+          "excel_satiri": 18665,
+          "Product Option Code": "G3162AX.BN571",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "34",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G3162AX_25AU_BN571_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/beli-bagcikli-cepli-duz-paca-pantolon-3354305",
+          "Model Page URL": "https://www.defacto.com.tr/beli-bagcikli-cepli-duz-paca-pantolon-3354305"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G3162AX_25AU_BN571_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:01:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

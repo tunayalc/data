@@ -1,0 +1,164 @@
+{
+  "model_kodu": "G9740AX",
+  "urun_grubu": "Kadın Hırka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 71.4,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-01",
+        "puan": 5.0,
+        "metin": "@Harika tam bir fiyat performans"
+      },
+      {
+        "tarih": "2026-09-30",
+        "puan": 5.0,
+        "metin": "@Kaliteli ve zarif! Kendi bedeninizden bir büyük almalı, ben öyle yaptım, güzel durdu🤩 Zaten ipleriyle bel ayarlanıyor 😉"
+      },
+      {
+        "tarih": "2026-10-24",
+        "puan": 5.0,
+        "metin": "@Duruşu ve kalıbı çok güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G9740AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Slım Fıt V Yaka Hırka",
+      "kisa_aciklama": "Hırka koleksiyonumuzdaki bu triko hırka, şık ve slim fit kesimiyle dikkat çekiyor. Uzun kollu ve düğmeli kapama detaylı bu hırka,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3422176",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G9740AX_26SP_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9740AX_26SP_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9740AX_26SP_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9740AX_26SP_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9740AX_26SP_ER105_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9740AX_26SP_ER105_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,74cm - 78/60/89",
+        "ana_kumas_icerigi": "Pamuk 30%,Poliester 70%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Hırka",
+        "cinsiyet": "Kadın",
+        "yaka": "V Yaka",
+        "triko_kalinligi": "Orta Kalın",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Hırka koleksiyonumuzdaki bu triko hırka, şık ve slim fit kesimiyle dikkat çekiyor. Uzun kollu ve düğmeli kapama detaylı bu hırka,…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1199.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23296,
+          "Product Option Code": "G9740AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G9740AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "Cotton-Pes",
+          "Toplam": 2,
+          "Initial Price Value": 1199.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3422176",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3422176"
+        },
+        {
+          "excel_satiri": 23297,
+          "Product Option Code": "G9740AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G9740AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "Cotton-Pes",
+          "Toplam": 2,
+          "Initial Price Value": 1199.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3422176",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-hirka-3422176"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G9740AX_26SP_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:14:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "model_kodu": "D8429A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-13",
+        "puan": 5.0,
+        "metin": "@Harika! Çok beğendim. Teşekkürler."
+      },
+      {
+        "tarih": "2025-10-23",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi, My melodi karakteriyle de uyumlu ve hoş."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D8429A8BE2",
+      "renk_kodu": "BE2",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Kız Çocuk Nakışlı Jean Görünümlü Cap Şapka",
+      "kisa_aciklama": "Kız çocuklar için nakışlı jean görünümlü cap şapka, şık tasarımıyla kombinleri tamamlar. Hafif ve rahat yapısı sayesinde gün boyu konforlu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kiz-cocuk-nakisli-jean-gorunumlu-cap-sapka-3375708",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D8429A8_26SM_BE2_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8429A8_26SM_BE2_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8429A8_26SM_BE2_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8429A8_26SM_BE2_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8429A8_26SM_BE2_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8429A8_26SM_BE2_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8429A8_26SM_BE2_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8429A8_26SM_BE2_08_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "5-9 Yaş Beden - 1,35cm",
+        "ana_kumas_icerigi": "Viskoz 66%,Poliester 34%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Jean Görünümlü",
+        "urun_olcusu": "54 cm",
+        "desen": "Nakışlı",
+        "cinsiyet": "Kız Çocuk",
+        "sapka_tipi": "Cap Şapka"
+      },
+      "urun_hakkinda": [
+        "Kız çocuklar için nakışlı jean görünümlü cap şapka, şık tasarımıyla kombinleri tamamlar. Hafif ve rahat yapısı sayesinde gün boyu konforlu…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9259,
+          "Product Option Code": "D8429A8.BE2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/D8429A8_26SM_BE2_01_05.jpg",
+          "FabricDetail": "DENIM LOOK",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kiz-cocuk-nakisli-jean-gorunumlu-cap-sapka-3375708",
+          "Model Page URL": "https://www.defacto.com.tr/kiz-cocuk-nakisli-jean-gorunumlu-cap-sapka-3375708"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/D8429A8_26SM_BE2_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:31:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

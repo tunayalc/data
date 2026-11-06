@@ -1,0 +1,130 @@
+{
+  "model_kodu": "I5113AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I5113AXER137",
+      "renk_kodu": "ER137",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43034,
+          "Product Option Code": "I5113AX.ER137",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Young",
+          "Class Name": "Swimming Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "LUKE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5113AX_26HS_ER137_01_02.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baskili-ekru-deniz-sortu-3587623",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baskili-ekru-deniz-sortu-3587623"
+        },
+        {
+          "excel_satiri": 43035,
+          "Product Option Code": "I5113AX.ER137",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Young",
+          "Class Name": "Swimming Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "LUKE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5113AX_26HS_ER137_01_02.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baskili-ekru-deniz-sortu-3587623",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baskili-ekru-deniz-sortu-3587623"
+        },
+        {
+          "excel_satiri": 43036,
+          "Product Option Code": "I5113AX.ER137",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Young",
+          "Class Name": "Swimming Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "LUKE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5113AX_26HS_ER137_01_02.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baskili-ekru-deniz-sortu-3587623",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baskili-ekru-deniz-sortu-3587623"
+        },
+        {
+          "excel_satiri": 43037,
+          "Product Option Code": "I5113AX.ER137",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Young",
+          "Class Name": "Swimming Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "LUKE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5113AX_26HS_ER137_01_02.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/baskili-ekru-deniz-sortu-3587623",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/baskili-ekru-deniz-sortu-3587623"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I5113AX_26HS_ER137_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:50:05+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/baskili-ekru-deniz-sortu-3587623",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

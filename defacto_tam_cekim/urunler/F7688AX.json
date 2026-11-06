@@ -1,0 +1,64 @@
+{
+  "model_kodu": "F7688AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F7688AXNM34",
+      "renk_kodu": "NM34",
+      "renk_adi": "D.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15770,
+          "Product Option Code": "F7688AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "40",
+          "Fit": "BARREL FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F7688AX_25AU_NM34_01_04.jpg",
+          "FabricDetail": "JEAN",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/barrel-fit-yuksek-bel-bilege-dogru-daralan-bol-paca-jean-pantolon-3342073",
+          "Model Page URL": "https://www.defacto.com/barrel-fit-yuksek-bel-bilege-dogru-daralan-bol-paca-jean-pantolon-3342073"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F7688AX_25AU_NM34_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:54:07+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/barrel-fit-yuksek-bel-bilege-dogru-daralan-bol-paca-jean-pantolon-3342073",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

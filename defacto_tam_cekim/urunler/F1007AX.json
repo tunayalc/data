@@ -1,0 +1,323 @@
+{
+  "model_kodu": "F1007AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 18,
+    "yorum_sayisi": 18,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 71.4,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-18",
+        "puan": 5.0,
+        "metin": "@Harika! Altınını da aldım, takım yaptım, şahane oldu. Şahane!."
+      },
+      {
+        "tarih": "2025-12-04",
+        "puan": 5.0,
+        "metin": "@1,60m boyum, kilom 85, normalde XL giyerim bu ürünü ve bordo rengini XXL aldım, kumaşı ve duruşu çok güzel beğendim…"
+      },
+      {
+        "tarih": "2026-02-24",
+        "puan": 5.0,
+        "metin": "@kalıp bol ama çok güzel yumuşacık. kızım çok beğendi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F1007AXBR115",
+      "renk_kodu": "BR115",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Relax Fıt Polo Yaka Fitilli Kaşkorse Uzun Kollu Tişört",
+      "kisa_aciklama": "Relax fit kesimi ve fitilli kaşkorse dokusuyla bu polo yaka uzun kollu tişört, hem şık hem de rahat bir görünüm…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-polo-yaka-fitilli-kaskorse-uzun-kollu-tisort-3505865",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_BR115_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_BR115_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_BR115_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_BR115_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_BR115_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_BR115_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_BR115_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 6%,Viskoz 19%,Poliester 75%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Relax Fıt",
+        "yaka": "Polo Yaka",
+        "kumas": "Fitilli Kaşkorse",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Uzun Kollu Tişört",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Relax fit kesimi ve fitilli kaşkorse dokusuyla bu polo yaka uzun kollu tişört, hem şık hem de rahat bir görünüm…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13696,
+          "Product Option Code": "F1007AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XS",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F1007AX_25AU_BR115_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-polo-yaka-fitilli-kaskorse-uzun-kollu-tisort-3505865",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-polo-yaka-fitilli-kaskorse-uzun-kollu-basic-tisort-3505864"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F1007AX_25AU_BR115_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F1007AXGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Relax Fıt Polo Yaka Fitilli Kaşkorse Uzun Kollu Tişört",
+      "kisa_aciklama": "Relax fit kesimi ve fitilli kaşkorse dokusuyla bu polo yaka uzun kollu tişört, hem şık hem de rahat bir görünüm…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-polo-yaka-fitilli-kaskorse-uzun-kollu-tisort-3297326",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F1007AX_25AU_GR210_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_25AU_GR210_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_25AU_GR210_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_25AU_GR210_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_25AU_GR210_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_25AU_GR210_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,74cm - 82/59/89",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 20%,Poliester 78%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Polo Yaka",
+        "kumas": "Fitilli Kaşkorse",
+        "urun_tipi": "Uzun Kollu Tişört",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Relax fit kesimi ve fitilli kaşkorse dokusuyla bu polo yaka uzun kollu tişört, hem şık hem de rahat bir görünüm…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13697,
+          "Product Option Code": "F1007AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F1007AX_25AU_GR210_01_03.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-polo-yaka-fitilli-kaskorse-uzun-kollu-tisort-3297326",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-polo-yaka-fitilli-kaskorse-uzun-kollu-basic-tisort-3505864"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F1007AX_25AU_GR210_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F1007AXNV251",
+      "renk_kodu": "NV251",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Relax Fıt Polo Yaka Fitilli Kaşkorse Uzun Kollu Basic Tişört",
+      "kisa_aciklama": "Relax fit kesimi ve fitilli kaşkorse dokusuyla bu polo yaka uzun kollu tişört, hem şık hem de rahat bir görünüm…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-polo-yaka-fitilli-kaskorse-uzun-kollu-basic-tisort-3505864",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_NV251_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_NV251_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_NV251_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_NV251_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_NV251_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_NV251_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1007AX_26WN_NV251_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,74cm - 79/61/88",
+        "ana_kumas_icerigi": "Elastan 6%,Viskoz 19%,Poliester 75%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "yaka": "Polo Yaka",
+        "kalip": "Relax Fıt",
+        "urun_tipi": "Uzun Kollu Tişört",
+        "cinsiyet": "Kadın",
+        "kumas": "Fitilli Kaşkorse",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Relax fit kesimi ve fitilli kaşkorse dokusuyla bu polo yaka uzun kollu tişört, hem şık hem de rahat bir görünüm…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:42:58+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

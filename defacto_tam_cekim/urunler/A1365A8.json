@@ -1,0 +1,86 @@
+{
+  "model_kodu": "A1365A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1365A8BE761",
+      "renk_kodu": "BE761",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12/13 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 130,
+          "Product Option Code": "A1365A8.BE761",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Knitted Pyjamas",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "12/13 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/A1365A8_23SM_BE761_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-regular-fit-pijama-2768297",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-regular-fit-pijama-2768297"
+        },
+        {
+          "excel_satiri": 131,
+          "Product Option Code": "A1365A8.BE761",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Knitted Pyjamas",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/A1365A8_23SM_BE761_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-regular-fit-pijama-2768297",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kiz-cocuk-regular-fit-pijama-2768297"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/A1365A8_23SM_BE761_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:19:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kiz-cocuk-regular-fit-pijama-2768297",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

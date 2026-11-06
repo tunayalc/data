@@ -1,0 +1,115 @@
+{
+  "model_kodu": "G5434A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-20",
+        "puan": 5.0,
+        "metin": "@Harika! İnce pamuklu, pamuk gibi yumuşacık."
+      },
+      {
+        "tarih": "2025-11-30",
+        "puan": 5.0,
+        "metin": "@Harika! Aşırı güzel."
+      },
+      {
+        "tarih": "2026-07-21",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G5434A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "3'lü Pamuklu Havlu Çorap Erkek Çocuk",
+      "kisa_aciklama": "Erkek Çocuk 3'lü Pamuklu Kışlık Çorap, kalın ve sıcak tutan pamuklu dokusuyla soğuk günlerde ekstra koruma sağlar. Yumuşak iç yapısı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/3lu-pamuklu-havlu-corap-erkek-cocuk-3359389",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G5434A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5434A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5434A8_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G5434A8_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 81%,Poliamid 16%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "takim_icerigi": "3'lü",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Havlu Çorap",
+        "cinsiyet": "Erkek Çocuk"
+      },
+      "urun_hakkinda": [
+        "Erkek Çocuk 3'lü Pamuklu Kışlık Çorap, kalın ve sıcak tutan pamuklu dokusuyla soğuk günlerde ekstra koruma sağlar. Yumuşak iç yapısı…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 174.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19608,
+          "Product Option Code": "G5434A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G5434A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/3lu-pamuklu-havlu-corap-erkek-cocuk-3359389",
+          "Model Page URL": "https://www.defacto.com.tr/3lu-pamuklu-havlu-corap-erkek-cocuk-3359389"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G5434A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:03:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "model_kodu": "D5899A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 35,
+    "yorum_sayisi": 35,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 79.5,
+      "tam_oldu": 17.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-02-05",
+        "puan": 1.0,
+        "metin": "@İç kısmı polar değil, bilginiz olsun. Yine de internetten alınan ürünlerin kalitesi iyi değil, bu yüzden iade ettim."
+      },
+      {
+        "tarih": "2025-02-05",
+        "puan": 1.0,
+        "metin": "@İç kısmı polar değil, bilginiz olsun. Yine de internetten alınan ürünlerin kalitesi iyi değil, bu yüzden iade ettim."
+      },
+      {
+        "tarih": "2025-07-25",
+        "puan": 5.0,
+        "metin": "@çok güzel çok beğendik"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5899A8BK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Su İtici Kapüşonlu Şişme Mont Erkek Çocuk",
+      "kisa_aciklama": "Erkek çocuk su itici kapüşonlu mont, hafif ve dayanıklı yapısıyla yağışlı havalarda koruma sağlar. Konforlu kesimi sayesinde hareket özgürlüğü sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377007",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_BK27_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "5/6 Y",
+          "7/8 Y",
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Poliamid 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek Çocuk",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Kapüşonlu"
+      },
+      "urun_hakkinda": [
+        "Erkek çocuk su itici kapüşonlu mont, hafif ve dayanıklı yapısıyla yağışlı havalarda koruma sağlar. Konforlu kesimi sayesinde hareket özgürlüğü sunar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8116,
+          "Product Option Code": "D5899A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D5899A8_26SP_BK27_01_01.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377007",
+          "Model Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377007"
+        },
+        {
+          "excel_satiri": 8117,
+          "Product Option Code": "D5899A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D5899A8_26SP_BK27_01_01.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377007",
+          "Model Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377007"
+        },
+        {
+          "excel_satiri": 8118,
+          "Product Option Code": "D5899A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D5899A8_26SP_BK27_01_01.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377007",
+          "Model Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377007"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D5899A8_26SP_BK27_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D5899A8IN33",
+      "renk_kodu": "IN33",
+      "renk_adi": "İndigo",
+      "renk_hex": "#3F00FF",
+      "urun_adi": "Su İtici Kapüşonlu Şişme Mont Erkek Çocuk",
+      "kisa_aciklama": "Erkek çocuk su itici kapüşonlu mont, hafif ve dayanıklı yapısıyla yağışlı havalarda koruma sağlar. Konforlu kesimi sayesinde hareket özgürlüğü sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377008",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_IN33_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_IN33_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_IN33_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_IN33_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_IN33_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5899A8_26SP_IN33_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "7/8 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Poliamid 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Kapüşonlu",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek Çocuk"
+      },
+      "urun_hakkinda": [
+        "Erkek çocuk su itici kapüşonlu mont, hafif ve dayanıklı yapısıyla yağışlı havalarda koruma sağlar. Konforlu kesimi sayesinde hareket özgürlüğü sunar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8119,
+          "Product Option Code": "D5899A8.IN33",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Mont",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D5899A8_26SP_IN33_01_01.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377008",
+          "Model Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377007"
+        },
+        {
+          "excel_satiri": 8120,
+          "Product Option Code": "D5899A8.IN33",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Mont",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D5899A8_26SP_IN33_01_01.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377008",
+          "Model Page URL": "https://www.defacto.com/en-iq/su-itici-kapusonlu-sisme-mont-erkek-cocuk-3377007"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D5899A8_26SP_IN33_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:28:37+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

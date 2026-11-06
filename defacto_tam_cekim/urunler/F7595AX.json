@@ -1,0 +1,110 @@
+{
+  "model_kodu": "F7595AX",
+  "urun_grubu": "Erkek Hırka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-08",
+        "puan": 5.0,
+        "metin": "@Tam kalıp kumaşı dokusu muhteşem"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F7595AXAR231",
+      "renk_kodu": "AR231",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Ultra Yumuşak Standart Fıt Dik Yaka Hırka",
+      "kisa_aciklama": "Ultra Yumuşak Hem sporcular hem de günlük kullanım için ideal olan örme soft hırka. Standart fıt kalıbı ve uzun kollu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-dik-yaka-hirka-3376426",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7595AX_26SP_AR231_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7595AX_26SP_AR231_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7595AX_26SP_AR231_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7595AX_26SP_AR231_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7595AX_26SP_AR231_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7595AX_26SP_AR231_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7595AX_26SP_AR231_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7595AX_26SP_AR231_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 94/75/93",
+        "ana_kumas_icerigi": "Elastan 14%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Standart Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "yasam_tarzi": "Sporcu",
+        "yaka": "Dik Yaka"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak Hem sporcular hem de günlük kullanım için ideal olan örme soft hırka. Standart fıt kalıbı ve uzun kollu…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15731,
+          "Product Option Code": "F7595AX.AR231",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7595AX_26SP_AR231_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-dik-yaka-hirka-3376426",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-dik-yaka-hirka-3376426"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F7595AX_26SP_AR231_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:50:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

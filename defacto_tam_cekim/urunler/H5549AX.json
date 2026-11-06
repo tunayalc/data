@@ -1,0 +1,739 @@
+{
+  "model_kodu": "H5549AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 100.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-22",
+        "puan": 5.0,
+        "metin": "@Bir beden küçük tercih edin geniş kalıp kumaşını sevemedim masadan değiştiricem"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5549AXBG403",
+      "renk_kodu": "BG403",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "%100 Pamuk Comfort Fıt Kısa Kollu Tişört",
+      "kisa_aciklama": "Comfort fit tişört. Bisiklet yaka ve kısa kollu. Düşük omuz ve dokulu kumaş.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448570",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26SP_BG403_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26SP_BG403_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26SP_BG403_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26SP_BG403_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26SP_BG403_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kumas": "Waffle"
+      },
+      "urun_hakkinda": [
+        "Comfort fit tişört. Bisiklet yaka ve kısa kollu. Düşük omuz ve dokulu kumaş."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30555,
+          "Product Option Code": "H5549AX.BG403",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "L",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_BG403_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448570",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30556,
+          "Product Option Code": "H5549AX.BG403",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "M",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_BG403_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448570",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30557,
+          "Product Option Code": "H5549AX.BG403",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "S",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_BG403_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448570",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30558,
+          "Product Option Code": "H5549AX.BG403",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "XS",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_BG403_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448570",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_BG403_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5549AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Comfort Fıt Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Comfort fit tişört. Bisiklet yaka ve kısa kollu. Düşük omuz ve dokulu kumaş.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_ER105_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_ER105_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_ER105_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_ER105_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_ER105_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_ER105_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kumas": "Waffle",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Comfort fit tişört. Bisiklet yaka ve kısa kollu. Düşük omuz ve dokulu kumaş."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30559,
+          "Product Option Code": "H5549AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30560,
+          "Product Option Code": "H5549AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_ER105_01_04.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30561,
+          "Product Option Code": "H5549AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30562,
+          "Product Option Code": "H5549AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_ER105_01_04.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30563,
+          "Product Option Code": "H5549AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_ER105_01_04.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_ER105_01_02.jpg",
+        "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_ER105_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5549AXGR103",
+      "renk_kodu": "GR103",
+      "renk_adi": "Koyu Gri",
+      "renk_hex": "#6E6E6E",
+      "urun_adi": "%100 Pamuk Comfort Fıt Kısa Kollu Tişört",
+      "kisa_aciklama": "Comfort fit tişört. Bisiklet yaka ve kısa kollu. Düşük omuz ve dokulu kumaş.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448549",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26SP_GR103_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26SP_GR103_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26SP_GR103_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Waffle",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Comfort fit tişört. Bisiklet yaka ve kısa kollu. Düşük omuz ve dokulu kumaş."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30564,
+          "Product Option Code": "H5549AX.GR103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "L",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_GR103_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 6,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448549",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30565,
+          "Product Option Code": "H5549AX.GR103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "M",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_GR103_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448549",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30566,
+          "Product Option Code": "H5549AX.GR103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "S",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_GR103_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448549",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30567,
+          "Product Option Code": "H5549AX.GR103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "XS",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_GR103_01_02.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-tisort-3448549",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H5549AX_26SP_GR103_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5549AXGR513",
+      "renk_kodu": "GR513",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "%100 Pamuk Comfort Fıt Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Comfort fit tişört. Bisiklet yaka ve kısa kollu. Düşük omuz ve dokulu kumaş.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457037",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_GR513_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_GR513_02_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_GR513_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_GR513_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_GR513_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_GR513_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_GR513_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5549AX_26AU_GR513_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Relax Fıt",
+        "kumas": "Waffle",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Comfort fit tişört. Bisiklet yaka ve kısa kollu. Düşük omuz ve dokulu kumaş."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30568,
+          "Product Option Code": "H5549AX.GR513",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_GR513_01_05.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457037",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30569,
+          "Product Option Code": "H5549AX.GR513",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_GR513_01_05.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457037",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30570,
+          "Product Option Code": "H5549AX.GR513",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_GR513_01_05.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457037",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30571,
+          "Product Option Code": "H5549AX.GR513",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_GR513_01_05.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457037",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        },
+        {
+          "excel_satiri": 30572,
+          "Product Option Code": "H5549AX.GR513",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_GR513_01_05.jpg",
+          "FabricDetail": "WAFFLE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457037",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-comfort-fit-kisa-kollu-basic-tisort-3457036"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H5549AX_26AU_GR513_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:32:32+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

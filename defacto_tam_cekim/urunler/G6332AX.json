@@ -1,0 +1,227 @@
+{
+  "model_kodu": "G6332AX",
+  "urun_grubu": "Kadın Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 24,
+    "yorum_sayisi": 24,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 44.4,
+      "tam_oldu": 55.6,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-09",
+        "puan": 5.0,
+        "metin": "@Harika! S bedenini aldım, M bedenini de aldım. İkisini de kullanıyorum, ikisi de gayet güzel ve fiyatı da çok uygun.…"
+      },
+      {
+        "tarih": "2026-03-01",
+        "puan": 5.0,
+        "metin": "@XS beden giymeme rağmen S beden üzerime tam oturdu, rengi de beklediğimden daha güzel çıktı ve takım olarak aldım. Fiyatı…"
+      },
+      {
+        "tarih": "2026-02-16",
+        "puan": 5.0,
+        "metin": "@Harika! Çok beğendim, bir takım aldım."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6332AXAR53",
+      "renk_kodu": "AR53",
+      "renk_adi": "Antrasit Melanj",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Wide Leg Geniş Bol Paça Pantolon",
+      "kisa_aciklama": "Wide Leg Geniş Bol Paça Pantolon, rahat geniş kesimi ve bol paça tasarımıyla modern bir siluet sunar. Yüksek bel seçeneğiyle…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-pantolon-3371113",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6332AX_25WN_AR53_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6332AX_25WN_AR53_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6332AX_25WN_AR53_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm",
+        "ana_kumas_icerigi": "Pamuk 32%,Poliester 68%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Wıde Leg"
+      },
+      "urun_hakkinda": [
+        "Wide Leg Geniş Bol Paça Pantolon, rahat geniş kesimi ve bol paça tasarımıyla modern bir siluet sunar. Yüksek bel seçeneğiyle…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20135,
+          "Product Option Code": "G6332AX.AR53",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6332AX_25WN_AR53_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3371113",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3371113"
+        },
+        {
+          "excel_satiri": 20136,
+          "Product Option Code": "G6332AX.AR53",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6332AX_25WN_AR53_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3371113",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3371113"
+        },
+        {
+          "excel_satiri": 20137,
+          "Product Option Code": "G6332AX.AR53",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6332AX_25WN_AR53_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3371113",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3371113"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G6332AX_25WN_AR53_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G6332AXBN531",
+      "renk_kodu": "BN531",
+      "renk_adi": "VISON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20138,
+          "Product Option Code": "G6332AX.BN531",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6332AX_25WN_BN531_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-pantolon-3427388",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3371113"
+        },
+        {
+          "excel_satiri": 20139,
+          "Product Option Code": "G6332AX.BN531",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G6332AX_25WN_BN531_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-pantolon-3427388",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3371113"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G6332AX_25WN_BN531_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:06:02+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-pantolon-3427388",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

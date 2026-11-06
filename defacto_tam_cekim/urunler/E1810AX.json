@@ -1,0 +1,108 @@
+{
+  "model_kodu": "E1810AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1810AXGR206",
+      "renk_kodu": "GR206",
+      "renk_adi": "GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "40",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10698,
+          "Product Option Code": "E1810AX.GR206",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "36",
+          "Fit": "SKIRT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1810AX_24WN_GR206_01_03.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-ma/kareli-yuksek-bel-mini-etek-3201095",
+          "Model Page URL": "https://www.defacto.com/en-ma/kareli-yuksek-bel-mini-etek-3201095"
+        },
+        {
+          "excel_satiri": 10699,
+          "Product Option Code": "E1810AX.GR206",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "40",
+          "Fit": "SKIRT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1810AX_24WN_GR206_01_03.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-ma/kareli-yuksek-bel-mini-etek-3201095",
+          "Model Page URL": "https://www.defacto.com/en-ma/kareli-yuksek-bel-mini-etek-3201095"
+        },
+        {
+          "excel_satiri": 10700,
+          "Product Option Code": "E1810AX.GR206",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "42",
+          "Fit": "SKIRT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1810AX_24WN_GR206_01_03.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-ma/kareli-yuksek-bel-mini-etek-3201095",
+          "Model Page URL": "https://www.defacto.com/en-ma/kareli-yuksek-bel-mini-etek-3201095"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E1810AX_24WN_GR206_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:42:38+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kareli-yuksek-bel-mini-etek-3201095",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "model_kodu": "D2480A5",
+  "urun_grubu": "Kız Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 90,
+    "yorum_sayisi": 90,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 40.0,
+      "tam_oldu": 20.0,
+      "buyuk_geldi": 40.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-01-13",
+        "puan": 5.0,
+        "metin": "@Güzel beğendik."
+      },
+      {
+        "tarih": "2025-03-18",
+        "puan": 5.0,
+        "metin": "@Çok şık ürün."
+      },
+      {
+        "tarih": "2025-02-26",
+        "puan": 3.0,
+        "metin": "@Güzeldi ama kızıma büyük geldi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D2480A5KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kaydırmaz Taban 3'lü Pamuklu Uzun Çorap Kız Bebek",
+      "kisa_aciklama": "Kız Bebek Kaydırmaz Taban 3'lü Pamuklu Uzun Çorap: Bebeğinizin konforu ve güvenliği için ideal seçim! Pamuklu dokusuyla hassas ciltlere uygun,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kaydirmaz-taban-3lu-pamuklu-uzun-corap-kiz-bebek-3164495",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D2480A5_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D2480A5_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D2480A5_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliamid 21%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "3'lü",
+        "corap_tipi": "Uzun Çorap",
+        "desen": "Hayvan Desenli",
+        "cinsiyet": "Kız Bebek"
+      },
+      "urun_hakkinda": [
+        "Kız Bebek Kaydırmaz Taban 3'lü Pamuklu Uzun Çorap: Bebeğinizin konforu ve güvenliği için ideal seçim! Pamuklu dokusuyla hassas ciltlere uygun,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 149.99,
+        "sepette_fiyat": 89.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6780,
+          "Product Option Code": "D2480A5.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "6-12 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/D2480A5_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kaydirmaz-taban-3lu-pamuklu-uzun-corap-kiz-bebek-3164495",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kaydirmaz-taban-3lu-pamuklu-uzun-corap-kiz-bebek-3164495"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/D2480A5_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:26:40+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

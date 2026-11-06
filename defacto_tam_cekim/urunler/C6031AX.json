@@ -1,0 +1,109 @@
+{
+  "model_kodu": "C6031AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C6031AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4822,
+          "Product Option Code": "C6031AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/C6031AX_25WN_BK81_01_01.jpg",
+          "FabricDetail": "ACRYLIC KNITWEAR",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/regular-fit-bisiklet-yaka-cizgili-kazak-tunik-3303642",
+          "Model Page URL": "https://www.defacto.com/ar-iq/regular-fit-bisiklet-yaka-cizgili-kazak-tunik-3303641"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/C6031AX_25WN_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C6031AXBR281",
+      "renk_kodu": "BR281",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4823,
+          "Product Option Code": "C6031AX.BR281",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/C6031AX_25WN_BR281_01_01.jpg",
+          "FabricDetail": "ACRYLIC KNITWEAR",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/ar-iq/regular-fit-bisiklet-yaka-cizgili-kazak-tunik-3303641",
+          "Model Page URL": "https://www.defacto.com/ar-iq/regular-fit-bisiklet-yaka-cizgili-kazak-tunik-3303641"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/C6031AX_25WN_BR281_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:27:14+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-cizgili-kazak-tunik-3303642",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-cizgili-kazak-tunik-3303641",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

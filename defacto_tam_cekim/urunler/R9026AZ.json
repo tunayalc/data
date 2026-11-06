@@ -1,0 +1,172 @@
+{
+  "model_kodu": "R9026AZ",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 206,
+    "yorum_sayisi": 206,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 4.1,
+      "tam_oldu": 84.6,
+      "buyuk_geldi": 11.4
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-06-28",
+        "puan": 5.0,
+        "metin": "@maalesef beden kğçğk geldi iade ettim"
+      },
+      {
+        "tarih": "2022-06-18",
+        "puan": 1.0,
+        "metin": "@regülar fit ama kalıbı dar. üstelik üzerinde ki yazı kalitesiz imajı verdi. boyasi oturduğunuz yerlere çıkabilir, iç çamaşırı boyayabilir çamaşır…"
+      },
+      {
+        "tarih": "2022-01-14",
+        "puan": 5.0,
+        "metin": "@Rengi çok hafif yrşile kaçıyor ama çok güzel. Biraz likralı sevdik ve birkaç tane aldık."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "R9026AZNM41",
+      "renk_kodu": "NM41",
+      "renk_adi": "Koyu Yeşil",
+      "renk_hex": "#079507",
+      "urun_adi": "Sergio Regular Fıt Normal Bel Boru Paça Jean Pantolon",
+      "kisa_aciklama": "Sergio Regular Fit jean pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Zamansız boru paça kesimi sayesinde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3376254",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/R9026AZ_26SP_NM41_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R9026AZ_26SP_NM41_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R9026AZ_26SP_NM41_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R9026AZ_26SP_NM41_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/R9026AZ_26SP_NM41_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/R9026AZ_26SP_NM41_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/R9026AZ_26SP_NM41_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "29-30",
+          "30-30",
+          "31-30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 32 - Boy 32 Beden - 1,89cm - 98/79/94",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Sergio Regular Fıt Normal Bel Boru Paça",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Sergio Regular Fit jean pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Zamansız boru paça kesimi sayesinde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46228,
+          "Product Option Code": "R9026AZ.NM41",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "29-30",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/R9026AZ_26SP_NM41_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3376254",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3376254"
+        },
+        {
+          "excel_satiri": 46229,
+          "Product Option Code": "R9026AZ.NM41",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "30-30",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/R9026AZ_25AU_NM41_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3376254",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3376254"
+        },
+        {
+          "excel_satiri": 46230,
+          "Product Option Code": "R9026AZ.NM41",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "31-30",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/R9026AZ_26SP_NM41_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3376254",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3376254"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/R9026AZ_26SP_NM41_01_02.jpg",
+        "https://image.defacto.com.tr/product/25AU/R9026AZ_25AU_NM41_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:54:22+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

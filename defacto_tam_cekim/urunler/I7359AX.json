@@ -1,0 +1,86 @@
+{
+  "model_kodu": "I7359AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I7359AXGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L - XL",
+          "S - M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44377,
+          "Product Option Code": "I7359AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "L - XL",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/I7359AX_26WN_GR210_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/loose-fit-kayik-yaka-dokulu-panco-triko-basic-kazak-3608603",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/loose-fit-kayik-yaka-dokulu-panco-triko-basic-kazak-3608603"
+        },
+        {
+          "excel_satiri": 44378,
+          "Product Option Code": "I7359AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "S - M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/I7359AX_26WN_GR210_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/loose-fit-kayik-yaka-dokulu-panco-triko-basic-kazak-3608603",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/loose-fit-kayik-yaka-dokulu-panco-triko-basic-kazak-3608603"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/I7359AX_26WN_GR210_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:52:08+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/loose-fit-kayik-yaka-dokulu-panco-triko-basic-kazak-3608603",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

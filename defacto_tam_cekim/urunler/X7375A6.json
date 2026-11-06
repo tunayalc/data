@@ -1,0 +1,57 @@
+{
+  "model_kodu": "X7375A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "X7375A6BE343",
+      "renk_kodu": "BE343",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "4/5 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47771,
+          "Product Option Code": "X7375A6.BE343",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22HS/X7375A6_22HS_BE343_01_04.jpg",
+          "FabricDetail": "SLUBBY POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 39.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22HS/X7375A6_22HS_BE343_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

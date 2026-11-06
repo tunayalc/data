@@ -1,0 +1,119 @@
+{
+  "model_kodu": "H8798A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-08",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-06-25",
+        "puan": 5.0,
+        "metin": "@çok beğendik kalıbı tam kumaşı çok güzel"
+      },
+      {
+        "tarih": "2026-10-15",
+        "puan": 5.0,
+        "metin": "@Renkleri canlı kumaşı çok güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8798A8ER142",
+      "renk_kodu": "ER142",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Bisiklet Yaka Kısa Kollu Baskılı Ekru Tişört Kız Çocuk",
+      "kisa_aciklama": "Bisiklet yaka kısa kollu baskılı kız çocuk tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-bisiklet-yaka-kisa-kollu-baskili-ekru-tisort-kiz-cocuk-3478652",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8798A8_26HS_ER142_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8798A8_26HS_ER142_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8798A8_26HS_ER142_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8798A8_26HS_ER142_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8798A8_26HS_ER142_05_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8798A8_26HS_ER142_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8798A8_26HS_ER142_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,46cm - 68/58/76",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Bisiklet yaka kısa kollu baskılı kız çocuk tişört."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 35638,
+          "Product Option Code": "H8798A8.ER142",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "RELAX FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H8798A8_26HS_ER142_01_03.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-bisiklet-yaka-kisa-kollu-baskili-ekru-tisort-kiz-cocuk-3478652",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-bisiklet-yaka-kisa-kollu-baskili-ekru-tisort-kiz-cocuk-3478652"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H8798A8_26HS_ER142_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:37:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D6718AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D6718AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8409,
+          "Product Option Code": "D6718AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "3XL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/D6718AX_24WN_ER105_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-ma/boxy-fit-kapusonlu-baskili-sweatshirt-3182514",
+          "Model Page URL": "https://www.defacto.com/en-ma/boxy-fit-kapusonlu-baskili-sweatshirt-3182514"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/D6718AX_24WN_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:37:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/boxy-fit-kapusonlu-baskili-sweatshirt-3182514",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

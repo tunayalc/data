@@ -1,0 +1,64 @@
+{
+  "model_kodu": "G0119A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0119A8AR84",
+      "renk_kodu": "AR84",
+      "renk_adi": "ANTHRA MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "13/14 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17365,
+          "Product Option Code": "G0119A8.AR84",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "KNITTED SET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G0119A8_25AU_AR84_01_01.jpg",
+          "FabricDetail": "INTERLOCK DOUBLE FACE",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/2li-takim-baskili-uzun-kollu-tisort-esofman-alti-kiz-cocuk-3408703",
+          "Model Page URL": "https://www.defacto.com.eg/2li-takim-baskili-uzun-kollu-tisort-esofman-alti-kiz-cocuk-3408703"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G0119A8_25AU_AR84_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:57:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/2li-takim-baskili-uzun-kollu-tisort-esofman-alti-kiz-cocuk-3408703",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

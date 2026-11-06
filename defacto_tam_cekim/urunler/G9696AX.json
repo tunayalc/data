@@ -1,0 +1,95 @@
+{
+  "model_kodu": "G9696AX",
+  "urun_grubu": "Kadın Güneş Gözlüğü",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G9696AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Güneş Gözlüğü",
+      "kisa_aciklama": "Metal çerçeveli yuvarlak güneş gözlüğü. Degradeli kahverengi camlara sahip. Çift köprü ve burun pedi detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-gunes-gozlugu-3422234",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G9696AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9696AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9696AX_NS_KR1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9696AX_NS_KR1_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9696AX_NS_KR1_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9696AX_NS_KR1_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,70cm - 85/60/88",
+        "ana_kumas_icerigi": "Metal 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "filtre_tipi": "UV",
+        "urun_tipi": "Güneş Gözlüğü",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Metal çerçeveli yuvarlak güneş gözlüğü. Degradeli kahverengi camlara sahip. Çift köprü ve burun pedi detaylı.",
+        "Bu ürünü en yakın DeFacto mağazasında ücretsiz olarak değiştirebilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23255,
+          "Product Option Code": "G9696AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Sunglasses",
+          "LifeStyle": "Casual",
+          "Class Name": "Sunglasses",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G9696AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-gunes-gozlugu-3422234",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-gunes-gozlugu-3422234"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G9696AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:12:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

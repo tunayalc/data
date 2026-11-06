@@ -1,0 +1,377 @@
+{
+  "model_kodu": "E0626AX",
+  "urun_grubu": "Kadın Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 14,
+    "yorum_sayisi": 14,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 57.1,
+      "tam_oldu": 42.9,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-06",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-09-15",
+        "puan": 5.0,
+        "metin": "@kardeşime aldım , kumaşı çok güzel kendisi de beğendi zaten"
+      },
+      {
+        "tarih": "2025-08-02",
+        "puan": 5.0,
+        "metin": "@çok rahat"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0626AXBG123",
+      "renk_kodu": "BG123",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Fitted Bürümcük Askılı Atlet",
+      "kisa_aciklama": "Modern ve sade tasarımıyla dikkat çeken bu askılı atlet, bürümcük dokusuyla hem şık hem rahat bir görünüm sunar. Vücuda oturan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-burumcuk-askili-atlet-3213440",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BG123_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BG123_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BG123_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BG123_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BG123_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BG123_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BG123_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BG123_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BG123_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,70cm - 80/59/88",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Fıtted",
+        "markalar": "Coool",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Atlet"
+      },
+      "urun_hakkinda": [
+        "Modern ve sade tasarımıyla dikkat çeken bu askılı atlet, bürümcük dokusuyla hem şık hem rahat bir görünüm sunar. Vücuda oturan…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10227,
+          "Product Option Code": "E0626AX.BG123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BG123_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 5,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-burumcuk-askili-atlet-3213440",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        },
+        {
+          "excel_satiri": 10228,
+          "Product Option Code": "E0626AX.BG123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BG123_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 7,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-burumcuk-askili-atlet-3213440",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        },
+        {
+          "excel_satiri": 10229,
+          "Product Option Code": "E0626AX.BG123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BG123_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 6,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-burumcuk-askili-atlet-3213440",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        },
+        {
+          "excel_satiri": 10230,
+          "Product Option Code": "E0626AX.BG123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BG123_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 6,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-burumcuk-askili-atlet-3213440",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        },
+        {
+          "excel_satiri": 10231,
+          "Product Option Code": "E0626AX.BG123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BG123_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 6,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-burumcuk-askili-atlet-3213440",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BG123_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0626AXBN533",
+      "renk_kodu": "BN533",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Fıtted Basıc Bürümcük Askılı Atlet",
+      "kisa_aciklama": "Modern ve sade tasarımıyla dikkat çeken bu askılı atlet, bürümcük dokusuyla hem şık hem rahat bir görünüm sunar. Vücuda oturan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BN533_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BN533_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BN533_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BN533_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BN533_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BN533_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BN533_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BN533_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0626AX_25SM_BN533_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,70cm - 80/59/88",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Fıtted",
+        "markalar": "Coool",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Atlet"
+      },
+      "urun_hakkinda": [
+        "Modern ve sade tasarımıyla dikkat çeken bu askılı atlet, bürümcük dokusuyla hem şık hem rahat bir görünüm sunar. Vücuda oturan…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10232,
+          "Product Option Code": "E0626AX.BN533",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT BROWN",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BN533_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 8,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        },
+        {
+          "excel_satiri": 10233,
+          "Product Option Code": "E0626AX.BN533",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT BROWN",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BN533_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 8,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        },
+        {
+          "excel_satiri": 10234,
+          "Product Option Code": "E0626AX.BN533",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT BROWN",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BN533_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 8,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        },
+        {
+          "excel_satiri": 10235,
+          "Product Option Code": "E0626AX.BN533",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BN533_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 5,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        },
+        {
+          "excel_satiri": 10236,
+          "Product Option Code": "E0626AX.BN533",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BN533_01_02.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 6,
+          "Initial Price Value": 179.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-basic-burumcuk-askili-atlet-3207817"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0626AX_25SM_BN533_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:32:58+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

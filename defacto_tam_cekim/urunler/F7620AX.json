@@ -1,0 +1,469 @@
+{
+  "model_kodu": "F7620AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-26",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-06-05",
+        "puan": 5.0,
+        "metin": "@Streç kumaş. Fermuarlı cepler. Ömür boyu çok yönlü pantolon. belki sıcak."
+      },
+      {
+        "tarih": "2026-08-18",
+        "puan": 5.0,
+        "metin": "@kumaş pantolon gibi duruyor fakat ahat ve güzel. Cepleri biraz küçük."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F7620AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Standart Fıt Pantolon",
+      "kisa_aciklama": "Beli Lastikli Dokuma Pantolon, standart fıt kalıbıyla rahatlık ve şıklığı bir arada sunuyor. İlkbahar/Yaz sezonuna uygun olan bu pantolon, sporcu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-pantolon-3501491",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_BK81_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_BK81_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_BK81_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_BK81_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_BK81_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_BK81_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_BK81_07_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_BK81_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_BK81_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 21%,Poliester 79%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kumas_kalinligi": "Kalın",
+        "kalip": "Standart Fıt",
+        "paket_icerigi": "Paketli",
+        "yasam_tarzi": "Sporcu"
+      },
+      "urun_hakkinda": [
+        "Beli Lastikli Dokuma Pantolon, standart fıt kalıbıyla rahatlık ve şıklığı bir arada sunuyor. İlkbahar/Yaz sezonuna uygun olan bu pantolon, sporcu…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15741,
+          "Product Option Code": "F7620AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501491",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        },
+        {
+          "excel_satiri": 15742,
+          "Product Option Code": "F7620AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501491",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        },
+        {
+          "excel_satiri": 15743,
+          "Product Option Code": "F7620AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501491",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        },
+        {
+          "excel_satiri": 15744,
+          "Product Option Code": "F7620AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501491",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        },
+        {
+          "excel_satiri": 15745,
+          "Product Option Code": "F7620AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501491",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F7620AXNV123",
+      "renk_kodu": "NV123",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Standart Fıt Pantolon",
+      "kisa_aciklama": "Beli Lastikli Dokuma Pantolon, standart fıt kalıbıyla rahatlık ve şıklığı bir arada sunuyor. İlkbahar/Yaz sezonuna uygun olan bu pantolon, sporcu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-pantolon-3501492",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_NV123_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_NV123_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_NV123_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_NV123_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_NV123_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_NV123_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_NV123_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26WN_NV123_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Elastan 21%,Poliester 79%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas_kalinligi": "Kalın",
+        "kalip": "Standart Fıt",
+        "paket_icerigi": "Paketli",
+        "yasam_tarzi": "Sporcu"
+      },
+      "urun_hakkinda": [
+        "Beli Lastikli Dokuma Pantolon, standart fıt kalıbıyla rahatlık ve şıklığı bir arada sunuyor. İlkbahar/Yaz sezonuna uygun olan bu pantolon, sporcu…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15746,
+          "Product Option Code": "F7620AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_NV123_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501492",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        },
+        {
+          "excel_satiri": 15747,
+          "Product Option Code": "F7620AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_NV123_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501492",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        },
+        {
+          "excel_satiri": 15748,
+          "Product Option Code": "F7620AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_NV123_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501492",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        },
+        {
+          "excel_satiri": 15749,
+          "Product Option Code": "F7620AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_NV123_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501492",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        },
+        {
+          "excel_satiri": 15750,
+          "Product Option Code": "F7620AX.NV123",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_NV123_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3501492",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-pantolon-3374918"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/F7620AX_26WN_NV123_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F7620AXGR83",
+      "renk_kodu": "GR83",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Standart Fıt Pantolon",
+      "kisa_aciklama": "Beli Lastikli Dokuma Pantolon, standart fıt kalıbıyla rahatlık ve şıklığı bir arada sunuyor. İlkbahar/Yaz sezonuna uygun olan bu pantolon, sporcu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-pantolon-3374918",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26SP_GR83_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26SP_GR83_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26SP_GR83_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26SP_GR83_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26SP_GR83_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26SP_GR83_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26SP_GR83_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7620AX_26SP_GR83_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 94/75/93",
+        "ana_kumas_icerigi": "Elastan 21%,Poliester 79%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "yasam_tarzi": "Sporcu",
+        "kumas_kalinligi": "Kalın",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Beli Lastikli Dokuma Pantolon, standart fıt kalıbıyla rahatlık ve şıklığı bir arada sunuyor. İlkbahar/Yaz sezonuna uygun olan bu pantolon, sporcu…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:50:18+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

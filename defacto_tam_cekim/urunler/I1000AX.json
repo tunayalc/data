@@ -1,0 +1,324 @@
+{
+  "model_kodu": "I1000AX",
+  "urun_grubu": "Kadın Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 25.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-08",
+        "puan": 5.0,
+        "metin": "@Hem plaj hem gunluk giyim icin uygun daha da oversize olsun diye ben bir beden buyuk aldim kendi bedeninizi alsaniz…"
+      },
+      {
+        "tarih": "2026-09-18",
+        "puan": 5.0,
+        "metin": "@158 boy 57 kilo s beden iyi oldu."
+      },
+      {
+        "tarih": "2026-09-04",
+        "puan": 5.0,
+        "metin": "@Beğenerek giyiyorum, rengini çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1000AXWT83",
+      "renk_kodu": "WT83",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Oversıze Pijama Yaka Keten Karışımlı Uzun Kollu Beyaz Gömlek",
+      "kisa_aciklama": "Keten karışımlı kumaştan üretilmiş oversize uzun kollu gömlek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-pijama-yaka-keten-karisimli-uzun-kollu-beyaz-gomlek-3488569",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_WT83_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_WT83_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_WT83_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_WT83_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_WT83_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_WT83_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_WT83_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 93%,Keten 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Keten Karışımlı",
+        "cinsiyet": "Kadın",
+        "kapama_detayi": "Düğmeli",
+        "yaka": "Pijama Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "paca_detayi": "Düz Paça",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "kalip": "Oversıze"
+      },
+      "urun_hakkinda": [
+        "Keten karışımlı kumaştan üretilmiş oversize uzun kollu gömlek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38497,
+          "Product Option Code": "I1000AX.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1000AX_26HS_WT83_01_01.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-pijama-yaka-keten-karisimli-uzun-kollu-beyaz-gomlek-3488569",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-pijama-yaka-keten-karisimli-uzun-kollu-beyaz-gomlek-3488569"
+        },
+        {
+          "excel_satiri": 38498,
+          "Product Option Code": "I1000AX.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1000AX_26HS_WT83_01_01.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-pijama-yaka-keten-karisimli-uzun-kollu-beyaz-gomlek-3488569",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-pijama-yaka-keten-karisimli-uzun-kollu-beyaz-gomlek-3488569"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I1000AX_26HS_WT83_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I1000AXBN338",
+      "renk_kodu": "BN338",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Pamuklu Oversıze Pijama Yaka Keten Karışımlı Uzun Kollu Gömlek",
+      "kisa_aciklama": "Keten karışımlı kumaştan üretilmiş oversize uzun kollu gömlek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-oversize-pijama-yaka-keten-karisimli-uzun-kollu-gomlek-3488567",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_BN338_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_BN338_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_BN338_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_BN338_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_BN338_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 82/60/89",
+        "ana_kumas_icerigi": "Pamuk 93%,Keten 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kapama_detayi": "Düğmeli",
+        "paca_detayi": "Düz Paça",
+        "yaka": "Pijama Yaka",
+        "kalip": "Oversıze",
+        "kumas": "Keten Karışımlı",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Keten karışımlı kumaştan üretilmiş oversize uzun kollu gömlek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "I1000AXPN440",
+      "renk_kodu": "PN440",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Oversıze Pijama Yaka Keten Karışımlı Uzun Kollu Pembe Gömlek",
+      "kisa_aciklama": "Keten karışımlı kumaştan üretilmiş oversize uzun kollu gömlek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-pijama-yaka-keten-karisimli-uzun-kollu-pembe-gomlek-3488568",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_PN440_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_PN440_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_PN440_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_PN440_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_PN440_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_PN440_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_PN440_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1000AX_26HS_PN440_08_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 93%,Keten 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Kadın",
+        "kapama_detayi": "Düğmeli",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "kumas": "Keten Karışımlı",
+        "yaka": "Pijama Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Oversıze"
+      },
+      "urun_hakkinda": [
+        "Keten karışımlı kumaştan üretilmiş oversize uzun kollu gömlek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:52:18+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

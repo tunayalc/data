@@ -1,0 +1,430 @@
+{
+  "model_kodu": "G6447AX",
+  "urun_grubu": "Kadın Külot",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-12",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-05",
+        "puan": 5.0,
+        "metin": "@Çok beğendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6447AXPN648",
+      "renk_kodu": "PN648",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "Pamuklu Dantel Detaylı Ribana Açık Pembe Boxer",
+      "kisa_aciklama": "Çizgili Ribana Boxer, esnek ribana kumaşıyla rahat bir kullanım sunar. Şık çizgili tasarımıyla günlük stilinize hareket katarken, gün boyu konfor…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-dantel-detayli-ribana-acik-pembe-boxer-3463806",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_PN648_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_PN648_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_PN648_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_PN648_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_PN648_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_PN648_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_PN648_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_PN648_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,72cm - 84/59/85",
+        "ana_kumas_icerigi": "Pamuk 97%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "dantel_detay": "Dantel Detaylı",
+        "ic_giyim_kategori": "Boxer",
+        "kumas": "Ribana",
+        "cinsiyet": "Kadın",
+        "markalar": "Fall ın Love"
+      },
+      "urun_hakkinda": [
+        "Çizgili Ribana Boxer, esnek ribana kumaşıyla rahat bir kullanım sunar. Şık çizgili tasarımıyla günlük stilinize hareket katarken, gün boyu konfor…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20282,
+          "Product Option Code": "G6447AX.PN648",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "L",
+          "Fit": "BOXER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_PN648_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-dantel-detayli-ribana-acik-pembe-boxer-3463806",
+          "Model Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030"
+        },
+        {
+          "excel_satiri": 20283,
+          "Product Option Code": "G6447AX.PN648",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "M",
+          "Fit": "BOXER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_PN648_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-dantel-detayli-ribana-acik-pembe-boxer-3463806",
+          "Model Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030"
+        },
+        {
+          "excel_satiri": 20284,
+          "Product Option Code": "G6447AX.PN648",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "S",
+          "Fit": "BOXER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_PN648_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-dantel-detayli-ribana-acik-pembe-boxer-3463806",
+          "Model Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030"
+        },
+        {
+          "excel_satiri": 20285,
+          "Product Option Code": "G6447AX.PN648",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "XL",
+          "Fit": "BOXER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_PN648_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-dantel-detayli-ribana-acik-pembe-boxer-3463806",
+          "Model Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030"
+        },
+        {
+          "excel_satiri": 20286,
+          "Product Option Code": "G6447AX.PN648",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "XS",
+          "Fit": "BOXER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_PN648_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-dantel-detayli-ribana-acik-pembe-boxer-3463806",
+          "Model Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030"
+        },
+        {
+          "excel_satiri": 20287,
+          "Product Option Code": "G6447AX.PN648",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "XXL",
+          "Fit": "BOXER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_PN648_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-dantel-detayli-ribana-acik-pembe-boxer-3463806",
+          "Model Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_PN648_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G6447AXYL79",
+      "renk_kodu": "YL79",
+      "renk_adi": "Sarı",
+      "renk_hex": "#FFFF00",
+      "urun_adi": "Dantel Detaylı Ribana Sarı Boxer",
+      "kisa_aciklama": "Çizgili Ribana Boxer, esnek ribana kumaşıyla rahat bir kullanım sunar. Şık çizgili tasarımıyla günlük stilinize hareket katarken, gün boyu konfor…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_YL79_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_YL79_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_YL79_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_YL79_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_YL79_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_YL79_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_YL79_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_YL79_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,72cm - 84/59/85",
+        "ana_kumas_icerigi": "Pamuk 97%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "ic_giyim_kategori": "Boxer",
+        "markalar": "Fall ın Love",
+        "dantel_detay": "Dantel Detaylı",
+        "kumas": "Ribana"
+      },
+      "urun_hakkinda": [
+        "Çizgili Ribana Boxer, esnek ribana kumaşıyla rahat bir kullanım sunar. Şık çizgili tasarımıyla günlük stilinize hareket katarken, gün boyu konfor…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20288,
+          "Product Option Code": "G6447AX.YL79",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "L",
+          "Fit": "BOXER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_YL79_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030",
+          "Model Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030"
+        },
+        {
+          "excel_satiri": 20289,
+          "Product Option Code": "G6447AX.YL79",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "XL",
+          "Fit": "BOXER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_YL79_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030",
+          "Model Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030"
+        },
+        {
+          "excel_satiri": 20290,
+          "Product Option Code": "G6447AX.YL79",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Slip",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "XS",
+          "Fit": "BOXER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_YL79_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030",
+          "Model Page URL": "https://www.defacto.com.tr/dantel-detayli-ribana-sari-boxer-3463030"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G6447AX_26SM_YL79_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G6447AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Çizgili Ribana Boxer",
+      "kisa_aciklama": "Çizgili Ribana Boxer, esnek ribana kumaşıyla rahat bir kullanım sunar. Şık çizgili tasarımıyla günlük stilinize hareket katarken, gün boyu konfor…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fall-in-love-3406517",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6447AX_26SM_BK81_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 80/60/89",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın",
+        "dantel_detay": "Dantel Detaylı",
+        "ic_giyim_kategori": "Boxer",
+        "kumas": "Ribana"
+      },
+      "urun_hakkinda": [
+        "Çizgili Ribana Boxer, esnek ribana kumaşıyla rahat bir kullanım sunar. Şık çizgili tasarımıyla günlük stilinize hareket katarken, gün boyu konfor…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:04:39+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

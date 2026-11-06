@@ -1,0 +1,186 @@
+{
+  "model_kodu": "I1856AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1856AXER100",
+      "renk_kodu": "ER100",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Modern Fit Resort Yaka Çizgi Baskılı Pamuklu Kısa Kollu Gömlek",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş çizgi baskılı modern fit kısa kollu gömlek. Önü düğme iliklemeli.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/modern-fit-resort-yaka-cizgi-baskili-pamuklu-kisa-kollu-gomlek-3492395",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1856AX_26HS_ER100_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1856AX_26HS_ER100_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "kalip": "Modern Fıt",
+        "kumas": "Pamuklu",
+        "yaka": "Resort Yaka",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "desen": "Baskılı"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş çizgi baskılı modern fit kısa kollu gömlek. Önü düğme iliklemeli."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 39638,
+          "Product Option Code": "I1856AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1856AX_26HS_ER100_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-resort-yaka-cizgi-baskili-pamuklu-kisa-kollu-gomlek-3492395",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-resort-yaka-cizgi-baskili-pamuklu-kisa-kollu-gomlek-3492395"
+        },
+        {
+          "excel_satiri": 39639,
+          "Product Option Code": "I1856AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1856AX_26HS_ER100_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-resort-yaka-cizgi-baskili-pamuklu-kisa-kollu-gomlek-3492395",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-resort-yaka-cizgi-baskili-pamuklu-kisa-kollu-gomlek-3492395"
+        },
+        {
+          "excel_satiri": 39640,
+          "Product Option Code": "I1856AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1856AX_26HS_ER100_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-resort-yaka-cizgi-baskili-pamuklu-kisa-kollu-gomlek-3492395",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-resort-yaka-cizgi-baskili-pamuklu-kisa-kollu-gomlek-3492395"
+        },
+        {
+          "excel_satiri": 39641,
+          "Product Option Code": "I1856AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "MODERN FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1856AX_26HS_ER100_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/modern-fit-resort-yaka-cizgi-baskili-pamuklu-kisa-kollu-gomlek-3492395",
+          "Model Page URL": "https://www.defacto.com.tr/modern-fit-resort-yaka-cizgi-baskili-pamuklu-kisa-kollu-gomlek-3492395"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I1856AX_26HS_ER100_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:44:18+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

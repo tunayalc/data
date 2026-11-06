@@ -1,0 +1,99 @@
+{
+  "model_kodu": "G6430A5",
+  "urun_grubu": "Erkek Bebek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6430A5NV31",
+      "renk_kodu": "NV31",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Balloon Fit Gabardın Pantolon",
+      "kisa_aciklama": "Erkek Bebek Balloon Gabardın Pantolon, hacimli kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/balloon-fit-gabardin-pantolon-3375514",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6430A5_26SP_NV31_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6430A5_26SP_NV31_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6430A5_26SP_NV31_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6430A5_26SP_NV31_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "9-12 Ay (80cm)",
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "4/5 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Balloon Fıt",
+        "urun_tipi": "Pantolon",
+        "kumas": "Gabardin",
+        "cinsiyet": "Erkek Bebek",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Erkek Bebek Balloon Gabardın Pantolon, hacimli kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20277,
+          "Product Option Code": "G6430A5.NV31",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6430A5_26SP_NV31_01_02.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-gabardin-pantolon-3375514",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-gabardin-pantolon-3375514"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6430A5_26SP_NV31_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:06:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

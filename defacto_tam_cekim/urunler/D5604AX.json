@@ -1,0 +1,124 @@
+{
+  "model_kodu": "D5604AX",
+  "urun_grubu": "Kadın Sütyen",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 19,
+    "yorum_sayisi": 19,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-25",
+        "puan": 4.0,
+        "metin": "@Bazen biraz kaşındırıyor ama sıcak havalarda kullanışlı olur, efil efil."
+      },
+      {
+        "tarih": "2025-02-18",
+        "puan": 3.0,
+        "metin": "@Normal, idare eder."
+      },
+      {
+        "tarih": "2024-11-02",
+        "puan": 5.0,
+        "metin": "@Tam beden, şık ve güzel duruyor."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5604AXRD197",
+      "renk_kodu": "RD197",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Kapsız Tül Bra",
+      "kisa_aciklama": "Rahatlık ve şıklığı bir arada sunan Desenli Comfort Pedsiz Bra ile gün boyu konforu hissedin. Yumuşak dokusu ve özel tasarımıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kapsiz-tul-bra-3198195",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D5604AX_24AU_RD197_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5604AX_24AU_RD197_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5604AX_24AU_RD197_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5604AX_24AU_RD197_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5604AX_24AU_RD197_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5604AX_24AU_RD197_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5604AX_24AU_RD197_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5604AX_24AU_RD197_08_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 4%,Poliester 96%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "ic_giyim_kategori": "Bra",
+        "urun_tipi": "Bra",
+        "sutyen_kap_detayi": "Comfort",
+        "cinsiyet": "Kadın",
+        "markalar": "Fall ın Love",
+        "sutyen_push_up": "Pedsiz",
+        "desen": "Floral",
+        "kumas": "Tül"
+      },
+      "urun_hakkinda": [
+        "Rahatlık ve şıklığı bir arada sunan Desenli Comfort Pedsiz Bra ile gün boyu konforu hissedin. Yumuşak dokusu ve özel tasarımıyla…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 179.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8074,
+          "Product Option Code": "D5604AX.RD197",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Bra",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XL",
+          "Fit": "TRIANGLE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5604AX_24AU_RD197_01_02.jpg",
+          "FabricDetail": "MESH",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-ma/kapsiz-tul-bra-3198195",
+          "Model Page URL": "https://www.defacto.com/en-ma/kapsiz-tul-bra-3198195"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D5604AX_24AU_RD197_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:36:08+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

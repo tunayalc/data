@@ -1,0 +1,473 @@
+{
+  "model_kodu": "F0461AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 23,
+    "yorum_sayisi": 23,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 35.3,
+      "tam_oldu": 58.8,
+      "buyuk_geldi": 5.9
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-03",
+        "puan": 5.0,
+        "metin": "@Çok kaliteli ve şık duruyor."
+      },
+      {
+        "tarih": "2026-01-07",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika, eşime aldım, her şeyle kolayca kombinleniyor. Şahane bir ürün."
+      },
+      {
+        "tarih": "2025-12-21",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi bir ürün, oldukça rahat, kendi bedeninizi rahatlıkla alabilirsiniz. Ürün de gayet güzel. Çok teşekkür ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0461AXBG580",
+      "renk_kodu": "BG580",
+      "renk_adi": "Vizon Melanj",
+      "renk_hex": "#968073",
+      "urun_adi": "Slim Fit Polo Yaka Astarlı Fermuarlı Cepli Kaşe Ceket",
+      "kisa_aciklama": "Polo yaka ve kaşe dokusu ile klasik şıklığı temsil eden bu ceket, slim fit kalıbıyla vücudunuzu modern bir formda sarar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484612",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BG580_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BG580_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BG580_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BG580_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BG580_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BG580_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BG580_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BG580_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BG580_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Viskoz 16%,Poliester 84%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Mont",
+        "kapama_detayi": "Fermuarlı"
+      },
+      "urun_hakkinda": [
+        "Polo yaka ve kaşe dokusu ile klasik şıklığı temsil eden bu ceket, slim fit kalıbıyla vücudunuzu modern bir formda sarar.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13567,
+          "Product Option Code": "F0461AX.BG580",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "VISON MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BG580_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 3,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484612",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544"
+        },
+        {
+          "excel_satiri": 13568,
+          "Product Option Code": "F0461AX.BG580",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "VISON MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BG580_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484612",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544"
+        },
+        {
+          "excel_satiri": 13569,
+          "Product Option Code": "F0461AX.BG580",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "VISON MELANGE",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BG580_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484612",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544"
+        },
+        {
+          "excel_satiri": 13570,
+          "Product Option Code": "F0461AX.BG580",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "VISON MELANGE",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BG580_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484612",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BG580_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F0461AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slim Fit Polo Yaka Astarlı Fermuarlı Cepli Kaşe Ceket",
+      "kisa_aciklama": "Polo yaka ve kaşe dokusu ile klasik şıklığı temsil eden bu ceket, slim fit kalıbıyla vücudunuzu modern bir formda sarar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484611",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BK27_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BK27_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_26WN_BK27_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt",
+        "kapama_detayi": "Fermuarlı",
+        "yaka": "Polo Yaka",
+        "urun_tipi": "Mont"
+      },
+      "urun_hakkinda": [
+        "Polo yaka ve kaşe dokusu ile klasik şıklığı temsil eden bu ceket, slim fit kalıbıyla vücudunuzu modern bir formda sarar.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13571,
+          "Product Option Code": "F0461AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BK27_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 6,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484611",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544"
+        },
+        {
+          "excel_satiri": 13572,
+          "Product Option Code": "F0461AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BK27_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 3,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484611",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544"
+        },
+        {
+          "excel_satiri": 13573,
+          "Product Option Code": "F0461AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BK27_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484611",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544"
+        },
+        {
+          "excel_satiri": 13574,
+          "Product Option Code": "F0461AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BK27_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 3,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484611",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544"
+        },
+        {
+          "excel_satiri": 13575,
+          "Product Option Code": "F0461AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BK27_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3484611",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/F0461AX_26WN_BK27_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F0461AXGR370",
+      "renk_kodu": "GR370",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Slim Fit Polo Yaka Astarlı Fermuarlı Cepli Kaşe Ceket",
+      "kisa_aciklama": "Polo yaka ve kaşe dokusu ile klasik şıklığı temsil eden bu ceket, slim fit kalıbıyla vücudunuzu modern bir formda sarar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-polo-yaka-astarli-fermuarli-cepli-kase-ceket-3311544",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0461AX_25AU_GR370_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_25AU_GR370_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_25AU_GR370_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0461AX_25AU_GR370_04_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kapama_detayi": "Fermuarlı",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Mont",
+        "yaka": "Polo Yaka",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Polo yaka ve kaşe dokusu ile klasik şıklığı temsil eden bu ceket, slim fit kalıbıyla vücudunuzu modern bir formda sarar.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2499.99,
+        "sepette_fiyat": 1499.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:42:18+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

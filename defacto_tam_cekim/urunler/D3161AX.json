@@ -1,0 +1,131 @@
+{
+  "model_kodu": "D3161AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D3161AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6993,
+          "Product Option Code": "D3161AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3161AX_24AU_BK81_01_02.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 2,
+          "Initial Price Value": 1699.99,
+          "Actual Price Value": 1699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/crop-bisiklet-yaka-blazer-ceket-3317481",
+          "Model Page URL": "https://www.defacto.com/crop-bisiklet-yaka-blazer-ceket-3146413"
+        },
+        {
+          "excel_satiri": 6994,
+          "Product Option Code": "D3161AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3161AX_24AU_BK81_01_02.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 0,
+          "Initial Price Value": 1699.99,
+          "Actual Price Value": 1699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/crop-bisiklet-yaka-blazer-ceket-3317481",
+          "Model Page URL": "https://www.defacto.com/crop-bisiklet-yaka-blazer-ceket-3146413"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D3161AX_24AU_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D3161AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6995,
+          "Product Option Code": "D3161AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "42",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3161AX_24AU_ER105_01_02.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 0,
+          "Initial Price Value": 1699.99,
+          "Actual Price Value": 1699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/crop-bisiklet-yaka-blazer-ceket-3146413",
+          "Model Page URL": "https://www.defacto.com/crop-bisiklet-yaka-blazer-ceket-3146413"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D3161AX_24AU_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:32:16+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/crop-bisiklet-yaka-blazer-ceket-3317481",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/crop-bisiklet-yaka-blazer-ceket-3146413",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "model_kodu": "G4186AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 11,
+    "yorum_sayisi": 11,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 55.6,
+      "tam_oldu": 44.4,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-02",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-08-01",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-04-13",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4186AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "BAGGY FIT Beli Lastikli Şort",
+      "kisa_aciklama": "Esnek ve konforlu beli lastikli tasarımıyla gün boyu hareket özgürlüğünü en üst seviyeye taşıyan modern bir silüet sunar. Bel hattına…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,81cm - 96/75/95",
+        "ana_kumas_icerigi": "Pamuk 44%,Poliester 56%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "urun_boyu": "Kısa Boy",
+        "kalip": "Baggy Fıt"
+      },
+      "urun_hakkinda": [
+        "Esnek ve konforlu beli lastikli tasarımıyla gün boyu hareket özgürlüğünü en üst seviyeye taşıyan modern bir silüet sunar. Bel hattına…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19060,
+          "Product Option Code": "G4186AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4186AX_26SM_BK81_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875"
+        },
+        {
+          "excel_satiri": 19061,
+          "Product Option Code": "G4186AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4186AX_26SM_BK81_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 6,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875"
+        },
+        {
+          "excel_satiri": 19062,
+          "Product Option Code": "G4186AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4186AX_26SM_BK81_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G4186AX_26SM_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G4186AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "BAGGY FIT Beli Lastikli Şort",
+      "kisa_aciklama": "Esnek ve konforlu beli lastikli tasarımıyla gün boyu hareket özgürlüğünü en üst seviyeye taşıyan modern bir silüet sunar. Bel hattına…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426876",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4186AX_26SM_ER105_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,81cm - 96/75/95",
+        "ana_kumas_icerigi": "Pamuk 44%,Poliester 56%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_boyu": "Kısa Boy",
+        "kalip": "Baggy Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Esnek ve konforlu beli lastikli tasarımıyla gün boyu hareket özgürlüğünü en üst seviyeye taşıyan modern bir silüet sunar. Bel hattına…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19063,
+          "Product Option Code": "G4186AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4186AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426876",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875"
+        },
+        {
+          "excel_satiri": 19064,
+          "Product Option Code": "G4186AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4186AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426876",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875"
+        },
+        {
+          "excel_satiri": 19065,
+          "Product Option Code": "G4186AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4186AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426876",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-sort-3426875"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G4186AX_26SM_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:02:39+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

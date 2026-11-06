@@ -1,0 +1,384 @@
+{
+  "model_kodu": "H5968AX",
+  "urun_grubu": "Kadın Bluz",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-17",
+        "puan": 2.0,
+        "metin": "@çok beğenmiş olmama rağmen koltuk altı aşırı açık geldi"
+      },
+      {
+        "tarih": "2026-09-12",
+        "puan": 1.0,
+        "metin": "@koltuk altı aşırı geniş kapatmak mümkün değil derin"
+      },
+      {
+        "tarih": "2026-08-20",
+        "puan": 4.0,
+        "metin": "@çok güzel çok beğendim ama koltuk altı kısmı çok açık neredeyse göğsü gösteriyor o yüzden altına atlet giymek gerekiyor"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5968AXBN130",
+      "renk_kodu": "BN130",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Fıtted Pötikareli Gofre Dokulu Bluz",
+      "kisa_aciklama": "Pötikareli kumaştan üretilmiş pötikareli fitted kare yaka kolsuz kadın bluz.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3481485",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_BN130_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_BN130_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_BN130_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_BN130_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_BN130_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_BN130_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 80/61/91",
+        "ana_kumas_icerigi": "Pamuk 29%,Elastan 5%,Viskoz 20%,Poliester 46%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "urun_tipi": "Kolsuz Bluz",
+        "kalip": "Fıtted",
+        "desen": "Pötikareli",
+        "kumas": "Gofre Dokulu",
+        "kol_boyu": "Askılı",
+        "kapama_detayi": "Düğmeli",
+        "yaka": "Kare Yaka",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Pötikareli kumaştan üretilmiş pötikareli fitted kare yaka kolsuz kadın bluz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31157,
+          "Product Option Code": "H5968AX.BN130",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_BN130_01_01.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3481485",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136"
+        },
+        {
+          "excel_satiri": 31158,
+          "Product Option Code": "H5968AX.BN130",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_BN130_01_01.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3481485",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136"
+        },
+        {
+          "excel_satiri": 31159,
+          "Product Option Code": "H5968AX.BN130",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_BN130_01_01.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3481485",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136"
+        },
+        {
+          "excel_satiri": 31160,
+          "Product Option Code": "H5968AX.BN130",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_BN130_01_01.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3481485",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_BN130_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5968AXNV134",
+      "renk_kodu": "NV134",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Fıtted Pötikareli Gofre Dokulu Bluz",
+      "kisa_aciklama": "Fitted kadın bluz. Kare yaka ve kolsuz. Kareli desen.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_NV134_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_NV134_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_NV134_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_NV134_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_NV134_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_NV134_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5968AX_26SM_NV134_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 55%,Elastan 1%,Poliester 44%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça",
+        "yaka": "Kare Yaka",
+        "urun_tipi": "Kolsuz Bluz",
+        "kalip": "Fıtted",
+        "kol_boyu": "Askılı",
+        "kumas": "Gofre Dokulu",
+        "desen": "Pötikareli",
+        "kapama_detayi": "Düğmeli"
+      },
+      "urun_hakkinda": [
+        "Fitted kadın bluz. Kare yaka ve kolsuz. Kareli desen."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31161,
+          "Product Option Code": "H5968AX.NV134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_NV134_01_02.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136"
+        },
+        {
+          "excel_satiri": 31162,
+          "Product Option Code": "H5968AX.NV134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_NV134_01_02.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136"
+        },
+        {
+          "excel_satiri": 31163,
+          "Product Option Code": "H5968AX.NV134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_NV134_01_02.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136"
+        },
+        {
+          "excel_satiri": 31164,
+          "Product Option Code": "H5968AX.NV134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_NV134_01_02.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136"
+        },
+        {
+          "excel_satiri": 31165,
+          "Product Option Code": "H5968AX.NV134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_NV134_01_02.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-potikareli-gofre-dokulu-bluz-3460136"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H5968AX_26SM_NV134_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:34:17+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

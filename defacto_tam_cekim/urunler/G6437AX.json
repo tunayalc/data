@@ -1,0 +1,86 @@
+{
+  "model_kodu": "G6437AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6437AXIN277",
+      "renk_kodu": "IN277",
+      "renk_adi": "DULL INDIGO",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20278,
+          "Product Option Code": "G6437AX.IN277",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Biker",
+          "Product Color Name": "DULL INDIGO",
+          "SizeDefinition": "L",
+          "Fit": "BIKER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6437AX_26SP_IN277_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/sporcu-biker-tayt-3597013",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/sporcu-biker-tayt-3597013"
+        },
+        {
+          "excel_satiri": 20279,
+          "Product Option Code": "G6437AX.IN277",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Biker",
+          "Product Color Name": "DULL INDIGO",
+          "SizeDefinition": "S",
+          "Fit": "BIKER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6437AX_26SP_IN277_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/sporcu-biker-tayt-3597013",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/sporcu-biker-tayt-3597013"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6437AX_26SP_IN277_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:06:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/sporcu-biker-tayt-3597013",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

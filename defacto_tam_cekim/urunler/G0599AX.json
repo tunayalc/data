@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G0599AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0599AXBN61",
+      "renk_kodu": "BN61",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "100",
+          "80",
+          "90"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17570,
+          "Product Option Code": "G0599AX.BN61",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "100",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G0599AX_NS_BN61_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-buyuk-toka-suni-deri-gunluk-kemer-3409215",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-buyuk-toka-suni-deri-gunluk-kemer-3409215"
+        },
+        {
+          "excel_satiri": 17571,
+          "Product Option Code": "G0599AX.BN61",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "80",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G0599AX_NS_BN61_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-buyuk-toka-suni-deri-gunluk-kemer-3409215",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-buyuk-toka-suni-deri-gunluk-kemer-3409215"
+        },
+        {
+          "excel_satiri": 17572,
+          "Product Option Code": "G0599AX.BN61",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G0599AX_NS_BN61_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-buyuk-toka-suni-deri-gunluk-kemer-3409215",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-buyuk-toka-suni-deri-gunluk-kemer-3409215"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G0599AX_NS_BN61_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:58:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kadin-buyuk-toka-suni-deri-gunluk-kemer-3409215",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

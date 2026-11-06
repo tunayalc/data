@@ -1,0 +1,114 @@
+{
+  "model_kodu": "A1405A5",
+  "urun_grubu": "Erkek Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 79,
+    "yorum_sayisi": 79,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 71.4,
+      "tam_oldu": 28.6,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-13",
+        "puan": 5.0,
+        "metin": "@Harika! Çok hoşuma gitti, aşırı güzeller."
+      },
+      {
+        "tarih": "2025-06-17",
+        "puan": 5.0,
+        "metin": "@Oldukça iyi ve bedeni uygun."
+      },
+      {
+        "tarih": "2025-10-24",
+        "puan": 5.0,
+        "metin": "@Harika olmuş, çok beğendim, kesinlikle tavsiye ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1405A5NV2",
+      "renk_kodu": "NV2",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Dikişsiz 5'li Pamuklu Patik Çorap Erkek Bebek",
+      "kisa_aciklama": "Erkek bebekler için özel olarak tasarlanmış dikişsiz 5'li pamuklu patik çoraplar, konfor ve şıklığı bir arada sunuyor. Bebeğinizin hassas cildine…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/dikissiz-5li-pamuklu-patik-corap-erkek-bebek-2792321",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A1405A5_NS_NV2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1405A5_NS_NV2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1405A5_NS_NV2_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y",
+          "3-4 Y"
+        ],
+        "excel": [
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 60%,Poliamid 22%,Elastan 2%,Poliester 16%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Patik Çorap",
+        "cinsiyet": "Erkek Bebek",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Erkek bebekler için özel olarak tasarlanmış dikişsiz 5'li pamuklu patik çoraplar, konfor ve şıklığı bir arada sunuyor. Bebeğinizin hassas cildine…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 133,
+          "Product Option Code": "A1405A5.NV2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "6-12 M",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/A1405A5_NS_NV2_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/dikissiz-5li-pamuklu-patik-corap-erkek-bebek-2792321",
+          "Model Page URL": "https://www.defacto.com/dikissiz-5li-pamuklu-patik-corap-erkek-bebek-2792321"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/A1405A5_NS_NV2_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:14:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

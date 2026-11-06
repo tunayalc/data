@@ -1,0 +1,57 @@
+{
+  "model_kodu": "D8616AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D8616AXGR311",
+      "renk_kodu": "GR311",
+      "renk_adi": "D.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9386,
+          "Product Option Code": "D8616AX.GR311",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "L",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D8616AX_25SP_GR311_01_01.jpg",
+          "FabricDetail": "SCUBA",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D8616AX_25SP_GR311_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

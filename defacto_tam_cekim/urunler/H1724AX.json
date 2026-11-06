@@ -1,0 +1,585 @@
+{
+  "model_kodu": "H1724AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-11-04",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1724AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Oversize Gömlek Yaka Dikiş Detaylı Fermuarlı Astarlı Mont",
+      "kisa_aciklama": "Gömlek yakalı, düşük omuzlu uzun kollu mont. Önden fermuar kapamalı, göğüs panellerinde yatay dikiş detaylı ve yan cepli. Etek ucu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463812",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1724AX_26AU_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1724AX_26AU_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1724AX_26AU_BK27_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Gömlek Yaka",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "astar_bilgisi": "Astarlı",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Oversıze",
+        "kapama_detayi": "Fermuarlı"
+      },
+      "urun_hakkinda": [
+        "Gömlek yakalı, düşük omuzlu uzun kollu mont. Önden fermuar kapamalı, göğüs panellerinde yatay dikiş detaylı ve yan cepli. Etek ucu…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "İç Cep",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/ic_ve_fonksiyonel_cep_v2_EW9BUPKA3GG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25153,
+          "Product Option Code": "H1724AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463812",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25154,
+          "Product Option Code": "H1724AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463812",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25155,
+          "Product Option Code": "H1724AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463812",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25156,
+          "Product Option Code": "H1724AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463812",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25157,
+          "Product Option Code": "H1724AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463812",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "H1724AXBN116",
+      "renk_kodu": "BN116",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Oversize Gömlek Yaka Dikiş Detaylı Fermuarlı Astarlı Mont",
+      "kisa_aciklama": "Gömlek yakalı, düşük omuzlu uzun kollu mont. Önden fermuar kapamalı, göğüs panellerinde yatay dikiş detaylı ve yan cepli. Etek ucu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463811",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1724AX_26AU_BN116_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1724AX_26AU_BN116_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1724AX_26AU_BN116_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kapama_detayi": "Fermuarlı",
+        "astar_bilgisi": "Astarlı",
+        "kalip": "Oversıze",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "yaka": "Gömlek Yaka"
+      },
+      "urun_hakkinda": [
+        "Gömlek yakalı, düşük omuzlu uzun kollu mont. Önden fermuar kapamalı, göğüs panellerinde yatay dikiş detaylı ve yan cepli. Etek ucu…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "İç Cep",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/ic_ve_fonksiyonel_cep_v2_EW9BUPKA3GG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25158,
+          "Product Option Code": "H1724AX.BN116",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463811",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25159,
+          "Product Option Code": "H1724AX.BN116",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463811",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25160,
+          "Product Option Code": "H1724AX.BN116",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463811",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25161,
+          "Product Option Code": "H1724AX.BN116",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463811",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25162,
+          "Product Option Code": "H1724AX.BN116",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3463811",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "H1724AXGN1155",
+      "renk_kodu": "GN1155",
+      "renk_adi": "Koyu Yeşil",
+      "renk_hex": "#079507",
+      "urun_adi": "Oversize Gömlek Yaka Dikiş Detaylı Fermuarlı Astarlı Mont",
+      "kisa_aciklama": "Gömlek yakalı, düşük omuzlu uzun kollu mont. Önden fermuar kapamalı, göğüs panellerinde yatay dikiş detaylı ve yan cepli. Etek ucu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1724AX_26AU_GN1155_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1724AX_26AU_GN1155_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1724AX_26AU_GN1155_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Gömlek Yaka",
+        "cinsiyet": "Erkek",
+        "astar_bilgisi": "Astarlı",
+        "kapama_detayi": "Fermuarlı",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Oversıze"
+      },
+      "urun_hakkinda": [
+        "Gömlek yakalı, düşük omuzlu uzun kollu mont. Önden fermuar kapamalı, göğüs panellerinde yatay dikiş detaylı ve yan cepli. Etek ucu…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "İç Cep",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/ic_ve_fonksiyonel_cep_v2_EW9BUPKA3GG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25163,
+          "Product Option Code": "H1724AX.GN1155",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "L",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25164,
+          "Product Option Code": "H1724AX.GN1155",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25165,
+          "Product Option Code": "H1724AX.GN1155",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 0,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25166,
+          "Product Option Code": "H1724AX.GN1155",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "XL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        },
+        {
+          "excel_satiri": 25167,
+          "Product Option Code": "H1724AX.GN1155",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "XXL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage408739_Version_4/H1724AX_NQY2U3H03GG_1.jpeg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-gomlek-yaka-dikis-detayli-fermuarli-astarli-mont-3430161"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:18:23+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

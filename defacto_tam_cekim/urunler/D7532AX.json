@@ -1,0 +1,328 @@
+{
+  "model_kodu": "D7532AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 52,
+    "yorum_sayisi": 52,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 79.0,
+      "tam_oldu": 15.8,
+      "buyuk_geldi": 5.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-16",
+        "puan": 5.0,
+        "metin": "@Kalıbı harika"
+      },
+      {
+        "tarih": "2025-12-31",
+        "puan": 5.0,
+        "metin": "@Kalıbı gayet güzeldi, kalıbı da tam oturdu. L beden almıştık, L beden de tam geldi. Teşekkür ederim. Teşekkürler. Ürün çok…"
+      },
+      {
+        "tarih": "2025-12-14",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok güzel, gerçekten de bayağı kalın ama mevsim geçişlerinde rahatça giyilebilir. Ama gerçekten de çok hoş. Eşim M giyiyor…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7532AXGR206",
+      "renk_kodu": "GR206",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Slım Fıt Dik Yaka Mont",
+      "kisa_aciklama": "Slim fit kalıbıyla vücut hatlarına uyum sağlayan bu dik yaka mont, zamansız tasarımıyla gardırobunuzun temel parçalarından biri olacak. Günlük şıklığınızı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dik-yaka-mont-3374375",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_GR206_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_GR206_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_GR206_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_GR206_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_GR206_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "yaka": "Dik Yaka",
+        "dis_giyim_urun_grubu": "Mont",
+        "kalip": "Slım Fıt",
+        "astar_bilgisi": "Astarlı",
+        "urun_tipi": "Mont"
+      },
+      "urun_hakkinda": [
+        "Slim fit kalıbıyla vücut hatlarına uyum sağlayan bu dik yaka mont, zamansız tasarımıyla gardırobunuzun temel parçalarından biri olacak. Günlük şıklığınızı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 1199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8758,
+          "Product Option Code": "D7532AX.GR206",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7532AX_26SP_GR206_01_02.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 0,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-mont-3374375",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-mont-3280674"
+        },
+        {
+          "excel_satiri": 8759,
+          "Product Option Code": "D7532AX.GR206",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7532AX_26SP_GR206_01_02.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 0,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-mont-3374375",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-mont-3280674"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D7532AX_26SP_GR206_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D7532AXBG766",
+      "renk_kodu": "BG766",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Slım Fıt Dik Yaka Mont",
+      "kisa_aciklama": "Slim fit kalıbıyla vücut hatlarına uyum sağlayan bu dik yaka mont, zamansız tasarımıyla gardırobunuzun temel parçalarından biri olacak. Günlük şıklığınızı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dik-yaka-mont-3280674",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_08_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_09_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_25AU_BG766_10_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Slım Fıt",
+        "dis_giyim_urun_grubu": "Mont",
+        "kumas_kalinligi": "İnce",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Mont",
+        "yaka": "Dik Yaka"
+      },
+      "urun_hakkinda": [
+        "Slim fit kalıbıyla vücut hatlarına uyum sağlayan bu dik yaka mont, zamansız tasarımıyla gardırobunuzun temel parçalarından biri olacak. Günlük şıklığınızı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "D7532AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slım Fıt Dik Yaka Mont",
+      "kisa_aciklama": "Slim fit kalıbıyla vücut hatlarına uyum sağlayan bu dik yaka mont, zamansız tasarımıyla gardırobunuzun temel parçalarından biri olacak. Günlük şıklığınızı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dik-yaka-mont-3374374",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_BK27_01_07.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_BK27_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_BK27_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_BK27_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_BK27_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_BK27_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "urun_tipi": "Mont",
+        "yaka": "Dik Yaka",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt",
+        "dis_giyim_urun_grubu": "Mont",
+        "astar_bilgisi": "Astarlı"
+      },
+      "urun_hakkinda": [
+        "Slim fit kalıbıyla vücut hatlarına uyum sağlayan bu dik yaka mont, zamansız tasarımıyla gardırobunuzun temel parçalarından biri olacak. Günlük şıklığınızı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 1199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "D7532AXNV118",
+      "renk_kodu": "NV118",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Slım Fıt Dik Yaka Mont",
+      "kisa_aciklama": "Slim fit kalıbıyla vücut hatlarına uyum sağlayan bu dik yaka mont, zamansız tasarımıyla gardırobunuzun temel parçalarından biri olacak. Günlük şıklığınızı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dik-yaka-mont-3374373",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_NV118_01_07.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_NV118_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_NV118_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_NV118_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7532AX_26SP_NV118_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "dis_giyim_urun_grubu": "Mont",
+        "astar_bilgisi": "Astarlı",
+        "yaka": "Dik Yaka",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Mont"
+      },
+      "urun_hakkinda": [
+        "Slim fit kalıbıyla vücut hatlarına uyum sağlayan bu dik yaka mont, zamansız tasarımıyla gardırobunuzun temel parçalarından biri olacak. Günlük şıklığınızı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 1199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:30:01+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

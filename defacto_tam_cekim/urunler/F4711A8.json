@@ -1,0 +1,173 @@
+{
+  "model_kodu": "F4711A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-16",
+        "puan": 5.0,
+        "metin": "@Şahane! Çok hoşuma gitti, kumaşı da harika. Harika!."
+      },
+      {
+        "tarih": "2025-11-12",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika. Gayet güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F4711A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "7'li Pamuklu Patik Çorap Erkek Çocuk",
+      "kisa_aciklama": "Erkek çocuklar için hazırlanan 7'li pamuklu patik çorap seti, haftanın her günü konfor ve şıklık sunar. Nefes alabilen pamuklu yapısı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/7li-pamuklu-patik-corap-erkek-cocuk-3322389",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4711A8_NS_KR1_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4711A8_NS_KR1_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4711A8_NS_KR1_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4711A8_NS_KR1_04_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28",
+          "29 - 34",
+          "35 - 39"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 60%,Poliamid 21%,Elastan 2%,Poliester 17%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek Çocuk",
+        "urun_tipi": "Kısa Çorap",
+        "takim_icerigi": "7'li",
+        "corap_tipi": "Patik Çorap"
+      },
+      "urun_hakkinda": [
+        "Erkek çocuklar için hazırlanan 7'li pamuklu patik çorap seti, haftanın her günü konfor ve şıklık sunar. Nefes alabilen pamuklu yapısı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14770,
+          "Product Option Code": "F4711A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4711A8_NS_KR1_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/7li-pamuklu-patik-corap-erkek-cocuk-3322389",
+          "Model Page URL": "https://www.defacto.com.tr/7li-pamuklu-patik-corap-erkek-cocuk-3322389"
+        },
+        {
+          "excel_satiri": 14771,
+          "Product Option Code": "F4711A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4711A8_NS_KR1_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/7li-pamuklu-patik-corap-erkek-cocuk-3322389",
+          "Model Page URL": "https://www.defacto.com.tr/7li-pamuklu-patik-corap-erkek-cocuk-3322389"
+        },
+        {
+          "excel_satiri": 14772,
+          "Product Option Code": "F4711A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "35 - 39",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4711A8_NS_KR1_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/7li-pamuklu-patik-corap-erkek-cocuk-3322389",
+          "Model Page URL": "https://www.defacto.com.tr/7li-pamuklu-patik-corap-erkek-cocuk-3322389"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F4711A8_NS_KR1_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:52:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

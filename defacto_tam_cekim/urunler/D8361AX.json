@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D8361AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D8361AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "OFF WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9247,
+          "Product Option Code": "D8361AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D8361AX_24AU_WT32_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 5,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com/beetlejuice-oversize-genis-kalip-bisiklet-yaka-sirt-baskili-kisa-kollu-tisort-3193070",
+          "Model Page URL": "https://www.defacto.com/beetlejuice-oversize-genis-kalip-bisiklet-yaka-sirt-baskili-kisa-kollu-tisort-3193070"
+        },
+        {
+          "excel_satiri": 9248,
+          "Product Option Code": "D8361AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D8361AX_24AU_WT32_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com/beetlejuice-oversize-genis-kalip-bisiklet-yaka-sirt-baskili-kisa-kollu-tisort-3193070",
+          "Model Page URL": "https://www.defacto.com/beetlejuice-oversize-genis-kalip-bisiklet-yaka-sirt-baskili-kisa-kollu-tisort-3193070"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D8361AX_24AU_WT32_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:39:03+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/beetlejuice-oversize-genis-kalip-bisiklet-yaka-sirt-baskili-kisa-kollu-tisort-3193070",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

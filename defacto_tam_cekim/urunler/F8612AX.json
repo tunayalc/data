@@ -1,0 +1,127 @@
+{
+  "model_kodu": "F8612AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-11",
+        "puan": 5.0,
+        "metin": "@Çok güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8612AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Boxy Fıt Polo Yaka Penye Gömlek",
+      "kisa_aciklama": "Modern ve geniş bir silüet sunan Boxy Fit kesimiyle üstün konforu şıklıkla birleştirir. Polo yaka detayının kazandırdığı klasik duruş ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-polo-yaka-uzun-kollu-gomlek-3375741",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8612AX_26SP_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8612AX_26SP_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8612AX_26SP_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8612AX_26SP_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8612AX_26SP_ER105_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden",
+        "ana_kumas_icerigi": "Elastan 8%,Poliester 92%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "yaka": "Polo Yaka",
+        "kalip": "Boxy Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Uzun Kollu Gömlek"
+      },
+      "urun_hakkinda": [
+        "Modern ve geniş bir silüet sunan Boxy Fit kesimiyle üstün konforu şıklıkla birleştirir. Polo yaka detayının kazandırdığı klasik duruş ve…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16450,
+          "Product Option Code": "F8612AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8612AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-polo-yaka-uzun-kollu-gomlek-3375741",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-polo-yaka-uzun-kollu-gomlek-3375741"
+        },
+        {
+          "excel_satiri": 16451,
+          "Product Option Code": "F8612AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8612AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-polo-yaka-uzun-kollu-gomlek-3375741",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-polo-yaka-uzun-kollu-gomlek-3375741"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8612AX_26SP_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:55:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

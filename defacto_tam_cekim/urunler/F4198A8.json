@@ -1,0 +1,110 @@
+{
+  "model_kodu": "F4198A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 100.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-22",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, çok hoşuma gitti ama henüz deneme fırsatım olmadı, o yüzden bir an önce denemek istiyorum.…"
+      },
+      {
+        "tarih": "2025-12-05",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F4198A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Barbie 3'lü Pamuklu Patik Çorap Kız Çocuk",
+      "kisa_aciklama": "Barbie desenli bu 3’lü pamuklu patik çorap seti, kız çocukların minik ayaklarına yumuşak ve rahat bir dokunuş sunar. Şık ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/barbie-3lu-pamuklu-patik-corap-kiz-cocuk-3337627",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4198A8_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4198A8_NS_KR1_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4198A8_NS_KR1_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4198A8_NS_KR1_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34"
+        ],
+        "excel": [
+          "29 - 34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 70%,Poliamid 29%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Patik Çorap",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Kız Çocuk",
+        "kumas": "Pamuklu",
+        "urun_tipi": "Kısa Çorap",
+        "lisans_bilgisi": "Barbie"
+      },
+      "urun_hakkinda": [
+        "Barbie desenli bu 3’lü pamuklu patik çorap seti, kız çocukların minik ayaklarına yumuşak ve rahat bir dokunuş sunar. Şık ve…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14638,
+          "Product Option Code": "F4198A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4198A8_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/barbie-3lu-pamuklu-patik-corap-kiz-cocuk-3337627",
+          "Model Page URL": "https://www.defacto.com.tr/barbie-3lu-pamuklu-patik-corap-kiz-cocuk-3337627"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F4198A8_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:46:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

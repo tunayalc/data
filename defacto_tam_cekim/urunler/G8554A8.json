@@ -1,0 +1,86 @@
+{
+  "model_kodu": "G8554A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8554A8WT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3/4 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22393,
+          "Product Option Code": "G8554A8.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8554A8_26SP_WT34_01_01.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-dantel-detayli-5li-brief-kulot-3491347",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-dantel-detayli-5li-brief-kulot-3491347"
+        },
+        {
+          "excel_satiri": 22394,
+          "Product Option Code": "G8554A8.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8554A8_26SP_WT34_01_01.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-dantel-detayli-5li-brief-kulot-3491347",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-dantel-detayli-5li-brief-kulot-3491347"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8554A8_26SP_WT34_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:12:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-dantel-detayli-5li-brief-kulot-3491347",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

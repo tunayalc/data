@@ -1,0 +1,138 @@
+{
+  "model_kodu": "X2345A6",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 94,
+    "yorum_sayisi": 94,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 3.4,
+      "tam_oldu": 96.6,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-05-13",
+        "puan": 5.0,
+        "metin": "@Kaliteli."
+      },
+      {
+        "tarih": "2025-04-08",
+        "puan": 5.0,
+        "metin": "@Yeğenlerim çok beğendi."
+      },
+      {
+        "tarih": "2025-05-26",
+        "puan": 5.0,
+        "metin": "@Tavsiye ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "X2345A6KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Marvel Spiderman Pamuklu 3'lü Patik Çorap Erkek Çocuk",
+      "kisa_aciklama": "Hayranı olduğunuz kahramanların sevilen karakterleri DeFacto da! Örümcek adam desenli pamuklu kısa patik çorap",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/marvel-spiderman-pamuklu-3lu-patik-corap-erkek-cocuk-2456686",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/X2345A6_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X2345A6_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X2345A6_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X2345A6_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X2345A6_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34"
+        ],
+        "excel": [
+          "23 - 28",
+          "29 - 34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 72%,Poliamid 26%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "3'lü",
+        "urun_tipi": "Kısa Çorap",
+        "corap_tipi": "Patik Çorap",
+        "cinsiyet": "Erkek Çocuk",
+        "lisans_bilgisi": "Marvel Spıderman"
+      },
+      "urun_hakkinda": [
+        "Hayranı olduğunuz kahramanların sevilen karakterleri DeFacto da! Örümcek adam desenli pamuklu kısa patik çorap"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 139.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47474,
+          "Product Option Code": "X2345A6.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/X2345A6_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 11,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/marvel-spiderman-pamuklu-3lu-patik-corap-erkek-cocuk-2456686",
+          "Model Page URL": "https://www.defacto.com.tr/marvel-spiderman-pamuklu-3lu-patik-corap-erkek-cocuk-2456686"
+        },
+        {
+          "excel_satiri": 47475,
+          "Product Option Code": "X2345A6.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/X2345A6_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 9,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/marvel-spiderman-pamuklu-3lu-patik-corap-erkek-cocuk-2456686",
+          "Model Page URL": "https://www.defacto.com.tr/marvel-spiderman-pamuklu-3lu-patik-corap-erkek-cocuk-2456686"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/X2345A6_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:55:34+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

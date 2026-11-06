@@ -1,0 +1,159 @@
+{
+  "model_kodu": "F9008AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-07",
+        "puan": 5.0,
+        "metin": "@gayet güzel ve rahat bir pantolon"
+      },
+      {
+        "tarih": "2026-08-21",
+        "puan": 3.0,
+        "metin": "@DeFacto Straight fit jean ürünlerinde son senelerde inanılmaz kalıp hataları var. baldırlardan geniş belden dar. kadın kalıbı gibi. oysa daha…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9008AXNM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "Mavi",
+      "renk_hex": "#30D5C8",
+      "urun_adi": "Straight Fıt Normal Bel Boru Paça Jean Pantolon",
+      "kisa_aciklama": "Straight Fit jean pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Zamansız boru paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-fit-normal-bel-boru-paca-jean-pantolon-3413125",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9008AX_26SP_NM28_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9008AX_26SP_NM28_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9008AX_26SP_NM28_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9008AX_26SP_NM28_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9008AX_26SP_NM28_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "28",
+          "32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,87cm - 77/95/93",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Straıght Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Straight Fit jean pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Zamansız boru paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16627,
+          "Product Option Code": "F9008AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "28",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9008AX_26SP_NM28_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-bel-boru-paca-jean-pantolon-3413125",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-bel-boru-paca-jean-pantolon-3413125"
+        },
+        {
+          "excel_satiri": 16628,
+          "Product Option Code": "F9008AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "32",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9008AX_26SP_NM28_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-bel-boru-paca-jean-pantolon-3413125",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-bel-boru-paca-jean-pantolon-3413125"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9008AX_26SP_NM28_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:53:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

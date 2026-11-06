@@ -1,0 +1,97 @@
+{
+  "model_kodu": "Y9200A2",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y9200A2BG588",
+      "renk_kodu": "BG588",
+      "renk_adi": "BEIGE MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48570,
+          "Product Option Code": "Y9200A2.BG588",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Baby Acc.",
+          "LifeStyle": "New Born",
+          "Class Name": "Bibs",
+          "Product Color Name": "BEIGE MELANGE",
+          "SizeDefinition": "STD",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/Y9200A2_22SM_BG588_01_02.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/Y9200A2_22SM_BG588_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "Y9200A2NV147",
+      "renk_kodu": "NV147",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48571,
+          "Product Option Code": "Y9200A2.NV147",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Baby Acc.",
+          "LifeStyle": "New Born",
+          "Class Name": "Bibs",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "STD",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/Y9200A2_22SM_NV147_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 5,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/Y9200A2_22SM_NV147_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "model_kodu": "G7018AX",
+  "urun_grubu": "Kadın Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-27",
+        "puan": 5.0,
+        "metin": "@Elbiseyi bedendim tam beden güzel"
+      },
+      {
+        "tarih": "2026-01-30",
+        "puan": 5.0,
+        "metin": "@Rengi muhtesem"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7018AXBN341",
+      "renk_kodu": "BN341",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Yılbaşı Temalı V Yaka Saten Kolsuz Mıdı Elbise",
+      "kisa_aciklama": "V Yaka Saten Kolsuz Midi Elbise, parlak saten dokusuyla zarif ve akıcı bir duruş sunar. İnce askıları ve V yakası,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yilbasi-temali-v-yaka-saten-kolsuz-midi-elbise-3363856",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7018AX_25WN_BN341_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7018AX_25WN_BN341_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7018AX_25WN_BN341_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7018AX_25WN_BN341_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7018AX_25WN_BN341_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7018AX_25WN_BN341_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7018AX_25WN_BN341_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,76cm - 78/60/86",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kolsuz",
+        "dantel_detay": "Dantel Detaylı",
+        "urun_boyu": "Mıdı",
+        "cinsiyet": "Kadın",
+        "urun_yuksekligi": "110",
+        "ozel_urun": "Trend",
+        "yaka": "V Yaka",
+        "urun_tipi": "Elbise",
+        "bel_detayi": "Normal Bel"
+      },
+      "urun_hakkinda": [
+        "V Yaka Saten Kolsuz Midi Elbise, parlak saten dokusuyla zarif ve akıcı bir duruş sunar. İnce askıları ve V yakası,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20869,
+          "Product Option Code": "G7018AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "34",
+          "Fit": "FIT AND FLARE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7018AX_25WN_BN341_01_03.jpg",
+          "FabricDetail": "SATEEN",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/yilbasi-temali-v-yaka-saten-kolsuz-midi-elbise-3363856",
+          "Model Page URL": "https://www.defacto.com.tr/yilbasi-temali-v-yaka-saten-kolsuz-midi-elbise-3363856"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G7018AX_25WN_BN341_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:08:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

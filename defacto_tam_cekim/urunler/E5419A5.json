@@ -1,0 +1,117 @@
+{
+  "model_kodu": "E5419A5",
+  "urun_grubu": "Kız Bebek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 29,
+    "yorum_sayisi": 29,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 71.4,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-29",
+        "puan": 5.0,
+        "metin": "@İkizlerim için aldım, çok beğendim."
+      },
+      {
+        "tarih": "2025-06-17",
+        "puan": 3.0,
+        "metin": "@Kalıbı bol, bilginiz olsun."
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@Kendi bedeninizi tercih edebilirsiniz, bahar için basic ve kullanışlı; sorunsuz ve hızlı teslim edildi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5419A5PN424",
+      "renk_kodu": "PN424",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "%100 Pamuk Bisiklet Yaka Uzun Kollu Tişört Kız Bebek",
+      "kisa_aciklama": "%100 Pamuk 90’lar esintili tasarımıyla dikkat çeken bu kız çocuk wide leg gabardin pantolon, geniş paça kesimiyle modern ve rahat…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-bisiklet-yaka-uzun-kollu-tisort-kiz-bebek-3211496",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5419A5_25SP_PN424_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5419A5_25SP_PN424_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5419A5_25SP_PN424_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "24-36 Ay (98 cm)",
+          "9-12 Ay (80cm)",
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "24-36 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Bisiklet Yaka",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kız Bebek",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk 90’lar esintili tasarımıyla dikkat çeken bu kız çocuk wide leg gabardin pantolon, geniş paça kesimiyle modern ve rahat…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11541,
+          "Product Option Code": "E5419A5.PN424",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "24-36 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E5419A5_25SP_PN424_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-bisiklet-yaka-uzun-kollu-tisort-kiz-bebek-3211496",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-bisiklet-yaka-uzun-kollu-tisort-kiz-bebek-3211496"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E5419A5_25SP_PN424_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:44:55+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

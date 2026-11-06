@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H5138A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5138A5BR229",
+      "renk_kodu": "BR229",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "18-24 M",
+          "3/4 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29866,
+          "Product Option Code": "H5138A5.BR229",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "18-24 M",
+          "Fit": "DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5138A5_26SM_BR229_01_01.jpg",
+          "FabricDetail": "MUSLIN",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-muslin-elbise-kiz-bebek-3515337",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-muslin-elbise-kiz-bebek-3515337"
+        },
+        {
+          "excel_satiri": 29867,
+          "Product Option Code": "H5138A5.BR229",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5138A5_26SM_BR229_01_01.jpg",
+          "FabricDetail": "MUSLIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-muslin-elbise-kiz-bebek-3515337",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-muslin-elbise-kiz-bebek-3515337"
+        },
+        {
+          "excel_satiri": 29868,
+          "Product Option Code": "H5138A5.BR229",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5138A5_26SM_BR229_01_01.jpg",
+          "FabricDetail": "MUSLIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-muslin-elbise-kiz-bebek-3515337",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-muslin-elbise-kiz-bebek-3515337"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H5138A5_26SM_BR229_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:27:43+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-muslin-elbise-kiz-bebek-3515337",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

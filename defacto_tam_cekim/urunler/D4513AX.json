@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D4513AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4513AXBE503",
+      "renk_kodu": "BE503",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7640,
+          "Product Option Code": "D4513AX.BE503",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "XXL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4513AX_24AU_BE503_01_02.jpg",
+          "FabricDetail": "OXFORD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/en-iq/oversize-genis-kalip-cizgili-dugmeli-oxford-uzun-kollu-gomlek-3162147",
+          "Model Page URL": "https://www.defacto.com/en-iq/oversize-genis-kalip-cizgili-dugmeli-oxford-uzun-kollu-gomlek-3162147"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D4513AX_24AU_BE503_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:34:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/oversize-genis-kalip-cizgili-dugmeli-oxford-uzun-kollu-gomlek-3162147",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

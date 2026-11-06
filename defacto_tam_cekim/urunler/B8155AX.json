@@ -1,0 +1,145 @@
+{
+  "model_kodu": "B8155AX",
+  "urun_grubu": "Erkek Jean Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 95,
+    "yorum_sayisi": 95,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 22.7,
+      "tam_oldu": 72.7,
+      "buyuk_geldi": 4.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-08-12",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-10-31",
+        "puan": 5.0,
+        "metin": "@kesimi güzel, mevsimlik"
+      },
+      {
+        "tarih": "2024-10-01",
+        "puan": 5.0,
+        "metin": "@Ürün tek kelime ile harika ama slim fit yazdığına bakmayın kalıbı regular fit gibi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B8155AXBG700",
+      "renk_kodu": "BG700",
+      "renk_adi": "Kum",
+      "renk_hex": "#C49C7A",
+      "urun_adi": "Slim Fit Düğmeli Cepli Denim Ceket",
+      "kisa_aciklama": "Dayanıklı denim kumaşı ve zamansız tasarımıyla sokak modasının vazgeçilmez parçaları arasında yer alır. Vücuda oturan slim fit kalıbı, düğmeli ön…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dugmeli-cepli-denim-ceket-3210879",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B8155AX_25SP_BG700_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8155AX_25SP_BG700_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8155AX_25SP_BG700_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8155AX_25SP_BG700_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8155AX_25SP_BG700_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8155AX_25SP_BG700_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8155AX_25SP_BG700_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8155AX_25SP_BG700_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8155AX_25SP_BG700_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 90/71/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Dayanıklı denim kumaşı ve zamansız tasarımıyla sokak modasının vazgeçilmez parçaları arasında yer alır. Vücuda oturan slim fit kalıbı, düğmeli ön…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 1049.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2496,
+          "Product Option Code": "B8155AX.BG700",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Jacket",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/B8155AX_24AU_BG700_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dugmeli-cepli-denim-ceket-3210879",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dugmeli-cepli-denim-ceket-3210879"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/B8155AX_24AU_BG700_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:19:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

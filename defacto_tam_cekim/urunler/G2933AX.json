@@ -1,0 +1,112 @@
+{
+  "model_kodu": "G2933AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-16",
+        "puan": 5.0,
+        "metin": "@Harika bir ürün. Gerçekten çok beğendim."
+      },
+      {
+        "tarih": "2025-12-22",
+        "puan": 4.0,
+        "metin": "@Fiyatına göre gayet iyi esniyor."
+      },
+      {
+        "tarih": "2025-12-14",
+        "puan": 5.0,
+        "metin": "@Harika çoraplar. Gerçekten çok güzeller."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2933AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın 2'li Pamuklu Soket Çorap",
+      "kisa_aciklama": "Yumuşak pamuklu dokusuyla gün boyu konfor sunan 2'li soket çorap seti, hem şıklığı hem de işlevselliği bir arada sunar. Günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-pamuklu-soket-corap-3353336",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2933AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2933AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2933AX_NS_KR1_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 73%,Poliamid 24%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "corap_tipi": "Soket Çorap",
+        "takim_icerigi": "2'li",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Yumuşak pamuklu dokusuyla gün boyu konfor sunan 2'li soket çorap seti, hem şıklığı hem de işlevselliği bir arada sunar. Günlük…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18553,
+          "Product Option Code": "G2933AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "36-40",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G2933AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com/en-iq/kadin-2li-pamuklu-soket-corap-3353336",
+          "Model Page URL": "https://www.defacto.com/en-iq/kadin-2li-pamuklu-soket-corap-3353336"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G2933AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:01:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

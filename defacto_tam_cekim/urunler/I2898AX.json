@@ -1,0 +1,92 @@
+{
+  "model_kodu": "I2898AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2898AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Puantiyeli Kumaş Detaylı Mandal 4'lü Saç Tokası",
+      "kisa_aciklama": "Puantiye desenli, dolgulu kumaş detaylı saç tokası. Plastik mandal kapamalı. Dikdörtgen formlu, benek desenli akrilik görünümlü saç tokası seti. Metal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-puantiyeli-kumas-detayli-mandal-4lu-sac-tokasi-3495462",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2898AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2898AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2898AX_NS_KR1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2898AX_NS_KR1_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2898AX_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2898AX_NS_KR1_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Akrilik 50%,Demir 50%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "4'lü",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Puantiye desenli, dolgulu kumaş detaylı saç tokası. Plastik mandal kapamalı. Dikdörtgen formlu, benek desenli akrilik görünümlü saç tokası seti. Metal…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40734,
+          "Product Option Code": "I2898AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2898AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-puantiyeli-kumas-detayli-mandal-4lu-sac-tokasi-3495462",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-puantiyeli-kumas-detayli-mandal-4lu-sac-tokasi-3495462"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2898AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:46:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "model_kodu": "F8231AX",
+  "urun_grubu": "Kadın Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 25.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-30",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-08-08",
+        "puan": 5.0,
+        "metin": "@tam sporluk"
+      },
+      {
+        "tarih": "2026-10-24",
+        "puan": 5.0,
+        "metin": "@Harika bir pantolon"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8231AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Standart Fıt Dokuma Pantolon",
+      "kisa_aciklama": "Yetişkin kadınlar için ideal olan standart fıt pantolon. Günlük giyimde rahatlıkla kullanılabilir. Siyah rengiyle şık bir görünüm sunar. İlkbahar/Yaz mevsiminde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/defactofit-standart-fit-dokuma-pantolon-3374904",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_BK81_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_BK81_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_BK81_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_BK81_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 82/60/88",
+        "ana_kumas_icerigi": "Elastan 6%,Poliester 94%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Standart Fıt",
+        "kumas": "Dokuma",
+        "kullanim_alani": "Günlük Giyim"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için ideal olan standart fıt pantolon. Günlük giyimde rahatlıkla kullanılabilir. Siyah rengiyle şık bir görünüm sunar. İlkbahar/Yaz mevsiminde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 909.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16154,
+          "Product Option Code": "F8231AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8231AX_26SP_BK81_01_02.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/defactofit-standart-fit-dokuma-pantolon-3374904",
+          "Model Page URL": "https://www.defacto.com.tr/defactofit-standart-fit-dokuma-pantolon-3374904"
+        },
+        {
+          "excel_satiri": 16155,
+          "Product Option Code": "F8231AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8231AX_26SP_BK81_01_02.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/defactofit-standart-fit-dokuma-pantolon-3374904",
+          "Model Page URL": "https://www.defacto.com.tr/defactofit-standart-fit-dokuma-pantolon-3374904"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8231AX_26SP_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F8231AXNV146",
+      "renk_kodu": "NV146",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Standart Fıt Dokuma Pantolon",
+      "kisa_aciklama": "Yetişkin kadınlar için ideal olan standart fıt pantolon. Günlük giyimde rahatlıkla kullanılabilir. Siyah rengiyle şık bir görünüm sunar. İlkbahar/Yaz mevsiminde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-dokuma-pantolon-3374903",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_NV146_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_NV146_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_NV146_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_NV146_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_NV146_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_NV146_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8231AX_26SP_NV146_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 82/60/88",
+        "ana_kumas_icerigi": "Elastan 6%,Poliester 94%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Standart Fıt",
+        "kumas": "Dokuma",
+        "kullanim_alani": "Günlük Giyim"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için ideal olan standart fıt pantolon. Günlük giyimde rahatlıkla kullanılabilir. Siyah rengiyle şık bir görünüm sunar. İlkbahar/Yaz mevsiminde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 909.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16156,
+          "Product Option Code": "F8231AX.NV146",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8231AX_26SP_NV146_01_03.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-dokuma-pantolon-3374903",
+          "Model Page URL": "https://www.defacto.com.tr/defactofit-standart-fit-dokuma-pantolon-3374904"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8231AX_26SP_NV146_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:54:56+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

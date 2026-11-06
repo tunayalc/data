@@ -1,0 +1,104 @@
+{
+  "model_kodu": "E2289AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E2289AXBR93",
+      "renk_kodu": "BR93",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10857,
+          "Product Option Code": "E2289AX.BR93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E2289AX_24WN_BR93_01_03.jpg",
+          "FabricDetail": "FULL NEEDLE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/en-ma/polo-yaka-basic-dugmeli-triko-hirka-3200439"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E2289AX_24WN_BR93_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E2289AXKH470",
+      "renk_kodu": "KH470",
+      "renk_adi": "Khaki",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10858,
+          "Product Option Code": "E2289AX.KH470",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E2289AX_24WN_KH470_01_03.jpg",
+          "FabricDetail": "FULL NEEDLE",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com/en-ma/polo-yaka-basic-dugmeli-triko-hirka-3200439",
+          "Model Page URL": "https://www.defacto.com/en-ma/polo-yaka-basic-dugmeli-triko-hirka-3200439"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E2289AX_24WN_KH470_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:43:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/polo-yaka-basic-dugmeli-triko-hirka-3200439",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "model_kodu": "E9973AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E9973AXNV175",
+      "renk_kodu": "NV175",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13300,
+          "Product Option Code": "E9973AX.NV175",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9973AX_25AU_NV175_01_01.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-uzun-kollu-gomlek-3330937",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-uzun-kollu-gomlek-3330937"
+        },
+        {
+          "excel_satiri": 13301,
+          "Product Option Code": "E9973AX.NV175",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9973AX_25AU_NV175_01_01.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-uzun-kollu-gomlek-3330937",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-uzun-kollu-gomlek-3330937"
+        },
+        {
+          "excel_satiri": 13302,
+          "Product Option Code": "E9973AX.NV175",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9973AX_25AU_NV175_01_01.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-uzun-kollu-gomlek-3330937",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-uzun-kollu-gomlek-3330937"
+        },
+        {
+          "excel_satiri": 13303,
+          "Product Option Code": "E9973AX.NV175",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9973AX_25AU_NV175_01_01.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-uzun-kollu-gomlek-3330937",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-uzun-kollu-gomlek-3330937"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E9973AX_25AU_NV175_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:48:54+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-uzun-kollu-gomlek-3330937",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

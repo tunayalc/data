@@ -1,0 +1,124 @@
+{
+  "model_kodu": "C1212AX",
+  "urun_grubu": "Erkek Jogger",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 80,
+    "yorum_sayisi": 80,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 20.5,
+      "tam_oldu": 79.5,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-04-15",
+        "puan": 4.0,
+        "metin": "@Kumaş plastik gibi."
+      },
+      {
+        "tarih": "2024-04-22",
+        "puan": 5.0,
+        "metin": "@paraşüt kumaş yaz sezonu için ideal ilk bahar da da giyilebilir"
+      },
+      {
+        "tarih": "2023-12-24",
+        "puan": 5.0,
+        "metin": "@ürün çok güzel paraşüt kumaş ve kesimi çok güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C1212AXKH398",
+      "renk_kodu": "KH398",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Dokuma Esnek Multifonksiyonel Sporcu Jogger Eşofman Altı Slim Fit Dar Kesim Çift Cepli",
+      "kisa_aciklama": "Slim fit dokuma sporcu jogger eşofman altı, dar kesimi ve çift cepli tasarımıyla hem şık hem de rahat bir seçenek…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/dokuma-esnek-multifonksiyonel-sporcu-jogger-esofman-alti-slim-fit-dar-kesim-cift-cepli-3211749",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_06_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_07_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C1212AX_25SP_KH398_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 95/75/92",
+        "ana_kumas_icerigi": "Elastan 10%,Naylon 90%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "yasam_tarzi": "Sporcu",
+        "kalip": "Slım Fıt",
+        "kumas": "Dokuma",
+        "kullanim_alani": "Günlük Giyim"
+      },
+      "urun_hakkinda": [
+        "Slim fit dokuma sporcu jogger eşofman altı, dar kesimi ve çift cepli tasarımıyla hem şık hem de rahat bir seçenek…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3184,
+          "Product Option Code": "C1212AX.KH398",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C1212AX_25SP_KH398_01_05.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com/dokuma-esnek-multifonksiyonel-sporcu-jogger-esofman-alti-slim-fit-dar-kesim-cift-cepli-3211749",
+          "Model Page URL": "https://www.defacto.com/dokuma-esnek-multifonksiyonel-sporcu-jogger-esofman-alti-slim-fit-dar-kesim-cift-cepli-3211749"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/C1212AX_25SP_KH398_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:24:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

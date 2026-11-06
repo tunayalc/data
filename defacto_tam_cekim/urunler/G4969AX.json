@@ -1,0 +1,144 @@
+{
+  "model_kodu": "G4969AX",
+  "urun_grubu": "Kadın Çanta",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-11-04",
+        "puan": 5.0,
+        "metin": "@Fena değil çok gözlü olmasını sevdim fiyatı biraz fazla"
+      },
+      {
+        "tarih": "2026-06-28",
+        "puan": 5.0,
+        "metin": "@Resimde görüldüğü gibi çok güzel. Boyut ideal ve kol askısı ekstra çıkıyor. Ben çok beğendim. Rengi de çok tatlı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4969AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kadın Omuz Çantası",
+      "kisa_aciklama": "Kadın el çantası modeli.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-omuz-cantasi-3358654",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4969AX_NS_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4969AX_NS_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4969AX_NS_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4969AX_NS_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4969AX_NS_BK27_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MA",
+        "cinsiyet": "Kadın",
+        "urun_olcusu": "6*30*33",
+        "canta_tipi": "El Çantası"
+      },
+      "urun_hakkinda": [
+        "Kadın el çantası modeli."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 1349.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "G4969AXBG26",
+      "renk_kodu": "BG26",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19387,
+          "Product Option Code": "G4969AX.BG26",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "Bag",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4969AX_NS_BG26_01_01.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 9,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-omuz-cantasi-3358654"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G4969AX_NS_BG26_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:02:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

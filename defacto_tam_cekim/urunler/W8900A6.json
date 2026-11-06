@@ -1,0 +1,119 @@
+{
+  "model_kodu": "W8900A6",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 295,
+    "yorum_sayisi": 295,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 22.7,
+      "tam_oldu": 77.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-05-16",
+        "puan": 5.0,
+        "metin": "@kalıpları ve pamuk oranı güzel.31 no giyen oğluma tam oldu"
+      },
+      {
+        "tarih": "2022-06-08",
+        "puan": 5.0,
+        "metin": "@35-39 numaralı olanı sectim 37 numara giyen çocuğum için ama kalıbı o kadar küçük ki malesef olmadı ona göre alın…"
+      },
+      {
+        "tarih": "2025-07-08",
+        "puan": 5.0,
+        "metin": "@Kalitesi iyi, güzel bir ürün."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "W8900A6KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Baskılı 7'li Pamuklu Patik Çorap Erkek Çocuk",
+      "kisa_aciklama": "Pamuklu çizgi desenli, kısa patikli modeli ile gün boyu konforlu kullanım sunan renkli modeli ile tercih edeceğiniz DeFacto Erkek Çocuk…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-2456696",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/W8900A6_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W8900A6_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W8900A6_NS_KR1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W8900A6_NS_KR1_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W8900A6_NS_KR1_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W8900A6_NS_KR1_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W8900A6_NS_KR1_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W8900A6_NS_KR1_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W8900A6_NS_KR1_09_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "29 - 34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 54%,Poliamid 20%,Elastan 2%,Poliester 24%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Çorap",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "7'li",
+        "corap_tipi": "Patik Çorap",
+        "cinsiyet": "Erkek Çocuk"
+      },
+      "urun_hakkinda": [
+        "Pamuklu çizgi desenli, kısa patikli modeli ile gün boyu konforlu kullanım sunan renkli modeli ile tercih edeceğiniz DeFacto Erkek Çocuk…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 139.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47399,
+          "Product Option Code": "W8900A6.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/W8900A6_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-2456696",
+          "Model Page URL": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-2456696"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/W8900A6_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:55:27+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

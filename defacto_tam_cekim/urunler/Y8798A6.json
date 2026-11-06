@@ -1,0 +1,57 @@
+{
+  "model_kodu": "Y8798A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y8798A6IN59",
+      "renk_kodu": "IN59",
+      "renk_adi": "INDIGO",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "6/7 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48518,
+          "Product Option Code": "Y8798A6.IN59",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "6/7 Y",
+          "Fit": "JOGGER - STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22WN/Y8798A6_22WN_IN59_01_02.jpg",
+          "FabricDetail": "JAKAR",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22WN/Y8798A6_22WN_IN59_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

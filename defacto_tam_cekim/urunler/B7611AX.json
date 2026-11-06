@@ -1,0 +1,79 @@
+{
+  "model_kodu": "B7611AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B7611AXBG187",
+      "renk_kodu": "BG187",
+      "renk_adi": "SAND",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2434,
+          "Product Option Code": "B7611AX.BG187",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "38",
+          "Fit": "STRAIGHT FIT CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B7611AX_24SP_BG187_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2435,
+          "Product Option Code": "B7611AX.BG187",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "42",
+          "Fit": "STRAIGHT FIT CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B7611AX_24SP_BG187_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/B7611AX_24SP_BG187_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

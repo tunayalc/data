@@ -1,0 +1,94 @@
+{
+  "model_kodu": "G4701AX",
+  "urun_grubu": "Erkek Parfüm",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4701AXGN10",
+      "renk_kodu": "GN10",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "Erkek 100 ml NBA Boston Celtics",
+      "kisa_aciklama": "Erkek 100 ml NBA Boston Celtics",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-100-ml-nba-boston-celtics-3427514",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4701AX_NS_GN10_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4701AX_NS_GN10_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4701AX_NS_GN10_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4701AX_NS_GN10_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4701AX_NS_GN10_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4701AX_NS_GN10_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4701AX_NS_GN10_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Kozmetik 100%",
+        "marka": "Defacto",
+        "cinsiyet": "Erkek",
+        "lisans_bilgisi": "NBA Boston Celtıcs",
+        "urun_hacmi": "100 ml"
+      },
+      "urun_hakkinda": [
+        "Erkek 100 ml NBA Boston Celtics",
+        "İstediğiniz kozmetik ve kişisel bakım ürünlerini hemen sipariş verin, ürününüzü evinizden teslim almanın ayrıcalığını yaşayın."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19261,
+          "Product Option Code": "G4701AX.GN10",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4701AX_NS_GN10_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 8,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-100-ml-nba-boston-celtics-3427514",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-100-ml-nba-boston-celtics-3427514"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G4701AX_NS_GN10_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:03:15+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

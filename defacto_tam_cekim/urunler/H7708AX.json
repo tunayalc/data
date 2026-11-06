@@ -1,0 +1,88 @@
+{
+  "model_kodu": "H7708AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7708AXWT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Kadın Boncuklu Beyaz Saç Lastiği",
+      "kisa_aciklama": "Beyaz tül görünümlü saç aksesuarı. Katmanlı çiçek formunda, inci ve sim detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-boncuklu-beyaz-sac-lastigi-3460625",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7708AX_NS_WT1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7708AX_NS_WT1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7708AX_NS_WT1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 20%,Poliester 40%,Demir 40%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Beyaz tül görünümlü saç aksesuarı. Katmanlı çiçek formunda, inci ve sim detaylı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33506,
+          "Product Option Code": "H7708AX.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H7708AX_NS_WT1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H7708AX_NS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:40:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

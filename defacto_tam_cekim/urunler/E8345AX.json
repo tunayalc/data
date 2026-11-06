@@ -1,0 +1,164 @@
+{
+  "model_kodu": "E8345AX",
+  "urun_grubu": "Kadın Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 40,
+    "yorum_sayisi": 40,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 57.7,
+      "tam_oldu": 42.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Harika bir kazak. Çok güzel. Teşekkürler."
+      },
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok güzel bir kazak, keşke indirimdeyken farklı renklerini de alsaydım."
+      },
+      {
+        "tarih": "2025-12-19",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, çok beğenerek kullanıyorum."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8345AXGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Slim Fit Dar Kesim Açık Omuz Triko Kazak",
+      "kisa_aciklama": "Slim fit dar kesim açık omuz kazak, vücuda tam oturan şıklığı ve cesur omuz detayıyla dikkat çeker. Hem günlük hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-acik-omuz-triko-kazak-3309989",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E8345AX_25WN_GR210_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8345AX_25WN_GR210_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8345AX_25WN_GR210_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8345AX_25WN_GR210_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E8345AX_25WN_GR210_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 84/61/88",
+        "ana_kumas_icerigi": "Akrilik 80%,Elastan 7%,Poliester 13%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Kadın",
+        "triko_kalinligi": "Orta Kalın",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Kazak",
+        "yaka": "Açık Omuz"
+      },
+      "urun_hakkinda": [
+        "Slim fit dar kesim açık omuz kazak, vücuda tam oturan şıklığı ve cesur omuz detayıyla dikkat çeker. Hem günlük hem…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E8345AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12544,
+          "Product Option Code": "E8345AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/E8345AX_25WN_ER105_01_01.jpg",
+          "FabricDetail": "ACRYLIC POLYESTER ELASTANE",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/ar-iq/slim-fit-dar-kesim-acik-omuz-triko-kazak-3309987",
+          "Model Page URL": "https://www.defacto.com/ar-iq/slim-fit-dar-kesim-acik-omuz-triko-kazak-3309987"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/E8345AX_25WN_ER105_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:38:50+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/slim-fit-dar-kesim-acik-omuz-triko-kazak-3309987",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

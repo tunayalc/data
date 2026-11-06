@@ -1,0 +1,166 @@
+{
+  "model_kodu": "C8857A5",
+  "urun_grubu": "Erkek Bebek Hırka / Bolero",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 12,
+    "yorum_sayisi": 12,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 75.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-02-11",
+        "puan": 5.0,
+        "metin": "@Çok beğendim, alacak olan herkese tavsiye ederim"
+      },
+      {
+        "tarih": "2025-01-13",
+        "puan": 5.0,
+        "metin": "@Çok şık çok beğendim"
+      },
+      {
+        "tarih": "2025-02-11",
+        "puan": 5.0,
+        "metin": "@Çok hoşuma gitti, oğluma çok yakıştı."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8857A5NV241",
+      "renk_kodu": "NV241",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Çizgili Harf Nakışlı Düğmeli Triko Hırka Erkek Bebek",
+      "kisa_aciklama": "Şıklığı ve rahatlığı bir arada sunan Erkek Bebek Regular Fit Hırka, gardırobunuzun vazgeçilmezi olmaya aday. Kaliteli kumaşı ve şık tasarımı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cizgili-harf-nakisli-dugmeli-triko-hirka-erkek-bebek-3308751",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C8857A5_25AU_NV241_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8857A5_25AU_NV241_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8857A5_25AU_NV241_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8857A5_25AU_NV241_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C8857A5_25AU_NV241_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "9-12 Ay (80cm)",
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "18-24 M",
+          "24-36 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "12-18 Ay (86cm) Beden - 1,00cm",
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek Bebek",
+        "kol_boyu": "Uzun Kollu",
+        "triko_kalinligi": "Orta Kalın",
+        "urun_tipi": "Hırka",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Şıklığı ve rahatlığı bir arada sunan Erkek Bebek Regular Fit Hırka, gardırobunuzun vazgeçilmezi olmaya aday. Kaliteli kumaşı ve şık tasarımı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5598,
+          "Product Option Code": "C8857A5.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "18-24 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/C8857A5_24AU_NV241_01_02.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-iq/cizgili-harf-nakisli-dugmeli-triko-hirka-erkek-bebek-3308751",
+          "Model Page URL": "https://www.defacto.com/en-iq/cizgili-harf-nakisli-dugmeli-triko-hirka-erkek-bebek-3308751"
+        },
+        {
+          "excel_satiri": 5599,
+          "Product Option Code": "C8857A5.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "24-36 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/C8857A5_24AU_NV241_01_02.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-iq/cizgili-harf-nakisli-dugmeli-triko-hirka-erkek-bebek-3308751",
+          "Model Page URL": "https://www.defacto.com/en-iq/cizgili-harf-nakisli-dugmeli-triko-hirka-erkek-bebek-3308751"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/C8857A5_24AU_NV241_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:29:00+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

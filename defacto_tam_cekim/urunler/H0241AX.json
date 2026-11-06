@@ -1,0 +1,133 @@
+{
+  "model_kodu": "H0241AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-28",
+        "puan": 5.0,
+        "metin": "@Rengi güzel"
+      },
+      {
+        "tarih": "2026-08-04",
+        "puan": 5.0,
+        "metin": "@Orta hoşlukta"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0241AXNM36",
+      "renk_kodu": "NM36",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Baggy Fıt Normal Bel Geniş Paça Jean Pantolon",
+      "kisa_aciklama": "Baggy Fit jean pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Rahat geniş paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-normal-bel-genis-paca-jean-pantolon-3408052",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0241AX_26SP_NM36_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0241AX_26SP_NM36_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0241AX_26SP_NM36_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0241AX_26SP_NM36_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0241AX_26SP_NM36_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,87cm - 77/95/93",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Baggy Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Baggy Fit jean pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Rahat geniş paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23843,
+          "Product Option Code": "H0241AX.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "28",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H0241AX_26SP_NM36_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-normal-bel-genis-paca-jean-pantolon-3408052",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-normal-bel-genis-paca-jean-pantolon-3408052"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H0241AX_26SP_NM36_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:13:43+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

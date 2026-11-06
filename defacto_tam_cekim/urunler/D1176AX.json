@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D1176AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1176AXER103",
+      "renk_kodu": "ER103",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6346,
+          "Product Option Code": "D1176AX.ER103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "36",
+          "Fit": "WRAP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1176AX_24SM_ER103_01_03.jpg",
+          "FabricDetail": "SATEEN",
+          "Toplam": 5,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-ma/baskili-normal-bel-saten-mini-etek-3138201",
+          "Model Page URL": "https://www.defacto.com/en-ma/baskili-normal-bel-saten-mini-etek-3138201"
+        },
+        {
+          "excel_satiri": 6347,
+          "Product Option Code": "D1176AX.ER103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "38",
+          "Fit": "WRAP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1176AX_24SM_ER103_01_03.jpg",
+          "FabricDetail": "SATEEN",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-ma/baskili-normal-bel-saten-mini-etek-3138201",
+          "Model Page URL": "https://www.defacto.com/en-ma/baskili-normal-bel-saten-mini-etek-3138201"
+        },
+        {
+          "excel_satiri": 6348,
+          "Product Option Code": "D1176AX.ER103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "40",
+          "Fit": "WRAP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1176AX_24SM_ER103_01_03.jpg",
+          "FabricDetail": "SATEEN",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-ma/baskili-normal-bel-saten-mini-etek-3138201",
+          "Model Page URL": "https://www.defacto.com/en-ma/baskili-normal-bel-saten-mini-etek-3138201"
+        },
+        {
+          "excel_satiri": 6349,
+          "Product Option Code": "D1176AX.ER103",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "42",
+          "Fit": "WRAP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1176AX_24SM_ER103_01_03.jpg",
+          "FabricDetail": "SATEEN",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-ma/baskili-normal-bel-saten-mini-etek-3138201",
+          "Model Page URL": "https://www.defacto.com/en-ma/baskili-normal-bel-saten-mini-etek-3138201"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1176AX_24SM_ER103_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:30:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/baskili-normal-bel-saten-mini-etek-3138201",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

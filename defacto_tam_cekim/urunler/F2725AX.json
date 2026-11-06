@@ -1,0 +1,148 @@
+{
+  "model_kodu": "F2725AX",
+  "urun_grubu": "Kadın Tesettür Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@Ürün çok güzeldi fakat bedeni büyük geldiği için iade ettim."
+      },
+      {
+        "tarih": "2025-05-26",
+        "puan": 5.0,
+        "metin": "@Ürün hem çok güzeldi ancak bedeni büyük geldiği için geri yollamak zorunda kaldım."
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F2725AXPN441",
+      "renk_kodu": "PN441",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Regular Fit Gömlek Yaka Desenli Saten Uzun Kollu Maxi Elbise",
+      "kisa_aciklama": "",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-gomlek-yaka-uzun-kollu-elbise-3303623",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2725AX_25SM_PN441_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Gömlek Yaka",
+        "desen": "Baskılı",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "ozel_urun": "Günlük",
+        "urun_yuksekligi": "135",
+        "urun_tipi": "Elbise",
+        "kumas": "Saten"
+      },
+      "urun_hakkinda": [],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1699.99,
+        "sepette_fiyat": 1019.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14169,
+          "Product Option Code": "F2725AX.PN441",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Woven Dress",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F2725AX_25SM_PN441_01_03.jpg",
+          "FabricDetail": "SATIN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-gomlek-yaka-uzun-kollu-elbise-3303623",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-gomlek-yaka-uzun-kollu-elbise-3303623"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F2725AX_25SM_PN441_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:44:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

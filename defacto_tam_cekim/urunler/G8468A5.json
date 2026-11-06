@@ -1,0 +1,109 @@
+{
+  "model_kodu": "G8468A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8468A5NM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22253,
+          "Product Option Code": "G8468A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "12-18 M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8468A5_26SP_NM28_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-wide-leg-pantolon-kiz-bebek-3482925",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-firfirli-wide-leg-pantolon-kiz-bebek-3482926"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8468A5_26SP_NM28_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G8468A5NM39",
+      "renk_kodu": "NM39",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3/4 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22254,
+          "Product Option Code": "G8468A5.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8468A5_26SP_NM39_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-firfirli-wide-leg-pantolon-kiz-bebek-3482926",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-firfirli-wide-leg-pantolon-kiz-bebek-3482926"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8468A5_26SP_NM39_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:11:36+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-wide-leg-pantolon-kiz-bebek-3482925",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-firfirli-wide-leg-pantolon-kiz-bebek-3482926",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

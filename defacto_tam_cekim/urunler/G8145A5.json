@@ -1,0 +1,120 @@
+{
+  "model_kodu": "G8145A5",
+  "urun_grubu": "Kız Bebek Tulum",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 50.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-22",
+        "puan": 5.0,
+        "metin": "@Ürün gerçekten çok güzel, kalitesi de gayet iyi ama lekeli geldi, bu yüzden yorumumu dikkate alsın diye beş yıldız verdim."
+      },
+      {
+        "tarih": "2026-03-11",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-03-13",
+        "puan": 5.0,
+        "metin": "@Ürün göründüğü gibi güzel. Kumaş da kaliteli duruyor. ancak kalıp buyuk. defaktonun baska ürünlerinin ayni bedeni kızıma olurken bu çok…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8145A5PN636",
+      "renk_kodu": "PN636",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "%100 Pamuk Twıll Nakış Detaylı Tulum Kız Bebek",
+      "kisa_aciklama": "Twill kumaşı ve zarif nakış detaylarıyla öne çıkan tulum, kız bebekler için yumuşak ve rahat bir kullanım sağlar. Şık tasarımıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-twill-nakis-detayli-tulum-kiz-bebek-3408917",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8145A5_26SM_PN636_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8145A5_26SM_PN636_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8145A5_26SM_PN636_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8145A5_26SM_PN636_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8145A5_26SM_PN636_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "9-12 Ay (80cm)",
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "9-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Bisiklet Yaka",
+        "kalip": "Regular Fıt",
+        "kumas": "Twıll",
+        "cinsiyet": "Kız Bebek",
+        "kol_boyu": "Kolsuz"
+      },
+      "urun_hakkinda": [
+        "Twill kumaşı ve zarif nakış detaylarıyla öne çıkan tulum, kız bebekler için yumuşak ve rahat bir kullanım sağlar. Şık tasarımıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21926,
+          "Product Option Code": "G8145A5.PN636",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Jump Suit",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "9-12 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G8145A5_26SM_PN636_01_02.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-twill-nakis-detayli-tulum-kiz-bebek-3408917",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-twill-nakis-detayli-tulum-kiz-bebek-3408917"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G8145A5_26SM_PN636_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:10:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

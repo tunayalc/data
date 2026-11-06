@@ -1,0 +1,92 @@
+{
+  "model_kodu": "I2604AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2604AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın 2'li Saç Tokası",
+      "kisa_aciklama": "2'li saç tokası seti. Biri kahverengi üzeri açık yeşil puantiyeli, diğeri krem üzeri koyu puantiyeli tasarıma sahiptir. Tırnak kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-sac-tokasi-3495542",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2604AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2604AX_NS_KR1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2604AX_NS_KR1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2604AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2604AX_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Akrilik 90%,Plastik 5%,Demir 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "2'li"
+      },
+      "urun_hakkinda": [
+        "2'li saç tokası seti. Biri kahverengi üzeri açık yeşil puantiyeli, diğeri krem üzeri koyu puantiyeli tasarıma sahiptir. Tırnak kapamalı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 179.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40472,
+          "Product Option Code": "I2604AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2604AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-2li-sac-tokasi-3495542",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-2li-sac-tokasi-3495542"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2604AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:45:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

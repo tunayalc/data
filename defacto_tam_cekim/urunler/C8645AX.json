@@ -1,0 +1,130 @@
+{
+  "model_kodu": "C8645AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8645AXWT83",
+      "renk_kodu": "WT83",
+      "renk_adi": "WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5491,
+          "Product Option Code": "C8645AX.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "L",
+          "Fit": "WRAP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8645AX_24SM_WT83_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/basic-poplin-gomlek-3112013",
+          "Model Page URL": "https://www.defacto.com/basic-poplin-gomlek-3112013"
+        },
+        {
+          "excel_satiri": 5492,
+          "Product Option Code": "C8645AX.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "M",
+          "Fit": "WRAP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8645AX_24SM_WT83_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/basic-poplin-gomlek-3112013",
+          "Model Page URL": "https://www.defacto.com/basic-poplin-gomlek-3112013"
+        },
+        {
+          "excel_satiri": 5493,
+          "Product Option Code": "C8645AX.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "S",
+          "Fit": "WRAP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8645AX_24SM_WT83_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/basic-poplin-gomlek-3112013",
+          "Model Page URL": "https://www.defacto.com/basic-poplin-gomlek-3112013"
+        },
+        {
+          "excel_satiri": 5494,
+          "Product Option Code": "C8645AX.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "WRAP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8645AX_24SM_WT83_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/basic-poplin-gomlek-3112013",
+          "Model Page URL": "https://www.defacto.com/basic-poplin-gomlek-3112013"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C8645AX_24SM_WT83_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:28:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/basic-poplin-gomlek-3112013",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

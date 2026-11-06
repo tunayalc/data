@@ -1,0 +1,57 @@
+{
+  "model_kodu": "W8717A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "W8717A6BE343",
+      "renk_kodu": "BE343",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3/4 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47393,
+          "Product Option Code": "W8717A6.BE343",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "BERMUDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/W8717A6_22SM_BE343_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/W8717A6_22SM_BE343_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

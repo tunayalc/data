@@ -1,0 +1,553 @@
+{
+  "model_kodu": "E0461AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 54,
+    "yorum_sayisi": 54,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 45.4,
+      "tam_oldu": 47.7,
+      "buyuk_geldi": 6.8
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@çok klas duruyor siyah rengi.."
+      },
+      {
+        "tarih": "2025-08-19",
+        "puan": 5.0,
+        "metin": "@Güzel ürün, tavsiye ederim."
+      },
+      {
+        "tarih": "2025-07-28",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0461AXBE506",
+      "renk_kodu": "BE506",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "%100 Pamuk Regular Fit Yazlık Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3210574",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BE506_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BE506_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BE506_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BE506_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BE506_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BE506_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BE506_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BE506_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BE506_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 93/72/91",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Kısa Kollu Gömlek"
+      },
+      "urun_hakkinda": [
+        "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10174,
+          "Product Option Code": "E0461AX.BE506",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_BE506_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3210574",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        },
+        {
+          "excel_satiri": 10175,
+          "Product Option Code": "E0461AX.BE506",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_BE506_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3210574",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_BE506_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0461AXBG790",
+      "renk_kodu": "BG790",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "%100 Pamuk Regular Fit Yazlık Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3210184",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BG790_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BG790_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BG790_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BG790_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BG790_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 90/74/91",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10176,
+          "Product Option Code": "E0461AX.BG790",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_BG790_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3210184",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        },
+        {
+          "excel_satiri": 10177,
+          "Product Option Code": "E0461AX.BG790",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_BG790_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3210184",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        },
+        {
+          "excel_satiri": 10178,
+          "Product Option Code": "E0461AX.BG790",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_BG790_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3210184",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_BG790_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0461AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk Regular Fit Yazlık Kısa Kollu Siyah Gömlek",
+      "kisa_aciklama": "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-siyah-gomlek-3212195",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 98/80/94",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kumas": "Pamuklu",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10179,
+          "Product Option Code": "E0461AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_BK81_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-siyah-gomlek-3212195",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0461AXKH488",
+      "renk_kodu": "KH488",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "%100 Pamuk Regular Fit Yazlık Kısa Kollu Gömlek",
+      "kisa_aciklama": "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3208667",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_KH488_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_KH488_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_KH488_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_KH488_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_KH488_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_KH488_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 90/71/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10180,
+          "Product Option Code": "E0461AX.KH488",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_KH488_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3208667",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        },
+        {
+          "excel_satiri": 10181,
+          "Product Option Code": "E0461AX.KH488",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_KH488_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3208667",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        },
+        {
+          "excel_satiri": 10182,
+          "Product Option Code": "E0461AX.KH488",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_KH488_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-gomlek-3208667",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_KH488_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0461AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "%100 Pamuk Regular Fit Yazlık Kısa Kollu Beyaz Gömlek",
+      "kisa_aciklama": "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_WT34_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_WT34_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_WT34_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_WT34_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_WT34_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0461AX_25SM_WT34_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,88cm - 90/74/91",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular fit pamuklu kısa kollu gömlek, sıcak günlerde rahatlıkla tercih edilebilecek bir parça. Hafif ve nefes alabilir pamuklu kumaşı, gün…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10183,
+          "Product Option Code": "E0461AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_WT34_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-yazlik-kisa-kollu-beyaz-gomlek-3209939"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0461AX_25SM_WT34_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:32:48+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

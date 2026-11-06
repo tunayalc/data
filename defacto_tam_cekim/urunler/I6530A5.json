@@ -1,0 +1,86 @@
+{
+  "model_kodu": "I6530A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I6530A5RD172",
+      "renk_kodu": "RD172",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "2/3 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43921,
+          "Product Option Code": "I6530A5.RD172",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "RED",
+          "SizeDefinition": "2/3 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6530A5_26HS_RD172_01_02.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-cizgili-beli-lastikli-kalin-kumas-pantolon-erkek-bebek-3592949",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-cizgili-beli-lastikli-kalin-kumas-pantolon-erkek-bebek-3592949"
+        },
+        {
+          "excel_satiri": 43922,
+          "Product Option Code": "I6530A5.RD172",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "RED",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I6530A5_26HS_RD172_01_02.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-cizgili-beli-lastikli-kalin-kumas-pantolon-erkek-bebek-3592949",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-cizgili-beli-lastikli-kalin-kumas-pantolon-erkek-bebek-3592949"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I6530A5_26HS_RD172_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:51:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-regular-fit-cizgili-beli-lastikli-kalin-kumas-pantolon-erkek-bebek-3592949",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

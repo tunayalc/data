@@ -1,0 +1,123 @@
+{
+  "model_kodu": "H5148AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5148AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Loose Fıt Kayık Yaka Çizgili Tişört",
+      "kisa_aciklama": "Loose fit kadın tişört. Kayık yaka ve uzun kollu. Günlük kullanıma uygun basic model.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/loose-fit-kayik-yaka-cizgili-tisort-3453273",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5148AX_26SM_WT32_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5148AX_26SM_WT32_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5148AX_26SM_WT32_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5148AX_26SM_WT32_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5148AX_26SM_WT32_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5148AX_26SM_WT32_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,75cm - 75/61/89",
+        "ana_kumas_icerigi": "Pamuk 37%,Poliester 63%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Kayık Yaka",
+        "cinsiyet": "Kadın",
+        "kalip": "Loose Fıt",
+        "urun_tipi": "Uzun Kollu Tişört",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Loose fit kadın tişört. Kayık yaka ve uzun kollu. Günlük kullanıma uygun basic model."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29894,
+          "Product Option Code": "H5148AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5148AX_26SM_WT32_01_02.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-kayik-yaka-cizgili-tisort-3453273",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-kayik-yaka-cizgili-tisort-3453273"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H5148AX_26SM_WT32_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:27:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

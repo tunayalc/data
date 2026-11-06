@@ -1,0 +1,245 @@
+{
+  "model_kodu": "I0766AX",
+  "urun_grubu": "Kadın Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-14",
+        "puan": 5.0,
+        "metin": "@elbise gerçekten güzel yazlık ve yumuşacık bi beden büyük tercih edebilirisiniz severek giyicem"
+      },
+      {
+        "tarih": "2026-09-22",
+        "puan": 5.0,
+        "metin": "@Müthiş bir yaz elbisesi gardrobumda yerini aldı"
+      },
+      {
+        "tarih": "2026-07-09",
+        "puan": 5.0,
+        "metin": "@Bedenime tam oldu. cikik popom arkayi kaldirdi. goruntugu boydan kisa hala iade edip etmemekte kararsizim. kalitesi cok guzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0766AXBE18",
+      "renk_kodu": "BE18",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Halter Yaka Desenli Tül Kolsuz Boyundan Bağlamalı Mavi Elbise",
+      "kisa_aciklama": "Tül kumaştan üretilmiş desenli kolsuz elbise.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/halter-yaka-desenli-tul-kolsuz-boyundan-baglamali-mavi-elbise-3486680",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_BE18_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_BE18_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_BE18_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_BE18_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Elastan 6%,Poliester 94%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kumas": "Tül",
+        "yaka": "Halter Yaka",
+        "ozel_urun": "Mezuniyet",
+        "astar_bilgisi": "Astarlı",
+        "kol_boyu": "Kolsuz"
+      },
+      "urun_hakkinda": [
+        "Tül kumaştan üretilmiş desenli kolsuz elbise."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38282,
+          "Product Option Code": "I0766AX.BE18",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "XL",
+          "Fit": "HALTER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0766AX_26SM_BE18_01_01.jpg",
+          "FabricDetail": "MESH",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/halter-yaka-desenli-tul-kolsuz-boyundan-baglamali-mavi-elbise-3486680",
+          "Model Page URL": "https://www.defacto.com.tr/halter-yaka-desenli-tul-kolsuz-boyundan-baglamali-mavi-elbise-3486680"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0766AX_26SM_BE18_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0766AXER2",
+      "renk_kodu": "ER2",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Halter Yaka Puantiyeli Tül Mini Elbise",
+      "kisa_aciklama": "Hareketli tül kumaşı ve sevimli puantiye detaylarıyla partiler için harika bir seçenektir. Halter yaka kesimi, omuz hatlarınızı zarifçe ortaya çıkarır.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/halter-yaka-puantiyeli-tul-mini-elbise-3486681",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_ER2_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_ER2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_ER2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_ER2_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_ER2_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_ER2_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_ER2_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0766AX_26SM_ER2_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Elastan 6%,Poliester 94%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Halter Yaka",
+        "kumas": "Tül",
+        "kol_boyu": "Kolsuz",
+        "ozel_urun": "Mezuniyet",
+        "astar_bilgisi": "Astarlı",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Hareketli tül kumaşı ve sevimli puantiye detaylarıyla partiler için harika bir seçenektir. Halter yaka kesimi, omuz hatlarınızı zarifçe ortaya çıkarır."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38283,
+          "Product Option Code": "I0766AX.ER2",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "HALTER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0766AX_26SM_ER2_01_02.jpg",
+          "FabricDetail": "MESH",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/halter-yaka-puantiyeli-tul-mini-elbise-3486681",
+          "Model Page URL": "https://www.defacto.com.tr/halter-yaka-desenli-tul-kolsuz-boyundan-baglamali-mavi-elbise-3486680"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0766AX_26SM_ER2_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:51:41+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "model_kodu": "H3310A5",
+  "urun_grubu": "Erkek Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-06",
+        "puan": 5.0,
+        "metin": "@indirimdeyken aldım gerçekte. çok kaliteli"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3310A5KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Çizgili Dikişsiz 5'li Pamuklu Patik Çorap Erkek Bebek",
+      "kisa_aciklama": "Erkek bebekler için yumuşak pamuklu kumaştan üretilmiş, çizgili desenli ve konforlu dikişsiz 5'li patik çorap seti.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cizgili-dikissiz-5li-pamuklu-patik-corap-erkek-bebek-3428314",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3310A5_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3310A5_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3310A5_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3310A5_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "12-24 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 78%,Poliamid 20%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek Bebek",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "5'li",
+        "desen": "Çizgili",
+        "corap_tipi": "Patik Çorap"
+      },
+      "urun_hakkinda": [
+        "Erkek bebekler için yumuşak pamuklu kumaştan üretilmiş, çizgili desenli ve konforlu dikişsiz 5'li patik çorap seti."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27147,
+          "Product Option Code": "H3310A5.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "12-24 M",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3310A5_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-dikissiz-5li-pamuklu-patik-corap-erkek-bebek-3428314",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-dikissiz-5li-pamuklu-patik-corap-erkek-bebek-3428314"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3310A5_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:22:26+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

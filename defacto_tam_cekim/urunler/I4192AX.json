@@ -1,0 +1,188 @@
+{
+  "model_kodu": "I4192AX",
+  "urun_grubu": "Kadın Hırka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4192AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Fıtted Kısa Kollu Pamuklu Bisiklet Yaka Hırka",
+      "kisa_aciklama": "Fitted bisiklet yaka hırka. Çapraz düğme patı ve asimetrik etek ucu detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-kisa-kollu-pamuklu-bisiklet-yaka-hirka-3509317",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4192AX_26HS_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4192AX_26HS_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4192AX_26HS_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4192AX_26HS_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4192AX_26HS_ER105_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,73cm - 82/60/89",
+        "ana_kumas_icerigi": "Pamuk 57%,Poliester 43%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Fıtted",
+        "urun_tipi": "Hırka",
+        "kol_boyu": "Kısa Kollu",
+        "triko_kalinligi": "İnce Kalınlık"
+      },
+      "urun_hakkinda": [
+        "Fitted bisiklet yaka hırka. Çapraz düğme patı ve asimetrik etek ucu detaylı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1599.99,
+        "sepette_fiyat": 639.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42503,
+          "Product Option Code": "I4192AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I4192AX_26HS_ER105_01_02.jpg",
+          "FabricDetail": "FULL NEEDLE",
+          "Toplam": 2,
+          "Initial Price Value": 1599.99,
+          "Actual Price Value": 1599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-kisa-kollu-pamuklu-bisiklet-yaka-hirka-3509317",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-kisa-kollu-pamuklu-bisiklet-yaka-hirka-3509317"
+        },
+        {
+          "excel_satiri": 42504,
+          "Product Option Code": "I4192AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I4192AX_26HS_ER105_01_02.jpg",
+          "FabricDetail": "FULL NEEDLE",
+          "Toplam": 1,
+          "Initial Price Value": 1599.99,
+          "Actual Price Value": 1599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-kisa-kollu-pamuklu-bisiklet-yaka-hirka-3509317",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-kisa-kollu-pamuklu-bisiklet-yaka-hirka-3509317"
+        },
+        {
+          "excel_satiri": 42505,
+          "Product Option Code": "I4192AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I4192AX_26HS_ER105_01_02.jpg",
+          "FabricDetail": "FULL NEEDLE",
+          "Toplam": 1,
+          "Initial Price Value": 1599.99,
+          "Actual Price Value": 1599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-kisa-kollu-pamuklu-bisiklet-yaka-hirka-3509317",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-kisa-kollu-pamuklu-bisiklet-yaka-hirka-3509317"
+        },
+        {
+          "excel_satiri": 42506,
+          "Product Option Code": "I4192AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I4192AX_26HS_ER105_01_02.jpg",
+          "FabricDetail": "FULL NEEDLE",
+          "Toplam": 1,
+          "Initial Price Value": 1599.99,
+          "Actual Price Value": 1599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-kisa-kollu-pamuklu-bisiklet-yaka-hirka-3509317",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-kisa-kollu-pamuklu-bisiklet-yaka-hirka-3509317"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I4192AX_26HS_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:02:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

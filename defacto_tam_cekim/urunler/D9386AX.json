@@ -1,0 +1,108 @@
+{
+  "model_kodu": "D9386AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9386AXPR284",
+      "renk_kodu": "PR284",
+      "renk_adi": "PURPLE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9632,
+          "Product Option Code": "D9386AX.PR284",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "PURPLE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/D9386AX_24WN_PR284_01_03.jpg",
+          "FabricDetail": "ACRYLIC KNITWEAR",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "https://www.defacto.com/en-ma/yarim-balikci-yaka-basic-triko-kazak-3195553",
+          "Model Page URL": "https://www.defacto.com/en-ma/yarim-balikci-yaka-basic-triko-kazak-3195553"
+        },
+        {
+          "excel_satiri": 9633,
+          "Product Option Code": "D9386AX.PR284",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "PURPLE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/D9386AX_24WN_PR284_01_03.jpg",
+          "FabricDetail": "ACRYLIC KNITWEAR",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "https://www.defacto.com/en-ma/yarim-balikci-yaka-basic-triko-kazak-3195553",
+          "Model Page URL": "https://www.defacto.com/en-ma/yarim-balikci-yaka-basic-triko-kazak-3195553"
+        },
+        {
+          "excel_satiri": 9634,
+          "Product Option Code": "D9386AX.PR284",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "PURPLE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/D9386AX_24WN_PR284_01_03.jpg",
+          "FabricDetail": "ACRYLIC KNITWEAR",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "https://www.defacto.com/en-ma/yarim-balikci-yaka-basic-triko-kazak-3195553",
+          "Model Page URL": "https://www.defacto.com/en-ma/yarim-balikci-yaka-basic-triko-kazak-3195553"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/D9386AX_24WN_PR284_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:40:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/yarim-balikci-yaka-basic-triko-kazak-3195553",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

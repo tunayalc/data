@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G4439AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4439AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19198,
+          "Product Option Code": "G4439AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G4439AX_25WN_BK81_01_01.jpg",
+          "FabricDetail": "LACE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/slim-fit-dar-kesim-v-yaka-dantel-uzun-kollu-tisort-3362563",
+          "Model Page URL": "https://www.defacto.com/ar-iq/slim-fit-dar-kesim-v-yaka-dantel-uzun-kollu-tisort-3362563"
+        },
+        {
+          "excel_satiri": 19199,
+          "Product Option Code": "G4439AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G4439AX_25WN_BK81_01_01.jpg",
+          "FabricDetail": "LACE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/slim-fit-dar-kesim-v-yaka-dantel-uzun-kollu-tisort-3362563",
+          "Model Page URL": "https://www.defacto.com/ar-iq/slim-fit-dar-kesim-v-yaka-dantel-uzun-kollu-tisort-3362563"
+        },
+        {
+          "excel_satiri": 19200,
+          "Product Option Code": "G4439AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G4439AX_25WN_BK81_01_01.jpg",
+          "FabricDetail": "LACE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/slim-fit-dar-kesim-v-yaka-dantel-uzun-kollu-tisort-3362563",
+          "Model Page URL": "https://www.defacto.com/ar-iq/slim-fit-dar-kesim-v-yaka-dantel-uzun-kollu-tisort-3362563"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G4439AX_25WN_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:03:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/slim-fit-dar-kesim-v-yaka-dantel-uzun-kollu-tisort-3362563",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

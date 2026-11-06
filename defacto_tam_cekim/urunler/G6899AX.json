@@ -1,0 +1,86 @@
+{
+  "model_kodu": "G6899AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6899AXNM40",
+      "renk_kodu": "NM40",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20746,
+          "Product Option Code": "G6899AX.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "90'S WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25CW/G6899AX_25CW_NM40_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/90s-wide-leg-yuksek-bel-boru-paca-jean-pantolon-3370044",
+          "Model Page URL": "https://www.defacto.com/90s-wide-leg-yuksek-bel-boru-paca-jean-pantolon-3370044"
+        },
+        {
+          "excel_satiri": 20747,
+          "Product Option Code": "G6899AX.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "42",
+          "Fit": "90'S WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25CW/G6899AX_25CW_NM40_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/90s-wide-leg-yuksek-bel-boru-paca-jean-pantolon-3370044",
+          "Model Page URL": "https://www.defacto.com/90s-wide-leg-yuksek-bel-boru-paca-jean-pantolon-3370044"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25CW/G6899AX_25CW_NM40_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:07:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/90s-wide-leg-yuksek-bel-boru-paca-jean-pantolon-3370044",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

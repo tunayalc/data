@@ -1,0 +1,123 @@
+{
+  "model_kodu": "A1818AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 15,
+    "yorum_sayisi": 15,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 81.8,
+      "buyuk_geldi": 18.2
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-05-12",
+        "puan": 5.0,
+        "metin": "@sevgilime aldım l-xl giyiyor l aldım çok yakıştı yakışıklıma"
+      },
+      {
+        "tarih": "2023-09-06",
+        "puan": 1.0,
+        "metin": "@merhaba, ürünü çok beğendim. giydim mağazada, denedim. süper oldu. bununla birlikte 7 ürün daha aldığım için elektrikli scooter ile işe…"
+      },
+      {
+        "tarih": "2023-10-09",
+        "puan": 3.0,
+        "metin": "@kendi bedeninizi alabilirsiniz"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1818AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slim Fit Dar Kesim Bisiklet Yaka Sporcu Atlet",
+      "kisa_aciklama": "Üzerinize oturan kalıbı, bisiklet yaka, basic, kolsuz tasarımıyla sporda, egzersiz rutininizde, spor şortlar, jogger eşofman altları ile rahat kullanım sağlayan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-sporcu-atlet-2818994",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1818AX_23SM_BK81_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 95/74/93",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kolsuz",
+        "kalip": "Slım Fıt",
+        "yasam_tarzi": "Sporcu",
+        "kullanim_alani": "Antrenman &amp; Günlük Giyim"
+      },
+      "urun_hakkinda": [
+        "Üzerinize oturan kalıbı, bisiklet yaka, basic, kolsuz tasarımıyla sporda, egzersiz rutininizde, spor şortlar, jogger eşofman altları ile rahat kullanım sağlayan…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 169.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 174,
+          "Product Option Code": "A1818AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/A1818AX_23SM_BK81_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 169.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-ma/slim-fit-dar-kesim-bisiklet-yaka-sporcu-atlet-2818994",
+          "Model Page URL": "https://www.defacto.com/en-ma/slim-fit-dar-kesim-bisiklet-yaka-sporcu-atlet-2818994"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/A1818AX_23SM_BK81_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:20:03+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

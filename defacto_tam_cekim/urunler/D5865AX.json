@@ -1,0 +1,118 @@
+{
+  "model_kodu": "D5865AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-24",
+        "puan": 5.0,
+        "metin": "@Harika! İncecik, efil efil bir swett sweatshirt. Çok teşekkürler."
+      },
+      {
+        "tarih": "2025-11-21",
+        "puan": 5.0,
+        "metin": "@Kalıbı gayet iyi, kalıbı da güzel. Çok beğendim."
+      },
+      {
+        "tarih": "2025-08-31",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5865AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Boxy Fit Bisiklet Yaka Baskılı Kısa Kollu Tişört",
+      "kisa_aciklama": "Şık ve rahat bir seçenek: Boxy fit bisiklet yaka baskılı kısa kollu tişört. Modern kesimi ve dikkat çekici baskılarıyla hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3208997",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D5865AX_25SP_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5865AX_25SP_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5865AX_25SP_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5865AX_25SP_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5865AX_25SP_ER105_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5865AX_25SP_ER105_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 98/80/94",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Boxy Fıt"
+      },
+      "urun_hakkinda": [
+        "Şık ve rahat bir seçenek: Boxy fit bisiklet yaka baskılı kısa kollu tişört. Modern kesimi ve dikkat çekici baskılarıyla hem…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8099,
+          "Product Option Code": "D5865AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D5865AX_25SP_ER105_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3208997",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3208997"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D5865AX_25SP_ER105_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:28:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

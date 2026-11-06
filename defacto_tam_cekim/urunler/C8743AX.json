@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C8743AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8743AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5518,
+          "Product Option Code": "C8743AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/C8743AX_24AU_ER105_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/crop-bisiklet-yaka-cizgili-kisa-kollu-triko-kazak-3133601",
+          "Model Page URL": "https://www.defacto.com/crop-bisiklet-yaka-cizgili-kisa-kollu-triko-kazak-3133601"
+        },
+        {
+          "excel_satiri": 5519,
+          "Product Option Code": "C8743AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/C8743AX_24AU_ER105_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/crop-bisiklet-yaka-cizgili-kisa-kollu-triko-kazak-3133601",
+          "Model Page URL": "https://www.defacto.com/crop-bisiklet-yaka-cizgili-kisa-kollu-triko-kazak-3133601"
+        },
+        {
+          "excel_satiri": 5520,
+          "Product Option Code": "C8743AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/C8743AX_24AU_ER105_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": -1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/crop-bisiklet-yaka-cizgili-kisa-kollu-triko-kazak-3133601",
+          "Model Page URL": "https://www.defacto.com/crop-bisiklet-yaka-cizgili-kisa-kollu-triko-kazak-3133601"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/C8743AX_24AU_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:28:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/crop-bisiklet-yaka-cizgili-kisa-kollu-triko-kazak-3133601",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

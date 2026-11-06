@@ -1,0 +1,57 @@
+{
+  "model_kodu": "D8439A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D8439A5BE551",
+      "renk_kodu": "BE551",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3/4 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9262,
+          "Product Option Code": "D8439A5.BE551",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Dress",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "SWEAT DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D8439A5_24AU_BE551_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D8439A5_24AU_BE551_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

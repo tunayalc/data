@@ -1,0 +1,57 @@
+{
+  "model_kodu": "C4149AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4149AXPR328",
+      "renk_kodu": "PR328",
+      "renk_adi": "LT.LILAC",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4114,
+          "Product Option Code": "C4149AX.PR328",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4149AX_24SM_PR328_01_01.jpg",
+          "FabricDetail": "CREPE",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C4149AX_24SM_PR328_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

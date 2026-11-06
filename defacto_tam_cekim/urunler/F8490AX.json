@@ -1,0 +1,121 @@
+{
+  "model_kodu": "F8490AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 71.4,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-09",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-10",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-03-17",
+        "puan": 5.0,
+        "metin": "@Ürün çok büyük takriben 2 beden kadar ona gore alın onun dışında güzel kusuru yok"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8490AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fit Polo Yaka Cepli Mont",
+      "kisa_aciklama": "Yüzde yüz pamuklu kumaşıyla cildinize nefes aldıran bu regular fit mont, polo yaka detayıyla kaliteli ve konforlu bir kullanım sunar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-cepli-mont-3375080",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8490AX_26SP_BK27_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8490AX_26SP_BK27_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8490AX_26SP_BK27_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8490AX_26SP_BK27_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8490AX_26SP_BK27_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kapama_detayi": "Fermuarlı",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek",
+        "dis_giyim_urun_grubu": "Mont",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka",
+        "kumas_kalinligi": "İnce"
+      },
+      "urun_hakkinda": [
+        "Yüzde yüz pamuklu kumaşıyla cildinize nefes aldıran bu regular fit mont, polo yaka detayıyla kaliteli ve konforlu bir kullanım sunar.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 1799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16348,
+          "Product Option Code": "F8490AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8490AX_26SP_BK27_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-cepli-mont-3375080",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-cepli-mont-3375080"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8490AX_26SP_BK27_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:55:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "model_kodu": "D8623AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D8623AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9387,
+          "Product Option Code": "D8623AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D8623AX_24AU_BK81_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/bodycon-vucuda-oturan-basic-fitilli-kaskorse-maxi-elbise-3188924"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D8623AX_24AU_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D8623AXBN540",
+      "renk_kodu": "BN540",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9388,
+          "Product Option Code": "D8623AX.BN540",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D8623AX_24AU_BN540_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com/bodycon-vucuda-oturan-basic-fitilli-kaskorse-maxi-elbise-3188924",
+          "Model Page URL": "https://www.defacto.com/bodycon-vucuda-oturan-basic-fitilli-kaskorse-maxi-elbise-3188924"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D8623AX_24AU_BN540_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D8623AXBR248",
+      "renk_kodu": "BR248",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9389,
+          "Product Option Code": "D8623AX.BR248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XL",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D8623AX_24AU_BR248_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/bodycon-vucuda-oturan-basic-fitilli-kaskorse-maxi-elbise-3188924"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D8623AX_24AU_BR248_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:39:24+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/bodycon-vucuda-oturan-basic-fitilli-kaskorse-maxi-elbise-3188924",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

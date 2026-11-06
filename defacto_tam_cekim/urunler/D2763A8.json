@@ -1,0 +1,79 @@
+{
+  "model_kodu": "D2763A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D2763A8WT16",
+      "renk_kodu": "WT16",
+      "renk_adi": "OFF WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "13/14 Y",
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6864,
+          "Product Option Code": "D2763A8.WT16",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "Crop Top",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D2763A8_24AU_WT16_01_01.jpg",
+          "FabricDetail": "POLYESTER SÜPREM",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 6865,
+          "Product Option Code": "D2763A8.WT16",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "Crop Top",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D2763A8_24AU_WT16_01_01.jpg",
+          "FabricDetail": "POLYESTER SÜPREM",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D2763A8_24AU_WT16_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "model_kodu": "D8243AX",
+  "urun_grubu": "Kadın Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 81,
+    "yorum_sayisi": 81,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 96.4,
+      "tam_oldu": 3.6,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-10",
+        "puan": 5.0,
+        "metin": "@Ürünü alırken hiç yorum yoktu, tereddüt ettim ama 71 kiloya 42 aldım, tam oldu."
+      },
+      {
+        "tarih": "2025-04-22",
+        "puan": 5.0,
+        "metin": "@Pantolon dar kalıp, ama bir beden büyük alındığında tam oturuyor. Bel lastiği sert ve esnek değil, yine de bir beden…"
+      },
+      {
+        "tarih": "2025-05-28",
+        "puan": 5.0,
+        "metin": "@tam yazlık tiril tiril çok beyendim harika duruşu var 40 beden giyene tavsiyem bir beden büyük alsın özellikle basenleri olan…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D8243AXNM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "Mavi",
+      "renk_hex": "#30D5C8",
+      "urun_adi": "Wide Leg Orta Bel Geniş Paça Jean Pantolon",
+      "kisa_aciklama": "Dökümlü duruşu ve konforlu kesimiyle öne çıkan bu Wide Leg Pantolon, efor sarf etmeden elde edeceğiniz şıklığın anahtarıdır. Gün boyu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-orta-bel-genis-paca-jean-pantolon-3209881",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D8243AX_25SM_NM28_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8243AX_25SM_NM28_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8243AX_25SM_NM28_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8243AX_25SM_NM28_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8243AX_25SM_NM28_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8243AX_25SM_NM28_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8243AX_25SM_NM28_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8243AX_25SM_NM28_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8243AX_25SM_NM28_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Lyocell 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "yikama_detayi": "Yıkamalı",
+        "kumas": "Akışkan Kumaş",
+        "kalip": "Wıde Leg",
+        "cinsiyet": "Kadın",
+        "bel_detayi": "Yüksek Bel"
+      },
+      "urun_hakkinda": [
+        "Dökümlü duruşu ve konforlu kesimiyle öne çıkan bu Wide Leg Pantolon, efor sarf etmeden elde edeceğiniz şıklığın anahtarıdır. Gün boyu…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9230,
+          "Product Option Code": "D8243AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "36",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/D8243AX_25SM_NM28_01_02.jpg",
+          "FabricDetail": "TENCEL",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-orta-bel-genis-paca-jean-pantolon-3209881",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-orta-bel-genis-paca-jean-pantolon-3209881"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/D8243AX_25SM_NM28_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:38:59+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

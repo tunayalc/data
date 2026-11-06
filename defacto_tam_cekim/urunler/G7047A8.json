@@ -1,0 +1,164 @@
+{
+  "model_kodu": "G7047A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-13",
+        "puan": 5.0,
+        "metin": "@kumaşına bayıldım harika yanlız iki beden küçük alınmalı"
+      },
+      {
+        "tarih": "2026-05-22",
+        "puan": 5.0,
+        "metin": "@çok guzel guzel ürün"
+      },
+      {
+        "tarih": "2026-03-11",
+        "puan": 5.0,
+        "metin": "@pantolonun kumaşı ve kalıbı çok güzel kemeri ile geliyor kızım çok beğendi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7047A8BG359",
+      "renk_kodu": "BG359",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Wıde Leg Geniş Paça Lastikli Paça Pantolon",
+      "kisa_aciklama": "Kız Çocuk Wıde Leg Pantolon, normal kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-genis-paca-lastikli-paca-pantolon-3411283",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7047A8_26SM_BG359_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7047A8_26SM_BG359_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7047A8_26SM_BG359_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7047A8_26SM_BG359_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7047A8_26SM_BG359_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7047A8_26SM_BG359_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "5/6 Y",
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Pamuk 55%,Elastan 3%,Poliester 42%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Wıde Leg",
+        "urun_tipi": "Pantolon",
+        "cinsiyet": "Kız Çocuk",
+        "paca_detayi": "Esnek Bantlı Paça"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Wıde Leg Pantolon, normal kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20893,
+          "Product Option Code": "G7047A8.BG359",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7047A8_26SM_BG359_01_02.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-lastikli-paca-pantolon-3411283",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-lastikli-paca-pantolon-3411283"
+        },
+        {
+          "excel_satiri": 20894,
+          "Product Option Code": "G7047A8.BG359",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7047A8_26SM_BG359_01_02.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-lastikli-paca-pantolon-3411283",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-lastikli-paca-pantolon-3411283"
+        },
+        {
+          "excel_satiri": 20895,
+          "Product Option Code": "G7047A8.BG359",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7047A8_26SM_BG359_01_02.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-lastikli-paca-pantolon-3411283",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-lastikli-paca-pantolon-3411283"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G7047A8_26SM_BG359_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:05:57+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

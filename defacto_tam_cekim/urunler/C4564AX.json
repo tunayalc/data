@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C4564AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4564AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4307,
+          "Product Option Code": "C4564AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Leggings",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C4564AX_25SP_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/yuksek-bel-beli-saran-toparlayici-esnek-premium-sporcu-tayt-3348343",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/yuksek-bel-beli-saran-toparlayici-esnek-premium-sporcu-tayt-3348343"
+        },
+        {
+          "excel_satiri": 4308,
+          "Product Option Code": "C4564AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Leggings",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C4564AX_25SP_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/yuksek-bel-beli-saran-toparlayici-esnek-premium-sporcu-tayt-3348343",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/yuksek-bel-beli-saran-toparlayici-esnek-premium-sporcu-tayt-3348343"
+        },
+        {
+          "excel_satiri": 4309,
+          "Product Option Code": "C4564AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Leggings",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C4564AX_25SP_BK81_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/yuksek-bel-beli-saran-toparlayici-esnek-premium-sporcu-tayt-3348343",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/yuksek-bel-beli-saran-toparlayici-esnek-premium-sporcu-tayt-3348343"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/C4564AX_25SP_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:26:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/yuksek-bel-beli-saran-toparlayici-esnek-premium-sporcu-tayt-3348343",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

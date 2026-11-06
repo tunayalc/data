@@ -1,0 +1,539 @@
+{
+  "model_kodu": "G4269AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 85.7,
+      "buyuk_geldi": 14.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-11",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-02",
+        "puan": 5.0,
+        "metin": "@m beden aldım ve bana översize gibi geldi onun haricinde ürün mukemmel"
+      },
+      {
+        "tarih": "2026-06-29",
+        "puan": 5.0,
+        "metin": "@Tesettürlü olduğum için büyük beden aldım çok oversize oldu kendi bedeninizi alabilirsiniz"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4269AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Loose Fıt Baskılı Kısa Kollu Polo Ecru Tişört",
+      "kisa_aciklama": "Baskılı loose fit kısa kollu polo tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-ecru-tisort-3512327",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_ER105_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Loose Fıt",
+        "desen": "Slogan Baskılı",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Baskılı loose fit kısa kollu polo tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19094,
+          "Product Option Code": "G4269AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_ER105_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-ecru-tisort-3512327",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        },
+        {
+          "excel_satiri": 19095,
+          "Product Option Code": "G4269AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_ER105_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-ecru-tisort-3512327",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        },
+        {
+          "excel_satiri": 19096,
+          "Product Option Code": "G4269AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_ER105_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-ecru-tisort-3512327",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        },
+        {
+          "excel_satiri": 19097,
+          "Product Option Code": "G4269AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_ER105_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-ecru-tisort-3512327",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        },
+        {
+          "excel_satiri": 19098,
+          "Product Option Code": "G4269AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_ER105_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-ecru-tisort-3512327",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_ER105_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G4269AXKH225",
+      "renk_kodu": "KH225",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Loose Fıt Baskılı Kısa Kollu Haki Polo Tişört",
+      "kisa_aciklama": "Baskılı loose fit kısa kollu polo tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_KH225_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_KH225_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_KH225_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_KH225_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_KH225_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_KH225_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Loose Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "desen": "Slogan Baskılı",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Baskılı loose fit kısa kollu polo tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19099,
+          "Product Option Code": "G4269AX.KH225",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "L",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_KH225_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        },
+        {
+          "excel_satiri": 19100,
+          "Product Option Code": "G4269AX.KH225",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_KH225_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        },
+        {
+          "excel_satiri": 19101,
+          "Product Option Code": "G4269AX.KH225",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_KH225_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        },
+        {
+          "excel_satiri": 19102,
+          "Product Option Code": "G4269AX.KH225",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_KH225_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_KH225_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G4269AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Loose Fıt Baskılı Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Baskılı loose fit kısa kollu polo tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-tisort-3512325",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_NV64_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_NV64_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_NV64_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_NV64_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_NV64_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4269AX_26AU_NV64_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Polo Yaka",
+        "desen": "Slogan Baskılı",
+        "kalip": "Loose Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Baskılı loose fit kısa kollu polo tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19103,
+          "Product Option Code": "G4269AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_NV64_01_03.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-tisort-3512325",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        },
+        {
+          "excel_satiri": 19104,
+          "Product Option Code": "G4269AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_NV64_01_03.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-tisort-3512325",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        },
+        {
+          "excel_satiri": 19105,
+          "Product Option Code": "G4269AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_NV64_01_03.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-tisort-3512325",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-haki-polo-tisort-3512326"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G4269AX_26AU_NV64_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:01:18+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

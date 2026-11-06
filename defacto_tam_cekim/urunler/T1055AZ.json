@@ -1,0 +1,614 @@
+{
+  "model_kodu": "T1055AZ",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 585,
+    "yorum_sayisi": 585,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 16.5,
+      "tam_oldu": 80.2,
+      "buyuk_geldi": 3.4
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2021-11-12",
+        "puan": 5.0,
+        "metin": "@alanların bi beden ufak almasını tavsiye ederim çünkü kumaşı esnek ."
+      },
+      {
+        "tarih": "2021-11-17",
+        "puan": 5.0,
+        "metin": "@Kalıp çok güzel dapdar değil beden tam beden alınmalı renk krem"
+      },
+      {
+        "tarih": "2022-07-17",
+        "puan": 5.0,
+        "metin": "@Hep bu tarz pantolon giyiyorum. Hiç bir siaprişimde şaşırmadım. Tşk. ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "T1055AZAR173",
+      "renk_kodu": "AR173",
+      "renk_adi": "Koyu Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Slım Fit Dar Paça Pantolon",
+      "kisa_aciklama": "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3077590",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_24SP_AR173_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_24SP_AR173_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_24SP_AR173_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_24SP_AR173_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_24SP_AR173_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_24SP_AR173_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28-30",
+          "34-30",
+          "36-34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 32 - Boy 32 Beden - 1,89cm - 91/78/95",
+        "ana_kumas_icerigi": "Pamuk 65%,Elastan 5%,Poliester 30%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Slım Fıt",
+        "paca_detayi": "Dar Paça",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46381,
+          "Product Option Code": "T1055AZ.AR173",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.ANTHRA",
+          "SizeDefinition": "28-30",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/T1055AZ_24SP_AR173_01_02.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/en-iq/slim-fit-dar-paca-pantolon-3077590",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        },
+        {
+          "excel_satiri": 46382,
+          "Product Option Code": "T1055AZ.AR173",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.ANTHRA",
+          "SizeDefinition": "34-30",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/T1055AZ_24SP_AR173_01_02.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/en-iq/slim-fit-dar-paca-pantolon-3077590",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        },
+        {
+          "excel_satiri": 46383,
+          "Product Option Code": "T1055AZ.AR173",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.ANTHRA",
+          "SizeDefinition": "36-34",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/T1055AZ_24SP_AR173_01_02.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/en-iq/slim-fit-dar-paca-pantolon-3077590",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/T1055AZ_24SP_AR173_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "T1055AZGR169",
+      "renk_kodu": "GR169",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Slım Fit Dar Paça Pantolon",
+      "kisa_aciklama": "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_GR169_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_GR169_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_GR169_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_GR169_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_GR169_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_GR169_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_GR169_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28-30",
+          "36-32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Pamuk 61%,Elastan 5%,Poliester 34%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt",
+        "paca_detayi": "Dar Paça"
+      },
+      "urun_hakkinda": [
+        "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46384,
+          "Product Option Code": "T1055AZ.GR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "28-30",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_GR169_01_03.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        },
+        {
+          "excel_satiri": 46385,
+          "Product Option Code": "T1055AZ.GR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "36-32",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_GR169_01_03.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_GR169_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "T1055AZIN87",
+      "renk_kodu": "IN87",
+      "renk_adi": "Açık İndigo",
+      "renk_hex": "#2800A1",
+      "urun_adi": "Slım Fit Dar Paça Pantolon",
+      "kisa_aciklama": "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3209961",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_IN87_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_IN87_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_IN87_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_IN87_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_IN87_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_IN87_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_IN87_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28-30",
+          "33-30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,88cm - 93/72/92",
+        "ana_kumas_icerigi": "Pamuk 61%,Elastan 5%,Poliester 34%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Erkek",
+        "paca_detayi": "Dar Paça"
+      },
+      "urun_hakkinda": [
+        "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46387,
+          "Product Option Code": "T1055AZ.IN87",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "28-30",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_IN87_01_04.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3209961",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        },
+        {
+          "excel_satiri": 46388,
+          "Product Option Code": "T1055AZ.IN87",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "33-30",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/T1055AZ_24SP_IN87_01_04.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3209961",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_IN87_01_04.jpg",
+        "https://image.defacto.com.tr/product/24SP/T1055AZ_24SP_IN87_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "T1055AZKH120",
+      "renk_kodu": "KH120",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Slım Fit Dar Paça Pantolon",
+      "kisa_aciklama": "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3211987",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_KH120_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_KH120_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_KH120_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_KH120_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_KH120_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_KH120_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28-30",
+          "36-32",
+          "36-34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 61%,Elastan 5%,Poliester 34%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Dar Paça",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46389,
+          "Product Option Code": "T1055AZ.KH120",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "28-30",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_KH120_01_04.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3211987",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        },
+        {
+          "excel_satiri": 46390,
+          "Product Option Code": "T1055AZ.KH120",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "36-32",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_KH120_01_04.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3211987",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        },
+        {
+          "excel_satiri": 46391,
+          "Product Option Code": "T1055AZ.KH120",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "36-34",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_KH120_01_04.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3211987",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_KH120_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "T1055AZNV71",
+      "renk_kodu": "NV71",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Slım Fit Dar Paça Pantolon",
+      "kisa_aciklama": "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3210499",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_NV71_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_NV71_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_NV71_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_NV71_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_NV71_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/T1055AZ_25SP_NV71_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "40-32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Pamuk 61%,Elastan 5%,Poliester 34%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Dar Paça",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Slım Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46392,
+          "Product Option Code": "T1055AZ.NV71",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "40-32",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_NV71_01_03.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3210499",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/T1055AZ_25SP_NV71_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "T1055AZGR342",
+      "renk_kodu": "GR342",
+      "renk_adi": "LT.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40-32"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46386,
+          "Product Option Code": "T1055AZ.GR342",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "40-32",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SP/T1055AZ_22SP_GR342_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-paca-pantolon-3208752"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SP/T1055AZ_22SP_GR342_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:12:47+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

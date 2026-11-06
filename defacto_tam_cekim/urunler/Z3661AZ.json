@@ -1,0 +1,116 @@
+{
+  "model_kodu": "Z3661AZ",
+  "urun_grubu": "Kadın Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 50.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-04-01",
+        "puan": 5.0,
+        "metin": "@mükemmel bir şapka çok cool rengi kalitesi çok iyi alın bence"
+      },
+      {
+        "tarih": "2025-11-11",
+        "puan": 5.0,
+        "metin": "@Harika! Resimdekiyle tıpatıp aynı, aşırı güzel."
+      },
+      {
+        "tarih": "2025-05-01",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z3661AZBG123",
+      "renk_kodu": "BG123",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Nakışlı Pamuklu Cap Şapka",
+      "kisa_aciklama": "Nakışlı Pamuklu Cap Şapka, doğal pamuklu yapısıyla gün boyu konfor sunar. Özenle işlenen nakış detaylarıyla tarzınıza şık bir dokunuş katar,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-nakisli-pamuklu-cap-sapka-3375033",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Z3661AZ_26SM_BG123_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3661AZ_26SM_BG123_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3661AZ_26SM_BG123_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3661AZ_26SM_BG123_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3661AZ_26SM_BG123_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3661AZ_26SM_BG123_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "desen": "Nakışlı",
+        "cinsiyet": "Kadın",
+        "kumas": "Pamuklu",
+        "sapka_tipi": "Cap Şapka",
+        "urun_olcusu": "56 cm"
+      },
+      "urun_hakkinda": [
+        "Nakışlı Pamuklu Cap Şapka, doğal pamuklu yapısıyla gün boyu konfor sunar. Özenle işlenen nakış detaylarıyla tarzınıza şık bir dokunuş katar,…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48774,
+          "Product Option Code": "Z3661AZ.BG123",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/Z3661AZ_26SM_BG123_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-nakisli-pamuklu-cap-sapka-3375033",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-nakisli-pamuklu-cap-sapka-3375033"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/Z3661AZ_26SM_BG123_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:56:33+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

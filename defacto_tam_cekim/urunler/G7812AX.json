@@ -1,0 +1,131 @@
+{
+  "model_kodu": "G7812AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7812AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21594,
+          "Product Option Code": "G7812AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Leggings",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7812AX_25WN_BK81_01_02.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/yuksek-bel-sporcu-tayt-3439558",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/sicak-tutan-yuksek-bel-sporcu-tayt-3439562"
+        },
+        {
+          "excel_satiri": 21595,
+          "Product Option Code": "G7812AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Leggings",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7812AX_25WN_BK81_01_02.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/yuksek-bel-sporcu-tayt-3439558",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/sicak-tutan-yuksek-bel-sporcu-tayt-3439562"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G7812AX_25WN_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G7812AXNV243",
+      "renk_kodu": "NV243",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21596,
+          "Product Option Code": "G7812AX.NV243",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Leggings",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XS",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7812AX_25WN_NV243_01_02.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/sicak-tutan-yuksek-bel-sporcu-tayt-3439562",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/sicak-tutan-yuksek-bel-sporcu-tayt-3439562"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G7812AX_25WN_NV243_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:09:52+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/yuksek-bel-sporcu-tayt-3439558",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/sicak-tutan-yuksek-bel-sporcu-tayt-3439562",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

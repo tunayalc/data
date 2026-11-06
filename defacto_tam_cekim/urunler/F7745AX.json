@@ -1,0 +1,123 @@
+{
+  "model_kodu": "F7745AX",
+  "urun_grubu": "Erkek Deri Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-15",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-01",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-02-22",
+        "puan": 5.0,
+        "metin": "@Tam istediğim gibi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F7745AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Su İtici Slim Fit Cepli Astarlı Fermuarlı Suni Deri Ceket",
+      "kisa_aciklama": "Fonksiyonel ve stil sahibi bir dış giyim arayanlar için tasarlanan su itici özellikli Slim Fit suni deri ceket, günlük kullanıma…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-slim-fit-cepli-astarli-fermuarli-suni-deri-ceket-3376725",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7745AX_26SP_BK27_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7745AX_26SP_BK27_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7745AX_26SP_BK27_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7745AX_26SP_BK27_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7745AX_26SP_BK27_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Polo Yaka",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Erkek",
+        "astar_bilgisi": "Astarlı",
+        "dis_giyim_urun_grubu": "Suni Deri Ceket",
+        "kapama_detayi": "Fermuarlı",
+        "kumas_kalinligi": "İnce",
+        "kumas": "Suni Deri",
+        "urun_tipi": "Mont"
+      },
+      "urun_hakkinda": [
+        "Fonksiyonel ve stil sahibi bir dış giyim arayanlar için tasarlanan su itici özellikli Slim Fit suni deri ceket, günlük kullanıma…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15818,
+          "Product Option Code": "F7745AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "PU Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7745AX_26SP_BK27_01_03.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-cepli-astarli-fermuarli-suni-deri-ceket-3376725",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-cepli-astarli-fermuarli-suni-deri-ceket-3376725"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F7745AX_26SP_BK27_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:50:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

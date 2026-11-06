@@ -1,0 +1,119 @@
+{
+  "model_kodu": "F4294AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-18",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet güzel ve kaliteli. Harika!."
+      },
+      {
+        "tarih": "2026-02-10",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir bambu kalitesi."
+      },
+      {
+        "tarih": "2026-05-02",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F4294AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Erkek Dikişsiz 3'lü Bambu Patik Çorap",
+      "kisa_aciklama": "Erkekler için özel tasarlanmış dikişsiz 3’lü bambu patik çorap seti, yumuşak ve nefes alabilen yapısıyla gün boyu konfor sağlar. Dikişsiz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-patik-corap-3315776",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4294AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4294AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4294AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4294AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4294AX_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4294AX_NS_KR1_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44",
+          "STD"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 77%,Naylon 21%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "paket_icerigi": "Paketli",
+        "cinsiyet": "Erkek",
+        "kumas": "Bambu",
+        "desen": "Baskılı",
+        "corap_tipi": "Patik Çorap",
+        "urun_tipi": "Kısa Çorap",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Erkekler için özel tasarlanmış dikişsiz 3’lü bambu patik çorap seti, yumuşak ve nefes alabilen yapısıyla gün boyu konfor sağlar. Dikişsiz…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14660,
+          "Product Option Code": "F4294AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F4294AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Bamboo",
+          "Toplam": 14,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-patik-corap-3315776",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-patik-corap-3315776"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F4294AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:52:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

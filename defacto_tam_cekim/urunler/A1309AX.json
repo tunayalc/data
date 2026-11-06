@@ -1,0 +1,123 @@
+{
+  "model_kodu": "A1309AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-09-22",
+        "puan": 5.0,
+        "metin": "@1.75 boy 67 kilo S beden tam oldu. Ürün kalitesi, modelin kalıbı çok güzel. İç kısmının Polarlı olması büyük avantaj.…"
+      },
+      {
+        "tarih": "2024-11-14",
+        "puan": 5.0,
+        "metin": "@Çok beğendim çok güzel tam beden yakıştı üstüme Paketleme içinde teşekkürler DeFacto 🫶🏻"
+      },
+      {
+        "tarih": "2024-11-09",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1309AXBG715",
+      "renk_kodu": "BG715",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Su İtici Slim Fit Kapüşonlu Fermuarlı Cepli Polar Astarlı Mont Parka",
+      "kisa_aciklama": "Su İtici,Polar Astar Sayesinde Sıcak Tutuyor, Cep İçi Polarlı, İç Cep Şık ve modern bir görünüm için ideal olan Su…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-kapusonlu-mont-2800276",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1309AX_23WN_BG715_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/72/92",
+        "ana_kumas_icerigi": "Elastan 10%,Poliester 90%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Kapüşonlu",
+        "astar_bilgisi": "Polar Astarlı",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt",
+        "dis_giyim_urun_grubu": "Parka"
+      },
+      "urun_hakkinda": [],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 129,
+          "Product Option Code": "A1309AX.BG715",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Coat/Parka",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/A1309AX_23WN_BG715_01_03.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kapusonlu-mont-2800276",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kapusonlu-mont-2800276"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/A1309AX_23WN_BG715_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:19:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

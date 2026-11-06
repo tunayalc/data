@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D3516AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D3516AXBE745",
+      "renk_kodu": "BE745",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7130,
+          "Product Option Code": "D3516AX.BE745",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "L",
+          "Fit": "BRALETTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3516AX_24HS_BE745_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/coool-desenli-askili-poplin-bluz-3148746",
+          "Model Page URL": "https://www.defacto.com/coool-desenli-askili-poplin-bluz-3148746"
+        },
+        {
+          "excel_satiri": 7131,
+          "Product Option Code": "D3516AX.BE745",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "M",
+          "Fit": "BRALETTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3516AX_24HS_BE745_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/coool-desenli-askili-poplin-bluz-3148746",
+          "Model Page URL": "https://www.defacto.com/coool-desenli-askili-poplin-bluz-3148746"
+        },
+        {
+          "excel_satiri": 7132,
+          "Product Option Code": "D3516AX.BE745",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "S",
+          "Fit": "BRALETTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3516AX_24HS_BE745_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/coool-desenli-askili-poplin-bluz-3148746",
+          "Model Page URL": "https://www.defacto.com/coool-desenli-askili-poplin-bluz-3148746"
+        },
+        {
+          "excel_satiri": 7133,
+          "Product Option Code": "D3516AX.BE745",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "XS",
+          "Fit": "BRALETTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3516AX_24HS_BE745_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/coool-desenli-askili-poplin-bluz-3148746",
+          "Model Page URL": "https://www.defacto.com/coool-desenli-askili-poplin-bluz-3148746"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D3516AX_24HS_BE745_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:32:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-desenli-askili-poplin-bluz-3148746",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

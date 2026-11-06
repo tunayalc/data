@@ -1,0 +1,318 @@
+{
+  "model_kodu": "G4432AX",
+  "urun_grubu": "Erkek Kemer",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-09",
+        "puan": 5.0,
+        "metin": "@kaliteli kemer fiyatına göre çok iyi"
+      },
+      {
+        "tarih": "2025-12-13",
+        "puan": 5.0,
+        "metin": "@biraz dar"
+      },
+      {
+        "tarih": "2026-10-02",
+        "puan": 5.0,
+        "metin": "@güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4432AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Dikdörtgen Toka Suni Deri Klasik Kemer",
+      "kisa_aciklama": "Şıklığı ve sadeliği bir arada sunan bu klasik kemer, suni deri yapısıyla hem dayanıklı hem de çevre dostudur. Dikdörtgen tokasıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357875",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4432AX_NS_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4432AX_NS_BK27_02_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "90",
+          "100",
+          "110"
+        ],
+        "excel": [
+          "100",
+          "110",
+          "90"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_olcusu": "3,5 cm",
+        "urun_tipi": "Kemer",
+        "kumas": "Suni Deri",
+        "urun_aksesuari": "Kemer",
+        "toka_sekli": "Dikdörtgen Toka",
+        "kemer_kategori": "Klasik Kemer",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Şıklığı ve sadeliği bir arada sunan bu klasik kemer, suni deri yapısıyla hem dayanıklı hem de çevre dostudur. Dikdörtgen tokasıyla…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19191,
+          "Product Option Code": "G4432AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "100",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4432AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357875",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357873"
+        },
+        {
+          "excel_satiri": 19192,
+          "Product Option Code": "G4432AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "110",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4432AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357875",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357873"
+        },
+        {
+          "excel_satiri": 19193,
+          "Product Option Code": "G4432AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4432AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357875",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357873"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G4432AX_NS_BK27_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G4432AXBN66",
+      "renk_kodu": "BN66",
+      "renk_adi": "Koyu Kahve",
+      "renk_hex": "#5C4033",
+      "urun_adi": "Erkek Dikdörtgen Toka Suni Deri Klasik Kemer",
+      "kisa_aciklama": "Şıklığı ve sadeliği bir arada sunan bu klasik kemer, suni deri yapısıyla hem dayanıklı hem de çevre dostudur. Dikdörtgen tokasıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357873",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4432AX_NS_BN66_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4432AX_NS_BN66_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4432AX_NS_BN66_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "90",
+          "100",
+          "110"
+        ],
+        "excel": [
+          "110"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_olcusu": "3,5 cm",
+        "toka_sekli": "Dikdörtgen Toka",
+        "cinsiyet": "Erkek",
+        "kemer_kategori": "Klasik Kemer",
+        "kumas": "Suni Deri",
+        "urun_aksesuari": "Kemer",
+        "urun_tipi": "Kemer"
+      },
+      "urun_hakkinda": [
+        "Şıklığı ve sadeliği bir arada sunan bu klasik kemer, suni deri yapısıyla hem dayanıklı hem de çevre dostudur. Dikdörtgen tokasıyla…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19194,
+          "Product Option Code": "G4432AX.BN66",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "D.BROWN",
+          "SizeDefinition": "110",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4432AX_NS_BN66_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#5C4033",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357873",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357873"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G4432AX_NS_BN66_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G4432AXNV2",
+      "renk_kodu": "NV2",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "110"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19195,
+          "Product Option Code": "G4432AX.NV2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "110",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G4432AX_NS_NV2_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3357873"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G4432AX_NS_NV2_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:01:31+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

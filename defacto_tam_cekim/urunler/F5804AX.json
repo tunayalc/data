@@ -1,0 +1,184 @@
+{
+  "model_kodu": "F5804AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-15",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika, bedeni de tam oldu, çok beğendim."
+      },
+      {
+        "tarih": "2026-02-16",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika, bedeni de tam oldu, çok beğendim."
+      },
+      {
+        "tarih": "2025-12-10",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F5804AXBN295",
+      "renk_kodu": "BN295",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Düz Paça Chino Pantolon",
+      "kisa_aciklama": "Klasik ve zamansız tarzı bir araya getiren düz paça chino pantolon, rahat kalıbı ve pamuklu dokusuyla hem ofis hem de…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/duz-paca-chino-pantolon-3325387",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F5804AX_25AU_BN295_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5804AX_25AU_BN295_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5804AX_25AU_BN295_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5804AX_25AU_BN295_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5804AX_25AU_BN295_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "36",
+          "38",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Klasik ve zamansız tarzı bir araya getiren düz paça chino pantolon, rahat kalıbı ve pamuklu dokusuyla hem ofis hem de…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15129,
+          "Product Option Code": "F5804AX.BN295",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "36",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F5804AX_25AU_BN295_01_03.jpg",
+          "FabricDetail": "CO-EA",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/duz-paca-chino-pantolon-3325387",
+          "Model Page URL": "https://www.defacto.com.tr/duz-paca-chino-pantolon-3325387"
+        },
+        {
+          "excel_satiri": 15130,
+          "Product Option Code": "F5804AX.BN295",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "38",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F5804AX_25AU_BN295_01_03.jpg",
+          "FabricDetail": "CO-EA",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/duz-paca-chino-pantolon-3325387",
+          "Model Page URL": "https://www.defacto.com.tr/duz-paca-chino-pantolon-3325387"
+        },
+        {
+          "excel_satiri": 15131,
+          "Product Option Code": "F5804AX.BN295",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "40",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F5804AX_25AU_BN295_01_03.jpg",
+          "FabricDetail": "CO-EA",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/duz-paca-chino-pantolon-3325387",
+          "Model Page URL": "https://www.defacto.com.tr/duz-paca-chino-pantolon-3325387"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F5804AX_25AU_BN295_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:53:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

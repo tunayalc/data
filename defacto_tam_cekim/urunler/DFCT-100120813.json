@@ -1,0 +1,55 @@
+{
+  "model_kodu": "DFCT-100120813",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "DFCT-100120813WT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "WHITE (000)",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9930,
+          "Product Option Code": "DFCT-100120813.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Non-Commercial",
+          "Sub Division Name": "Non-Commercial",
+          "Buyer Group Name": "Non-Commercial",
+          "LifeStyle": "Non-Commercial",
+          "Class Name": "Cloth Bag",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "",
+          "FabricDetail": "-",
+          "Toplam": -18,
+          "Initial Price Value": 5,
+          "Actual Price Value": 5,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

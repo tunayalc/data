@@ -1,0 +1,184 @@
+{
+  "model_kodu": "D9913AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-13",
+        "puan": 1.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-08-02",
+        "puan": 5.0,
+        "metin": "@175 boyundaki eşime fazla uzun ve alt kısmı bol oldu baba şortu gibi hoşuma gitmedi rengi hoş sadece"
+      },
+      {
+        "tarih": "2026-08-26",
+        "puan": 5.0,
+        "metin": "@cok rahat tam beden ,"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9913AXNV256",
+      "renk_kodu": "NV256",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Relax Fit Beli Bağcıklı Keten Karışımlı Bermuda Şort",
+      "kisa_aciklama": "Relax fit kesimi ve beli bağcıklı tasarımıyla bu bermuda şort, konforu ön planda tutar. Günlük kullanımda şıklığı ve rahatlığı bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-beli-bagcikli-keten-karisimli-bermuda-sort-3266780",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9913AX_25AU_NV256_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9913AX_25AU_NV256_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9913AX_25AU_NV256_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9913AX_25AU_NV256_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9913AX_25AU_NV256_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,87cm - 100/78/98",
+        "ana_kumas_icerigi": "Viskoz 72%,Keten 28%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Relax fit kesimi ve beli bağcıklı tasarımıyla bu bermuda şort, konforu ön planda tutar. Günlük kullanımda şıklığı ve rahatlığı bir…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "D9913AXGN497",
+      "renk_kodu": "GN497",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28",
+          "30",
+          "34"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9847,
+          "Product Option Code": "D9913AX.GN497",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "28",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/D9913AX_25AU_GN497_01_03.jpg",
+          "FabricDetail": "Viscon Blended",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/relax-fit-beli-bagcikli-keten-karisimli-bermuda-sort-3305764",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-bagcikli-keten-karisimli-bermuda-sort-3266780"
+        },
+        {
+          "excel_satiri": 9848,
+          "Product Option Code": "D9913AX.GN497",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/D9913AX_25AU_GN497_01_03.jpg",
+          "FabricDetail": "Viscon Blended",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/relax-fit-beli-bagcikli-keten-karisimli-bermuda-sort-3305764",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-bagcikli-keten-karisimli-bermuda-sort-3266780"
+        },
+        {
+          "excel_satiri": 9849,
+          "Product Option Code": "D9913AX.GN497",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/D9913AX_25AU_GN497_01_03.jpg",
+          "FabricDetail": "Viscon Blended",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/relax-fit-beli-bagcikli-keten-karisimli-bermuda-sort-3305764",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-beli-bagcikli-keten-karisimli-bermuda-sort-3266780"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/D9913AX_25AU_GN497_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:32:05+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/relax-fit-beli-bagcikli-keten-karisimli-bermuda-sort-3305764",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

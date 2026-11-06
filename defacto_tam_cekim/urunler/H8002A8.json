@@ -1,0 +1,121 @@
+{
+  "model_kodu": "H8002A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8002A8TY20",
+      "renk_kodu": "TY20",
+      "renk_adi": "TEENY SHUFFLER - PINK TURTLE REG",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Askılı Pembe Elbise Kız Çocuk",
+      "kisa_aciklama": "Askılı askılı kız çocuk elbise. Pembe batik desenli, bisiklet yaka, askılı, kat kat fırfır detaylı mini kız çocuk elbisesi.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/askili-pembe-elbise-kiz-cocuk-3478722",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8002A8_26HS_TY20_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8002A8_26HS_TY20_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8002A8_26HS_TY20_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8002A8_26HS_TY20_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8002A8_26HS_TY20_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "7/8 Y",
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "9/10 Yaş (140cm) Beden",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "kol_boyu": "Askılı",
+        "ozel_urun": "Mezuniyet",
+        "urun_tipi": "Elbise"
+      },
+      "urun_hakkinda": [
+        "Askılı askılı kız çocuk elbise. Pembe batik desenli, bisiklet yaka, askılı, kat kat fırfır detaylı mini kız çocuk elbisesi."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1599.99,
+        "sepette_fiyat": 639.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34064,
+          "Product Option Code": "H8002A8.TY20",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "TEENY SHUFFLER - PINK TURTLE REG",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H8002A8_26HS_TY20_01_01.jpg",
+          "FabricDetail": "YORYO CHIFFON",
+          "Toplam": 2,
+          "Initial Price Value": 1599.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/askili-pembe-elbise-kiz-cocuk-3478722",
+          "Model Page URL": "https://www.defacto.com.tr/askili-pembe-elbise-kiz-cocuk-3478722"
+        },
+        {
+          "excel_satiri": 34065,
+          "Product Option Code": "H8002A8.TY20",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "TEENY SHUFFLER - PINK TURTLE REG",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H8002A8_26HS_TY20_01_01.jpg",
+          "FabricDetail": "YORYO CHIFFON",
+          "Toplam": 1,
+          "Initial Price Value": 1599.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/askili-pembe-elbise-kiz-cocuk-3478722",
+          "Model Page URL": "https://www.defacto.com.tr/askili-pembe-elbise-kiz-cocuk-3478722"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H8002A8_26HS_TY20_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:41:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

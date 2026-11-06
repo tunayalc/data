@@ -1,0 +1,139 @@
+{
+  "model_kodu": "H9698AX",
+  "urun_grubu": "Kadın Pijama Takım",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-06",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-08-23",
+        "puan": 3.0,
+        "metin": "@pijama alt, biraz uzun. boyum, 163. kilom da 72. xl aldım. ama L da olabilir."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H9698AXBE745",
+      "renk_kodu": "BE745",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "%100 Pamuk Regular Fıt Askılı 2'li Takım",
+      "kisa_aciklama": "Regular Fıt Askılı 2'li Pijama Takımı",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-askili-2li-takim-3478603",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H9698AX_26SM_BE745_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9698AX_26SM_BE745_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9698AX_26SM_BE745_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9698AX_26SM_BE745_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9698AX_26SM_BE745_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9698AX_26SM_BE745_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,77cm - 85/62/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın",
+        "yaka": "V Yaka",
+        "dantel_detay": "Dantel Detaylı",
+        "takim_icerigi": "2'li",
+        "kol_boyu": "Kolsuz",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Askılı 2'li Pijama Takımı"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 36761,
+          "Product Option Code": "H9698AX.BE745",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H9698AX_26SM_BE745_01_02.jpg",
+          "FabricDetail": "POINTELLE",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-askili-2li-takim-3478603",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-askili-2li-takim-3478603"
+        },
+        {
+          "excel_satiri": 36762,
+          "Product Option Code": "H9698AX.BE745",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H9698AX_26SM_BE745_01_02.jpg",
+          "FabricDetail": "POINTELLE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-askili-2li-takim-3478603",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-askili-2li-takim-3478603"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H9698AX_26SM_BE745_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:48:15+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

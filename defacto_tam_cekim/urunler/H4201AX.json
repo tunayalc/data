@@ -1,0 +1,157 @@
+{
+  "model_kodu": "H4201AX",
+  "urun_grubu": "Kadın Tunik",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-11",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-08-09",
+        "puan": 5.0,
+        "metin": "@kumaşı pamuk yakası çok hoş cool bi havası var"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4201AXBE512",
+      "renk_kodu": "BE512",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Loose Fıt Uzun Kollu Tişört",
+      "kisa_aciklama": "Mavi uzun kollu tunik. Rahat ve şık bir loose fıt kalıbıyla gardırobunuzun vazgeçilmez parçalarından biri olacak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/loose-fit-uzun-kollu-tunik-3444429",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4201AX_26SP_BE512_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4201AX_26SP_BE512_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4201AX_26SP_BE512_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4201AX_26SP_BE512_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4201AX_26SP_BE512_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Loose Fıt"
+      },
+      "urun_hakkinda": [
+        "Mavi uzun kollu tunik. Rahat ve şık bir loose fıt kalıbıyla gardırobunuzun vazgeçilmez parçalarından biri olacak."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28595,
+          "Product Option Code": "H4201AX.BE512",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "3XL",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H4201AX_26SP_BE512_01_02.jpg",
+          "FabricDetail": "30/2 JERSEY",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/en-iq/loose-fit-uzun-kollu-tunik-3444429",
+          "Model Page URL": "https://www.defacto.com/en-iq/loose-fit-uzun-kollu-tunik-3444429"
+        },
+        {
+          "excel_satiri": 28596,
+          "Product Option Code": "H4201AX.BE512",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "XXL",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H4201AX_26SP_BE512_01_02.jpg",
+          "FabricDetail": "30/2 JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/en-iq/loose-fit-uzun-kollu-tunik-3444429",
+          "Model Page URL": "https://www.defacto.com/en-iq/loose-fit-uzun-kollu-tunik-3444429"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H4201AX_26SP_BE512_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:25:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

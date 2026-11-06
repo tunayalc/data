@@ -1,0 +1,114 @@
+{
+  "model_kodu": "F5479AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-27",
+        "puan": 5.0,
+        "metin": "@Bayıldım çoraplar. Harikalar!."
+      },
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Harika! Kalitesi de çok iyi."
+      },
+      {
+        "tarih": "2025-12-18",
+        "puan": 5.0,
+        "metin": "@Çok şirin çoraplar, renkli çorapları da çok severim. Harikalar!."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F5479AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Rahat Lastikli 3'lü Pamuklu Soket Çorap",
+      "kisa_aciklama": "Yumuşak pamuklu dokusuyla kadınlar için tasarlanan 3’lü soket çorap seti, gün boyu konfor ve nefes alabilirlik sağlar. Farklı renk seçenekleriyle…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-rahat-lastikli-3lu-pamuklu-soket-corap-3346219",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F5479AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5479AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5479AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5479AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5479AX_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 73%,Poliamid 23%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Soket Çorap",
+        "cinsiyet": "Kadın",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Yumuşak pamuklu dokusuyla kadınlar için tasarlanan 3’lü soket çorap seti, gün boyu konfor ve nefes alabilirlik sağlar. Farklı renk seçenekleriyle…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15037,
+          "Product Option Code": "F5479AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "36-40",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F5479AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-rahat-lastikli-3lu-pamuklu-soket-corap-3346219",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-rahat-lastikli-3lu-pamuklu-soket-corap-3346219"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F5479AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:47:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

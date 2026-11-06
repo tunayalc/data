@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H8844AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8844AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 35696,
+          "Product Option Code": "H8844AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8844AX_26AU_ER105_01_03.jpg",
+          "FabricDetail": "CRINKLE",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-kareli-krinkil-kumas-uzun-kollu-gomlek-tunik-3568688",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-kareli-krinkil-kumas-uzun-kollu-gomlek-tunik-3568688"
+        },
+        {
+          "excel_satiri": 35697,
+          "Product Option Code": "H8844AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8844AX_26AU_ER105_01_03.jpg",
+          "FabricDetail": "CRINKLE",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-kareli-krinkil-kumas-uzun-kollu-gomlek-tunik-3568688",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-kareli-krinkil-kumas-uzun-kollu-gomlek-tunik-3568688"
+        },
+        {
+          "excel_satiri": 35698,
+          "Product Option Code": "H8844AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8844AX_26AU_ER105_01_03.jpg",
+          "FabricDetail": "CRINKLE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-kareli-krinkil-kumas-uzun-kollu-gomlek-tunik-3568688",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-kareli-krinkil-kumas-uzun-kollu-gomlek-tunik-3568688"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H8844AX_26AU_ER105_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:37:27+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-kareli-krinkil-kumas-uzun-kollu-gomlek-tunik-3568688",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

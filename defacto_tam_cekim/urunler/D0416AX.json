@@ -1,0 +1,232 @@
+{
+  "model_kodu": "D0416AX",
+  "urun_grubu": "Erkek Jean Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 21,
+    "yorum_sayisi": 21,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 25.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-25",
+        "puan": 5.0,
+        "metin": "@Ürün kaliteli, kendi bedeninizi alabilirsiniz."
+      },
+      {
+        "tarih": "2025-03-18",
+        "puan": 5.0,
+        "metin": "@Ürün çok güzel, oldukça geniş. Bir beden küçük alınmalı, oğluma aldım, boyu 189, kilosu 93, L beden oldukça geniş geldi."
+      },
+      {
+        "tarih": "2025-04-22",
+        "puan": 2.0,
+        "metin": "@Dikişleri özensiz, Defacto’ya hiç yakıştıramadım."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D0416AXNM55",
+      "renk_kodu": "NM55",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Oversize Kapüşonlu Cepli Jean Ceket",
+      "kisa_aciklama": "Oversize kesimiyle modern bir tarz sunan bu jean ceket, kapüşon detayıyla günlük kombinlerinize dinamizm katar. Cepli tasarımı sayesinde fonksiyonelliği stil…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D0416AX_25SP_NM55_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0416AX_25SP_NM55_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0416AX_25SP_NM55_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0416AX_25SP_NM55_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0416AX_25SP_NM55_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0416AX_25SP_NM55_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 90/71/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "yikama_detayi": "Yıkamalı",
+        "yaka": "Kapüşonlu",
+        "kalip": "Oversıze",
+        "kapama_detayi": "Düğmeli",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Oversize kesimiyle modern bir tarz sunan bu jean ceket, kapüşon detayıyla günlük kombinlerinize dinamizm katar. Cepli tasarımı sayesinde fonksiyonelliği stil…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6007,
+          "Product Option Code": "D0416AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Jacket",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "L",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D0416AX_25SP_NM55_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 6,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831"
+        },
+        {
+          "excel_satiri": 6008,
+          "Product Option Code": "D0416AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Jacket",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D0416AX_25SP_NM55_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 7,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831"
+        },
+        {
+          "excel_satiri": 6009,
+          "Product Option Code": "D0416AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Jacket",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D0416AX_25SP_NM55_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 12,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831"
+        },
+        {
+          "excel_satiri": 6010,
+          "Product Option Code": "D0416AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Jacket",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D0416AX_25SP_NM55_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831"
+        },
+        {
+          "excel_satiri": 6011,
+          "Product Option Code": "D0416AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Jacket",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XS",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D0416AX_25SP_NM55_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831"
+        },
+        {
+          "excel_satiri": 6012,
+          "Product Option Code": "D0416AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Jacket",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XXL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D0416AX_25SP_NM55_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-kapusonlu-cepli-jean-ceket-3209831"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D0416AX_25SP_NM55_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:29:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

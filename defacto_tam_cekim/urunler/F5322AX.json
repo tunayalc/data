@@ -1,0 +1,114 @@
+{
+  "model_kodu": "F5322AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-22",
+        "puan": 5.0,
+        "metin": "@Harika! Hep alırım, üstelik çok dayanıklı ve kaliteli."
+      },
+      {
+        "tarih": "2026-01-02",
+        "puan": 5.0,
+        "metin": "@Harika! Çok beğendim, teşekkür ederim. Teşekkürler."
+      },
+      {
+        "tarih": "2025-10-16",
+        "puan": 5.0,
+        "metin": "@Harika"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F5322AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Dikişsiz 3'lü Bambu Sneaker Çorap",
+      "kisa_aciklama": "Dikişsiz yapısı ve yumuşak bambu dokusuyla Erkek 3'lü Bambu Sneaker Çorap, ayaklarda üstün rahatlık ve nefes alabilirlik sunar. Spor ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-sneaker-corap-3322349",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F5322AX_NS_BK23_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5322AX_NS_BK23_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5322AX_NS_BK23_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5322AX_NS_BK23_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 19%,Elastan 2%,Viskoz 79%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Kısa Çorap",
+        "kumas": "Bambu",
+        "corap_tipi": "Sneaker Çorap",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Dikişsiz yapısı ve yumuşak bambu dokusuyla Erkek 3'lü Bambu Sneaker Çorap, ayaklarda üstün rahatlık ve nefes alabilirlik sunar. Spor ve…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır. Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15028,
+          "Product Option Code": "F5322AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "41-44",
+          "Fit": "STEP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F5322AX_NS_BK23_01_03.jpg",
+          "FabricDetail": "Bamboo",
+          "Toplam": 10,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-sneaker-corap-3322349",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-sneaker-corap-3322349"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F5322AX_NS_BK23_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:47:26+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H2701A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2701A5NM34",
+      "renk_kodu": "NM34",
+      "renk_adi": "D.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "18-24 M",
+          "3/4 Y",
+          "4/5 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 26394,
+          "Product Option Code": "H2701A5.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Dress",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "18-24 M",
+          "Fit": "A-LINE DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H2701A5_26SM_NM34_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-denim-elbise-kiz-bebek-3510658",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-denim-elbise-kiz-bebek-3510658"
+        },
+        {
+          "excel_satiri": 26395,
+          "Product Option Code": "H2701A5.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Dress",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "A-LINE DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H2701A5_26SM_NM34_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-denim-elbise-kiz-bebek-3510658",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-denim-elbise-kiz-bebek-3510658"
+        },
+        {
+          "excel_satiri": 26396,
+          "Product Option Code": "H2701A5.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Dress",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "A-LINE DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H2701A5_26SM_NM34_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-denim-elbise-kiz-bebek-3510658",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-denim-elbise-kiz-bebek-3510658"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H2701A5_26SM_NM34_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:20:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-denim-elbise-kiz-bebek-3510658",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

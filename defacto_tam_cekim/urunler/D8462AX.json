@@ -1,0 +1,161 @@
+{
+  "model_kodu": "D8462AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 25,
+    "yorum_sayisi": 25,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-23",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-01-03",
+        "puan": 5.0,
+        "metin": "@Harika! Aşırı güzel."
+      },
+      {
+        "tarih": "2026-01-03",
+        "puan": 4.0,
+        "metin": "@Aşırı güzel buldum. Çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D8462AXGN1107",
+      "renk_kodu": "GN1107",
+      "renk_adi": "Açık Yeşil",
+      "renk_hex": "#B4EC9A",
+      "urun_adi": "Loose Fit Bisiklet Yaka Baskılı Ağır Kumaş Tişört",
+      "kisa_aciklama": "İlkbahar için tasarlanmış baskılı tişört. Erkekler için örme bir ürün olan bu tişört, rahat bir şekilde giyilebilecek Loose Fit kalıbıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/loose-fit-bisiklet-yaka-tisort-3211716",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D8462AX_25SP_GN1107_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8462AX_25SP_GN1107_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8462AX_25SP_GN1107_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8462AX_25SP_GN1107_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8462AX_25SP_GN1107_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D8462AX_25SP_GN1107_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 90/74/91",
+        "ana_kumas_icerigi": "Pamuk 79%,Poliester 21%",
+        "marka": "Defacto",
+        "mensei": "MA",
+        "kol_boyu": "Kısa Kollu",
+        "desen": "Baskılı",
+        "cinsiyet": "Erkek",
+        "kalip": "Loose Fıt"
+      },
+      "urun_hakkinda": [
+        "İlkbahar için tasarlanmış baskılı tişört. Erkekler için örme bir ürün olan bu tişört, rahat bir şekilde giyilebilecek Loose Fit kalıbıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9264,
+          "Product Option Code": "D8462AX.GN1107",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D8462AX_25SP_GN1107_01_01.jpg",
+          "FabricDetail": "INTERLOCK DOUBLE FACE",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-bisiklet-yaka-tisort-3211716",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-bisiklet-yaka-tisort-3211716"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D8462AX_25SP_GN1107_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D8462AXBR165",
+      "renk_kodu": "BR165",
+      "renk_adi": "D.ROSE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9263,
+          "Product Option Code": "D8462AX.BR165",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.ROSE",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D8462AX_25SP_BR165_01_01.jpg",
+          "FabricDetail": "INTERLOCK DOUBLE FACE",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#792D4C",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-bisiklet-yaka-tisort-3211716"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D8462AX_25SP_BR165_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:39:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

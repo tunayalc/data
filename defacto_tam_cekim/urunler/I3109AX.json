@@ -1,0 +1,64 @@
+{
+  "model_kodu": "I3109AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3109AXGR256",
+      "renk_kodu": "GR256",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41030,
+          "Product Option Code": "I3109AX.GR256",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3109AX_26AU_GR256_01_02.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/oversize-bisiklet-yaka-uzun-kollu-tisort-3578374",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/oversize-bisiklet-yaka-uzun-kollu-tisort-3578374"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I3109AX_26AU_GR256_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:46:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/oversize-bisiklet-yaka-uzun-kollu-tisort-3578374",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

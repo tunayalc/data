@@ -1,0 +1,143 @@
+{
+  "model_kodu": "D7497AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-03-04",
+        "puan": 5.0,
+        "metin": "@Güzel bir ürün ama garip bir koku vardı, yıkayınca geçti."
+      },
+      {
+        "tarih": "2025-11-29",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir mont ya da ceket diyebilirim. Rengi de çok hoş."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7497AXGR221",
+      "renk_kodu": "GR221",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Su İtici Sim Fit Dik Yaka Astarlı Fermuarlı Cepli Şişme Mont",
+      "kisa_aciklama": "Su itici özelliğe sahip bu şişme mont, slim fit kalıbı ve dik yaka tasarımıyla oldukça şık bir duruş sergiler. Astarlı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-sim-fit-dik-yaka-astarli-fermuarli-cepli-sisme-mont-3208403",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7497AX_25SP_GR221_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7497AX_25SP_GR221_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7497AX_25SP_GR221_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7497AX_25SP_GR221_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7497AX_25SP_GR221_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Mont",
+        "yaka": "Dik Yaka",
+        "kapama_detayi": "Fermuarlı"
+      },
+      "urun_hakkinda": [
+        "Su itici özelliğe sahip bu şişme mont, slim fit kalıbı ve dik yaka tasarımıyla oldukça şık bir duruş sergiler. Astarlı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2499.99,
+        "sepette_fiyat": 1499.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8741,
+          "Product Option Code": "D7497AX.GR221",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7497AX_25SP_GR221_01_03.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-sim-fit-dik-yaka-astarli-fermuarli-cepli-sisme-mont-3208403",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-sim-fit-dik-yaka-astarli-fermuarli-cepli-sisme-mont-3208403"
+        },
+        {
+          "excel_satiri": 8742,
+          "Product Option Code": "D7497AX.GR221",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7497AX_25SP_GR221_01_03.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-sim-fit-dik-yaka-astarli-fermuarli-cepli-sisme-mont-3208403",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-sim-fit-dik-yaka-astarli-fermuarli-cepli-sisme-mont-3208403"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D7497AX_25SP_GR221_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:37:49+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

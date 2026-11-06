@@ -1,0 +1,114 @@
+{
+  "model_kodu": "G3994A5",
+  "urun_grubu": "Kız Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 18,
+    "yorum_sayisi": 18,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-25",
+        "puan": 5.0,
+        "metin": "@Harika! Çok beğendim, kesinlikle alın. Tavsiye ederim. Kesinlikle alın."
+      },
+      {
+        "tarih": "2026-01-09",
+        "puan": 5.0,
+        "metin": "@Aşırı tatlı, çok hoşuma gitti."
+      },
+      {
+        "tarih": "2025-12-22",
+        "puan": 5.0,
+        "metin": "@Şahaneler, aşırı tatlılar, bayıldım. Çok teşekkürler."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3994A5RD2",
+      "renk_kodu": "RD2",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Yılbaşı Temalı Dikişsiz 2'li Pamuklu Uzun Çorap Kız Bebek",
+      "kisa_aciklama": "Minik ayakları sıcacık tutan bu yılbaşı temalı 2’li pamuklu çorap seti, yumuşacık dokusu ve dikişsiz yapısıyla bebeğinizin hassas cildine nazikçe…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yilbasi-temali-dikissiz-2li-pamuklu-uzun-corap-kiz-bebek-3358611",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3994A5_NS_RD2_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3994A5_NS_RD2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3994A5_NS_RD2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3994A5_NS_RD2_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliamid 21%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Uzun Çorap",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Kız Bebek"
+      },
+      "urun_hakkinda": [
+        "Minik ayakları sıcacık tutan bu yılbaşı temalı 2’li pamuklu çorap seti, yumuşacık dokusu ve dikişsiz yapısıyla bebeğinizin hassas cildine nazikçe…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 99.99,
+        "sepette_fiyat": 49.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18971,
+          "Product Option Code": "G3994A5.RD2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "RED",
+          "SizeDefinition": "6-12 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G3994A5_NS_RD2_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 39.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-iq/yilbasi-temali-dikissiz-2li-pamuklu-uzun-corap-kiz-bebek-3358611",
+          "Model Page URL": "https://www.defacto.com/en-iq/yilbasi-temali-dikissiz-2li-pamuklu-uzun-corap-kiz-bebek-3358611"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G3994A5_NS_RD2_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:02:33+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

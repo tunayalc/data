@@ -1,0 +1,93 @@
+{
+  "model_kodu": "I3172AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3172AXGN2",
+      "renk_kodu": "GN2",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "Erkek Dikişsiz 3'lü Bambu Uzun Çorap",
+      "kisa_aciklama": "Bambu elyaftan üretilmiş çorap. 3'Lü set. Dikişsiz üretim.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-uzun-corap-3499382",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3172AX_NS_GN2_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3172AX_NS_GN2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3172AX_NS_GN2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3172AX_NS_GN2_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 24%,Elastan 4%,Viskoz 72%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "corap_tipi": "Uzun Çorap",
+        "takim_icerigi": "3'lü",
+        "kumas": "Bambu"
+      },
+      "urun_hakkinda": [
+        "Bambu elyaftan üretilmiş çorap. 3'Lü set. Dikişsiz üretim.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41159,
+          "Product Option Code": "I3172AX.GN2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "41-44",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3172AX_NS_GN2_01_02.jpg",
+          "FabricDetail": "Bamboo",
+          "Toplam": 11,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-uzun-corap-3499382",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikissiz-3lu-bambu-uzun-corap-3499382"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3172AX_NS_GN2_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:47:00+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

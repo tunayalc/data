@@ -1,0 +1,348 @@
+{
+  "model_kodu": "Z9933AZ",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 431,
+    "yorum_sayisi": 431,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 36.8,
+      "tam_oldu": 59.6,
+      "buyuk_geldi": 3.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-07-10",
+        "puan": 5.0,
+        "metin": "@dar paça yazmışsınız ama pantolonun paçası bayağı bayağı bol ve ayrıca saçma sapan bir kumaşı var boş yere 800 lira…"
+      },
+      {
+        "tarih": "2023-07-06",
+        "puan": 2.0,
+        "metin": "@2adet 36beden ürün istedim ama biri 34beden geldi.Değişim için getir götür .Gereksiz yere uzadı"
+      },
+      {
+        "tarih": "2023-07-26",
+        "puan": 5.0,
+        "metin": "@yazlık rahat çok beğendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z9933AZKH430",
+      "renk_kodu": "KH430",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "Jogger Fit Gabardın Dar Paça Pantolon",
+      "kisa_aciklama": "Jogger Fıt Gabardın Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3210054",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_KH430_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_KH430_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_KH430_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_KH430_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_KH430_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_KH430_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "32",
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,88cm - 100/84/96",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kumas": "Gabardin",
+        "cinsiyet": "Erkek",
+        "paca_detayi": "Dar Paça",
+        "kalip": "Jogger Fıt"
+      },
+      "urun_hakkinda": [
+        "Jogger Fıt Gabardın Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 49145,
+          "Product Option Code": "Z9933AZ.KH430",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "28",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH430_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3210054",
+          "Model Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3207518"
+        },
+        {
+          "excel_satiri": 49146,
+          "Product Option Code": "Z9933AZ.KH430",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "32",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH430_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3210054",
+          "Model Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3207518"
+        },
+        {
+          "excel_satiri": 49147,
+          "Product Option Code": "Z9933AZ.KH430",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "34",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH430_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3210054",
+          "Model Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3207518"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH430_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "Z9933AZGR94",
+      "renk_kodu": "GR94",
+      "renk_adi": "Açık Gri",
+      "renk_hex": "#A2A2A2",
+      "urun_adi": "Jogger Fit Gabardın Dar Paça Pantolon",
+      "kisa_aciklama": "Jogger Fıt Gabardın Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3207518",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_GR94_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_GR94_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_GR94_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_GR94_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_GR94_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_GR94_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z9933AZ_25SP_GR94_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,88cm - 100/84/96",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "paca_detayi": "Dar Paça",
+        "kalip": "Jogger Fıt",
+        "kumas": "Gabardin",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Jogger Fıt Gabardın Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Dar paça kesimi sayesinde her tarzla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "Z9933AZKH488",
+      "renk_kodu": "KH488",
+      "renk_adi": "LT.KHAKI",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 49148,
+          "Product Option Code": "Z9933AZ.KH488",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "28",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH488_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 9,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3207518"
+        },
+        {
+          "excel_satiri": 49149,
+          "Product Option Code": "Z9933AZ.KH488",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "30",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH488_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 5,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3207518"
+        },
+        {
+          "excel_satiri": 49150,
+          "Product Option Code": "Z9933AZ.KH488",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "32",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH488_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 6,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3207518"
+        },
+        {
+          "excel_satiri": 49151,
+          "Product Option Code": "Z9933AZ.KH488",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "36",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH488_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3207518"
+        },
+        {
+          "excel_satiri": 49152,
+          "Product Option Code": "Z9933AZ.KH488",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "38",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH488_01_03.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/jogger-fit-gabardin-dar-paca-pantolon-3207518"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/Z9933AZ_25SP_KH488_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:19:29+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

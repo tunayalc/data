@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I4268AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4268AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Taş ve İnci Detaylı 4'lü Halka Küpe Seti",
+      "kisa_aciklama": "Metalik görünümlü, taş ve suni inci aplikeli 4 çift halka küpe seti. Arkası şeffaf klipsli çivi kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-tas-ve-inci-detayli-4lu-halka-kupe-seti-3509299",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4268AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4268AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4268AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 20%,Çinko 80%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Küpe",
+        "takim_icerigi": "4'lü"
+      },
+      "urun_hakkinda": [
+        "Metalik görünümlü, taş ve suni inci aplikeli 4 çift halka küpe seti. Arkası şeffaf klipsli çivi kapamalı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42549,
+          "Product Option Code": "I4268AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4268AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-tas-ve-inci-detayli-4lu-halka-kupe-seti-3509299",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-tas-ve-inci-detayli-4lu-halka-kupe-seti-3509299"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4268AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:49:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

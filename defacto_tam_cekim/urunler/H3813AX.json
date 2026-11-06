@@ -1,0 +1,120 @@
+{
+  "model_kodu": "H3813AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3813AXYL238",
+      "renk_kodu": "YL238",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "NBA Golden State Warrıors Lisanslı Relax Fıt Kısa Kollu Açık Sarı Tişört",
+      "kisa_aciklama": "Relaxed fit kısa kollu tişört. NBA lisanslı ürün.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/nba-golden-state-warriors-lisansli-relax-fit-kisa-kollu-acik-sari-tisort-3477673",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3813AX_26HS_YL238_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3813AX_26HS_YL238_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3813AX_26HS_YL238_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3813AX_26HS_YL238_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3813AX_26HS_YL238_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3813AX_26HS_YL238_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,86cm - 100/76/96",
+        "ana_kumas_icerigi": "Elastan 6%,Modal 47%,Poliester 47%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Relax Fıt",
+        "lisans_bilgisi": "NBA Golden State Warrıors"
+      },
+      "urun_hakkinda": [
+        "Relaxed fit kısa kollu tişört. NBA lisanslı ürün."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27793,
+          "Product Option Code": "H3813AX.YL238",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H3813AX_26HS_YL238_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/nba-golden-state-warriors-lisansli-relax-fit-kisa-kollu-acik-sari-tisort-3477673",
+          "Model Page URL": "https://www.defacto.com.tr/nba-golden-state-warriors-lisansli-relax-fit-kisa-kollu-acik-sari-tisort-3477673"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H3813AX_26HS_YL238_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:23:41+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

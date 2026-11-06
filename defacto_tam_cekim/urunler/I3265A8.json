@@ -1,0 +1,119 @@
+{
+  "model_kodu": "I3265A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3265A8WT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "5'li Pamuklu Patik Beyaz Çorap Erkek Çocuk",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Beyaz ana rengi ve ribanalı bilek kısmında farklı renklerde çift çizgi detayları bulunur.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/5li-pamuklu-patik-beyaz-corap-erkek-cocuk-3499278",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3265A8_NS_WT1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3265A8_NS_WT1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3265A8_NS_WT1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3265A8_NS_WT1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3265A8_NS_WT1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3265A8_NS_WT1_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28",
+          "35 - 39"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 78%,Poliamid 20%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek Çocuk",
+        "urun_tipi": "Kısa Çorap",
+        "corap_tipi": "Patik Çorap",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Beyaz ana rengi ve ribanalı bilek kısmında farklı renklerde çift çizgi detayları bulunur.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41327,
+          "Product Option Code": "I3265A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "23 - 28",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3265A8_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-beyaz-corap-erkek-cocuk-3499278",
+          "Model Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-beyaz-corap-erkek-cocuk-3499278"
+        },
+        {
+          "excel_satiri": 41328,
+          "Product Option Code": "I3265A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "35 - 39",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3265A8_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-beyaz-corap-erkek-cocuk-3499278",
+          "Model Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-beyaz-corap-erkek-cocuk-3499278"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3265A8_NS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:47:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

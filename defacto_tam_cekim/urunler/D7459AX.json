@@ -1,0 +1,146 @@
+{
+  "model_kodu": "D7459AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-05-26",
+        "puan": 4.0,
+        "metin": "@Yazlık bir gömlek gibi duruyor ama kumaşı biraz değişik."
+      },
+      {
+        "tarih": "2026-03-16",
+        "puan": 5.0,
+        "metin": "@gömlek güzel kendi bedenimden bir beden küçük aldım"
+      },
+      {
+        "tarih": "2026-03-12",
+        "puan": 5.0,
+        "metin": "@eşim 1.80 103 kg olmasına rağmen XL bile bol geldi kalıpları en az 2 neden geniş"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7459AXER42",
+      "renk_kodu": "ER42",
+      "renk_adi": "Açık Taş",
+      "renk_hex": "#CBC6BA",
+      "urun_adi": "%100 Pamuk Relax Fit Polo Yaka Çizgili Yazlık Kısa Kollu Gömlek",
+      "kisa_aciklama": "Relax fit polo yaka çizgili pamuklu yazlık kısa kollu gömlek, rahat kesimi ve şık çizgili deseniyle sıcak havalarda şıklığınızı tamamlar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-polo-yaka-cizgili-yazlik-kisa-kollu-gomlek-3208990",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7459AX_25SP_ER42_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7459AX_25SP_ER42_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7459AX_25SP_ER42_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7459AX_25SP_ER42_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7459AX_25SP_ER42_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7459AX_25SP_ER42_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 93/72/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek",
+        "desen": "Çizgili",
+        "kalip": "Relax Fıt",
+        "yaka": "Resort Yaka",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Relax fit polo yaka çizgili pamuklu yazlık kısa kollu gömlek, rahat kesimi ve şık çizgili deseniyle sıcak havalarda şıklığınızı tamamlar.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8735,
+          "Product Option Code": "D7459AX.ER42",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.STONE",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7459AX_25SP_ER42_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#CBC6BA",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-polo-yaka-cizgili-yazlik-kisa-kollu-gomlek-3208990",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-polo-yaka-cizgili-yazlik-kisa-kollu-gomlek-3208990"
+        },
+        {
+          "excel_satiri": 8736,
+          "Product Option Code": "D7459AX.ER42",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.STONE",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7459AX_25SP_ER42_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#CBC6BA",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-polo-yaka-cizgili-yazlik-kisa-kollu-gomlek-3208990",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-polo-yaka-cizgili-yazlik-kisa-kollu-gomlek-3208990"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D7459AX_25SP_ER42_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:37:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

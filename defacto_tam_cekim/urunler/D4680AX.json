@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D4680AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4680AXRD56",
+      "renk_kodu": "RD56",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7728,
+          "Product Option Code": "D4680AX.RD56",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Vest",
+          "Product Color Name": "RED",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4680AX_24AU_RD56_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-iq/slim-fit-basic-v-yaka-kirmizi-triko-suveter-3157443",
+          "Model Page URL": "https://www.defacto.com/en-iq/slim-fit-basic-v-yaka-kirmizi-triko-suveter-3157443"
+        },
+        {
+          "excel_satiri": 7729,
+          "Product Option Code": "D4680AX.RD56",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Vest",
+          "Product Color Name": "RED",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D4680AX_24AU_RD56_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-iq/slim-fit-basic-v-yaka-kirmizi-triko-suveter-3157443",
+          "Model Page URL": "https://www.defacto.com/en-iq/slim-fit-basic-v-yaka-kirmizi-triko-suveter-3157443"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D4680AX_24AU_RD56_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:34:59+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/slim-fit-basic-v-yaka-kirmizi-triko-suveter-3157443",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

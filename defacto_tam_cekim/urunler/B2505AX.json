@@ -1,0 +1,57 @@
+{
+  "model_kodu": "B2505AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B2505AXRF1",
+      "renk_kodu": "RF1",
+      "renk_adi": "REFLECTOR GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1335,
+          "Product Option Code": "B2505AX.RF1",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "REFLECTOR GREY",
+          "SizeDefinition": "40",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23AU/B2505AX_23AU_RF1_01_03.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#CBCBCB",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23AU/B2505AX_23AU_RF1_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

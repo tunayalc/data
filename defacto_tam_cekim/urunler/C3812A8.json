@@ -1,0 +1,57 @@
+{
+  "model_kodu": "C3812A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C3812A8NV42",
+      "renk_kodu": "NV42",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3923,
+          "Product Option Code": "C3812A8.NV42",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Set",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "BLOUSE & SKIRT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3812A8_24SP_NV42_01_01.jpg",
+          "FabricDetail": "SHALLY",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C3812A8_24SP_NV42_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

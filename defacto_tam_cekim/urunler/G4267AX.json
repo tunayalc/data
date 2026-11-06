@@ -1,0 +1,64 @@
+{
+  "model_kodu": "G4267AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4267AXGN1283",
+      "renk_kodu": "GN1283",
+      "renk_adi": "DULL LIGHT GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19093,
+          "Product Option Code": "G4267AX.GN1283",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "DULL LIGHT GREEN",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4267AX_26SM_GN1283_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/ar-iq/pamuklu-nefes-alabilen-boxy-fit-sirt-baskili-kisa-kollu-tisort-3505807",
+          "Model Page URL": "https://www.defacto.com/ar-iq/pamuklu-nefes-alabilen-boxy-fit-sirt-baskili-kisa-kollu-tisort-3505807"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G4267AX_26SM_GN1283_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:02:44+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-boxy-fit-sirt-baskili-kisa-kollu-tisort-3505807",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "model_kodu": "H6999AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 15,
+    "yorum_sayisi": 15,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-30",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-13",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-13",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H6999AXWT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Kadın 5'li Pamuklu Patik Beyaz Çorap",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Baskılı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-5li-pamuklu-patik-beyaz-corap-3454665",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6999AX_NS_WT1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6999AX_NS_WT1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6999AX_NS_WT1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6999AX_NS_WT1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 74%,Poliamid 24%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Kısa Çorap",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Patik Çorap",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Baskılı.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 32341,
+          "Product Option Code": "H6999AX.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "36-40",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H6999AX_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-5li-pamuklu-patik-beyaz-corap-3454665",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-5li-pamuklu-patik-beyaz-corap-3454665"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H6999AX_NS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:32:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

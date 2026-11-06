@@ -1,0 +1,452 @@
+{
+  "model_kodu": "F6275AX",
+  "urun_grubu": "Kadın Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 63,
+    "yorum_sayisi": 63,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 54.8,
+      "tam_oldu": 45.2,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-09-14",
+        "puan": 5.0,
+        "metin": "@2 renk arasında kalmıştım, ikisini de aldım ancak sarıyı iade ettim. Yalniz fiyatlar bu ara birden tüm ürünlerde arttı. Sezon…"
+      },
+      {
+        "tarih": "2025-07-31",
+        "puan": 5.0,
+        "metin": "@Öncelikle rengine ve kumaşına bayıldım. İç göstermiyor. Boyu çok ideal. Hem şık hem spor kombinlere uygun."
+      },
+      {
+        "tarih": "2025-07-29",
+        "puan": 5.0,
+        "metin": "@ben dökümlü dursun diye büyük aldım, kumaşı çok güzel pamuklu"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F6275AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Slım Fıt Bisiklet Yaka Ribana Atlet",
+      "kisa_aciklama": "Vücuda oturan slim fit kesimi ve esnek ribana dokusuyla Slım Fıt Bisiklet Yaka Ribana Atlet, hem şık hem rahat bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3404668",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_ER105_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_ER105_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_ER105_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_ER105_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_ER105_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_ER105_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Pamuk 97%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Ribana",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Vücuda oturan slim fit kesimi ve esnek ribana dokusuyla Slım Fıt Bisiklet Yaka Ribana Atlet, hem şık hem rahat bir…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15344,
+          "Product Option Code": "F6275AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F6275AX_25AU_ER105_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3404668",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343106"
+        },
+        {
+          "excel_satiri": 15345,
+          "Product Option Code": "F6275AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F6275AX_26SP_ER105_01_03.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3404668",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343106"
+        },
+        {
+          "excel_satiri": 15346,
+          "Product Option Code": "F6275AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F6275AX_26SP_ER105_01_03.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3404668",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343106"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F6275AX_25AU_ER105_01_01.jpg",
+        "https://image.defacto.com.tr/product/26SP/F6275AX_26SP_ER105_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F6275AXYL239",
+      "renk_kodu": "YL239",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "Slım Fıt Bisiklet Yaka Ribana Atlet",
+      "kisa_aciklama": "Vücuda oturan kesimiyle öne çıkan Slim Fit Dar Kesim Bisiklet Yaka Ribana Atlet, sade ve modern bir stil sunar. Esnek…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343107",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6275AX_25AU_YL239_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_25AU_YL239_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_25AU_YL239_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_25AU_YL239_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Atlet",
+        "kumas": "Ribana",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Vücuda oturan kesimiyle öne çıkan Slim Fit Dar Kesim Bisiklet Yaka Ribana Atlet, sade ve modern bir stil sunar. Esnek…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15347,
+          "Product Option Code": "F6275AX.YL239",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F6275AX_25SM_YL239_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343107",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343106"
+        },
+        {
+          "excel_satiri": 15348,
+          "Product Option Code": "F6275AX.YL239",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F6275AX_25SM_YL239_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343107",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343106"
+        },
+        {
+          "excel_satiri": 15349,
+          "Product Option Code": "F6275AX.YL239",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F6275AX_25SM_YL239_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343107",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343106"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F6275AX_25SM_YL239_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F6275AXBN167",
+      "renk_kodu": "BN167",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Slım Fıt Bisiklet Yaka Ribana Atlet",
+      "kisa_aciklama": "Vücuda oturan kesimiyle öne çıkan Slim Fit Dar Kesim Bisiklet Yaka Ribana Atlet, sade ve modern bir stil sunar. Esnek…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3343106",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6275AX_25AU_BN167_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_25AU_BN167_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_25AU_BN167_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_25AU_BN167_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_25AU_BN167_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Kadın",
+        "kumas": "Ribana",
+        "urun_tipi": "Atlet"
+      },
+      "urun_hakkinda": [
+        "Vücuda oturan kesimiyle öne çıkan Slim Fit Dar Kesim Bisiklet Yaka Ribana Atlet, sade ve modern bir stil sunar. Esnek…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F6275AXYL450",
+      "renk_kodu": "YL450",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "Slım Fıt Bisiklet Yaka Ribana Atlet",
+      "kisa_aciklama": "Yetişkin örme atlet, slim fit kalıbı ve sarı ribana kumaşıyla yaz tatillerinizde stilinizi tamamlar. Kadın koleksiyonumuzun temel çeşitlerinden bisiklet yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3406024",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_YL450_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_YL450_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_YL450_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_YL450_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,81cm - 83/62/92",
+        "ana_kumas_icerigi": "Pamuk 97%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Atlet",
+        "kumas": "Ribana",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Yetişkin örme atlet, slim fit kalıbı ve sarı ribana kumaşıyla yaz tatillerinizde stilinizi tamamlar. Kadın koleksiyonumuzun temel çeşitlerinden bisiklet yaka…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F6275AXBE409",
+      "renk_kodu": "BE409",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Slım Fıt Bisiklet Yaka Ribana Atlet",
+      "kisa_aciklama": "Vücuda oturan slim fit kesimi ve esnek ribana dokusuyla Slım Fıt Bisiklet Yaka Ribana Atlet, hem şık hem rahat bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-bisiklet-yaka-ribana-atlet-3406023",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_BE409_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_BE409_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_BE409_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_BE409_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6275AX_26SP_BE409_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Pamuk 97%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Atlet",
+        "kumas": "Ribana",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Vücuda oturan slim fit kesimi ve esnek ribana dokusuyla Slım Fıt Bisiklet Yaka Ribana Atlet, hem şık hem rahat bir…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:48:45+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

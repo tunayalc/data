@@ -1,0 +1,117 @@
+{
+  "model_kodu": "H2338A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2338A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Hello Kitty 3'lü Pamuklu Uzun Karma Çorap Kız Çocuk",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş çorap. 3'Lü set. Hello Kitty lisanslı ürün.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/hello-kitty-3lu-pamuklu-uzun-karma-corap-kiz-cocuk-3446398",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H2338A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2338A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2338A8_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2338A8_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "29 - 34",
+          "35 - 39"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 74%,Poliamid 24%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Uzun Çorap",
+        "lisans_bilgisi": "Hello Kitty",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş çorap. 3'Lü set. Hello Kitty lisanslı ürün.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 26045,
+          "Product Option Code": "H2338A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H2338A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com/en-ma/hello-kitty-3lu-pamuklu-uzun-karma-corap-kiz-cocuk-3446398",
+          "Model Page URL": "https://www.defacto.com/en-ma/hello-kitty-3lu-pamuklu-uzun-karma-corap-kiz-cocuk-3446398"
+        },
+        {
+          "excel_satiri": 26046,
+          "Product Option Code": "H2338A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "35 - 39",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H2338A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com/en-ma/hello-kitty-3lu-pamuklu-uzun-karma-corap-kiz-cocuk-3446398",
+          "Model Page URL": "https://www.defacto.com/en-ma/hello-kitty-3lu-pamuklu-uzun-karma-corap-kiz-cocuk-3446398"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H2338A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:19:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

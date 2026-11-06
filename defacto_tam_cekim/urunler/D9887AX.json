@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D9887AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9887AXKH516",
+      "renk_kodu": "KH516",
+      "renk_adi": "TEAK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9832,
+          "Product Option Code": "D9887AX.KH516",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "TEAK",
+          "SizeDefinition": "34",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D9887AX_24AU_KH516_01_02.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1199.99,
+          "Product Color HEX": "#384E42",
+          "Product Page URL": "https://www.defacto.com/en-ma/oversize-fit-ceket-yaka-blazer-ceket-3196035",
+          "Model Page URL": "https://www.defacto.com/en-ma/oversize-fit-ceket-yaka-blazer-ceket-3196035"
+        },
+        {
+          "excel_satiri": 9833,
+          "Product Option Code": "D9887AX.KH516",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "TEAK",
+          "SizeDefinition": "36",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D9887AX_24AU_KH516_01_02.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1199.99,
+          "Product Color HEX": "#384E42",
+          "Product Page URL": "https://www.defacto.com/en-ma/oversize-fit-ceket-yaka-blazer-ceket-3196035",
+          "Model Page URL": "https://www.defacto.com/en-ma/oversize-fit-ceket-yaka-blazer-ceket-3196035"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D9887AX_24AU_KH516_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:40:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/oversize-fit-ceket-yaka-blazer-ceket-3196035",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

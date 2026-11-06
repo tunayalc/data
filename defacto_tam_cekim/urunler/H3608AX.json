@@ -1,0 +1,89 @@
+{
+  "model_kodu": "H3608AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3608AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın 3'lü Kolye",
+      "kisa_aciklama": "3 adet zincir kolye seti. Farklı uzunluklarda ve tasarımlarda. Zincirler üzerinde boncuk ve taş detayları mevcut. Ortadaki kolye Y-zincir formunda…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-3lu-kolye-3442982",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3608AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3608AX_NS_GD1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Plastik 10%,Çinko 5%,Demir 75%,Pirinç 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Kolye",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "3 adet zincir kolye seti. Farklı uzunluklarda ve tasarımlarda. Zincirler üzerinde boncuk ve taş detayları mevcut. Ortadaki kolye Y-zincir formunda…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27522,
+          "Product Option Code": "H3608AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3608AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-3lu-kolye-3442982",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-3lu-kolye-3442982"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3608AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:23:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

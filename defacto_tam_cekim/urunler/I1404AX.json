@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I1404AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1404AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın 2'li Sarı Küpe Seti",
+      "kisa_aciklama": "Sarı renkli, C formunda metal küpe. Ürün, biri yivli dokuya sahip daha büyük model, diğeri pürüzsüz yüzeyli daha küçük model…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-sari-kupe-seti-3487525",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1404AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1404AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1404AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko Alaşım 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "taki_tipi": "Küpe",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Sarı renkli, C formunda metal küpe. Ürün, biri yivli dokuya sahip daha büyük model, diğeri pürüzsüz yüzeyli daha küçük model…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38976,
+          "Product Option Code": "I1404AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1404AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-2li-sari-kupe-seti-3487525",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-2li-sari-kupe-seti-3487525"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1404AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:43:07+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

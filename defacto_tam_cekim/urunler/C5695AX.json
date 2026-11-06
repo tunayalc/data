@@ -1,0 +1,86 @@
+{
+  "model_kodu": "C5695AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C5695AXKH366",
+      "renk_kodu": "KH366",
+      "renk_adi": "HAKİ",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4693,
+          "Product Option Code": "C5695AX.KH366",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "L",
+          "Fit": "CORSET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C5695AX_24SP_KH366_01_05.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com/en-iq/kalin-askili-crop-korse-jean-bluz-3102925",
+          "Model Page URL": "https://www.defacto.com/en-iq/kalin-askili-crop-korse-jean-bluz-3102925"
+        },
+        {
+          "excel_satiri": 4694,
+          "Product Option Code": "C5695AX.KH366",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "HAKİ",
+          "SizeDefinition": "S",
+          "Fit": "CORSET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C5695AX_24SP_KH366_01_05.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com/en-iq/kalin-askili-crop-korse-jean-bluz-3102925",
+          "Model Page URL": "https://www.defacto.com/en-iq/kalin-askili-crop-korse-jean-bluz-3102925"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C5695AX_24SP_KH366_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:27:03+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kalin-askili-crop-korse-jean-bluz-3102925",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

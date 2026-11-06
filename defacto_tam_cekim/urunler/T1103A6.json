@@ -1,0 +1,57 @@
+{
+  "model_kodu": "T1103A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "T1103A6PN550",
+      "renk_kodu": "PN550",
+      "renk_adi": "NEON FUCHIA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "10/11 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46393,
+          "Product Option Code": "T1103A6.PN550",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Leggings",
+          "Product Color Name": "NEON FUCHIA",
+          "SizeDefinition": "10/11 Y",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/21SP/T1103A6_21SP_PN550_01_02.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 79.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF35FF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/21SP/T1103A6_21SP_PN550_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

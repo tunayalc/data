@@ -1,0 +1,79 @@
+{
+  "model_kodu": "U5814AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "U5814AZYL176",
+      "renk_kodu": "YL176",
+      "renk_adi": "YELLOW",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46872,
+          "Product Option Code": "U5814AZ.YL176",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "M",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/21SM/U5814AZ_21SM_YL176_01_02.jpg",
+          "FabricDetail": "RACHEL",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 46873,
+          "Product Option Code": "U5814AZ.YL176",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "S",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/21SM/U5814AZ_21SM_YL176_01_02.jpg",
+          "FabricDetail": "RACHEL",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/21SM/U5814AZ_21SM_YL176_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "model_kodu": "G2344AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-10",
+        "puan": 5.0,
+        "metin": "@kalitesiii harikaaa müjemmel birşey hiç tereddüt etmeden alın 🎀🎀"
+      },
+      {
+        "tarih": "2026-08-28",
+        "puan": 5.0,
+        "metin": "@gorundugu gibi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2344AXNV241",
+      "renk_kodu": "NV241",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Oversıze Baskılı Kısa Kollu Tişört",
+      "kisa_aciklama": "Yetişkin kadınlar için özel olarak tasarlanmış Coool marka lacivert baskılı kısa kollu oversize tişört. Sportif desen temasıyla öne çıkan bu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/coool-oversize-genis-kalip-kisa-kollu-tisort-3374434",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2344AX_26SP_NV241_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2344AX_26SP_NV241_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2344AX_26SP_NV241_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2344AX_26SP_NV241_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2344AX_26SP_NV241_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2344AX_26SP_NV241_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2344AX_26SP_NV241_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2344AX_26SP_NV241_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2344AX_26SP_NV241_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 86/60/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "desen": "Baskılı",
+        "markalar": "Coool",
+        "kalip": "Oversıze"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için özel olarak tasarlanmış Coool marka lacivert baskılı kısa kollu oversize tişört. Sportif desen temasıyla öne çıkan bu…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18307,
+          "Product Option Code": "G2344AX.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G2344AX_26SP_NV241_01_03.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/coool-oversize-genis-kalip-kisa-kollu-tisort-3374434",
+          "Model Page URL": "https://www.defacto.com.tr/coool-oversize-genis-kalip-kisa-kollu-tisort-3374434"
+        },
+        {
+          "excel_satiri": 18308,
+          "Product Option Code": "G2344AX.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G2344AX_26SP_NV241_01_03.jpg",
+          "FabricDetail": "POLYSTER",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/coool-oversize-genis-kalip-kisa-kollu-tisort-3374434",
+          "Model Page URL": "https://www.defacto.com.tr/coool-oversize-genis-kalip-kisa-kollu-tisort-3374434"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G2344AX_26SP_NV241_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:59:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

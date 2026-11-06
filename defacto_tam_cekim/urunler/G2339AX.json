@@ -1,0 +1,120 @@
+{
+  "model_kodu": "G2339AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-03",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-05",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2339AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "%100 Pamuk Oversıze Baskılı Kısa Kollu Tişört",
+      "kisa_aciklama": "Yetişkinlere özel, Coool markasının oversize kesimli beyaz kısa kollu tişörtü spor desen temalıdır. İlkbahar/Yaz sezonuna özel olan bu baskılı tişört,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-oversize-baskili-kisa-kollu-tisort-3376877",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2339AX_26SP_WT32_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2339AX_26SP_WT32_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2339AX_26SP_WT32_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2339AX_26SP_WT32_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2339AX_26SP_WT32_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "desen": "Baskılı",
+        "markalar": "Coool",
+        "cinsiyet": "Kadın",
+        "kalip": "Oversıze"
+      },
+      "urun_hakkinda": [
+        "Yetişkinlere özel, Coool markasının oversize kesimli beyaz kısa kollu tişörtü spor desen temalıdır. İlkbahar/Yaz sezonuna özel olan bu baskılı tişört,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18306,
+          "Product Option Code": "G2339AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G2339AX_26SP_WT32_01_01.jpg",
+          "FabricDetail": "2 Thread non brushed",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-oversize-baskili-kisa-kollu-tisort-3444568",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-oversize-baskili-kisa-kollu-tisort-3444568"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G2339AX_26SP_WT32_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:59:08+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-oversize-baskili-kisa-kollu-tisort-3444568",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

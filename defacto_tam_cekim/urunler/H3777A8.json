@@ -1,0 +1,111 @@
+{
+  "model_kodu": "H3777A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-30",
+        "puan": 5.0,
+        "metin": "@kumaşın kalitesi muhteşem tam kalıp sakın büyük almayın bayıldımmmmmmm yazın 850 TL den satılıyordu ben 350 TL ye aldım yaklaşık…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3777A8ER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Kolsuz Keten Görünümlü Elbise Kız Çocuk",
+      "kisa_aciklama": "Keten kumaştan üretilmiş kız çocuk elbise. Kolsuz.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-kolsuz-keten-gorunumlu-elbise-kiz-cocuk-3478659",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3777A8_26SM_ER105_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3777A8_26SM_ER105_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3777A8_26SM_ER105_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3777A8_26SM_ER105_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3777A8_26SM_ER105_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3777A8_26SM_ER105_06_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "9/10 Yaş (140cm) Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Keten Görünümlü",
+        "urun_tipi": "Elbise",
+        "cinsiyet": "Kız Çocuk",
+        "ozel_urun": "Trend",
+        "kol_boyu": "Kolsuz"
+      },
+      "urun_hakkinda": [
+        "Keten kumaştan üretilmiş kız çocuk elbise. Kolsuz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27749,
+          "Product Option Code": "H3777A8.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H3777A8_26SM_ER105_01_03.jpg",
+          "FabricDetail": "LINEN LOOK",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-keten-gorunumlu-elbise-kiz-cocuk-3478659",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-kolsuz-keten-gorunumlu-elbise-kiz-cocuk-3478659"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H3777A8_26SM_ER105_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:25:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

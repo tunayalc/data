@@ -1,0 +1,123 @@
+{
+  "model_kodu": "B6687AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-04-03",
+        "puan": 1.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-09-02",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok güzel, fiyatını hak ediyor."
+      },
+      {
+        "tarih": "2025-08-05",
+        "puan": 5.0,
+        "metin": "@Ürün geniş kalıp olduğu için genelde XL giyen eşime large beden aldım, tam oldu. Kumaşı ve kalitesi gayet iyi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B6687AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Keten Relax Fit Polo Yaka Yazlık Basic Düz Kısa Kollu Siyah Gömlek",
+      "kisa_aciklama": "Yeni sezonun en şık parçalarından olan Relax Fit Polo Yaka Keten Kısa Kollu Gömlek, rahat ve şık bir görünüm sunuyor.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-keten-relax-fit-polo-yaka-yazlik-basic-duz-kisa-kollu-siyah-gomlek-3060279",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B6687AX_24SP_BK27_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6687AX_24SP_BK27_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6687AX_24SP_BK27_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6687AX_24SP_BK27_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6687AX_24SP_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6687AX_24SP_BK27_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6687AX_24SP_BK27_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6687AX_24SP_BK27_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6687AX_24SP_BK27_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 100/78/98",
+        "ana_kumas_icerigi": "Keten 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Relax Fıt",
+        "yaka": "Resort Yaka",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "cep_ve_fermuar_detayi": "Çift Kapaklı Cep",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Yeni sezonun en şık parçalarından olan Relax Fit Polo Yaka Keten Kısa Kollu Gömlek, rahat ve şık bir görünüm sunuyor.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2156,
+          "Product Option Code": "B6687AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B6687AX_24SP_BK27_01_04.jpg",
+          "FabricDetail": "100% Linen",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-keten-relax-fit-polo-yaka-yazlik-basic-duz-kisa-kollu-siyah-gomlek-3060279",
+          "Model Page URL": "https://www.defacto.com.tr/100-keten-relax-fit-polo-yaka-yazlik-basic-duz-kisa-kollu-siyah-gomlek-3060279"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/B6687AX_24SP_BK27_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:19:13+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

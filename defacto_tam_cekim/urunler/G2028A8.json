@@ -1,0 +1,182 @@
+{
+  "model_kodu": "G2028A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-14",
+        "puan": 5.0,
+        "metin": "@Renkler ve kalite güzel"
+      },
+      {
+        "tarih": "2026-08-02",
+        "puan": 4.0,
+        "metin": "@guzel begendim"
+      },
+      {
+        "tarih": "2026-03-13",
+        "puan": 5.0,
+        "metin": "@Güzell"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2028A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Baskılı 7'li Pamuklu Patik Çorap Erkek Çocuk",
+      "kisa_aciklama": "Yumuşak ve nefes alabilen pamuklu yapısıyla gün boyu konfor sunar. Hem okulda hem günlük olarak kullanışlı bir tercih olur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-3373869",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2028A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2028A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2028A8_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2028A8_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28",
+          "29 - 34",
+          "35 - 39"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 72%,Poliamid 26%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek Çocuk",
+        "corap_tipi": "Patik Çorap",
+        "takim_icerigi": "7'li",
+        "urun_tipi": "Kısa Çorap"
+      },
+      "urun_hakkinda": [
+        "Yumuşak ve nefes alabilen pamuklu yapısıyla gün boyu konfor sunar. Hem okulda hem günlük olarak kullanışlı bir tercih olur."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18158,
+          "Product Option Code": "G2028A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G2028A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-3373869",
+          "Model Page URL": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-3373869"
+        },
+        {
+          "excel_satiri": 18159,
+          "Product Option Code": "G2028A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G2028A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-3373869",
+          "Model Page URL": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-3373869"
+        },
+        {
+          "excel_satiri": 18160,
+          "Product Option Code": "G2028A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "35 - 39",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G2028A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-3373869",
+          "Model Page URL": "https://www.defacto.com.tr/baskili-7li-pamuklu-patik-corap-erkek-cocuk-3373869"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G2028A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:58:34+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "model_kodu": "H2406AX",
+  "urun_grubu": "Kadın Valiz",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2406AXBK59",
+      "renk_kodu": "BK59",
+      "renk_adi": "Siyah Küçük",
+      "renk_hex": "#000000",
+      "urun_adi": "Unisex Sert Kapaklı Küçük Boy Valiz",
+      "kisa_aciklama": "Uzun süreli seyahatleriniz için maksimum iç hacim sunan tasarımıyla tüm eşyalarınızı organize etmenize yardımcı olur. Darbelere karşı ekstra direnç sağlayan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/unisex-valiz-3426261",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H2406AX_NS_BK59_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2406AX_NS_BK59_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2406AX_NS_BK59_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2406AX_NS_BK59_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2406AX_NS_BK59_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2406AX_NS_BK59_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "Küçük Boy"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Polipropilen 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Unisex",
+        "urun_olcusu": "33*50*77"
+      },
+      "urun_hakkinda": [
+        "Uzun süreli seyahatleriniz için maksimum iç hacim sunan tasarımıyla tüm eşyalarınızı organize etmenize yardımcı olur. Darbelere karşı ekstra direnç sağlayan…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2299.99,
+        "sepette_fiyat": 1839.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "H2406AXBK60",
+      "renk_kodu": "BK60",
+      "renk_adi": "Siyah Orta",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "Orta Boy"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 26130,
+          "Product Option Code": "H2406AX.BK60",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Unisex",
+          "Buyer Group Name": "Baggage",
+          "LifeStyle": "Casual",
+          "Class Name": "Baggage",
+          "Product Color Name": "Siyah Orta",
+          "SizeDefinition": "Orta Boy",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H2406AX_NS_BK60_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/unisex-valiz-3502111",
+          "Model Page URL": "https://www.defacto.com.tr/unisex-valiz-3426261"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H2406AX_NS_BK60_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:20:01+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/unisex-valiz-3502111",
+      "http": 200,
+      "durum": "Sayfada bu modelin ürün kodu bulunamadı"
+    }
+  ]
+}

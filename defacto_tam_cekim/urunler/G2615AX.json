@@ -1,0 +1,119 @@
+{
+  "model_kodu": "G2615AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-11",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-02-04",
+        "puan": 5.0,
+        "metin": "@Modeli güzel bedeni tam tavsiye ederim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2615AXNM29",
+      "renk_kodu": "NM29",
+      "renk_adi": "Açık Yeşil",
+      "renk_hex": "#B4EC9A",
+      "urun_adi": "Pedro Slim Fıt Normal Bel Dar Paça Jean Pantolon",
+      "kisa_aciklama": "Pedro Slim Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Klasik dar paça kesimi sayesinde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pedro-slim-fit-normal-bel-dar-paca-jean-pantolon-3355729",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2615AX_25AU_NM29_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2615AX_25AU_NM29_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2615AX_25AU_NM29_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2615AX_25AU_NM29_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2615AX_25AU_NM29_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2615AX_25AU_NM29_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2615AX_25AU_NM29_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "32-32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Pedro Slım Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Pedro Slim Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Klasik dar paça kesimi sayesinde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18441,
+          "Product Option Code": "G2615AX.NM29",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "32-32",
+          "Fit": "PEDRO-SLIM FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G2615AX_25AU_NM29_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/pedro-slim-fit-normal-bel-dar-paca-jean-pantolon-3355729",
+          "Model Page URL": "https://www.defacto.com.tr/pedro-slim-fit-normal-bel-dar-paca-jean-pantolon-3355729"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G2615AX_25AU_NM29_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:00:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

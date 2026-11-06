@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D3373AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D3373AXAR104",
+      "renk_kodu": "AR104",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7084,
+          "Product Option Code": "D3373AX.AR104",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Knitted Dress",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "S",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/D3373AX_24WN_AR104_01_01.jpg",
+          "FabricDetail": "20/1 Brushed Jersey",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/bodycon-vucudu-saran-basic-kaskorse-maxi-elbise-3192032",
+          "Model Page URL": "https://www.defacto.com/bodycon-vucudu-saran-basic-kaskorse-maxi-elbise-3192032"
+        },
+        {
+          "excel_satiri": 7085,
+          "Product Option Code": "D3373AX.AR104",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Knitted Dress",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "XS",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/D3373AX_24WN_AR104_01_01.jpg",
+          "FabricDetail": "20/1 Brushed Jersey",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/bodycon-vucudu-saran-basic-kaskorse-maxi-elbise-3192032",
+          "Model Page URL": "https://www.defacto.com/bodycon-vucudu-saran-basic-kaskorse-maxi-elbise-3192032"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/D3373AX_24WN_AR104_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:32:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/bodycon-vucudu-saran-basic-kaskorse-maxi-elbise-3192032",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

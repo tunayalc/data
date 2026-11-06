@@ -1,0 +1,142 @@
+{
+  "model_kodu": "G0105AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 23,
+    "yorum_sayisi": 23,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-01-08",
+        "puan": 5.0,
+        "metin": "@Penye gibi yumuşak ve yumuşacık olduğu için bir beden büyük tercih edin; rengi de bir tık açık sütlü, sütlü bir…"
+      },
+      {
+        "tarih": "2026-04-26",
+        "puan": 5.0,
+        "metin": "@Kumaşı ve omuz detayı çok hoş tam beden alınabilir"
+      },
+      {
+        "tarih": "2025-12-20",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, bedeni de tam oldu. Çok beğendim. Ürün de gayet iyi. Teşekkürler."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0105AXBN318",
+      "renk_kodu": "BN318",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Slım Fıt Tek Omuzlu Uzun Kollu Tişört",
+      "kisa_aciklama": "Slim Fit Dar Kesim Tek Omuzlu Uzun Kollu Tişört, modern tasarımıyla dikkat çeker. Vücuda oturan yapısı ve tek omuz detayı,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-tek-omuzlu-uzun-kollu-tisort-3346188",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0105AX_25AU_BN318_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0105AX_25AU_BN318_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0105AX_25AU_BN318_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0105AX_25AU_BN318_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0105AX_25AU_BN318_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0105AX_25AU_BN318_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/61/89",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 95%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Uzun Kollu Tişört",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Slim Fit Dar Kesim Tek Omuzlu Uzun Kollu Tişört, modern tasarımıyla dikkat çeker. Vücuda oturan yapısı ve tek omuz detayı,…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17364,
+          "Product Option Code": "G0105AX.BN318",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G0105AX_25AU_BN318_01_01.jpg",
+          "FabricDetail": "VIS-EA",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-tek-omuzlu-uzun-kollu-tisort-3346188",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dar-kesim-tek-omuzlu-uzun-kollu-tisort-3346188"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G0105AX_25AU_BN318_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:55:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

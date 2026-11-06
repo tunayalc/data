@@ -1,0 +1,55 @@
+{
+  "model_kodu": "WYXX001",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "WYXX001NM2",
+      "renk_kodu": "NM2",
+      "renk_adi": "WHITE (000)",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47440,
+          "Product Option Code": "WYXX001.NM2",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

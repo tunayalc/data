@@ -1,0 +1,126 @@
+{
+  "model_kodu": "H1380AX",
+  "urun_grubu": "Kadın Pijama Takım",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1380AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fit Askılı Üst Dantelli Şort Tül Pijama Takımı",
+      "kisa_aciklama": "Regular fit ve askılı kol boyuyla yetişkinler için ev giyiminde şıklığı garantiler.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-askili-ust-dantelli-sort-tul-pijama-takimi-3416087",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1380AX_26SP_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1380AX_26SP_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1380AX_26SP_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1380AX_26SP_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1380AX_26SP_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1380AX_26SP_BK81_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 80/60/89",
+        "ana_kumas_icerigi": "Poliamid 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Dantel",
+        "urun_boyu": "Kısa Boy",
+        "dantel_detay": "Dantel Detaylı",
+        "yaka": "V Yaka",
+        "kol_boyu": "Askılı",
+        "takim_icerigi": "2'li",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "markalar": "Fall ın Love"
+      },
+      "urun_hakkinda": [
+        "Regular fit ve askılı kol boyuyla yetişkinler için ev giyiminde şıklığı garantiler."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24753,
+          "Product Option Code": "H1380AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Set",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H1380AX_26SP_BK81_01_01.jpg",
+          "FabricDetail": "LACE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-askili-ust-dantelli-sort-tul-pijama-takimi-3416087",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-askili-ust-dantelli-sort-tul-pijama-takimi-3416087"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H1380AX_26SP_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:17:40+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D3595AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D3595AXAR191",
+      "renk_kodu": "AR191",
+      "renk_adi": "ANTRACITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7200,
+          "Product Option Code": "D3595AX.AR191",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "L",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3595AX_24HS_AR191_01_03.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/en-iq/loose-fit-bisiklet-yaka-atlet-3145791",
+          "Model Page URL": "https://www.defacto.com/en-iq/loose-fit-bisiklet-yaka-atlet-3145791"
+        },
+        {
+          "excel_satiri": 7201,
+          "Product Option Code": "D3595AX.AR191",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3595AX_24HS_AR191_01_03.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/en-iq/loose-fit-bisiklet-yaka-atlet-3145791",
+          "Model Page URL": "https://www.defacto.com/en-iq/loose-fit-bisiklet-yaka-atlet-3145791"
+        },
+        {
+          "excel_satiri": 7202,
+          "Product Option Code": "D3595AX.AR191",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3595AX_24HS_AR191_01_03.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 10,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/en-iq/loose-fit-bisiklet-yaka-atlet-3145791",
+          "Model Page URL": "https://www.defacto.com/en-iq/loose-fit-bisiklet-yaka-atlet-3145791"
+        },
+        {
+          "excel_satiri": 7203,
+          "Product Option Code": "D3595AX.AR191",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D3595AX_24HS_AR191_01_03.jpg",
+          "FabricDetail": "3 Thread non brushed",
+          "Toplam": 6,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com/en-iq/loose-fit-bisiklet-yaka-atlet-3145791",
+          "Model Page URL": "https://www.defacto.com/en-iq/loose-fit-bisiklet-yaka-atlet-3145791"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D3595AX_24HS_AR191_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:33:08+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/loose-fit-bisiklet-yaka-atlet-3145791",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

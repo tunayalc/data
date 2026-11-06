@@ -1,0 +1,57 @@
+{
+  "model_kodu": "M8965AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "M8965AZIN7",
+      "renk_kodu": "IN7",
+      "renk_adi": "D.INDIGO",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45919,
+          "Product Option Code": "M8965AZ.IN7",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Maternity Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Maternity Bottom-Denim",
+          "Product Color Name": "D.INDIGO",
+          "SizeDefinition": "36",
+          "Fit": "SKINNY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/20AU/M8965AZ_20AU_IN7_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#19025D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/20AU/M8965AZ_20AU_IN7_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

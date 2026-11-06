@@ -1,0 +1,115 @@
+{
+  "model_kodu": "Y7820A2",
+  "urun_grubu": "Kız Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 137,
+    "yorum_sayisi": 137,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 2.5,
+      "tam_oldu": 84.0,
+      "buyuk_geldi": 13.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-10-18",
+        "puan": 2.0,
+        "metin": "@6 12 ay aldım paketten çıkan 7 8 yaşındaki çocuğa olur yanlış ürün resmen ama kalite kalınlık güzel kızımım giymesi…"
+      },
+      {
+        "tarih": "2022-10-30",
+        "puan": 5.0,
+        "metin": "@Ürün güzel yanlız kalıbı büyük 3 4 yaş aldım 6 yaş kızım rahatlıkla giyer pamuklu yumuşacık tavsiye ederim"
+      },
+      {
+        "tarih": "2025-04-22",
+        "puan": 5.0,
+        "metin": "@Hediye aldım, beğenildi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y7820A2WT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Pamuklu Uzun Çorap Kız Bebek",
+      "kisa_aciklama": "Bebeğinizin renkli elbiseleri ile uyumlu olacağı DeFacto Kız Bebek Pamuklu Uzun Çorap.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-uzun-corap-kiz-bebek-2668477",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Y7820A2_NS_WT1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y7820A2_NS_WT1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y7820A2_NS_WT1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y7820A2_NS_WT1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y7820A2_NS_WT1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y",
+          "3-4 Y"
+        ],
+        "excel": [
+          "12-24 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 75%,Poliamid 22%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Külotlu Çorap",
+        "cinsiyet": "Kız Bebek"
+      },
+      "urun_hakkinda": [
+        "Bebeğinizin renkli elbiseleri ile uyumlu olacağı DeFacto Kız Bebek Pamuklu Uzun Çorap."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 149.99,
+        "sepette_fiyat": 89.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48511,
+          "Product Option Code": "Y7820A2.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "12-24 M",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/Y7820A2_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/Y7820A2_NS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:18:33+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

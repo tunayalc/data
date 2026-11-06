@@ -1,0 +1,549 @@
+{
+  "model_kodu": "E1207AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 32,
+    "yorum_sayisi": 32,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 27.8,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 5.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-17",
+        "puan": 5.0,
+        "metin": "@Güzel"
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Mağazada denemiştim, gayet şık ve güzel bir ürün."
+      },
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Çok güzel ama biraz yaz için kalın gibi, bahar ve sonbahar ayları için ideal."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1207AXBE250",
+      "renk_kodu": "BE250",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Regular Fıt Krinkıl Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Kırışık dokulu kumaştan üretilmiş regular fit erkek polo tişört. Kısa kollu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375847",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_BE250_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_BE250_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_BE250_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_BE250_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_BE250_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 27%,Poliester 68%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kumas": "Krinkıl",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Kırışık dokulu kumaştan üretilmiş regular fit erkek polo tişört. Kısa kollu."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10487,
+          "Product Option Code": "E1207AX.BE250",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_BE250_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375847",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566"
+        },
+        {
+          "excel_satiri": 10488,
+          "Product Option Code": "E1207AX.BE250",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_BE250_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375847",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_BE250_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E1207AXER85",
+      "renk_kodu": "ER85",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Krinkıl Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Yetişkin erkekler için özel olarak tasarlanmış Krinkıl kumaştan üretilmiş Ekru Renk Dikey Dokulu Polo tişört. Kısa kollu ve Regular Fıt…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375845",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_ER85_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_ER85_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_ER85_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_ER85_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_ER85_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 27%,Poliester 68%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kumas": "Krinkıl"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için özel olarak tasarlanmış Krinkıl kumaştan üretilmiş Ekru Renk Dikey Dokulu Polo tişört. Kısa kollu ve Regular Fıt…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10489,
+          "Product Option Code": "E1207AX.ER85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1207AX_25SM_ER85_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375845",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566"
+        },
+        {
+          "excel_satiri": 10490,
+          "Product Option Code": "E1207AX.ER85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_ER85_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 5,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375845",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566"
+        },
+        {
+          "excel_satiri": 10491,
+          "Product Option Code": "E1207AX.ER85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_ER85_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375845",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566"
+        },
+        {
+          "excel_satiri": 10492,
+          "Product Option Code": "E1207AX.ER85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_ER85_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375845",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E1207AX_25SM_ER85_01_01.jpg",
+        "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_ER85_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E1207AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fıt Krinkıl Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Yetişkin erkekler için ideal olan krinkıl kumaştan üretilmiş Lacivert Kısa Kollu Polo Tişört. Regular fit kalıbı ve dikey dokulu tasarımıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375846",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_NV64_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_NV64_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_NV64_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_NV64_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_26SM_NV64_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 27%,Poliester 68%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "kumas": "Krinkıl",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için ideal olan krinkıl kumaştan üretilmiş Lacivert Kısa Kollu Polo Tişört. Regular fit kalıbı ve dikey dokulu tasarımıyla…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10493,
+          "Product Option Code": "E1207AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_NV64_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375846",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566"
+        },
+        {
+          "excel_satiri": 10494,
+          "Product Option Code": "E1207AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_NV64_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375846",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566"
+        },
+        {
+          "excel_satiri": 10495,
+          "Product Option Code": "E1207AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_NV64_01_01.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-kisa-kollu-polo-tisort-3375846",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/E1207AX_26SM_NV64_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E1207AXNV147",
+      "renk_kodu": "NV147",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fit Krinkıl Dikey Dokulu Hafif Kumaş Polo Yaka Kısa Kollu Tişört",
+      "kisa_aciklama": "Regular fit kesimiyle rahatlık sunan krinkıl polo yaka kısa kollu tişört, şık ve sportif bir görünüm sağlar. Hafif ve nefes…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-krinkil-dikey-dokulu-hafif-kumas-polo-yaka-kisa-kollu-tisort-3339566",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E1207AX_25AU_NV147_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_25AU_NV147_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_25AU_NV147_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_25AU_NV147_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_25AU_NV147_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1207AX_25AU_NV147_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Elastan 6%,Viskoz 32%,Poliester 62%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "kumas": "Krinkıl",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimiyle rahatlık sunan krinkıl polo yaka kısa kollu tişört, şık ve sportif bir görünüm sağlar. Hafif ve nefes…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:33:36+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

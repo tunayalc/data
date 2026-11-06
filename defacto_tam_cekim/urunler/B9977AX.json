@@ -1,0 +1,86 @@
+{
+  "model_kodu": "B9977AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B9977AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2862,
+          "Product Option Code": "B9977AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9977AX_24SM_BK81_01_03.jpg",
+          "FabricDetail": "SLUBBY POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/a-kesim-v-yaka-poplin-mini-kisa-kollu-elbise-3082555",
+          "Model Page URL": "https://www.defacto.com/a-kesim-v-yaka-poplin-mini-kisa-kollu-elbise-3082555"
+        },
+        {
+          "excel_satiri": 2863,
+          "Product Option Code": "B9977AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "40",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B9977AX_24SM_BK81_01_03.jpg",
+          "FabricDetail": "SLUBBY POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/a-kesim-v-yaka-poplin-mini-kisa-kollu-elbise-3082555",
+          "Model Page URL": "https://www.defacto.com/a-kesim-v-yaka-poplin-mini-kisa-kollu-elbise-3082555"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B9977AX_24SM_BK81_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:24:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/a-kesim-v-yaka-poplin-mini-kisa-kollu-elbise-3082555",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

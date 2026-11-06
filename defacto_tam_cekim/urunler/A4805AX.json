@@ -1,0 +1,164 @@
+{
+  "model_kodu": "A4805AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 50,
+    "yorum_sayisi": 50,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 15.6,
+      "tam_oldu": 81.2,
+      "buyuk_geldi": 3.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-10-08",
+        "puan": 4.0,
+        "metin": "@Eşim için aldım kendisi beğendi kumaşı ve rengi güzel yumuşak rahat kullanışlı ve esnek bir pantolon bedeni de iyi oldu…"
+      },
+      {
+        "tarih": "2024-10-15",
+        "puan": 5.0,
+        "metin": "@190 boyunda 84 kiloyum, 32 beden aldım tam oldu. harika bir şort, çok beğendim"
+      },
+      {
+        "tarih": "2025-07-29",
+        "puan": 3.0,
+        "metin": "@800₺ etmez, boyu da uzunmuş, şort değil kapri gibi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A4805AXNM39",
+      "renk_kodu": "NM39",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Regular Fit Jean Bermuda Şort",
+      "kisa_aciklama": "Şıklığı ve rahatlığı bir arada sunan bu Regular Fit jean bermuda şort, yaz günlerinin vazgeçilmezi olacak. Denim kumaşı ve modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-jean-bermuda-sort-3208034",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A4805AX_25SM_NM39_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A4805AX_25SM_NM39_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A4805AX_25SM_NM39_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A4805AX_25SM_NM39_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A4805AX_25SM_NM39_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A4805AX_25SM_NM39_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A4805AX_25SM_NM39_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "28",
+          "30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,85cm - 98/79/96",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Şıklığı ve rahatlığı bir arada sunan bu Regular Fit jean bermuda şort, yaz günlerinin vazgeçilmezi olacak. Denim kumaşı ve modern…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 449,
+          "Product Option Code": "A4805AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/A4805AX_25SM_NM39_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-jean-bermuda-sort-3208034",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-jean-bermuda-sort-3208034"
+        },
+        {
+          "excel_satiri": 450,
+          "Product Option Code": "A4805AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/A4805AX_25SM_NM39_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-jean-bermuda-sort-3208034",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-jean-bermuda-sort-3208034"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/A4805AX_25SM_NM39_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:15:19+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

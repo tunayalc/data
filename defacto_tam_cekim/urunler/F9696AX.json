@@ -1,0 +1,126 @@
+{
+  "model_kodu": "F9696AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-14",
+        "puan": 5.0,
+        "metin": "@güzel beğendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9696AXPR307",
+      "renk_kodu": "PR307",
+      "renk_adi": "Açık Lila",
+      "renk_hex": "#F4DCF4",
+      "urun_adi": "%100 Pamuk Nefes Alabilen Boxy Fit Tişört",
+      "kisa_aciklama": "Nefes Alabilen Baskılı Tişört, özel dokulu kumaş teknolojisi sayesinde hava sirkülasyonunu maksimuma çıkararak en hareketli günlerde bile ferah kalmanızı sağlar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-nefes-alabilen-boxy-fit-tisort-3374867",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9696AX_26SP_PR307_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9696AX_26SP_PR307_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9696AX_26SP_PR307_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9696AX_26SP_PR307_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9696AX_26SP_PR307_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Boxy Fıt"
+      },
+      "urun_hakkinda": [
+        "Nefes Alabilen Baskılı Tişört, özel dokulu kumaş teknolojisi sayesinde hava sirkülasyonunu maksimuma çıkararak en hareketli günlerde bile ferah kalmanızı sağlar.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17137,
+          "Product Option Code": "F9696AX.PR307",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9696AX_26SP_PR307_01_01.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-nefes-alabilen-boxy-fit-tisort-3374867",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-nefes-alabilen-boxy-fit-tisort-3374867"
+        },
+        {
+          "excel_satiri": 17138,
+          "Product Option Code": "F9696AX.PR307",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "XS",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9696AX_26SP_PR307_01_01.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-nefes-alabilen-boxy-fit-tisort-3374867",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-nefes-alabilen-boxy-fit-tisort-3374867"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9696AX_26SP_PR307_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:54:49+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

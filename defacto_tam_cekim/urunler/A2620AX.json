@@ -1,0 +1,426 @@
+{
+  "model_kodu": "A2620AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 69,
+    "yorum_sayisi": 69,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 10.3,
+      "tam_oldu": 69.2,
+      "buyuk_geldi": 20.5
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-02-06",
+        "puan": 5.0,
+        "metin": "@L beden aldım dar geldi onu iade ettim Xl aldım bu seferde büyük geldi. modelini çok beğenmeme rağmen malesef geri…"
+      },
+      {
+        "tarih": "2024-11-22",
+        "puan": 5.0,
+        "metin": "@tam fiyat performans ürünü 1.76 boy 91 kg Lbeden güzel oldu. iç cebi var. henüz yağmurda denemedim ama üzerinizde güzel…"
+      },
+      {
+        "tarih": "2025-03-14",
+        "puan": 5.0,
+        "metin": "@ürün gerçekten güzel ve sıcak tutuyor"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A2620AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Su İtici Regular Fit Kapüşonlu Mont",
+      "kisa_aciklama": "Şık ve rahat Su İtici Regular Fit Kapüşonlu Fermuarlı Mont, tarzınıza şıklık katacak. Soğuk havalarda sizi sıcacık tutarken, şıklığınızdan ödün…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495908",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BK81_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 10%,Poliester 90%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "yaka": "Kapüşonlu",
+        "kalip": "Regular Fıt",
+        "kapama_detayi": "Fermuarlı",
+        "kol_boyu": "Uzun Kollu",
+        "dis_giyim_urun_grubu": "Mont"
+      },
+      "urun_hakkinda": [
+        "Şık ve rahat Su İtici Regular Fit Kapüşonlu Fermuarlı Mont, tarzınıza şıklık katacak. Soğuk havalarda sizi sıcacık tutarken, şıklığınızdan ödün…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "İç Cep",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/ic_ve_fonksiyonel_cep_v2_EW9BUPKA3GG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 278,
+          "Product Option Code": "A2620AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/A2620AX_26WN_BK81_01_01.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 4,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495908",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        },
+        {
+          "excel_satiri": 279,
+          "Product Option Code": "A2620AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/A2620AX_26WN_BK81_01_01.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 4,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495908",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        },
+        {
+          "excel_satiri": 280,
+          "Product Option Code": "A2620AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/A2620AX_26WN_BK81_01_01.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495908",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        },
+        {
+          "excel_satiri": 281,
+          "Product Option Code": "A2620AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/A2620AX_26WN_BK81_01_01.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495908",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        },
+        {
+          "excel_satiri": 282,
+          "Product Option Code": "A2620AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/A2620AX_26WN_BK81_01_01.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495908",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/A2620AX_26WN_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A2620AXBN314",
+      "renk_kodu": "BN314",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Su İtici Regular Fit Kapüşonlu Mont",
+      "kisa_aciklama": "Şık ve rahat Su İtici Regular Fit Kapüşonlu Fermuarlı Mont, tarzınıza şıklık katacak. Soğuk havalarda sizi sıcacık tutarken, şıklığınızdan ödün…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A2620AX_26WN_BN314_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 10%,Poliester 90%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Kapüşonlu",
+        "kol_boyu": "Uzun Kollu",
+        "dis_giyim_urun_grubu": "Mont",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kapama_detayi": "Fermuarlı"
+      },
+      "urun_hakkinda": [
+        "Şık ve rahat Su İtici Regular Fit Kapüşonlu Fermuarlı Mont, tarzınıza şıklık katacak. Soğuk havalarda sizi sıcacık tutarken, şıklığınızdan ödün…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "İç Cep",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/ic_ve_fonksiyonel_cep_v2_EW9BUPKA3GG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2999.99,
+        "sepette_fiyat": 2399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 283,
+          "Product Option Code": "A2620AX.BN314",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage420843_Version_2/A2620AX_ZMGZYFYA3GG_1.jpeg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        },
+        {
+          "excel_satiri": 284,
+          "Product Option Code": "A2620AX.BN314",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage420843_Version_2/A2620AX_ZMGZYFYA3GG_1.jpeg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        },
+        {
+          "excel_satiri": 285,
+          "Product Option Code": "A2620AX.BN314",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage420843_Version_2/A2620AX_ZMGZYFYA3GG_1.jpeg",
+          "FabricDetail": "TPU",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        },
+        {
+          "excel_satiri": 286,
+          "Product Option Code": "A2620AX.BN314",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage420843_Version_2/A2620AX_ZMGZYFYA3GG_1.jpeg",
+          "FabricDetail": "TPU",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        },
+        {
+          "excel_satiri": 287,
+          "Product Option Code": "A2620AX.BN314",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Young",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage420843_Version_2/A2620AX_ZMGZYFYA3GG_1.jpeg",
+          "FabricDetail": "TPU",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-regular-fit-kapusonlu-mont-3495907"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:20:16+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

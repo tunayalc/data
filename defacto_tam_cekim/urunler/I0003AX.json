@@ -1,0 +1,105 @@
+{
+  "model_kodu": "I0003AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-23",
+        "puan": 5.0,
+        "metin": "@nasil guzel bir toka cok hoş buna benzer bir kupeyle kombinledim cok cici oldu 🩷"
+      },
+      {
+        "tarih": "2026-09-16",
+        "puan": 5.0,
+        "metin": "@Orta boy tatlı bir toka"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0003AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Çiçekli Saç Tokası",
+      "kisa_aciklama": "Kadın saç aksesuarı. Çiçek şeklinde tasarlanmış, çok renkli ve mermer görünümlü pençe toka. Orta kısmında inci detayı bulunur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-cicekli-sac-tokasi-3478585",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0003AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0003AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0003AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0003AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0003AX_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 80%,Plastik 20%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın saç aksesuarı. Çiçek şeklinde tasarlanmış, çok renkli ve mermer görünümlü pençe toka. Orta kısmında inci detayı bulunur."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37151,
+          "Product Option Code": "I0003AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0003AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-cicekli-sac-tokasi-3478585",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-cicekli-sac-tokasi-3478585"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0003AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:39:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

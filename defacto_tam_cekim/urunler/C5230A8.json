@@ -1,0 +1,590 @@
+{
+  "model_kodu": "C5230A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Yağmurluk",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 15,
+    "yorum_sayisi": 15,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 57.1,
+      "buyuk_geldi": 14.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-10-23",
+        "puan": 5.0,
+        "metin": "@Tam göründüğü gibi, yağmurluk yazıyor ama mont, renk tonu bir tuhaf daha güzel bir renk olsaymış ama bile bile adık…"
+      },
+      {
+        "tarih": "2024-10-22",
+        "puan": 5.0,
+        "metin": "@6 yaş 20 kilo kızıma 7-8 yaş tam oldu çok beğendik yağmurluktan ziyade mont gibi alınmaya değer"
+      },
+      {
+        "tarih": "2026-02-18",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün. Ben 30 yaşında olduğum için kendime aldım, buna rağmen bedeni büyük bile olsa çok iyi…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C5230A8BK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Sıcak Tutan Kapüşonlu Suni Kürk Astarlı Çıtçıt Kapamalı Hafif Uzun Yağmurluk Kız Çocuk",
+      "kisa_aciklama": "Sıcak Tutan Siyah kapüşonlu yağmurluk. Suni kürk/peluş astarlı kapüşon kenarı. Önü çıtçıtlı pat kapamalı. Beli ayarlanabilir kuşaklı. Uzun kollu, lastikli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_BK27_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_BK27_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_BK27_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_BK27_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_BK27_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_BK27_06_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "5/6 Y",
+          "7/8 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,35cm",
+        "ana_kumas_icerigi": "Pamuk 60%,Poliamid 40%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Kapüşonlu",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kız Çocuk",
+        "kalip": "Regular Fıt",
+        "dis_giyim_urun_grubu": "Trenchcoat"
+      },
+      "urun_hakkinda": [
+        "Sıcak Tutan Siyah kapüşonlu yağmurluk. Suni kürk/peluş astarlı kapüşon kenarı. Önü çıtçıtlı pat kapamalı. Beli ayarlanabilir kuşaklı. Uzun kollu, lastikli…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4505,
+          "Product Option Code": "C5230A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_BK27_01_03.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4506,
+          "Product Option Code": "C5230A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_BK27_01_03.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4507,
+          "Product Option Code": "C5230A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_BK27_01_03.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4508,
+          "Product Option Code": "C5230A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_BK27_01_03.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4509,
+          "Product Option Code": "C5230A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_BK27_01_03.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4510,
+          "Product Option Code": "C5230A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_BK27_01_03.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_BK27_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C5230A8KH400",
+      "renk_kodu": "KH400",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "Su İtici Pelüş Astarlı Kapüşonlu Kemerli Yağmurluk Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Su İtici Kapüşonlu Yağmurluk, hafif ve dayanıklı yapısıyla yağmurlu günlerde güvenli bir koruma sağlar. Su itici kumaşıyla ıslanmaya…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-pelus-astarli-kapusonlu-kemerli-yagmurluk-kiz-cocuk-3430327",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_KH400_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_KH400_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_KH400_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_KH400_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_26AU_KH400_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "5/6 Y",
+          "7/8 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden",
+        "ana_kumas_icerigi": "Pamuk 60%,Poliamid 40%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kol_boyu": "Uzun Kollu",
+        "dis_giyim_urun_grubu": "Trenchcoat",
+        "yaka": "Kapüşonlu",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Su İtici Kapüşonlu Yağmurluk, hafif ve dayanıklı yapısıyla yağmurlu günlerde güvenli bir koruma sağlar. Su itici kumaşıyla ıslanmaya…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4511,
+          "Product Option Code": "C5230A8.KH400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_KH400_01_02.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-pelus-astarli-kapusonlu-kemerli-yagmurluk-kiz-cocuk-3430327",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4512,
+          "Product Option Code": "C5230A8.KH400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_KH400_01_02.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-pelus-astarli-kapusonlu-kemerli-yagmurluk-kiz-cocuk-3430327",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4513,
+          "Product Option Code": "C5230A8.KH400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_KH400_01_02.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-pelus-astarli-kapusonlu-kemerli-yagmurluk-kiz-cocuk-3430327",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4514,
+          "Product Option Code": "C5230A8.KH400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_KH400_01_02.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-pelus-astarli-kapusonlu-kemerli-yagmurluk-kiz-cocuk-3430327",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4515,
+          "Product Option Code": "C5230A8.KH400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_KH400_01_02.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-pelus-astarli-kapusonlu-kemerli-yagmurluk-kiz-cocuk-3430327",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        },
+        {
+          "excel_satiri": 4516,
+          "Product Option Code": "C5230A8.KH400",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Raincoat",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_KH400_01_02.jpg",
+          "FabricDetail": "SYNTHETIC",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-pelus-astarli-kapusonlu-kemerli-yagmurluk-kiz-cocuk-3430327",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-kapusonlu-suni-kurk-astarli-citcit-kapamali-hafif-uzun-yagmurluk-kiz-cocuk-3430328"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/C5230A8_26AU_KH400_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C5230A8ER2",
+      "renk_kodu": "ER2",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Su İtici Kapüşonlu Kemerli Yağmurluk Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Su İtici Kapüşonlu Yağmurluk, hafif ve dayanıklı yapısıyla yağmurlu günlerde güvenli bir koruma sağlar. Su itici kumaşıyla ıslanmaya…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-kapusonlu-kemerli-yagmurluk-kiz-cocuk-3260157",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_ER2_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,27cm",
+        "ana_kumas_icerigi": "Pamuk 60%,Poliamid 40%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "yaka": "Kapüşonlu",
+        "cinsiyet": "Kız Çocuk",
+        "dis_giyim_urun_grubu": "Trenchcoat"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Su İtici Kapüşonlu Yağmurluk, hafif ve dayanıklı yapısıyla yağmurlu günlerde güvenli bir koruma sağlar. Su itici kumaşıyla ıslanmaya…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C5230A8GN762",
+      "renk_kodu": "GN762",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "Su İtici Pelüş Astarlı Kapüşonlu Kemerli Yağmurluk Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Su İtici Kapüşonlu Yağmurluk, hafif ve dayanıklı yapısıyla yağmurlu günlerde güvenli bir koruma sağlar. Su itici kumaşıyla ıslanmaya…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-pelus-astarli-kapusonlu-kemerli-yagmurluk-kiz-cocuk-3260156",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_GN762_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_GN762_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_GN762_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_GN762_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_GN762_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C5230A8_25AU_GN762_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,27cm",
+        "ana_kumas_icerigi": "Pamuk 60%,Poliamid 40%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kız Çocuk",
+        "kalip": "Regular Fıt",
+        "dis_giyim_urun_grubu": "Trenchcoat",
+        "yaka": "Kapüşonlu"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Su İtici Kapüşonlu Yağmurluk, hafif ve dayanıklı yapısıyla yağmurlu günlerde güvenli bir koruma sağlar. Su itici kumaşıyla ıslanmaya…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:23:00+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

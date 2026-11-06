@@ -1,0 +1,123 @@
+{
+  "model_kodu": "I0109AX",
+  "urun_grubu": "Kadın Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0109AXRD59",
+      "renk_kodu": "RD59",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Pötikareli Normal Bel Gofre Dokulu Mını Kırmızı Etek",
+      "kisa_aciklama": "Pötikareli kumaştan üretilmiş normal bel ve pötikareli desenli etek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/potikareli-normal-bel-gofre-dokulu-mini-kirmizi-etek-3486142",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0109AX_26SM_RD59_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0109AX_26SM_RD59_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0109AX_26SM_RD59_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0109AX_26SM_RD59_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0109AX_26SM_RD59_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0109AX_26SM_RD59_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,76cm/90",
+        "ana_kumas_icerigi": "Pamuk 60%,Elastan 1%,Poliester 39%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Pötikareli",
+        "kumas": "Gofre Dokulu",
+        "kapama_detayi": "Kemerli",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Etek",
+        "urun_boyu": "Mını",
+        "bel_detayi": "Normal Bel"
+      },
+      "urun_hakkinda": [
+        "Pötikareli kumaştan üretilmiş normal bel ve pötikareli desenli etek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37332,
+          "Product Option Code": "I0109AX.RD59",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "38",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0109AX_26SM_RD59_01_02.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/potikareli-normal-bel-gofre-dokulu-mini-kirmizi-etek-3486142",
+          "Model Page URL": "https://www.defacto.com.tr/potikareli-normal-bel-gofre-dokulu-mini-kirmizi-etek-3486142"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0109AX_26SM_RD59_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:40:13+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D1093AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1093AXPR160",
+      "renk_kodu": "PR160",
+      "renk_adi": "VIOLET",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6317,
+          "Product Option Code": "D1093AX.PR160",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "VIOLET",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1093AX_24SM_PR160_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#EE82EE",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-kisa-kollu-tisort-3131096",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-kisa-kollu-tisort-3131096"
+        },
+        {
+          "excel_satiri": 6318,
+          "Product Option Code": "D1093AX.PR160",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "VIOLET",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1093AX_24SM_PR160_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#EE82EE",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-kisa-kollu-tisort-3131096",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-kisa-kollu-tisort-3131096"
+        },
+        {
+          "excel_satiri": 6319,
+          "Product Option Code": "D1093AX.PR160",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "VIOLET",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1093AX_24SM_PR160_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 6,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#EE82EE",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-kisa-kollu-tisort-3131096",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-kisa-kollu-tisort-3131096"
+        },
+        {
+          "excel_satiri": 6320,
+          "Product Option Code": "D1093AX.PR160",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "VIOLET",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1093AX_24SM_PR160_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#EE82EE",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-kisa-kollu-tisort-3131096",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-kisa-kollu-tisort-3131096"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1093AX_24SM_PR160_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:30:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-fitted-kisa-kollu-tisort-3131096",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

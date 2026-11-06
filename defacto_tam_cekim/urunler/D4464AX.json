@@ -1,0 +1,79 @@
+{
+  "model_kodu": "D4464AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4464AXNM18",
+      "renk_kodu": "NM18",
+      "renk_adi": "LT.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28",
+          "30"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7629,
+          "Product Option Code": "D4464AX.NM18",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "28",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4464AX_24HS_NM18_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 7630,
+          "Product Option Code": "D4464AX.NM18",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4464AX_24HS_NM18_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4464AX_24HS_NM18_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

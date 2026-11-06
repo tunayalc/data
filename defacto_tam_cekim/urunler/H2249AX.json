@@ -1,0 +1,91 @@
+{
+  "model_kodu": "H2249AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2249AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Altın Rengi 2'li Çelik Küpe",
+      "kisa_aciklama": "Kadın takı koleksiyonunuzun vazgeçilmezi olacak 1 cm boyutundaki 2'li altın rengi çelik küpe seti, şıklığı ve dayanıklılığı bir arada sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-altin-rengi-2li-celik-kupe-3428437",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H2249AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2249AX_NS_GD1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çelik 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "kumas": "Jean",
+        "taki_tipi": "Küpe",
+        "cinsiyet": "Kadın",
+        "urun_olcusu": "1 cm"
+      },
+      "urun_hakkinda": [
+        "Kadın takı koleksiyonunuzun vazgeçilmezi olacak 1 cm boyutundaki 2'li altın rengi çelik küpe seti, şıklığı ve dayanıklılığı bir arada sunar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25996,
+          "Product Option Code": "H2249AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H2249AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-altin-rengi-2li-celik-kupe-3428437",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-altin-rengi-2li-celik-kupe-3428437"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H2249AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:20:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

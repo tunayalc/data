@@ -1,0 +1,146 @@
+{
+  "model_kodu": "D9827AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 38,
+    "yorum_sayisi": 38,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 37.5,
+      "tam_oldu": 62.5,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-19",
+        "puan": 5.0,
+        "metin": "@Gerçekten harika! DeFactodan aldığım her üründen hep çok memnun kalırım, bu da aynen öyle. 180 cm boyunda ve 97 kg…"
+      },
+      {
+        "tarih": "2025-08-19",
+        "puan": 5.0,
+        "metin": "@Kalıbı ve kumaşı süper."
+      },
+      {
+        "tarih": "2025-06-10",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9827AXNM36",
+      "renk_kodu": "NM36",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Sergio Regular Fıt Normal Bel Boru Paça Jean Pantolon",
+      "kisa_aciklama": "Sergio Regular Fit jean pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Zamansız boru paça kesimi sayesinde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3374781",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9827AX_26SP_NM36_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9827AX_26SP_NM36_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9827AX_26SP_NM36_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9827AX_26SP_NM36_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9827AX_26SP_NM36_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "28-30",
+          "33-32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "paca_detayi": "Düz Paça",
+        "kalip": "Sergio Regular Fıt Normal Bel Boru Paça",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Sergio Regular Fit jean pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Zamansız boru paça kesimi sayesinde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9769,
+          "Product Option Code": "D9827AX.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "28-30",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D9827AX_26SP_NM36_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3374781",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3374781"
+        },
+        {
+          "excel_satiri": 9770,
+          "Product Option Code": "D9827AX.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "33-32",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D9827AX_26SP_NM36_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3374781",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3374781"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D9827AX_26SP_NM36_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:40:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

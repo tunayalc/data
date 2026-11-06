@@ -1,0 +1,97 @@
+{
+  "model_kodu": "H4502AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-15",
+        "puan": 5.0,
+        "metin": "@tek kelime ile muhteşem"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4502AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Taşlı Zincir Bileklik",
+      "kisa_aciklama": "Altın rengi zincir bileklik. Farklı motiflerde ve inci detaylı charm aksesuarlı. Uzatma zincirli ve istakoz kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-tasli-zincir-bileklik-3444331",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4502AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4502AX_NS_GD1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pirinç 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Bileklik",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Altın rengi zincir bileklik. Farklı motiflerde ve inci detaylı charm aksesuarlı. Uzatma zincirli ve istakoz kapamalı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29002,
+          "Product Option Code": "H4502AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H4502AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com/ar-iq/kadin-tasli-zincir-bileklik-3444331",
+          "Model Page URL": "https://www.defacto.com/ar-iq/kadin-tasli-zincir-bileklik-3444331"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H4502AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:26:13+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

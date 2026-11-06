@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D9443A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9443A8WT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "7/8 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9645,
+          "Product Option Code": "D9443A8.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9443A8_25SP_WT34_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-oversize-genis-kalip-bisiklet-yaka-baskili-uzun-kollu-tisort-kiz-cocuk-3238672",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-oversize-genis-kalip-bisiklet-yaka-baskili-uzun-kollu-tisort-kiz-cocuk-3238672"
+        },
+        {
+          "excel_satiri": 9646,
+          "Product Option Code": "D9443A8.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9443A8_25SP_WT34_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-oversize-genis-kalip-bisiklet-yaka-baskili-uzun-kollu-tisort-kiz-cocuk-3238672",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-oversize-genis-kalip-bisiklet-yaka-baskili-uzun-kollu-tisort-kiz-cocuk-3238672"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D9443A8_25SP_WT34_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:40:13+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-oversize-genis-kalip-bisiklet-yaka-baskili-uzun-kollu-tisort-kiz-cocuk-3238672",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

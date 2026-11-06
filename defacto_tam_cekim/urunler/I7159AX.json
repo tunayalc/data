@@ -1,0 +1,91 @@
+{
+  "model_kodu": "I7159AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I7159AXBN1",
+      "renk_kodu": "BN1",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Kadın 2'li Taş Detaylı Küpe Seti",
+      "kisa_aciklama": "Metal çerçeveli ve reçine taş görünümlü organik formlu çivi küpe ile mineli yarım halka küpeden oluşan ikili küpe paketi.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-tas-detayli-kupe-seti-3524463",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I7159AX_NS_BN1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I7159AX_NS_BN1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Reçine 20%,Çinko 80%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "urun_olcusu": "1 cm",
+        "cinsiyet": "Kadın",
+        "kumas": "Jean",
+        "taki_tipi": "Küpe"
+      },
+      "urun_hakkinda": [
+        "Metal çerçeveli ve reçine taş görünümlü organik formlu çivi küpe ile mineli yarım halka küpeden oluşan ikili küpe paketi."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44339,
+          "Product Option Code": "I7159AX.BN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I7159AX_NS_BN1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 5,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-2li-tas-detayli-kupe-seti-3524463",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-2li-tas-detayli-kupe-seti-3524463"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I7159AX_NS_BN1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:52:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

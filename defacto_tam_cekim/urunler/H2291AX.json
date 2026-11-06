@@ -1,0 +1,186 @@
+{
+  "model_kodu": "H2291AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@Çok güzel üründü teşekkür ederim"
+      },
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@fiyat performans ürünü"
+      },
+      {
+        "tarih": "2026-08-26",
+        "puan": 4.0,
+        "metin": "@Önü kısa"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2291AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Boxy Fıt Baskılı Uzun Kollu Çizgili Gömlek",
+      "kisa_aciklama": "Boxy Fit kesim uzun kollu klasik yaka çizgili gömlek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/boxy-fit-baskili-uzun-kollu-cizgili-gomlek-3516618",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H2291AX_26AU_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2291AX_26AU_ER105_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 30%,Viskoz 50%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas_kalinligi": "İnce",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "desen": "Baskılı",
+        "kalip": "Boxy Fıt",
+        "yaka": "Gömlek Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Boxy Fit kesim uzun kollu klasik yaka çizgili gömlek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 26021,
+          "Product Option Code": "H2291AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H2291AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/boxy-fit-baskili-uzun-kollu-cizgili-gomlek-3516618",
+          "Model Page URL": "https://www.defacto.com.tr/boxy-fit-baskili-uzun-kollu-cizgili-gomlek-3516618"
+        },
+        {
+          "excel_satiri": 26022,
+          "Product Option Code": "H2291AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H2291AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/boxy-fit-baskili-uzun-kollu-cizgili-gomlek-3516618",
+          "Model Page URL": "https://www.defacto.com.tr/boxy-fit-baskili-uzun-kollu-cizgili-gomlek-3516618"
+        },
+        {
+          "excel_satiri": 26023,
+          "Product Option Code": "H2291AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H2291AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/boxy-fit-baskili-uzun-kollu-cizgili-gomlek-3516618",
+          "Model Page URL": "https://www.defacto.com.tr/boxy-fit-baskili-uzun-kollu-cizgili-gomlek-3516618"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H2291AX_26SP_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:20:38+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

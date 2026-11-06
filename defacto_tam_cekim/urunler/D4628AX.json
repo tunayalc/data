@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D4628AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4628AXGN994",
+      "renk_kodu": "GN994",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7718,
+          "Product Option Code": "D4628AX.GN994",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT-NBA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4628AX_24HS_GN994_01_02.jpg",
+          "FabricDetail": "TERRY COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-gomlek-3152593",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-gomlek-3152593"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4628AX_24HS_GN994_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:34:58+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-uzun-kollu-gomlek-3152593",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "model_kodu": "X0356A6",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 18,
+    "yorum_sayisi": 18,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 21.4,
+      "tam_oldu": 78.6,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@Oğlum için aldım, çok beğendi."
+      },
+      {
+        "tarih": "2025-07-08",
+        "puan": 5.0,
+        "metin": "@Takım olarak aldım, çok güzel."
+      },
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@Çok güzel, beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "X0356A6BK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Marvel Spiderman Pamuklu Cap Şapka Erkek Çocuk",
+      "kisa_aciklama": "Marvel Spiderman baskılı bu erkek çocuk pamuklu cap şapka, hafif ve rahat yapısıyla günlük kullanımda konfor sağlar. Eğlenceli tasarımıyla stilinizi…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/marvel-spiderman-pamuklu-cap-sapka-erkek-cocuk-3209178",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/X0356A6_25SM_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X0356A6_25SM_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X0356A6_25SM_BK27_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X0356A6_25SM_BK27_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X0356A6_25SM_BK27_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X0356A6_25SM_BK27_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X0356A6_25SM_BK27_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X0356A6_25SM_BK27_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "5-9 Yaş Beden - 1,44cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "54 cm",
+        "kumas": "Pamuklu",
+        "lisans_bilgisi": "Marvel Spıderman",
+        "sapka_tipi": "Cap Şapka",
+        "cinsiyet": "Erkek Çocuk"
+      },
+      "urun_hakkinda": [
+        "Marvel Spiderman baskılı bu erkek çocuk pamuklu cap şapka, hafif ve rahat yapısıyla günlük kullanımda konfor sağlar. Eğlenceli tasarımıyla stilinizi…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 139.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47446,
+          "Product Option Code": "X0356A6.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/X0356A6_26SM_BK27_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 79.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/marvel-spiderman-pamuklu-cap-sapka-erkek-cocuk-3209178",
+          "Model Page URL": "https://www.defacto.com.tr/marvel-spiderman-pamuklu-cap-sapka-erkek-cocuk-3209178"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/X0356A6_26SM_BK27_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:55:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

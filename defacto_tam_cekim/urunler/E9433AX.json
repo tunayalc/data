@@ -1,0 +1,899 @@
+{
+  "model_kodu": "E9433AX",
+  "urun_grubu": "Erkek Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 46,
+    "yorum_sayisi": 46,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 36.7,
+      "tam_oldu": 60.0,
+      "buyuk_geldi": 3.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-27",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi bir ürün."
+      },
+      {
+        "tarih": "2026-06-11",
+        "puan": 5.0,
+        "metin": "@Harika! Oğlum çok beğendi, severek giyiyor."
+      },
+      {
+        "tarih": "2026-01-08",
+        "puan": 5.0,
+        "metin": "@Defactonun kalitesi gayet iyi. Kendi bedeninizi alın. Fiyatına göre de gayet uygun. Ürün çok güzel. DeFacto kalitesi de ortada."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E9433AXAR212",
+      "renk_kodu": "AR212",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Wide Leg Cepli Geniş Paça Dokulu Eşofman Altı",
+      "kisa_aciklama": "Wide leg cepli eşofman altı, geniş paça kesimiyle modern ve rahat bir stil sunar. Yumuşak kumaşı ve kullanışlı cepleriyle günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3363352",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_AR212_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_AR212_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_AR212_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_AR212_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_AR212_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Viskoz 28%,Poliester 72%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "paca_detayi": "Geniş Paça",
+        "kalip": "Wıde Leg",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Wide leg cepli eşofman altı, geniş paça kesimiyle modern ve rahat bir stil sunar. Yumuşak kumaşı ve kullanışlı cepleriyle günlük…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12975,
+          "Product Option Code": "E9433AX.AR212",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "L",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_AR212_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3363352",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12976,
+          "Product Option Code": "E9433AX.AR212",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_AR212_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3363352",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12977,
+          "Product Option Code": "E9433AX.AR212",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_AR212_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3363352",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12978,
+          "Product Option Code": "E9433AX.AR212",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "XS",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_AR212_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3363352",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_AR212_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E9433AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Relax Fıt Cepli Geniş Paça Uzun Boy Pantolon",
+      "kisa_aciklama": "Rahat kesimi ve geniş paça tasarımıyla gün boyu konfor sunan Relax Fit Cepli Geniş Paça Uzun Boy Pantolon, modern bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479767",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Viskoz 26%,Poliester 74%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Relax Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "paca_detayi": "Geniş Paça",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Rahat kesimi ve geniş paça tasarımıyla gün boyu konfor sunan Relax Fit Cepli Geniş Paça Uzun Boy Pantolon, modern bir…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12979,
+          "Product Option Code": "E9433AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479767",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12980,
+          "Product Option Code": "E9433AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479767",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12981,
+          "Product Option Code": "E9433AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479767",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12982,
+          "Product Option Code": "E9433AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_BK81_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479767",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12983,
+          "Product Option Code": "E9433AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479767",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12984,
+          "Product Option Code": "E9433AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_BK81_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479767",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_BK81_01_03.jpg",
+        "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_BK81_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E9433AXBN337",
+      "renk_kodu": "BN337",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Wide Leg Cepli Geniş Paça Dokulu Eşofman Altı",
+      "kisa_aciklama": "Wide leg cepli eşofman altı, geniş paça kesimiyle modern ve rahat bir stil sunar. Yumuşak kumaşı ve kullanışlı cepleriyle günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN337_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN337_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN337_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN337_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN337_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/72/92",
+        "ana_kumas_icerigi": "Viskoz 28%,Poliester 72%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Wıde Leg",
+        "paca_detayi": "Geniş Paça",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Wide leg cepli eşofman altı, geniş paça kesimiyle modern ve rahat bir stil sunar. Yumuşak kumaşı ve kullanışlı cepleriyle günlük…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12985,
+          "Product Option Code": "E9433AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_BN337_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12986,
+          "Product Option Code": "E9433AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_BN337_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12987,
+          "Product Option Code": "E9433AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_BN337_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_BN337_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E9433AXBN571",
+      "renk_kodu": "BN571",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Wide Leg Cepli Geniş Paça Dokulu Eşofman Altı",
+      "kisa_aciklama": "Wide leg cepli eşofman altı, geniş paça kesimiyle modern ve rahat bir stil sunar. Yumuşak kumaşı ve kullanışlı cepleriyle günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-esofman-alti-3284743",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_BN571_10_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Viskoz 23%,Poliester 77%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "paca_detayi": "Geniş Paça",
+        "cinsiyet": "Erkek",
+        "kalip": "Wıde Leg"
+      },
+      "urun_hakkinda": [
+        "Wide leg cepli eşofman altı, geniş paça kesimiyle modern ve rahat bir stil sunar. Yumuşak kumaşı ve kullanışlı cepleriyle günlük…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12988,
+          "Product Option Code": "E9433AX.BN571",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_BN571_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com/fr-ma/wide-leg-esofman-alti-3284743",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_BN571_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E9433AXGR536",
+      "renk_kodu": "GR536",
+      "renk_adi": "Açık Gri",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Relax Fıt Cepli Geniş Paça Uzun Boy Pantolon",
+      "kisa_aciklama": "Rahat kesimi ve geniş paça tasarımıyla gün boyu konfor sunan Relax Fit Cepli Geniş Paça Uzun Boy Pantolon, modern bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479768",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_GR536_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_GR536_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_GR536_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_GR536_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_GR536_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_26AU_GR536_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Viskoz 26%,Poliester 74%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "paca_detayi": "Geniş Paça",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Rahat kesimi ve geniş paça tasarımıyla gün boyu konfor sunan Relax Fit Cepli Geniş Paça Uzun Boy Pantolon, modern bir…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12989,
+          "Product Option Code": "E9433AX.GR536",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_GR536_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479768",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12990,
+          "Product Option Code": "E9433AX.GR536",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_GR536_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479768",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12991,
+          "Product Option Code": "E9433AX.GR536",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_GR536_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479768",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12992,
+          "Product Option Code": "E9433AX.GR536",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "XS",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_GR536_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3479768",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/E9433AX_26AU_GR536_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E9433AXNV253",
+      "renk_kodu": "NV253",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Wide Leg Cepli Geniş Paça Dokulu Eşofman Altı",
+      "kisa_aciklama": "Wide leg cepli eşofman altı, geniş paça kesimiyle modern ve rahat bir stil sunar. Yumuşak kumaşı ve kullanışlı cepleriyle günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3363351",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_NV253_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_NV253_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_NV253_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_NV253_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9433AX_25AU_NV253_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Viskoz 28%,Poliester 72%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Geniş Paça",
+        "kalip": "Wıde Leg",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Wide leg cepli eşofman altı, geniş paça kesimiyle modern ve rahat bir stil sunar. Yumuşak kumaşı ve kullanışlı cepleriyle günlük…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12993,
+          "Product Option Code": "E9433AX.NV253",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_NV253_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 0,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3363351",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12994,
+          "Product Option Code": "E9433AX.NV253",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_NV253_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3363351",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        },
+        {
+          "excel_satiri": 12995,
+          "Product Option Code": "E9433AX.NV253",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XS",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_NV253_01_01.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3363351",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-cepli-genis-paca-pantolon-3358151"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E9433AX_25AU_NV253_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:48:04+03:00",
+    "denenen_sayfa": 6,
+    "dogrulanan_renk": 6
+  }
+}

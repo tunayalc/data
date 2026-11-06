@@ -1,0 +1,140 @@
+{
+  "model_kodu": "F8437A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 75.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-15",
+        "puan": 2.0,
+        "metin": "@Ürünü slim fit olduğu için tercih etmiştim ama beli aşırı büyük. Normalde de çoğu zaman lastik kısmını kullanırız ama bunda…"
+      },
+      {
+        "tarih": "2026-04-06",
+        "puan": 5.0,
+        "metin": "@bel kısmı uzun , mağazadan değişim yapabilirim umarım"
+      },
+      {
+        "tarih": "2026-04-09",
+        "puan": 5.0,
+        "metin": "@Çok güzel oğlum da bende çok begendik"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8437A8NM29",
+      "renk_kodu": "NM29",
+      "renk_adi": "Açık Yeşil",
+      "renk_hex": "#B4EC9A",
+      "urun_adi": "Hareket Özgürlüğü Sunan Esnek Dar Kesim Jean Pantolon Erkek Çocuk",
+      "kisa_aciklama": "Modern ve şık görünümünden ödün vermeyen, ancak esnek dokusu sayesinde vücudu asla kısıtlamayan tasarım. Çocuklar için özel olarak rahatlatılmış dar…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/hareket-ozgurlugu-sunan-esnek-dar-kesim-jean-pantolon-erkek-cocuk-3375059",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8437A8_26SM_NM29_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8437A8_26SM_NM29_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8437A8_26SM_NM29_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8437A8_26SM_NM29_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8437A8_26SM_NM29_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "5/6 Y",
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 69%,Elastan 1%,Poliester 30%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "cinsiyet": "Erkek Çocuk",
+        "kalip": "Slım Fıt",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Modern ve şık görünümünden ödün vermeyen, ancak esnek dokusu sayesinde vücudu asla kısıtlamayan tasarım. Çocuklar için özel olarak rahatlatılmış dar…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16308,
+          "Product Option Code": "F8437A8.NM29",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/F8437A8_26SM_NM29_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/hareket-ozgurlugu-sunan-esnek-dar-kesim-jean-pantolon-erkek-cocuk-3375059",
+          "Model Page URL": "https://www.defacto.com.tr/hareket-ozgurlugu-sunan-esnek-dar-kesim-jean-pantolon-erkek-cocuk-3375059"
+        },
+        {
+          "excel_satiri": 16309,
+          "Product Option Code": "F8437A8.NM29",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/F8437A8_26SM_NM29_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com.tr/hareket-ozgurlugu-sunan-esnek-dar-kesim-jean-pantolon-erkek-cocuk-3375059",
+          "Model Page URL": "https://www.defacto.com.tr/hareket-ozgurlugu-sunan-esnek-dar-kesim-jean-pantolon-erkek-cocuk-3375059"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/F8437A8_26SM_NM29_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:55:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

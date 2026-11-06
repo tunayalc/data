@@ -1,0 +1,1165 @@
+{
+  "model_kodu": "F6129AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 39,
+    "yorum_sayisi": 39,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 59.1,
+      "tam_oldu": 40.9,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok beğendim, bedenime tam oturdu. Süsleyince de çok iyi oluyor. Fiyatı da gayet uygun. Harika! Çok teşekkür ederim!."
+      },
+      {
+        "tarih": "2026-03-03",
+        "puan": 1.0,
+        "metin": "@Ürünün bel kısmı çok dar ona göre almalısınız. 30 beden aldım belimden geçmedi normalde 30 giyiyorum değişiklik yaptım 32 aldım…"
+      },
+      {
+        "tarih": "2026-03-27",
+        "puan": 5.0,
+        "metin": "@Bildiğimiz normal pantolonlardan farklı ama hoş bir havası var benim hoşuma gitti"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F6129AXAR221",
+      "renk_kodu": "AR221",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Baggy Fit Fit Normal Bel Geniş Paça Pantolon",
+      "kisa_aciklama": "Baggy Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca kombinleyebileceğiniz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377010",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_AR221_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_AR221_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_AR221_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_AR221_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_AR221_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "30",
+          "32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,87cm - 77/95/93",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Baggy Fıt"
+      },
+      "urun_hakkinda": [
+        "Baggy Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca kombinleyebileceğiniz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15209,
+          "Product Option Code": "F6129AX.AR221",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_AR221_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377010",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15210,
+          "Product Option Code": "F6129AX.AR221",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "32",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_AR221_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377010",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_AR221_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F6129AXBG766",
+      "renk_kodu": "BG766",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Baggy Fit Fit Normal Bel Geniş Paça Pantolon",
+      "kisa_aciklama": "Baggy Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca kombinleyebileceğiniz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377012",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BG766_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BG766_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BG766_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BG766_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BG766_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "28",
+          "32",
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,87cm - 77/95/93",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Baggy Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Baggy Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca kombinleyebileceğiniz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15211,
+          "Product Option Code": "F6129AX.BG766",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "28",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_BG766_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377012",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15212,
+          "Product Option Code": "F6129AX.BG766",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "32",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_BG766_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377012",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15213,
+          "Product Option Code": "F6129AX.BG766",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "34",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_BG766_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377012",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_BG766_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F6129AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Baggy Fit Pamuklu Normal Bel Pantolon",
+      "kisa_aciklama": "Baggy Pamuklu Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510329",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_BK81_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "paca_detayi": "Geniş Paça",
+        "bel_detayi": "Normal Bel",
+        "kumas": "Pamuklu",
+        "kalip": "Baggy Fıt"
+      },
+      "urun_hakkinda": [
+        "Baggy Pamuklu Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15214,
+          "Product Option Code": "F6129AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "28",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510329",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15215,
+          "Product Option Code": "F6129AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510329",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15216,
+          "Product Option Code": "F6129AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "32",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510329",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15217,
+          "Product Option Code": "F6129AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510329",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15218,
+          "Product Option Code": "F6129AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510329",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_BK81_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F6129AXBN337",
+      "renk_kodu": "BN337",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Baggy Fit Fit Normal Bel Geniş Paça Pantolon",
+      "kisa_aciklama": "Baggy Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca kombinleyebileceğiniz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377011",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BN337_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BN337_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BN337_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BN337_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BN337_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BN337_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BN337_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BN337_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26SP_BN337_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "30",
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Baggy Fıt"
+      },
+      "urun_hakkinda": [
+        "Baggy Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca kombinleyebileceğiniz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15219,
+          "Product Option Code": "F6129AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_BN337_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377011",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15220,
+          "Product Option Code": "F6129AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "34",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_BN337_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-fit-normal-bel-genis-paca-pantolon-3377011",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F6129AX_26SP_BN337_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F6129AXGR302",
+      "renk_kodu": "GR302",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Baggy Fit Bileğe Doğru Daralan Bol Paça Gabardın Pantolon",
+      "kisa_aciklama": "Baggy Gabardın Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340261",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_GR302_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_GR302_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_GR302_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_GR302_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_GR302_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_GR302_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "excel": [
+          "32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,85cm - 93/72/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Geniş Paça",
+        "cinsiyet": "Erkek",
+        "kumas": "Gabardin",
+        "kalip": "Baggy Fıt"
+      },
+      "urun_hakkinda": [
+        "Baggy Gabardın Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15221,
+          "Product Option Code": "F6129AX.GR302",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "32",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F6129AX_25AU_GR302_01_01.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/ar-iq/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340261",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F6129AX_25AU_GR302_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F6129AXGR536",
+      "renk_kodu": "GR536",
+      "renk_adi": "Açık Gri",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Baggy Fit Pamuklu Normal Bel Pantolon",
+      "kisa_aciklama": "Baggy Pamuklu Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510328",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_GR536_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_GR536_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_GR536_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_GR536_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_GR536_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_GR536_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "bel_detayi": "Normal Bel",
+        "kumas": "Pamuklu",
+        "paca_detayi": "Geniş Paça",
+        "cinsiyet": "Erkek",
+        "kalip": "Baggy Fıt"
+      },
+      "urun_hakkinda": [
+        "Baggy Pamuklu Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15222,
+          "Product Option Code": "F6129AX.GR536",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "28",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_GR536_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510328",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15223,
+          "Product Option Code": "F6129AX.GR536",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_GR536_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510328",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15224,
+          "Product Option Code": "F6129AX.GR536",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "32",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_GR536_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510328",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15225,
+          "Product Option Code": "F6129AX.GR536",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "34",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_GR536_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510328",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15226,
+          "Product Option Code": "F6129AX.GR536",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "36",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_GR536_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510328",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_GR536_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F6129AXKH401",
+      "renk_kodu": "KH401",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Baggy Fit Bileğe Doğru Daralan Bol Paça Gabardın Pantolon",
+      "kisa_aciklama": "Baggy Gabardın Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_KH401_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_KH401_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_KH401_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_KH401_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_KH401_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_25AU_KH401_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "excel": [
+          "30",
+          "32",
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,85cm - 93/72/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Baggy Fıt",
+        "paca_detayi": "Geniş Paça",
+        "cinsiyet": "Erkek",
+        "kumas": "Gabardin"
+      },
+      "urun_hakkinda": [
+        "Baggy Gabardın Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15227,
+          "Product Option Code": "F6129AX.KH401",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F6129AX_25AU_KH401_01_01.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15228,
+          "Product Option Code": "F6129AX.KH401",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "32",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F6129AX_25AU_KH401_01_01.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15229,
+          "Product Option Code": "F6129AX.KH401",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "34",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F6129AX_25AU_KH401_01_01.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F6129AX_25AU_KH401_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F6129AXKH422",
+      "renk_kodu": "KH422",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "Baggy Fit Pamuklu Normal Bel Pantolon",
+      "kisa_aciklama": "Baggy Pamuklu Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510327",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_KH422_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_KH422_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_KH422_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_KH422_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_KH422_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6129AX_26AU_KH422_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "28 Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "bel_detayi": "Normal Bel",
+        "cinsiyet": "Erkek",
+        "kalip": "Baggy Fıt",
+        "kumas": "Pamuklu",
+        "paca_detayi": "Geniş Paça"
+      },
+      "urun_hakkinda": [
+        "Baggy Pamuklu Pantolon, geniş kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Geniş paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15230,
+          "Product Option Code": "F6129AX.KH422",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "28",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_KH422_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510327",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15231,
+          "Product Option Code": "F6129AX.KH422",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "30",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_KH422_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510327",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15232,
+          "Product Option Code": "F6129AX.KH422",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "32",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_KH422_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510327",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15233,
+          "Product Option Code": "F6129AX.KH422",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "34",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_KH422_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510327",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        },
+        {
+          "excel_satiri": 15234,
+          "Product Option Code": "F6129AX.KH422",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "36",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_KH422_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-pamuklu-normal-bel-pantolon-3510327",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-bilege-dogru-daralan-bol-paca-gabardin-pantolon-3340263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/F6129AX_26AU_KH422_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:48:17+03:00",
+    "denenen_sayfa": 8,
+    "dogrulanan_renk": 8
+  }
+}

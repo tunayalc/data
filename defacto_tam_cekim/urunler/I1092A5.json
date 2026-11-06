@@ -1,0 +1,114 @@
+{
+  "model_kodu": "I1092A5",
+  "urun_grubu": "Kız Bebek Bere",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1092A5OG266",
+      "renk_kodu": "OG266",
+      "renk_adi": "Turuncu",
+      "renk_hex": "#FFA500",
+      "urun_adi": "Desenli 2'li Penye Bere Kız Bebek",
+      "kisa_aciklama": "Penye kumaştan üretilmiş kız bebek bere.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/desenli-2li-penye-bere-kiz-bebek-3486141",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1092A5_26WN_OG266_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1092A5_26WN_OG266_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1092A5_26WN_OG266_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "3-6 Ay (68cm)"
+        ],
+        "excel": [
+          "3-6 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 95%,Elastan 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Kız Bebek",
+        "sapka_tipi": "Bere",
+        "urun_tipi": "Bere"
+      },
+      "urun_hakkinda": [
+        "Penye kumaştan üretilmiş kız bebek bere."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38681,
+          "Product Option Code": "I1092A5.OG266",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Beret",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "3-6 M",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/I1092A5_26WN_OG266_01_01.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "https://www.defacto.com.tr/desenli-2li-penye-bere-kiz-bebek-3486141",
+          "Model Page URL": "https://www.defacto.com.tr/desenli-2li-penye-bere-kiz-bebek-3486141"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/I1092A5_26WN_OG266_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:52:54+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

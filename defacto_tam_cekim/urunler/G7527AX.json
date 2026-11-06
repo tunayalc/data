@@ -1,0 +1,419 @@
+{
+  "model_kodu": "G7527AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-29",
+        "puan": 5.0,
+        "metin": "@bedeni gayet güzel"
+      },
+      {
+        "tarih": "2026-08-26",
+        "puan": 5.0,
+        "metin": "@normal beden alınmalı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7527AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk Regular Fıt Bisiklet Yaka Kısa Kollu Tişört",
+      "kisa_aciklama": "Regular fit erkek tişört. Bisiklet yaka ve kısa kollu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_BK81_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular fit erkek tişört. Bisiklet yaka ve kısa kollu."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21256,
+          "Product Option Code": "G7527AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_BK81_01_02.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        },
+        {
+          "excel_satiri": 21257,
+          "Product Option Code": "G7527AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_BK81_01_02.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        },
+        {
+          "excel_satiri": 21258,
+          "Product Option Code": "G7527AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_BK81_01_02.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 4,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G7527AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "%100 Pamuk Regular Fıt Bisiklet Yaka Kısa Kollu Tişört",
+      "kisa_aciklama": "Regular fit erkek tişört. Bisiklet yaka ve kısa kollu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434298",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_WT32_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_WT32_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_WT32_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_WT32_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_WT32_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_WT32_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7527AX_26SM_WT32_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit erkek tişört. Bisiklet yaka ve kısa kollu."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21259,
+          "Product Option Code": "G7527AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "3XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434298",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        },
+        {
+          "excel_satiri": 21260,
+          "Product Option Code": "G7527AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434298",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        },
+        {
+          "excel_satiri": 21261,
+          "Product Option Code": "G7527AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 6,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434298",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        },
+        {
+          "excel_satiri": 21262,
+          "Product Option Code": "G7527AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434298",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        },
+        {
+          "excel_satiri": 21263,
+          "Product Option Code": "G7527AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434298",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        },
+        {
+          "excel_satiri": 21264,
+          "Product Option Code": "G7527AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434298",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        },
+        {
+          "excel_satiri": 21265,
+          "Product Option Code": "G7527AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY JAQUARED",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434298",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434297"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G7527AX_26SM_WT32_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:06:59+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

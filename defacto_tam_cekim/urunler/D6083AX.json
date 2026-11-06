@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D6083AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D6083AXBG721",
+      "renk_kodu": "BG721",
+      "renk_adi": "STONE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8166,
+          "Product Option Code": "D6083AX.BG721",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Vest",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/D6083AX_25AU_BG721_01_05.jpg",
+          "FabricDetail": "SOFT SHELL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/su-itici-slim-fit-kapusonlu-fermuarli-sporcu-softshell-yelek-3320676",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/su-itici-slim-fit-kapusonlu-fermuarli-sporcu-softshell-yelek-3320676"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/D6083AX_25AU_BG721_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:36:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/su-itici-slim-fit-kapusonlu-fermuarli-sporcu-softshell-yelek-3320676",
+      "http": 200,
+      "durum": "Sayfada bu modelin ürün kodu bulunamadı"
+    }
+  ]
+}

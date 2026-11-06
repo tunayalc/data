@@ -1,0 +1,57 @@
+{
+  "model_kodu": "Y7731AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y7731AZBG58",
+      "renk_kodu": "BG58",
+      "renk_adi": "VISON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "90"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48508,
+          "Product Option Code": "Y7731AZ.BG58",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/Y7731AZ_NS_BG58_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 69.99,
+          "Actual Price Value": 19.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/Y7731AZ_NS_BG58_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "model_kodu": "E0978AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0978AXPR455",
+      "renk_kodu": "PR455",
+      "renk_adi": "PURPLE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10392,
+          "Product Option Code": "E0978AX.PR455",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimming Short",
+          "Product Color Name": "PURPLE",
+          "SizeDefinition": "L",
+          "Fit": "NATHAN",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/E0978AX_25HS_PR455_01_01.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-file-astarli-diz-ustu-deniz-sortu-3480833"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/E0978AX_25HS_PR455_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0978AXTR307",
+      "renk_kodu": "TR307",
+      "renk_adi": "MINT",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10393,
+          "Product Option Code": "E0978AX.TR307",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimming Short",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "L",
+          "Fit": "NATHAN",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/E0978AX_25HS_TR307_01_01.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-file-astarli-diz-ustu-deniz-sortu-3480833",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/regular-fit-file-astarli-diz-ustu-deniz-sortu-3480833"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/E0978AX_25HS_TR307_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:41:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-file-astarli-diz-ustu-deniz-sortu-3480833",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

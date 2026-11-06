@@ -1,0 +1,156 @@
+{
+  "model_kodu": "E0781AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 14,
+    "yorum_sayisi": 14,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 62.5,
+      "buyuk_geldi": 12.5
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-07",
+        "puan": 5.0,
+        "metin": "@Aynısının siyahı vardı şimdi lacivertini aldım. Çok güzel duran bi pantolon. Ben sık kullanıyorum bi kac ay sonra pamuklamasi oluyor…"
+      },
+      {
+        "tarih": "2025-10-22",
+        "puan": 5.0,
+        "metin": "@Pantolonun kumaşı o kadar rahat ki, modeli de o kadar düzgün ki tam da istediğim gibi oldu. Lacivert rengini de…"
+      },
+      {
+        "tarih": "2025-11-22",
+        "puan": 5.0,
+        "metin": "@Rengi fotoğraftaki gibi değil, bayağı güzel. Paçaları uzun değil, boyum 172 cmye uzun geldi. Çok beğendim. Güzel bir pantolon, gayet…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0781AXNV251",
+      "renk_kodu": "NV251",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Straight Wide Basıc Pantolon",
+      "kisa_aciklama": "Yetişkin kadınlar için özel olarak tasarlanan Traditional markalı Lacivert kemerli pantolon. Kalıp olarak Straight Wide tercih edilmiştir. İlkbahar/Yaz sezonu için…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-wide-basic-pantolon-3297958",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0781AX_25SP_NV251_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0781AX_25SP_NV251_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0781AX_25SP_NV251_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0781AX_25SP_NV251_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,77cm - 82/60/91",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kapama_detayi": "Kemerli"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için özel olarak tasarlanan Traditional markalı Lacivert kemerli pantolon. Kalıp olarak Straight Wide tercih edilmiştir. İlkbahar/Yaz sezonu için…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10317,
+          "Product Option Code": "E0781AX.NV251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "STRAIGHT WIDE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E0781AX_25SP_NV251_01_04.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/straight-wide-basic-pantolon-3297958",
+          "Model Page URL": "https://www.defacto.com.tr/straight-wide-basic-pantolon-3297958"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E0781AX_25SP_NV251_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0781AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10316,
+          "Product Option Code": "E0781AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "STRAIGHT WIDE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E0781AX_25SP_BK81_01_03.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/straight-wide-basic-pantolon-3297958"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E0781AX_25SP_BK81_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:41:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

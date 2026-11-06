@@ -1,0 +1,112 @@
+{
+  "model_kodu": "I1012A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-03",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-16",
+        "puan": 5.0,
+        "metin": "@Rengini kumaşı çok beğendik."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1012A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Minecraft Lisanslı 3'lü Pamuklu Patik Karma Çorap Erkek Çocuk",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 3'Lü set. Minecraft lisanslı ürün.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/minecraft-lisansli-3lu-pamuklu-patik-karma-corap-erkek-cocuk-3484634",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1012A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1012A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1012A8_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1012A8_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1012A8_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 73%,Poliamid 25%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "lisans_bilgisi": "Minecraft",
+        "urun_tipi": "Kısa Çorap",
+        "cinsiyet": "Erkek Çocuk",
+        "corap_tipi": "Patik Çorap",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 3'Lü set. Minecraft lisanslı ürün."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 79.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38537,
+          "Product Option Code": "I1012A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1012A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/minecraft-lisansli-3lu-pamuklu-patik-karma-corap-erkek-cocuk-3484634",
+          "Model Page URL": "https://www.defacto.com.tr/minecraft-lisansli-3lu-pamuklu-patik-karma-corap-erkek-cocuk-3484634"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1012A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:42:08+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

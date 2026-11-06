@@ -1,0 +1,108 @@
+{
+  "model_kodu": "X6888AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "X6888AZGN311",
+      "renk_kodu": "GN311",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47762,
+          "Product Option Code": "X6888AZ.GN311",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/X6888AZ_24WN_GN311_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 5,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com/fr-ma/slim-fit-dar-kesim-cizgili-bisiklet-yaka-triko-kazak-3129266",
+          "Model Page URL": "https://www.defacto.com/fr-ma/slim-fit-dar-kesim-cizgili-bisiklet-yaka-triko-kazak-3129266"
+        },
+        {
+          "excel_satiri": 47763,
+          "Product Option Code": "X6888AZ.GN311",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/X6888AZ_24WN_GN311_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com/fr-ma/slim-fit-dar-kesim-cizgili-bisiklet-yaka-triko-kazak-3129266",
+          "Model Page URL": "https://www.defacto.com/fr-ma/slim-fit-dar-kesim-cizgili-bisiklet-yaka-triko-kazak-3129266"
+        },
+        {
+          "excel_satiri": 47764,
+          "Product Option Code": "X6888AZ.GN311",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/X6888AZ_24WN_GN311_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com/fr-ma/slim-fit-dar-kesim-cizgili-bisiklet-yaka-triko-kazak-3129266",
+          "Model Page URL": "https://www.defacto.com/fr-ma/slim-fit-dar-kesim-cizgili-bisiklet-yaka-triko-kazak-3129266"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/X6888AZ_24WN_GN311_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:55:41+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/slim-fit-dar-kesim-cizgili-bisiklet-yaka-triko-kazak-3129266",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

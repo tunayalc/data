@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D0020AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D0020AXRD59",
+      "renk_kodu": "RD59",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5903,
+          "Product Option Code": "D0020AX.RD59",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "RED",
+          "SizeDefinition": "40",
+          "Fit": "WRAP",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D0020AX_24SM_RD59_01_02.jpg",
+          "FabricDetail": "LINEN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/askili-askili-elbise-3135520",
+          "Model Page URL": "https://www.defacto.com/askili-askili-elbise-3135520"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D0020AX_24SM_RD59_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:29:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/askili-askili-elbise-3135520",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

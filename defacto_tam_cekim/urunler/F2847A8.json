@@ -1,0 +1,64 @@
+{
+  "model_kodu": "F2847A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F2847A8RD79",
+      "renk_kodu": "RD79",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14204,
+          "Product Option Code": "F2847A8.RD79",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "NEW REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F2847A8_25AU_RD79_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kapusonlu-baskili-sweatshirt-erkek-cocuk-3400507",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kapusonlu-baskili-sweatshirt-erkek-cocuk-3400507"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F2847A8_25AU_RD79_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:51:07+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kapusonlu-baskili-sweatshirt-erkek-cocuk-3400507",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

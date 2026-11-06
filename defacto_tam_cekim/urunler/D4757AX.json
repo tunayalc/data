@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D4757AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4757AXGR474",
+      "renk_kodu": "GR474",
+      "renk_adi": "GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7739,
+          "Product Option Code": "D4757AX.GR474",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4757AX_24HS_GR474_01_02.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-apas-yaka-kisa-kollu-gomlek-3155040",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-apas-yaka-kisa-kollu-gomlek-3155040"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4757AX_24HS_GR474_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:35:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-apas-yaka-kisa-kollu-gomlek-3155040",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

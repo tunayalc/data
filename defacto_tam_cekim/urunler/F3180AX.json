@@ -1,0 +1,118 @@
+{
+  "model_kodu": "F3180AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 130,
+    "yorum_sayisi": 130,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.0,
+      "tam_oldu": 34.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-11-05",
+        "puan": 5.0,
+        "metin": "@Eşime aldım, günlük kullanıma çok uygun. Harika oldu. Teşekkürler."
+      },
+      {
+        "tarih": "2025-11-15",
+        "puan": 5.0,
+        "metin": "@Çok güzel, bohçam için aldım. Harika oldu."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3180AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Erkek 5'li Pamuklu Patik Çorap",
+      "kisa_aciklama": "Erkekler için rahat ve kaliteli bir seçenek olan 5'li pamuklu patik çorap seti, yumuşak pamuk kumaşıyla gün boyu konfor sunar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3304600",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3180AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3180AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3180AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3180AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3180AX_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3180AX_NS_KR1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3180AX_NS_KR1_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44",
+          "STD"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 34%,Poliamid 18%,Elastan 2%,Viskoz 15%,Poliester 31%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "takim_icerigi": "5'li",
+        "corap_tipi": "Patik Çorap",
+        "urun_tipi": "Kısa Çorap",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Erkekler için rahat ve kaliteli bir seçenek olan 5'li pamuklu patik çorap seti, yumuşak pamuk kumaşıyla gün boyu konfor sunar.…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14334,
+          "Product Option Code": "F3180AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F3180AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 12,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3304600",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3304600"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F3180AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:45:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

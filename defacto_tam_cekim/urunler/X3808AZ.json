@@ -1,0 +1,164 @@
+{
+  "model_kodu": "X3808AZ",
+  "urun_grubu": "Erkek Kemer",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 31,
+    "yorum_sayisi": 31,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 18.2,
+      "tam_oldu": 72.7,
+      "buyuk_geldi": 9.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-05",
+        "puan": 3.0,
+        "metin": "@Derisi kaliteli, ancak metal kısmı kırıldı ve kullanamıyorum.."
+      },
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün; kemer biraz kaba ama kalitesi gayet iyi, çok beğendim, teşekkürler. Çok teşekkür ederim."
+      },
+      {
+        "tarih": "2025-02-05",
+        "puan": 5.0,
+        "metin": "@Çok güzel ve indirimli fiyatıyla harika."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "X3808AZBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Dikdörtgen Toka Suni Deri Jean Kemeri",
+      "kisa_aciklama": "Erkek Dikdörtgen Tokalı Suni Deri Jean Kemer - Şıklığı ve dayanıklılığı bir arada sunan suni deri jean kemer, her tarza…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-jean-kemeri-3194060",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/X3808AZ_NS_BK23_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X3808AZ_NS_BK23_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X3808AZ_NS_BK23_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X3808AZ_NS_BK23_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/X3808AZ_NS_BK23_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X3808AZ_NS_BK23_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "90",
+          "100",
+          "110",
+          "120"
+        ],
+        "excel": [
+          "100",
+          "110",
+          "90"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Kemer",
+        "kemer_kategori": "Jean Kemeri",
+        "urun_aksesuari": "Kemer",
+        "kumas": "Suni Deri",
+        "toka_sekli": "Dikdörtgen Toka",
+        "urun_olcusu": "4,5 cm"
+      },
+      "urun_hakkinda": [
+        "Erkek Dikdörtgen Tokalı Suni Deri Jean Kemer - Şıklığı ve dayanıklılığı bir arada sunan suni deri jean kemer, her tarza…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47512,
+          "Product Option Code": "X3808AZ.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "100",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/X3808AZ_NS_BK23_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-jean-kemeri-3194060",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-jean-kemeri-3194060"
+        },
+        {
+          "excel_satiri": 47513,
+          "Product Option Code": "X3808AZ.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "110",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/X3808AZ_NS_BK23_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-jean-kemeri-3194060",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-jean-kemeri-3194060"
+        },
+        {
+          "excel_satiri": 47514,
+          "Product Option Code": "X3808AZ.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/X3808AZ_NS_BK23_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-jean-kemeri-3194060",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-jean-kemeri-3194060"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/X3808AZ_NS_BK23_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:55:36+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

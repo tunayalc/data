@@ -1,0 +1,432 @@
+{
+  "model_kodu": "H7115A5",
+  "urun_grubu": "Kız Bebek Jean",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7115A5NM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "Mavi",
+      "renk_hex": "#30D5C8",
+      "urun_adi": "Baggy Fıt Beli Lastikli Standart Paça Pamuklu Jean Pantolon Kız Bebek",
+      "kisa_aciklama": "Baggy fit kesimiyle rahat bir kullanım sunan kız bebek jean pantolon, beli lastikli tasarımı sayesinde kolayca giyilip çıkarılabilir. Denim kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7115A5_26AU_NM28_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7115A5_26AU_NM28_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "12-18 M",
+          "18-24 M",
+          "2/3 Y",
+          "3/4 Y",
+          "4/5 Y",
+          "5/6 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Baggy Fıt",
+        "cinsiyet": "Kız Bebek",
+        "kumas": "Pamuklu",
+        "bel_detayi": "Beli Lastikli"
+      },
+      "urun_hakkinda": [
+        "Baggy fit kesimiyle rahat bir kullanım sunan kız bebek jean pantolon, beli lastikli tasarımı sayesinde kolayca giyilip çıkarılabilir. Denim kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 32462,
+          "Product Option Code": "H7115A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "12-18 M",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM28_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32463,
+          "Product Option Code": "H7115A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "18-24 M",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM28_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32464,
+          "Product Option Code": "H7115A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "2/3 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM28_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32465,
+          "Product Option Code": "H7115A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM28_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32466,
+          "Product Option Code": "H7115A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM28_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32467,
+          "Product Option Code": "H7115A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM28_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM28_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H7115A5NM55",
+      "renk_kodu": "NM55",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Baggy Fıt Beli Lastikli Standart Paça Pamuklu Jean Pantolon Kız Bebek",
+      "kisa_aciklama": "Baggy fit kesimiyle rahat bir kullanım sunan kız bebek jean pantolon, beli lastikli tasarımı sayesinde kolayca giyilip çıkarılabilir. Denim kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463185",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7115A5_26AU_NM55_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7115A5_26AU_NM55_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "12-18 M",
+          "18-24 M",
+          "2/3 Y",
+          "3/4 Y",
+          "4/5 Y",
+          "5/6 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%,Elastan 0%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Kız Bebek",
+        "kalip": "Baggy Fıt",
+        "bel_detayi": "Beli Lastikli",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Baggy fit kesimiyle rahat bir kullanım sunan kız bebek jean pantolon, beli lastikli tasarımı sayesinde kolayca giyilip çıkarılabilir. Denim kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 809.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 32468,
+          "Product Option Code": "H7115A5.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "12-18 M",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM55_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463185",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32469,
+          "Product Option Code": "H7115A5.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "18-24 M",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM55_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463185",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32470,
+          "Product Option Code": "H7115A5.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "2/3 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM55_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463185",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32471,
+          "Product Option Code": "H7115A5.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM55_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463185",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32472,
+          "Product Option Code": "H7115A5.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM55_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463185",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        },
+        {
+          "excel_satiri": 32473,
+          "Product Option Code": "H7115A5.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM55_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463185",
+          "Model Page URL": "https://www.defacto.com.tr/baggy-fit-beli-lastikli-standart-paca-pamuklu-jean-pantolon-kiz-bebek-3463184"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H7115A5_26AU_NM55_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:32:43+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

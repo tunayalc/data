@@ -1,0 +1,108 @@
+{
+  "model_kodu": "I0901AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0901AXRD62",
+      "renk_kodu": "RD62",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38442,
+          "Product Option Code": "I0901AX.RD62",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I0901AX_26HS_RD62_01_03.jpg",
+          "FabricDetail": "POLYESTER SÜPREM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.eg/boxy-fit-turkiye-baskili-kisa-kollu-kirmizi-tisort-3559926",
+          "Model Page URL": "https://www.defacto.com.eg/boxy-fit-turkiye-baskili-kisa-kollu-kirmizi-tisort-3559926"
+        },
+        {
+          "excel_satiri": 38443,
+          "Product Option Code": "I0901AX.RD62",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I0901AX_26HS_RD62_01_03.jpg",
+          "FabricDetail": "POLYESTER SÜPREM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.eg/boxy-fit-turkiye-baskili-kisa-kollu-kirmizi-tisort-3559926",
+          "Model Page URL": "https://www.defacto.com.eg/boxy-fit-turkiye-baskili-kisa-kollu-kirmizi-tisort-3559926"
+        },
+        {
+          "excel_satiri": 38444,
+          "Product Option Code": "I0901AX.RD62",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XS",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I0901AX_26HS_RD62_01_03.jpg",
+          "FabricDetail": "POLYESTER SÜPREM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.eg/boxy-fit-turkiye-baskili-kisa-kollu-kirmizi-tisort-3559926",
+          "Model Page URL": "https://www.defacto.com.eg/boxy-fit-turkiye-baskili-kisa-kollu-kirmizi-tisort-3559926"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I0901AX_26HS_RD62_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:42:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/boxy-fit-turkiye-baskili-kisa-kollu-kirmizi-tisort-3559926",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

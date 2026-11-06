@@ -1,0 +1,86 @@
+{
+  "model_kodu": "F2971AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F2971AXNM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34-32",
+          "36-32"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14275,
+          "Product Option Code": "F2971AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "34-32",
+          "Fit": "PEDRO-SLIM FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F2971AX_25AU_NM28_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/pedro-slim-fit-normal-bel-dar-paca-jean-pantolon-3348871",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/pedro-slim-fit-normal-bel-dar-paca-jean-pantolon-3348871"
+        },
+        {
+          "excel_satiri": 14276,
+          "Product Option Code": "F2971AX.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "36-32",
+          "Fit": "PEDRO-SLIM FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F2971AX_25AU_NM28_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/pedro-slim-fit-normal-bel-dar-paca-jean-pantolon-3348871",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/pedro-slim-fit-normal-bel-dar-paca-jean-pantolon-3348871"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F2971AX_25AU_NM28_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:51:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/pedro-slim-fit-normal-bel-dar-paca-jean-pantolon-3348871",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

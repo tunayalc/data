@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C8096AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8096AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "40"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5384,
+          "Product Option Code": "C8096AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C8096AX_24SP_BK27_01_03.jpg",
+          "FabricDetail": "Taffeta",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/balloon-fit-tafta-mini-etek-3109660",
+          "Model Page URL": "https://www.defacto.com/balloon-fit-tafta-mini-etek-3109660"
+        },
+        {
+          "excel_satiri": 5385,
+          "Product Option Code": "C8096AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C8096AX_24SP_BK27_01_03.jpg",
+          "FabricDetail": "Taffeta",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/balloon-fit-tafta-mini-etek-3109660",
+          "Model Page URL": "https://www.defacto.com/balloon-fit-tafta-mini-etek-3109660"
+        },
+        {
+          "excel_satiri": 5386,
+          "Product Option Code": "C8096AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "40",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C8096AX_24SP_BK27_01_03.jpg",
+          "FabricDetail": "Taffeta",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/balloon-fit-tafta-mini-etek-3109660",
+          "Model Page URL": "https://www.defacto.com/balloon-fit-tafta-mini-etek-3109660"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C8096AX_24SP_BK27_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:28:22+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/balloon-fit-tafta-mini-etek-3109660",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

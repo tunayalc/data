@@ -1,0 +1,187 @@
+{
+  "model_kodu": "G7151AX",
+  "urun_grubu": "Kadın Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7151AXAR53",
+      "renk_kodu": "AR53",
+      "renk_adi": "Antrasit Melanj",
+      "renk_hex": "#3F424D",
+      "urun_adi": "A Kesim Normal Bel Fitilli Kaşkorse Mıdı Etek",
+      "kisa_aciklama": "A kesim normal bel fitilli kaşkorse midi etek, esnek yapısıyla gün boyu rahatlık sağlar. Fitilli dokusu ve midi boyu ile…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/a-kesim-normal-bel-fitilli-kaskorse-midi-etek-3363782",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7151AX_25WN_AR53_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7151AX_25WN_AR53_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7151AX_25WN_AR53_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7151AX_25WN_AR53_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,76cm - 78/60/86",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 28%,Poliester 70%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_yuksekligi": "85cm-90cm",
+        "urun_boyu": "Mıdı",
+        "bel_detayi": "Normal Bel",
+        "kalip": "A Kesim",
+        "cinsiyet": "Kadın",
+        "kumas": "Fitilli Kaşkorse"
+      },
+      "urun_hakkinda": [
+        "A kesim normal bel fitilli kaşkorse midi etek, esnek yapısıyla gün boyu rahatlık sağlar. Fitilli dokusu ve midi boyu ile…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20999,
+          "Product Option Code": "G7151AX.AR53",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7151AX_25WN_AR53_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-fitilli-kaskorse-midi-etek-3363782",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-fitilli-kaskorse-midi-etek-3363782"
+        },
+        {
+          "excel_satiri": 21000,
+          "Product Option Code": "G7151AX.AR53",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7151AX_25WN_AR53_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-fitilli-kaskorse-midi-etek-3363782",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-fitilli-kaskorse-midi-etek-3363782"
+        },
+        {
+          "excel_satiri": 21001,
+          "Product Option Code": "G7151AX.AR53",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "S",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7151AX_25WN_AR53_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-fitilli-kaskorse-midi-etek-3363782",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-fitilli-kaskorse-midi-etek-3363782"
+        },
+        {
+          "excel_satiri": 21002,
+          "Product Option Code": "G7151AX.AR53",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "ANTHRA MELANGE",
+          "SizeDefinition": "XL",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7151AX_25WN_AR53_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-fitilli-kaskorse-midi-etek-3363782",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-fitilli-kaskorse-midi-etek-3363782"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G7151AX_25WN_AR53_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:08:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

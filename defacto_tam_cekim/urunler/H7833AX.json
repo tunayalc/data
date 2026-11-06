@@ -1,0 +1,268 @@
+{
+  "model_kodu": "H7833AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 25.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-29",
+        "puan": 5.0,
+        "metin": "@kalıbı tam oldu rengine bayıldım"
+      },
+      {
+        "tarih": "2026-08-20",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-16",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7833AXBN534",
+      "renk_kodu": "BN534",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "%100 Pamuk Regular Fıt Gömlek Yaka Uzun Kollu Gömlek",
+      "kisa_aciklama": "Regular fit gömlek. Kahverengi dokulu kumaş. Gömlek yaka ve uzun kollu. Önü düğme kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-gomlek-yaka-uzun-kollu-gomlek-3463135",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_BN534_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_BN534_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_BN534_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_BN534_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_BN534_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_BN534_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Uzun Kollu",
+        "kumas": "Pamuklu",
+        "yaka": "Gömlek Yaka"
+      },
+      "urun_hakkinda": [
+        "Regular fit gömlek. Kahverengi dokulu kumaş. Gömlek yaka ve uzun kollu. Önü düğme kapamalı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33646,
+          "Product Option Code": "H7833AX.BN534",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H7833AX_26SM_BN534_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-gomlek-yaka-uzun-kollu-gomlek-3463135",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-gomlek-yaka-uzun-kollu-gomlek-3463134"
+        },
+        {
+          "excel_satiri": 33647,
+          "Product Option Code": "H7833AX.BN534",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H7833AX_26SM_BN534_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-gomlek-yaka-uzun-kollu-gomlek-3463135",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-gomlek-yaka-uzun-kollu-gomlek-3463134"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H7833AX_26SM_BN534_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H7833AXER137",
+      "renk_kodu": "ER137",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Regular Fıt Gömlek Yaka Uzun Kollu Gömlek",
+      "kisa_aciklama": "Regular fit gömlek. Kahverengi dokulu kumaş. Gömlek yaka ve uzun kollu. Önü düğme kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-gomlek-yaka-uzun-kollu-gomlek-3463134",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_ER137_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_ER137_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_ER137_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_ER137_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7833AX_26SM_ER137_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "yaka": "Gömlek Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Regular fit gömlek. Kahverengi dokulu kumaş. Gömlek yaka ve uzun kollu. Önü düğme kapamalı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33648,
+          "Product Option Code": "H7833AX.ER137",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H7833AX_26SM_ER137_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-gomlek-yaka-uzun-kollu-gomlek-3463134",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-gomlek-yaka-uzun-kollu-gomlek-3463134"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H7833AX_26SM_ER137_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:40:55+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

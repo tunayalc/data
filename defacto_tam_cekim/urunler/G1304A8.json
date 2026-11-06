@@ -1,0 +1,90 @@
+{
+  "model_kodu": "G1304A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G1304A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Dısney Mıckey & Mınnıe Lisanslı Şapka Sticker",
+      "kisa_aciklama": "Pembe zemin üzerinde Minnie Mouse karakter baskılı, cırt cırtlı bağlantıya sahip dikdörtgen formlu etiket.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/disney-mickey-minnie-lisansli-sapka-sticker-3502057",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G1304A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1304A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1304A8_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "lisans_bilgisi": "Dısney Mıckey &amp; Mınnıe",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Pembe zemin üzerinde Minnie Mouse karakter baskılı, cırt cırtlı bağlantıya sahip dikdörtgen formlu etiket."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17942,
+          "Product Option Code": "G1304A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Sticker",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G1304A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/disney-mickey-minnie-lisansli-sapka-sticker-3502057",
+          "Model Page URL": "https://www.defacto.com.tr/disney-mickey-minnie-lisansli-sapka-sticker-3502057"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G1304A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:57:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "model_kodu": "Z7531AZ",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 121,
+    "yorum_sayisi": 121,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 35.3,
+      "tam_oldu": 64.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-05-30",
+        "puan": 5.0,
+        "metin": "@cok kotu incecik ipli bi kumaşı var giydiğim gibi delindi sakın almayın paranizi cope atarsiniz bu kaliteli diyenleri anlamiş değilim…"
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@Harika çoraplar"
+      },
+      {
+        "tarih": "2025-04-02",
+        "puan": 5.0,
+        "metin": "@Kesinlikle harikulade bir ürün"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z7531AZKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın 5'li Pamuklu Patik Çorap",
+      "kisa_aciklama": "Gün boyu rahat ve konforlu bir kullanım sağlayan farklı renk tercihleri ile kombinlerinizin parçası olacak DeFacto Kadın 5'li Pamuklu Patik…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-pamuklu-5li-patik-corap-2775826",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Z7531AZ_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z7531AZ_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z7531AZ_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z7531AZ_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z7531AZ_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z7531AZ_NS_KR1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z7531AZ_NS_KR1_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40",
+          "STD"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 76%,Poliamid 22%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Patik Çorap",
+        "urun_tipi": "Kısa Çorap",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Gün boyu rahat ve konforlu bir kullanım sağlayan farklı renk tercihleri ile kombinlerinizin parçası olacak DeFacto Kadın 5'li Pamuklu Patik…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 49028,
+          "Product Option Code": "Z7531AZ.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "36-40",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/Z7531AZ_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 10,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-pamuklu-5li-patik-corap-2775826",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-pamuklu-5li-patik-corap-2775826"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/Z7531AZ_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:57:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

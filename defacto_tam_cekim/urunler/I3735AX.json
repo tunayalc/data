@@ -1,0 +1,534 @@
+{
+  "model_kodu": "I3735AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-11-03",
+        "puan": 5.0,
+        "metin": "@çok tarz harika bir pantolon"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3735AXBN341",
+      "renk_kodu": "BN341",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Balloon Fit Poplın Lastikli Paça Pantolon",
+      "kisa_aciklama": "Balloon Poplın Pantolon, hacimli kalıbı ve iyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_BN341_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_BN341_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_BN341_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_BN341_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Balloon Fıt",
+        "urun_tipi": "Pantolon",
+        "bel_detayi": "Normal Bel",
+        "cinsiyet": "Kadın",
+        "kumas": "Poplin"
+      },
+      "urun_hakkinda": [
+        "Balloon Poplın Pantolon, hacimli kalıbı ve iyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41969,
+          "Product Option Code": "I3735AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "34",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_BN341_01_03.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41970,
+          "Product Option Code": "I3735AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "34",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3735AX_26HS_BN341_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41971,
+          "Product Option Code": "I3735AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "36",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_BN341_01_03.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 3,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41972,
+          "Product Option Code": "I3735AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "36",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3735AX_26HS_BN341_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41973,
+          "Product Option Code": "I3735AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "38",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_BN341_01_03.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 3,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41974,
+          "Product Option Code": "I3735AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "38",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3735AX_26HS_BN341_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41975,
+          "Product Option Code": "I3735AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "40",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_BN341_01_03.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41976,
+          "Product Option Code": "I3735AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "40",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3735AX_26HS_BN341_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41977,
+          "Product Option Code": "I3735AX.BN341",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "42",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_BN341_01_03.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532964",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_BN341_01_03.jpg",
+        "https://image.defacto.com.tr/product/26HS/I3735AX_26HS_BN341_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I3735AXKH340",
+      "renk_kodu": "KH340",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Balloon Fit Poplın Lastikli Paça Pantolon",
+      "kisa_aciklama": "Balloon Poplın Pantolon, hacimli kalıbı ve iyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_KH340_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_KH340_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_KH340_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_KH340_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_KH340_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_KH340_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3735AX_26AU_KH340_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Poplin",
+        "urun_tipi": "Pantolon",
+        "bel_detayi": "Normal Bel",
+        "cinsiyet": "Kadın",
+        "kalip": "Balloon Fıt"
+      },
+      "urun_hakkinda": [
+        "Balloon Poplın Pantolon, hacimli kalıbı ve iyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 1199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41978,
+          "Product Option Code": "I3735AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "34",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_KH340_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41979,
+          "Product Option Code": "I3735AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "34",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3735AX_26HS_KH340_01_03.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41980,
+          "Product Option Code": "I3735AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "36",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_KH340_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 3,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41981,
+          "Product Option Code": "I3735AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "38",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_KH340_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 4,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41982,
+          "Product Option Code": "I3735AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "40",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_KH340_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41983,
+          "Product Option Code": "I3735AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "42",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_KH340_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        },
+        {
+          "excel_satiri": 41984,
+          "Product Option Code": "I3735AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "42",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3735AX_26HS_KH340_01_03.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-poplin-lastikli-paca-pantolon-3532963"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I3735AX_26AU_KH340_01_02.jpg",
+        "https://image.defacto.com.tr/product/26HS/I3735AX_26HS_KH340_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:48:14+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

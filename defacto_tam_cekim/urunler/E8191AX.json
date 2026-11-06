@@ -1,0 +1,108 @@
+{
+  "model_kodu": "E8191AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8191AXBG766",
+      "renk_kodu": "BG766",
+      "renk_adi": "STONE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12474,
+          "Product Option Code": "E8191AX.BG766",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/E8191AX_25WN_BG766_01_02.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com/ar-iq/regular-fit-polo-yaka-uzun-kollu-gomlek-3356787",
+          "Model Page URL": "https://www.defacto.com/ar-iq/regular-fit-polo-yaka-uzun-kollu-gomlek-3356787"
+        },
+        {
+          "excel_satiri": 12475,
+          "Product Option Code": "E8191AX.BG766",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/E8191AX_25WN_BG766_01_02.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com/ar-iq/regular-fit-polo-yaka-uzun-kollu-gomlek-3356787",
+          "Model Page URL": "https://www.defacto.com/ar-iq/regular-fit-polo-yaka-uzun-kollu-gomlek-3356787"
+        },
+        {
+          "excel_satiri": 12476,
+          "Product Option Code": "E8191AX.BG766",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/E8191AX_25WN_BG766_01_02.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com/ar-iq/regular-fit-polo-yaka-uzun-kollu-gomlek-3356787",
+          "Model Page URL": "https://www.defacto.com/ar-iq/regular-fit-polo-yaka-uzun-kollu-gomlek-3356787"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/E8191AX_25WN_BG766_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:46:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-polo-yaka-uzun-kollu-gomlek-3356787",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

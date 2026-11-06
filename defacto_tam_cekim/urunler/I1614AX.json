@@ -1,0 +1,114 @@
+{
+  "model_kodu": "I1614AX",
+  "urun_grubu": "Kadın Yüzük",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1614AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Metalik Farklı Tasarımlı 4'lü Yüzük Kadın",
+      "kisa_aciklama": "Metalik görünümde dört adet yüzükten oluşan set. Bir yüzük oval taş detaylı, bir yüzük burma desenli, bir yüzük minik yuvarlak…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/metalik-farkli-tasarimli-4lu-yuzuk-kadin-3493197",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1614AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1614AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1614AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "M",
+          "L"
+        ],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 95%,Epoksi 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Jean",
+        "taki_tipi": "Yüzük",
+        "takim_icerigi": "4'lü",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Metalik görünümde dört adet yüzükten oluşan set. Bir yüzük oval taş detaylı, bir yüzük burma desenli, bir yüzük minik yuvarlak…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 39201,
+          "Product Option Code": "I1614AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Ring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "L",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1614AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 5,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/metalik-farkli-tasarimli-4lu-yuzuk-kadin-3493197",
+          "Model Page URL": "https://www.defacto.com.tr/metalik-farkli-tasarimli-4lu-yuzuk-kadin-3493197"
+        },
+        {
+          "excel_satiri": 39202,
+          "Product Option Code": "I1614AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Ring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "M",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1614AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/metalik-farkli-tasarimli-4lu-yuzuk-kadin-3493197",
+          "Model Page URL": "https://www.defacto.com.tr/metalik-farkli-tasarimli-4lu-yuzuk-kadin-3493197"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1614AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:54:34+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

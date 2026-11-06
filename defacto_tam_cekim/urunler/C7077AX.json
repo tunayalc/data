@@ -1,0 +1,101 @@
+{
+  "model_kodu": "C7077AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C7077AXGN1139",
+      "renk_kodu": "GN1139",
+      "renk_adi": "MINT",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5059,
+          "Product Option Code": "C7077AX.GN1139",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "34",
+          "Fit": "FIT AND FLARE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C7077AX_24SM_GN1139_01_04.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5060,
+          "Product Option Code": "C7077AX.GN1139",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "36",
+          "Fit": "FIT AND FLARE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C7077AX_24SM_GN1139_01_04.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5061,
+          "Product Option Code": "C7077AX.GN1139",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "42",
+          "Fit": "FIT AND FLARE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C7077AX_24SM_GN1139_01_04.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C7077AX_24SM_GN1139_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

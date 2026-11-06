@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D9926AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9926AXBR171",
+      "renk_kodu": "BR171",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9866,
+          "Product Option Code": "D9926AX.BR171",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "34",
+          "Fit": "CARROT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D9926AX_24AU_BR171_01_05.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/carrot-fit-normal-bel-duz-paca-pantolon-3195724",
+          "Model Page URL": "https://www.defacto.com/carrot-fit-normal-bel-duz-paca-pantolon-3195724"
+        },
+        {
+          "excel_satiri": 9867,
+          "Product Option Code": "D9926AX.BR171",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "38",
+          "Fit": "CARROT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D9926AX_24AU_BR171_01_05.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 3,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/carrot-fit-normal-bel-duz-paca-pantolon-3195724",
+          "Model Page URL": "https://www.defacto.com/carrot-fit-normal-bel-duz-paca-pantolon-3195724"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D9926AX_24AU_BR171_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:40:49+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/carrot-fit-normal-bel-duz-paca-pantolon-3195724",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

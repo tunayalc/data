@@ -1,0 +1,109 @@
+{
+  "model_kodu": "E3348AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E3348AXBN333",
+      "renk_kodu": "BN333",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11110,
+          "Product Option Code": "E3348AX.BN333",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "36",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E3348AX_24WN_BN333_01_03.jpg",
+          "FabricDetail": "SATEEN",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com/a-kesim-yuksek-bel-saten-etek-3200714",
+          "Model Page URL": "https://www.defacto.com/a-kesim-yuksek-bel-saten-etek-3200714"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E3348AX_24WN_BN333_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E3348AXGN320",
+      "renk_kodu": "GN320",
+      "renk_adi": "LT.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11111,
+          "Product Option Code": "E3348AX.GN320",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "38",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E3348AX_24WN_GN320_01_03.jpg",
+          "FabricDetail": "SATEEN",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com/a-kesim-yuksek-bel-saten-midi-etek-3200713",
+          "Model Page URL": "https://www.defacto.com/a-kesim-yuksek-bel-saten-etek-3200714"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E3348AX_24WN_GN320_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:43:41+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/a-kesim-yuksek-bel-saten-etek-3200714",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/a-kesim-yuksek-bel-saten-midi-etek-3200713",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

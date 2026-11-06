@@ -1,0 +1,116 @@
+{
+  "model_kodu": "G3489A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Jean Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-24",
+        "puan": 5.0,
+        "metin": "@Harika! Ceket çok güzel, pantolonunun stoğa girmesini dört gözle bekliyoruz. Çok teşekkürler."
+      },
+      {
+        "tarih": "2025-12-30",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-04-09",
+        "puan": 3.0,
+        "metin": "@cok cok ama cok büyük 158 boy 58 kilo çuval gibi oldu ama onun dışında modeli olsun kumaşı olsun cok…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3489A8BK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk Düğmeli Denim Ceket Kız Çocuk",
+      "kisa_aciklama": "%100 pamuklu kumaştan üretilen kız çocuk denim ceket, önden düğmeli kapaması ve dayanıklı yapısıyla şık ve rahat bir kullanım sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-dugmeli-denim-ceket-kiz-cocuk-3355452",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3489A8_25AU_BK27_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3489A8_25AU_BK27_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3489A8_25AU_BK27_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3489A8_25AU_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3489A8_25AU_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3489A8_25AU_BK27_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,50cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "%100 pamuklu kumaştan üretilen kız çocuk denim ceket, önden düğmeli kapaması ve dayanıklı yapısıyla şık ve rahat bir kullanım sunar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18842,
+          "Product Option Code": "G3489A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Jacket",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G3489A8_25AU_BK27_01_03.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-dugmeli-denim-ceket-kiz-cocuk-3355452",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-dugmeli-denim-ceket-kiz-cocuk-3355452"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G3489A8_25AU_BK27_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:02:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

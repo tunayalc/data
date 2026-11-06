@@ -1,0 +1,300 @@
+{
+  "model_kodu": "E2740AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 18,
+    "yorum_sayisi": 18,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-25",
+        "puan": 5.0,
+        "metin": "@Eşim için aldım, fotoğrafta görüldüğü gibi, tam kalıp."
+      },
+      {
+        "tarih": "2025-03-11",
+        "puan": 5.0,
+        "metin": "@Eşim için aldım, fotoğraftaki gibi ve tam kalıp."
+      },
+      {
+        "tarih": "2025-11-29",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok kaliteli ve şık bir pantolon, kesinlikle öneririm, mutlaka kendi bedeninizi alın."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E2740AXNM55",
+      "renk_kodu": "NM55",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Carlo Skinny Fıt Normal Bel Dar Paça Uzun Boy Jean Pantolon",
+      "kisa_aciklama": "Carlo Skinny Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Uzun boy dar paça kesimi…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E2740AX_25SP_NM55_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2740AX_25SP_NM55_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2740AX_25SP_NM55_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2740AX_25SP_NM55_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2740AX_25SP_NM55_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2740AX_25SP_NM55_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2740AX_25SP_NM55_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28-30",
+          "29-30",
+          "32-32",
+          "34-32",
+          "34-34",
+          "36-32",
+          "36-34",
+          "38-32",
+          "38-34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 32 Beden - 1,88cm - 90/71/97",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "paca_detayi": "Dar Paça",
+        "kalip": "Carlo Skınny Fıt Normal Bel Dar Paça",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Carlo Skinny Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Uzun boy dar paça kesimi…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11000,
+          "Product Option Code": "E2740AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "28-30",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+          "Model Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530"
+        },
+        {
+          "excel_satiri": 11001,
+          "Product Option Code": "E2740AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "29-30",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+          "Model Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530"
+        },
+        {
+          "excel_satiri": 11002,
+          "Product Option Code": "E2740AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "32-32",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+          "Model Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530"
+        },
+        {
+          "excel_satiri": 11003,
+          "Product Option Code": "E2740AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "34-32",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+          "Model Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530"
+        },
+        {
+          "excel_satiri": 11004,
+          "Product Option Code": "E2740AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "34-34",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+          "Model Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530"
+        },
+        {
+          "excel_satiri": 11005,
+          "Product Option Code": "E2740AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "36-32",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+          "Model Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530"
+        },
+        {
+          "excel_satiri": 11006,
+          "Product Option Code": "E2740AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "36-34",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+          "Model Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530"
+        },
+        {
+          "excel_satiri": 11007,
+          "Product Option Code": "E2740AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "38-32",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+          "Model Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530"
+        },
+        {
+          "excel_satiri": 11008,
+          "Product Option Code": "E2740AX.NM55",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "38-34",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530",
+          "Model Page URL": "https://www.defacto.com/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3210530"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E2740AX_25SP_NM55_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:43:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

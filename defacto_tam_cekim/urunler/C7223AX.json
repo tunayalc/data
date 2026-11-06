@@ -1,0 +1,130 @@
+{
+  "model_kodu": "C7223AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C7223AXPR40",
+      "renk_kodu": "PR40",
+      "renk_adi": "LT.LILAC",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5106,
+          "Product Option Code": "C7223AX.PR40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Woven Dress",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "36",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C7223AX_24SM_PR40_01_01.jpg",
+          "FabricDetail": "MAROKEN",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "https://www.defacto.com/en-iq/wrap-yaka-uzun-kollu-elbise-3109892",
+          "Model Page URL": "https://www.defacto.com/en-iq/wrap-yaka-uzun-kollu-elbise-3109892"
+        },
+        {
+          "excel_satiri": 5107,
+          "Product Option Code": "C7223AX.PR40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Woven Dress",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "38",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C7223AX_24SM_PR40_01_01.jpg",
+          "FabricDetail": "MAROKEN",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "https://www.defacto.com/en-iq/wrap-yaka-uzun-kollu-elbise-3109892",
+          "Model Page URL": "https://www.defacto.com/en-iq/wrap-yaka-uzun-kollu-elbise-3109892"
+        },
+        {
+          "excel_satiri": 5108,
+          "Product Option Code": "C7223AX.PR40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Woven Dress",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "40",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C7223AX_24SM_PR40_01_01.jpg",
+          "FabricDetail": "MAROKEN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "https://www.defacto.com/en-iq/wrap-yaka-uzun-kollu-elbise-3109892",
+          "Model Page URL": "https://www.defacto.com/en-iq/wrap-yaka-uzun-kollu-elbise-3109892"
+        },
+        {
+          "excel_satiri": 5109,
+          "Product Option Code": "C7223AX.PR40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Woven Dress",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "42",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C7223AX_24SM_PR40_01_01.jpg",
+          "FabricDetail": "MAROKEN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "https://www.defacto.com/en-iq/wrap-yaka-uzun-kollu-elbise-3109892",
+          "Model Page URL": "https://www.defacto.com/en-iq/wrap-yaka-uzun-kollu-elbise-3109892"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C7223AX_24SM_PR40_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:28:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wrap-yaka-uzun-kollu-elbise-3109892",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

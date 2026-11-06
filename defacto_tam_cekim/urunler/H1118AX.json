@@ -1,0 +1,334 @@
+{
+  "model_kodu": "H1118AX",
+  "urun_grubu": "Kadın Blazer Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-28",
+        "puan": 5.0,
+        "metin": "@harika bayildim farkli bir model"
+      },
+      {
+        "tarih": "2026-10-19",
+        "puan": 2.0,
+        "metin": "@Kısa tuhaf bence duruşu ben beğenmedim"
+      },
+      {
+        "tarih": "2026-04-04",
+        "puan": 5.0,
+        "metin": "@Kalıbı şahane. Kumaş kalitesi üst düzey kesinlikle tavsiye ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1118AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Oversıze Hakim Yaka Blazer Ceket",
+      "kisa_aciklama": "Oversize Blazer Ceket, hâkim yaka ve düğmeli kapama detayıyla şıklığı ve rahatlığı bir arada sunar. Uzun kollu tasarımı ve modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3511395",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26AU_BK81_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,74cm - 83/63/88",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 34%,Poliester 61%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kapama_detayi": "Düğmeli",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça",
+        "yaka": "Hakim Yaka"
+      },
+      "urun_hakkinda": [
+        "Oversize Blazer Ceket, hâkim yaka ve düğmeli kapama detayıyla şıklığı ve rahatlığı bir arada sunar. Uzun kollu tasarımı ve modern…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2299.99,
+        "sepette_fiyat": 1839.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24491,
+          "Product Option Code": "H1118AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H1118AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3511395",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3437186"
+        },
+        {
+          "excel_satiri": 24492,
+          "Product Option Code": "H1118AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H1118AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3511395",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3437186"
+        },
+        {
+          "excel_satiri": 24493,
+          "Product Option Code": "H1118AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1118AX_26SM_BK81_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3511395",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3437186"
+        },
+        {
+          "excel_satiri": 24494,
+          "Product Option Code": "H1118AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "38",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H1118AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3511395",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3437186"
+        },
+        {
+          "excel_satiri": 24495,
+          "Product Option Code": "H1118AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "40",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H1118AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3511395",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3437186"
+        },
+        {
+          "excel_satiri": 24496,
+          "Product Option Code": "H1118AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "42",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H1118AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3511395",
+          "Model Page URL": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3437186"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H1118AX_26AU_BK81_01_02.jpg",
+        "https://image.defacto.com.tr/product/26SM/H1118AX_26SM_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H1118AXKH348",
+      "renk_kodu": "KH348",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Oversıze Hakim Yaka Blazer Ceket",
+      "kisa_aciklama": "Oversize Blazer Ceket, hâkim yaka ve düğmeli kapama detayıyla şıklığı ve rahatlığı bir arada sunar. Uzun kollu tasarımı ve modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/oversize-hakim-yaka-blazer-ceket-3437186",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26SM_KH348_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26SM_KH348_02_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26SM_KH348_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26SM_KH348_04_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26SM_KH348_05_07.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26SM_KH348_06_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26SM_KH348_07_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1118AX_26SM_KH348_08_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,76cm - 82/59/88",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 31%,Poliester 64%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "kapama_detayi": "Düğmeli",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Hakim Yaka",
+        "cinsiyet": "Kadın",
+        "kalip": "Oversıze"
+      },
+      "urun_hakkinda": [
+        "Oversize Blazer Ceket, hâkim yaka ve düğmeli kapama detayıyla şıklığı ve rahatlığı bir arada sunar. Uzun kollu tasarımı ve modern…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2299.99,
+        "sepette_fiyat": 1149.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:16:05+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

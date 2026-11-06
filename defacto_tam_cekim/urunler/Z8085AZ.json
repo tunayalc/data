@@ -1,0 +1,258 @@
+{
+  "model_kodu": "Z8085AZ",
+  "urun_grubu": "Erkek İç Giyim Üst",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 30,
+    "yorum_sayisi": 30,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 7.1,
+      "tam_oldu": 85.7,
+      "buyuk_geldi": 7.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-08-13",
+        "puan": 5.0,
+        "metin": "@ürünün yaka kısmı hemen aşağı doğru Saldı kendini. evet modal kumaş rahat ve ferah ama"
+      },
+      {
+        "tarih": "2025-01-16",
+        "puan": 5.0,
+        "metin": "@İyi bir ürün."
+      },
+      {
+        "tarih": "2025-07-08",
+        "puan": 5.0,
+        "metin": "@Güzel, alınabilir."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z8085AZWT83",
+      "renk_kodu": "WT83",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Premium Slim Fit Dar Kesim Bisiklet Yaka Kısa Kollu Modal Üst",
+      "kisa_aciklama": "Yumuşak ve nefes alabilen modal kumaştan üretilen bu premium slim fit bisiklet yaka üst, şık ve rahat bir görünüm sunar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3352205",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Z8085AZ_25AU_WT83_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z8085AZ_25AU_WT83_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z8085AZ_25AU_WT83_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z8085AZ_25AU_WT83_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z8085AZ_25AU_WT83_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z8085AZ_25AU_WT83_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Elastan 4%,Modal 96%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Erkek",
+        "kumas": "Modal"
+      },
+      "urun_hakkinda": [
+        "Yumuşak ve nefes alabilen modal kumaştan üretilen bu premium slim fit bisiklet yaka üst, şık ve rahat bir görünüm sunar.…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 49064,
+          "Product Option Code": "Z8085AZ.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Z8085AZ_25AU_WT83_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/en-iq/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3352205",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/Z8085AZ_25AU_WT83_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "Z8085AZBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3XL",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 49060,
+          "Product Option Code": "Z8085AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "3XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/Z8085AZ_24WN_BK81_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365"
+        },
+        {
+          "excel_satiri": 49061,
+          "Product Option Code": "Z8085AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Z8085AZ_25AU_BK81_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365"
+        },
+        {
+          "excel_satiri": 49062,
+          "Product Option Code": "Z8085AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Z8085AZ_25AU_BK81_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365"
+        },
+        {
+          "excel_satiri": 49063,
+          "Product Option Code": "Z8085AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/Z8085AZ_25AU_BK81_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/Z8085AZ_24WN_BK81_01_01.jpg",
+        "https://image.defacto.com.tr/product/25AU/Z8085AZ_25AU_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:57:05+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/premium-slim-fit-dar-kesim-bisiklet-yaka-modal-ust-3414365",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

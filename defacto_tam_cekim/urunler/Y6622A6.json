@@ -1,0 +1,57 @@
+{
+  "model_kodu": "Y6622A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y6622A6BE758",
+      "renk_kodu": "BE758",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "4/5 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48442,
+          "Product Option Code": "Y6622A6.BE758",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22HS/Y6622A6_22HS_BE758_01_02.jpg",
+          "FabricDetail": "Cotton-Pes",
+          "Toplam": 4,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22HS/Y6622A6_22HS_BE758_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

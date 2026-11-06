@@ -1,0 +1,79 @@
+{
+  "model_kodu": "D9212A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9212A8NV251",
+      "renk_kodu": "NV251",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9540,
+          "Product Option Code": "D9212A8.NV251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Süveter",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "VEST",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9212A8_25SP_NV251_01_01.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 9541,
+          "Product Option Code": "D9212A8.NV251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Süveter",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "VEST",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9212A8_25SP_NV251_01_01.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D9212A8_25SP_NV251_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

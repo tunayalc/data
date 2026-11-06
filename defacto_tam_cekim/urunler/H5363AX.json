@@ -1,0 +1,137 @@
+{
+  "model_kodu": "H5363AX",
+  "urun_grubu": "Erkek Pijama Üst",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-13",
+        "puan": 5.0,
+        "metin": "@evde gitmek için uygun sağlam tişört"
+      },
+      {
+        "tarih": "2026-09-16",
+        "puan": 5.0,
+        "metin": "@Çok rahat çok şık çok güzel beğendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5363AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "%100 Pamuk New Regular Fıt Bisiklet Yaka Üst",
+      "kisa_aciklama": "Düz örme kumaştan regular fit bisiklet yaka üst. Kısa kollu. Göğüs cebi detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-new-regular-fit-bisiklet-yaka-ust-3446365",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5363AX_26SP_WT34_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5363AX_26SP_WT34_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5363AX_26SP_WT34_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5363AX_26SP_WT34_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5363AX_26SP_WT34_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kalip": "New Regular Fıt",
+        "yaka": "Bisiklet Yaka",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Düz örme kumaştan regular fit bisiklet yaka üst. Kısa kollu. Göğüs cebi detaylı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30277,
+          "Product Option Code": "H5363AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "M",
+          "Fit": "NEW REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5363AX_26SP_WT34_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-new-regular-fit-bisiklet-yaka-ust-3446365",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-new-regular-fit-bisiklet-yaka-ust-3446365"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H5363AX_26SP_WT34_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:28:19+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

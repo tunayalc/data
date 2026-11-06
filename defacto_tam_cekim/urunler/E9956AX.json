@@ -1,0 +1,128 @@
+{
+  "model_kodu": "E9956AX",
+  "urun_grubu": "Kadın Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-01-29",
+        "puan": 5.0,
+        "metin": "@çok güzel ve harika"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E9956AXBN201",
+      "renk_kodu": "BN201",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Kadın Pamuklu Yazı Desenli Bucket Şapka",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş kadın şapka. Yıkanmış pamuklu kumaşlı beyzbol şapka. Ön kısımda kontrast renkli nakış detayına sahip, kavisli siperlikli.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-pamuklu-yazi-desenli-bucket-sapka-3496645",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E9956AX_26WN_BN201_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9956AX_26WN_BN201_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9956AX_26WN_BN201_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9956AX_26WN_BN201_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9956AX_26WN_BN201_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E9956AX_26WN_BN201_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Kadın",
+        "sapka_tipi": "Bucket Şapka",
+        "urun_olcusu": "56 cm"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş kadın şapka. Yıkanmış pamuklu kumaşlı beyzbol şapka. Ön kısımda kontrast renkli nakış detayına sahip, kavisli siperlikli.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13284,
+          "Product Option Code": "E9956AX.BN201",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/E9956AX_26WN_BN201_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-pamuklu-yazi-desenli-bucket-sapka-3496645",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-pamuklu-yazi-desenli-bucket-sapka-3496645"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/E9956AX_26WN_BN201_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:41:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

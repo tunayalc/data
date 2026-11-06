@@ -1,0 +1,96 @@
+{
+  "model_kodu": "I0841AX",
+  "urun_grubu": "Erkek Kemer",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0841AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Dikdörtgen Toka Suni Deri Klasik Kemer",
+      "kisa_aciklama": "Suni deri malzemeden üretilmiş erkek kemer. Toka detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-klasik-kemer-3482378",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0841AX_NS_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0841AX_NS_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0841AX_NS_BK27_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "90",
+          "100",
+          "110"
+        ],
+        "excel": [
+          "110"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan Deri 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kemer_kategori": "Klasik Kemer",
+        "kumas": "Suni Deri",
+        "toka_sekli": "Dikdörtgen Toka",
+        "urun_tipi": "Kemer",
+        "urun_olcusu": "4 cm",
+        "urun_aksesuari": "Kemer",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Suni deri malzemeden üretilmiş erkek kemer. Toka detaylı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 174.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38382,
+          "Product Option Code": "I0841AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "110",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0841AX_NS_BK27_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0841AX_NS_BK27_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:51:55+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

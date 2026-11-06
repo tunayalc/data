@@ -1,0 +1,207 @@
+{
+  "model_kodu": "C0502AX",
+  "urun_grubu": "Kadın Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 100.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-08",
+        "puan": 5.0,
+        "metin": "@o kadarguzel ve rahatki"
+      },
+      {
+        "tarih": "2025-08-07",
+        "puan": 5.0,
+        "metin": "@Çok iyi duruyor çok hafif tam beden"
+      },
+      {
+        "tarih": "2024-07-17",
+        "puan": 4.0,
+        "metin": "@ürün güzel göründüğü gibi kumaşı ve kendisi ürünün benim boyum 1.53 kilom 46 s beden aldım bir tık büyük oldu…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0502AXBK83",
+      "renk_kodu": "BK83",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Standart Fit Sporcu Mini Etek",
+      "kisa_aciklama": "DeFactoFit Standart Fit Etek: Şıklığınızı ve konforunuzu bir arada sunan bu etek, günlük şıklığınıza zarafet katıyor. Kaliteli kumaşı ve modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-sporcu-mini-etek-3106646",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C0502AX_24SM_BK83_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0502AX_24SM_BK83_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0502AX_24SM_BK83_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0502AX_24SM_BK83_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0502AX_24SM_BK83_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0502AX_24SM_BK83_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,80cm - 80/61/89",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yasam_tarzi": "Sporcu",
+        "kullanim_alani": "Dış Giyim &amp; Günlük Giyim",
+        "kumas": "Dokuma",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "DeFactoFit Standart Fit Etek: Şıklığınızı ve konforunuzu bir arada sunan bu etek, günlük şıklığınıza zarafet katıyor. Kaliteli kumaşı ve modern…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3038,
+          "Product Option Code": "C0502AX.BK83",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0502AX_24SM_BK83_01_01.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-sporcu-mini-etek-3106646",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sporcu-mini-etek-3106646"
+        },
+        {
+          "excel_satiri": 3039,
+          "Product Option Code": "C0502AX.BK83",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0502AX_24SM_BK83_01_01.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-sporcu-mini-etek-3106646",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sporcu-mini-etek-3106646"
+        },
+        {
+          "excel_satiri": 3040,
+          "Product Option Code": "C0502AX.BK83",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0502AX_24SM_BK83_01_01.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-sporcu-mini-etek-3106646",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sporcu-mini-etek-3106646"
+        },
+        {
+          "excel_satiri": 3041,
+          "Product Option Code": "C0502AX.BK83",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0502AX_24SM_BK83_01_01.jpg",
+          "FabricDetail": "WOVEN",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-sporcu-mini-etek-3106646",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sporcu-mini-etek-3106646"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C0502AX_24SM_BK83_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:24:23+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

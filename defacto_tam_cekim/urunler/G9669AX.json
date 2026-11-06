@@ -1,0 +1,94 @@
+{
+  "model_kodu": "G9669AX",
+  "urun_grubu": "Erkek Güneş Gözlüğü",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G9669AXGN1",
+      "renk_kodu": "GN1",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "Erkek Güneş Gözlüğü",
+      "kisa_aciklama": "Modern ve şık tasarımıyla dikkat çeken Erkek Güneş Gözlüğü, UV korumalı cam yapısıyla gözlerinizi güneşin zararlı ışınlarına karşı korurken stilinizi…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-gunes-gozlugu-3422100",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G9669AX_NS_GN1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9669AX_NS_GN1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9669AX_NS_GN1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9669AX_NS_GN1_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9669AX_NS_GN1_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9669AX_NS_GN1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9669AX_NS_GN1_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Metal 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "filtre_tipi": "UV",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Modern ve şık tasarımıyla dikkat çeken Erkek Güneş Gözlüğü, UV korumalı cam yapısıyla gözlerinizi güneşin zararlı ışınlarına karşı korurken stilinizi…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23250,
+          "Product Option Code": "G9669AX.GN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Sunglasses",
+          "LifeStyle": "Casual",
+          "Class Name": "Sunglasses",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G9669AX_NS_GN1_01_02.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-gunes-gozlugu-3422100",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-gunes-gozlugu-3422100"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G9669AX_NS_GN1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:14:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "model_kodu": "B5048A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B5048A8BG718",
+      "renk_kodu": "BG718",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1747,
+          "Product Option Code": "B5048A8.BG718",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B5048A8_24SM_BG718_01_03.jpg",
+          "FabricDetail": "JEAN",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B5048A8_24SM_BG718_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B5048A8PN450",
+      "renk_kodu": "PN450",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "13/14 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1748,
+          "Product Option Code": "B5048A8.PN450",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B5048A8_24SM_PN450_01_02.jpg",
+          "FabricDetail": "JEAN",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 1749,
+          "Product Option Code": "B5048A8.PN450",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B5048A8_24SM_PN450_01_02.jpg",
+          "FabricDetail": "JEAN",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/B5048A8_24SM_PN450_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

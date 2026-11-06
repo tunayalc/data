@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D1201AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1201AXKH485",
+      "renk_kodu": "KH485",
+      "renk_adi": "TEAK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6371,
+          "Product Option Code": "D1201AX.KH485",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "TEAK",
+          "SizeDefinition": "42",
+          "Fit": "TAPERED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1201AX_24SM_KH485_01_02.jpg",
+          "FabricDetail": "PES",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#384E42",
+          "Product Page URL": "https://www.defacto.com/en-ma/tapered-fit-yuksek-bel-ankle-paca-pantolon-3138988",
+          "Model Page URL": "https://www.defacto.com/en-ma/tapered-fit-yuksek-bel-ankle-paca-pantolon-3138988"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1201AX_24SM_KH485_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:30:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/tapered-fit-yuksek-bel-ankle-paca-pantolon-3138988",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

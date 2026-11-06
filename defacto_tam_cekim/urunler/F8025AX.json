@@ -1,0 +1,118 @@
+{
+  "model_kodu": "F8025AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-21",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi. Harika!."
+      },
+      {
+        "tarih": "2026-06-11",
+        "puan": 5.0,
+        "metin": "@malzeme iyi baskı cok iyi boyut biraz büyük"
+      },
+      {
+        "tarih": "2026-10-13",
+        "puan": 5.0,
+        "metin": "@süper güzel :)))"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8025AXBN151",
+      "renk_kodu": "BN151",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "%100 Pamuk Boxy Fit Baskılı Tişört",
+      "kisa_aciklama": "%100 Pamuk Boxy Fit Baskılı Tişört, doğal pamuklu yapısıyla nefes alabilir ve konforlu bir kullanım sunar. Boxy fit kesimi modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3374618",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8025AX_26SP_BN151_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8025AX_26SP_BN151_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8025AX_26SP_BN151_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8025AX_26SP_BN151_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Boxy Fıt",
+        "desen": "Baskılı"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk Boxy Fit Baskılı Tişört, doğal pamuklu yapısıyla nefes alabilir ve konforlu bir kullanım sunar. Boxy fit kesimi modern…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15995,
+          "Product Option Code": "F8025AX.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8025AX_26SP_BN151_01_02.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3374618",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3374618"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8025AX_26SP_BN151_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:54:31+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

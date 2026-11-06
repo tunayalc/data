@@ -1,0 +1,97 @@
+{
+  "model_kodu": "B6585AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B6585AXBG395",
+      "renk_kodu": "BG395",
+      "renk_adi": "STONE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "32"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2144,
+          "Product Option Code": "B6585AX.BG395",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "32",
+          "Fit": "TAPERED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B6585AX_24SP_BG395_01_03.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/B6585AX_24SP_BG395_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B6585AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "32"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2145,
+          "Product Option Code": "B6585AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "32",
+          "Fit": "TAPERED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B6585AX_24SP_BK27_01_01.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/B6585AX_24SP_BK27_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

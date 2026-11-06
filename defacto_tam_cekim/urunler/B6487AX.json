@@ -1,0 +1,124 @@
+{
+  "model_kodu": "B6487AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-11-05",
+        "puan": 5.0,
+        "metin": "@Çok iyi bir ürün, çok rahat ve kaliteli."
+      },
+      {
+        "tarih": "2024-09-28",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-08-15",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B6487AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Slim Fit Polo Yaka Çizgili Uzun Kollu Gömlek",
+      "kisa_aciklama": "Slim fit dar kesim polo yaka çizgili penye uzun kollu gömlek, şıklığı ve rahatlığı bir arada sunar. Modern çizgili tasarımı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-polo-yaka-cizgili-uzun-kollu-gomlek-3210258",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B6487AX_25SP_WT34_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6487AX_25SP_WT34_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6487AX_25SP_WT34_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6487AX_25SP_WT34_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6487AX_25SP_WT34_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/B6487AX_25SP_WT34_06_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 93/72/92",
+        "ana_kumas_icerigi": "Elastan 16%,Naylon 84%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "desen": "Çizgili",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Uzun Kollu Gömlek",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Slim fit dar kesim polo yaka çizgili penye uzun kollu gömlek, şıklığı ve rahatlığı bir arada sunar. Modern çizgili tasarımı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2066,
+          "Product Option Code": "B6487AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B6487AX_25SP_WT34_01_02.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-cizgili-uzun-kollu-gomlek-3210258",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-polo-yaka-cizgili-uzun-kollu-gomlek-3210258"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/B6487AX_25SP_WT34_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:22:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

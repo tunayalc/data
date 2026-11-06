@@ -1,0 +1,138 @@
+{
+  "model_kodu": "C6771AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-04",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, çok teşekkürler arkadaşlar."
+      },
+      {
+        "tarih": "2024-10-17",
+        "puan": 5.0,
+        "metin": "@çok kalitelidir sağlam ."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C6771AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Erkek 5'li Pamuklu Patik Çorap",
+      "kisa_aciklama": "Erkek 5'li pamuklu patik çorap seti, konfor ve şıklığı bir arada sunar. Kaliteli pamuklu kumaşıyla gün boyu rahatlık sağlarken, şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3161894",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C6771AX_NS_KR1_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44",
+          "STD"
+        ],
+        "excel": [
+          "41-44",
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 55%,Poliamid 21%,Elastan 2%,Poliester 22%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Çorap",
+        "takim_icerigi": "7'li",
+        "corap_tipi": "Patik Çorap",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Erkek 5'li pamuklu patik çorap seti, konfor ve şıklığı bir arada sunar. Kaliteli pamuklu kumaşıyla gün boyu rahatlık sağlarken, şık…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4978,
+          "Product Option Code": "C6771AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/C6771AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3161894",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3161894"
+        },
+        {
+          "excel_satiri": 4979,
+          "Product Option Code": "C6771AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/C6771AX_NS_KR1_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3161894",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3161894"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/C6771AX_NS_KR1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:27:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

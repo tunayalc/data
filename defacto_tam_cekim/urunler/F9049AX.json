@@ -1,0 +1,591 @@
+{
+  "model_kodu": "F9049AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-16",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-07-02",
+        "puan": 5.0,
+        "metin": "@kumaşı güzel nefes alabilir bedeninize göre alabilirsiniz"
+      },
+      {
+        "tarih": "2026-03-05",
+        "puan": 5.0,
+        "metin": "@ayni resimdeki gibi ütü gerektirmeyen kaliteli guzel hir kumasi var rahat bir ürün"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9049AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fıt Polo Yaka Penye Uzun Kollu Gömlek",
+      "kisa_aciklama": "Regular Fıt kalıbı ve İlkbahar/Yaz sezonu için tasarlandı. Polo yaka uzun kollu tarzı ile Şıklığı ve rahatlığı bir arada sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463113",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 22%,Poliester 76%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt kalıbı ve İlkbahar/Yaz sezonu için tasarlandı. Polo yaka uzun kollu tarzı ile Şıklığı ve rahatlığı bir arada sunar."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16654,
+          "Product Option Code": "F9049AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "3XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F9049AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463113",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16655,
+          "Product Option Code": "F9049AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F9049AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463113",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16656,
+          "Product Option Code": "F9049AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F9049AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463113",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16657,
+          "Product Option Code": "F9049AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9049AX_26SP_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463113",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16658,
+          "Product Option Code": "F9049AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F9049AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463113",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16659,
+          "Product Option Code": "F9049AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F9049AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463113",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16660,
+          "Product Option Code": "F9049AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F9049AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463113",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16661,
+          "Product Option Code": "F9049AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F9049AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463113",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/F9049AX_26AU_BK81_01_01.jpg",
+        "https://image.defacto.com.tr/product/26SP/F9049AX_26SP_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9049AXGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Regular Fıt Polo Yaka Penye Uzun Kollu Gömlek",
+      "kisa_aciklama": "Regular Fıt kalıbı ve İlkbahar/Yaz sezonu için tasarlandı. Polo yaka uzun kollu tarzı ile Şıklığı ve rahatlığı bir arada sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_GR210_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_GR210_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_GR210_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_GR210_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_GR210_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_GR210_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_GR210_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 22%,Poliester 76%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt kalıbı ve İlkbahar/Yaz sezonu için tasarlandı. Polo yaka uzun kollu tarzı ile Şıklığı ve rahatlığı bir arada sunar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16662,
+          "Product Option Code": "F9049AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9049AX_26SP_GR210_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16663,
+          "Product Option Code": "F9049AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9049AX_26SP_GR210_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9049AX_26SP_GR210_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9049AXKH494",
+      "renk_kodu": "KH494",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "Regular Fıt Polo Yaka Penye Uzun Kollu Gömlek",
+      "kisa_aciklama": "Regular Fıt kalıbı ve İlkbahar/Yaz sezonu için tasarlandı. Polo yaka uzun kollu tarzı ile Şıklığı ve rahatlığı bir arada sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376305",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_KH494_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_KH494_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_KH494_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_KH494_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_KH494_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26SP_KH494_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 22%,Poliester 76%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Polo Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt kalıbı ve İlkbahar/Yaz sezonu için tasarlandı. Polo yaka uzun kollu tarzı ile Şıklığı ve rahatlığı bir arada sunar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16664,
+          "Product Option Code": "F9049AX.KH494",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9049AX_26SP_KH494_01_02.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376305",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16665,
+          "Product Option Code": "F9049AX.KH494",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9049AX_26SP_KH494_01_02.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376305",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        },
+        {
+          "excel_satiri": 16666,
+          "Product Option Code": "F9049AX.KH494",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9049AX_26SP_KH494_01_02.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376305",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3376303"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9049AX_26SP_KH494_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9049AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Polo Yaka Penye Uzun Kollu Gömlek",
+      "kisa_aciklama": "Regular Fıt kalıbı ve İlkbahar/Yaz sezonu için tasarlandı. Polo yaka uzun kollu tarzı ile Şıklığı ve rahatlığı bir arada sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-penye-uzun-kollu-gomlek-3463112",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9049AX_26AU_ER105_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 22%,Poliester 76%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt kalıbı ve İlkbahar/Yaz sezonu için tasarlandı. Polo yaka uzun kollu tarzı ile Şıklığı ve rahatlığı bir arada sunar."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:53:11+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

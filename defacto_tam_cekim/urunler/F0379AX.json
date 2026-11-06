@@ -1,0 +1,190 @@
+{
+  "model_kodu": "F0379AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 80.0,
+      "tam_oldu": 20.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-31",
+        "puan": 5.0,
+        "metin": "@gayet güzel bir ürün"
+      },
+      {
+        "tarih": "2026-05-15",
+        "puan": 5.0,
+        "metin": "@çok güzel"
+      },
+      {
+        "tarih": "2025-12-13",
+        "puan": 5.0,
+        "metin": "@güzel ürün tam beden alınmalı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0379AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Standart Fit Polo Yaka Baskılı Sporcu Uzun Kollu Tişört",
+      "kisa_aciklama": "DeFactoFit Standart Fit Polo Yaka Baskılı Sporcu Uzun Kollu Tişört, sportif şıklığı ve rahat kalıbıyla aktif günlerde konfor sunar. Nefes…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-baskili-sporcu-uzun-kollu-tisort-3323781",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0379AX_25AU_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0379AX_25AU_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0379AX_25AU_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0379AX_25AU_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0379AX_25AU_ER105_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0379AX_25AU_ER105_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0379AX_25AU_ER105_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,83cm - 90/74/93",
+        "ana_kumas_icerigi": "Pamuk 58%,Poliester 42%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Standart Fıt",
+        "desen": "Baskılı",
+        "kullanim_alani": "Günlük Giyim",
+        "yaka": "Polo Yaka",
+        "yasam_tarzi": "Sporcu"
+      },
+      "urun_hakkinda": [
+        "DeFactoFit Standart Fit Polo Yaka Baskılı Sporcu Uzun Kollu Tişört, sportif şıklığı ve rahat kalıbıyla aktif günlerde konfor sunar. Nefes…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 539.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13506,
+          "Product Option Code": "F0379AX.ER105",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F0379AX_25AU_ER105_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-baskili-sporcu-uzun-kollu-tisort-3323781",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-baskili-sporcu-uzun-kollu-tisort-3323781"
+        },
+        {
+          "excel_satiri": 13507,
+          "Product Option Code": "F0379AX.ER105",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F0379AX_25AU_ER105_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-baskili-sporcu-uzun-kollu-tisort-3323781",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-baskili-sporcu-uzun-kollu-tisort-3323781"
+        },
+        {
+          "excel_satiri": 13508,
+          "Product Option Code": "F0379AX.ER105",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F0379AX_25AU_ER105_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-baskili-sporcu-uzun-kollu-tisort-3323781",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-baskili-sporcu-uzun-kollu-tisort-3323781"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F0379AX_25AU_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:42:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "model_kodu": "G4273AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 80.0,
+      "tam_oldu": 20.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-06-27",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-05-29",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4273AXBE526",
+      "renk_kodu": "BE526",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Loose Fıt Baskılı Kısa Kollu Polo Mavi Tişört",
+      "kisa_aciklama": "Baskılı loose fit kısa kollu polo tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4273AX_26AU_BE526_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4273AX_26AU_BE526_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4273AX_26AU_BE526_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4273AX_26AU_BE526_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Pamuk 47%,Poliester 53%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Slogan Baskılı",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Polo Yaka",
+        "kalip": "Loose Fıt"
+      },
+      "urun_hakkinda": [
+        "Baskılı loose fit kısa kollu polo tişört."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19113,
+          "Product Option Code": "G4273AX.BE526",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "L",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BE526_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19114,
+          "Product Option Code": "G4273AX.BE526",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "L",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4273AX_26SM_BE526_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19115,
+          "Product Option Code": "G4273AX.BE526",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BE526_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19116,
+          "Product Option Code": "G4273AX.BE526",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4273AX_26SM_BE526_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19117,
+          "Product Option Code": "G4273AX.BE526",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BE526_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19118,
+          "Product Option Code": "G4273AX.BE526",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4273AX_26SM_BE526_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19119,
+          "Product Option Code": "G4273AX.BE526",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "XL",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BE526_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19120,
+          "Product Option Code": "G4273AX.BE526",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BE526_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BE526_01_01.jpg",
+        "https://image.defacto.com.tr/product/26SM/G4273AX_26SM_BE526_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G4273AXBN151",
+      "renk_kodu": "BN151",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Pamuklu Loose Fıt Baskılı Kısa Kollu Polo Açık Kahverengi Tişört",
+      "kisa_aciklama": "Baskılı loose fit kısa kollu polo tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-loose-fit-baskili-kisa-kollu-polo-acik-kahverengi-tisort-3512694",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4273AX_26AU_BN151_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4273AX_26AU_BN151_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Pamuk 47%,Poliester 53%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Loose Fıt",
+        "desen": "Slogan Baskılı",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Baskılı loose fit kısa kollu polo tişört."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19121,
+          "Product Option Code": "G4273AX.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "L",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BN151_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-loose-fit-baskili-kisa-kollu-polo-acik-kahverengi-tisort-3512694",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19122,
+          "Product Option Code": "G4273AX.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BN151_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-loose-fit-baskili-kisa-kollu-polo-acik-kahverengi-tisort-3512694",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19123,
+          "Product Option Code": "G4273AX.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BN151_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-loose-fit-baskili-kisa-kollu-polo-acik-kahverengi-tisort-3512694",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19124,
+          "Product Option Code": "G4273AX.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BN151_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-loose-fit-baskili-kisa-kollu-polo-acik-kahverengi-tisort-3512694",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        },
+        {
+          "excel_satiri": 19125,
+          "Product Option Code": "G4273AX.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BN151_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-loose-fit-baskili-kisa-kollu-polo-acik-kahverengi-tisort-3512694",
+          "Model Page URL": "https://www.defacto.com.tr/loose-fit-baskili-kisa-kollu-polo-mavi-tisort-3512695"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G4273AX_26AU_BN151_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:02:47+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "model_kodu": "I5069AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I5069AXPN1",
+      "renk_kodu": "PN1",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Kadın Mandal Saç Tokası ve Figürlü Aksesuar Seti",
+      "kisa_aciklama": "Mermer dokulu yay mekanizmalı mandal saç tokası ve figür uçlu sallantılı halka aksesuarlarından oluşan set.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-mandal-sac-tokasi-ve-figurlu-aksesuar-seti-3511272",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I5069AX_NS_PN1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5069AX_NS_PN1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5069AX_NS_PN1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 85%,Plastik 5%,Metal 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Mermer dokulu yay mekanizmalı mandal saç tokası ve figür uçlu sallantılı halka aksesuarlarından oluşan set."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43020,
+          "Product Option Code": "I5069AX.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I5069AX_NS_PN1_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-mandal-sac-tokasi-ve-figurlu-aksesuar-seti-3511272",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-mandal-sac-tokasi-ve-figurlu-aksesuar-seti-3511272"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I5069AX_NS_PN1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:50:03+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

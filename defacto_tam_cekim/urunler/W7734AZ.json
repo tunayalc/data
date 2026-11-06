@@ -1,0 +1,589 @@
+{
+  "model_kodu": "W7734AZ",
+  "urun_grubu": "Kadın Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 434,
+    "yorum_sayisi": 434,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 13.0,
+      "tam_oldu": 83.4,
+      "buyuk_geldi": 3.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-02-24",
+        "puan": 5.0,
+        "metin": "@Güzel gömlek, orta kalite kumaş, sert biraz ama pamukmuş. Kendi bedenimi aldım. 3xl zar zor oldu."
+      },
+      {
+        "tarih": "2022-04-03",
+        "puan": 5.0,
+        "metin": "@bence kalıbı abartıldığı kadar geniş değil ben xs bedenim s aldım omuzlardan tam oldu. gömleği çok beğendim kumaşı duruşu çok…"
+      },
+      {
+        "tarih": "2022-05-25",
+        "puan": 5.0,
+        "metin": "@3 XL aldım M giydiğim halde, tam plajlık bir gömlek oldu��ben çok beğendim pamuklu ve ince ����"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "W7734AZKH215",
+      "renk_kodu": "KH215",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Regular Fıt Flamlı Pamuk Uzun Kollu Gömlek",
+      "kisa_aciklama": "Flamlı pamuk kumaştan üretilmiş regular fit uzun kollu gömlek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-flamli-pamuk-uzun-kollu-gomlek-3506472",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_KH215_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_KH215_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_KH215_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_KH215_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_KH215_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_KH215_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_KH215_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,81cm - 86/63/86",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Gömlek Yaka"
+      },
+      "urun_hakkinda": [
+        "Flamlı pamuk kumaştan üretilmiş regular fit uzun kollu gömlek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47324,
+          "Product Option Code": "W7734AZ.KH215",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/W7734AZ_26AU_KH215_01_02.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-flamli-pamuk-uzun-kollu-gomlek-3506472",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986"
+        },
+        {
+          "excel_satiri": 47325,
+          "Product Option Code": "W7734AZ.KH215",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/W7734AZ_26AU_KH215_01_02.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-flamli-pamuk-uzun-kollu-gomlek-3506472",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986"
+        },
+        {
+          "excel_satiri": 47326,
+          "Product Option Code": "W7734AZ.KH215",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/W7734AZ_26AU_KH215_01_02.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-flamli-pamuk-uzun-kollu-gomlek-3506472",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/W7734AZ_26AU_KH215_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "W7734AZYL251",
+      "renk_kodu": "YL251",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "Regular Fıt Gömlek Yaka Flamlı Pamuk Uzun Kollu Gömlek",
+      "kisa_aciklama": "Yetişkinler için sürdürülebilir sarı dokuma üst. Gömlek yaka ve uzun kollu tasarımıyla, apoletp armalı ve cepli detaylarıyla dikkat çekiyor. Flamlı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-gomlek-yaka-flamli-pamuk-uzun-kollu-gomlek-3506473",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_YL251_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_YL251_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_YL251_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_YL251_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_YL251_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_YL251_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26AU_YL251_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 84/60/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "yaka": "Gömlek Yaka",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Yetişkinler için sürdürülebilir sarı dokuma üst. Gömlek yaka ve uzun kollu tasarımıyla, apoletp armalı ve cepli detaylarıyla dikkat çekiyor. Flamlı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47328,
+          "Product Option Code": "W7734AZ.YL251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/W7734AZ_26AU_YL251_01_01.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-gomlek-yaka-flamli-pamuk-uzun-kollu-gomlek-3506473",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986"
+        },
+        {
+          "excel_satiri": 47329,
+          "Product Option Code": "W7734AZ.YL251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/W7734AZ_26AU_YL251_01_01.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-gomlek-yaka-flamli-pamuk-uzun-kollu-gomlek-3506473",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986"
+        },
+        {
+          "excel_satiri": 47330,
+          "Product Option Code": "W7734AZ.YL251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/W7734AZ_26AU_YL251_01_01.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-gomlek-yaka-flamli-pamuk-uzun-kollu-gomlek-3506473",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986"
+        },
+        {
+          "excel_satiri": 47331,
+          "Product Option Code": "W7734AZ.YL251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/W7734AZ_26AU_YL251_01_01.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-gomlek-yaka-flamli-pamuk-uzun-kollu-gomlek-3506473",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/W7734AZ_26AU_YL251_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "W7734AZBG366",
+      "renk_kodu": "BG366",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "%100 Pamuk Basıc Gömlek",
+      "kisa_aciklama": "Regular Fit Basic Düz Cepli Uzun Kollu Gömlek, sade ve fonksiyonel tasarımıyla her gardırobun temel parçası. Rahat kesimi ve cepli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_BG366_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_BG366_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_BG366_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_BG366_04_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,72cm - 84/61/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "paca_detayi": "Düz Paça",
+        "yaka": "Gömlek Yaka",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Basic Düz Cepli Uzun Kollu Gömlek, sade ve fonksiyonel tasarımıyla her gardırobun temel parçası. Rahat kesimi ve cepli…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "W7734AZNV42",
+      "renk_kodu": "NV42",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "%100 Pamuk Regular Fıt Uzun Kollu Lacivert Basıc Gömlek",
+      "kisa_aciklama": "Regular Fit Basic Düz Cepli Uzun Kollu Gömlek, sade ve fonksiyonel tasarımıyla her gardırobun temel parçası. Rahat kesimi ve cepli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-uzun-kollu-lacivert-basic-gomlek-3404985",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_NV42_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_NV42_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_NV42_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_NV42_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_NV42_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kalip": "Regular Fıt",
+        "yaka": "Gömlek Yaka",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Basic Düz Cepli Uzun Kollu Gömlek, sade ve fonksiyonel tasarımıyla her gardırobun temel parçası. Rahat kesimi ve cepli…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "W7734AZPN111",
+      "renk_kodu": "PN111",
+      "renk_adi": "Gülkurusu",
+      "renk_hex": "#924363",
+      "urun_adi": "%100 Pamuk Basıc Gömlek",
+      "kisa_aciklama": "Regular Fit Basic Düz Cepli Uzun Kollu Gömlek, sade ve fonksiyonel tasarımıyla her gardırobun temel parçası. Rahat kesimi ve cepli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3406451",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_PN111_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_PN111_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_PN111_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_PN111_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/W7734AZ_26SP_PN111_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 84/63/91",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "yaka": "Gömlek Yaka",
+        "paca_detayi": "Düz Paça",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Basic Düz Cepli Uzun Kollu Gömlek, sade ve fonksiyonel tasarımıyla her gardırobun temel parçası. Rahat kesimi ve cepli…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "W7734AZBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47323,
+          "Product Option Code": "W7734AZ.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/W7734AZ_22SM_BK27_01_01.jpg",
+          "FabricDetail": "SLUBBY POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/W7734AZ_22SM_BK27_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "W7734AZKH262",
+      "renk_kodu": "KH262",
+      "renk_adi": "Khaki",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47327,
+          "Product Option Code": "W7734AZ.KH262",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/W7734AZ_24SM_KH262_01_02.jpg",
+          "FabricDetail": "SLUBBY POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-basic-gomlek-3404986"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/W7734AZ_24SM_KH262_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:15:28+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

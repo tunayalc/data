@@ -1,0 +1,93 @@
+{
+  "model_kodu": "H5435AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5435AXBE106",
+      "renk_kodu": "BE106",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Kadın Taşlı Kolye",
+      "kisa_aciklama": "Farklı boyutlarda taş detaylı kolye. Papağan klipsli.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-tasli-kolye-3451504",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5435AX_NS_BE106_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5435AX_NS_BE106_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5435AX_NS_BE106_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5435AX_NS_BE106_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Akrilik 90%,Çinko 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "1 cm",
+        "taki_tipi": "Kolye",
+        "kumas": "Jean",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Farklı boyutlarda taş detaylı kolye. Papağan klipsli."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30416,
+          "Product Option Code": "H5435AX.BE106",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H5435AX_NS_BE106_01_02.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-tasli-kolye-3451504",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-tasli-kolye-3451504"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H5435AX_NS_BE106_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:28:38+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

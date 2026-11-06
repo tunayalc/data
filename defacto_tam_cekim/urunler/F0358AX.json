@@ -1,0 +1,108 @@
+{
+  "model_kodu": "F0358AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0358AXBR115",
+      "renk_kodu": "BR115",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13499,
+          "Product Option Code": "F0358AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F0358AX_25SM_BR115_01_01.jpg",
+          "FabricDetail": "VIS-EA",
+          "Toplam": 5,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/en-ma/slim-fit-basic-asimetrik-kesim-drapeli-atlet-3316695",
+          "Model Page URL": "https://www.defacto.com/en-ma/slim-fit-basic-asimetrik-kesim-drapeli-atlet-3316695"
+        },
+        {
+          "excel_satiri": 13500,
+          "Product Option Code": "F0358AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F0358AX_25SM_BR115_01_01.jpg",
+          "FabricDetail": "VIS-EA",
+          "Toplam": 4,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/en-ma/slim-fit-basic-asimetrik-kesim-drapeli-atlet-3316695",
+          "Model Page URL": "https://www.defacto.com/en-ma/slim-fit-basic-asimetrik-kesim-drapeli-atlet-3316695"
+        },
+        {
+          "excel_satiri": 13501,
+          "Product Option Code": "F0358AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F0358AX_25SM_BR115_01_01.jpg",
+          "FabricDetail": "VIS-EA",
+          "Toplam": 3,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/en-ma/slim-fit-basic-asimetrik-kesim-drapeli-atlet-3316695",
+          "Model Page URL": "https://www.defacto.com/en-ma/slim-fit-basic-asimetrik-kesim-drapeli-atlet-3316695"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F0358AX_25SM_BR115_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:49:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/slim-fit-basic-asimetrik-kesim-drapeli-atlet-3316695",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

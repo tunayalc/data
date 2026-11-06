@@ -1,0 +1,281 @@
+{
+  "model_kodu": "I4304AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-08",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-31",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-07",
+        "puan": 5.0,
+        "metin": "@Bedeni tam aşırı oversize değil ne kalın ne ince tam mevsimlik mevsimlik kumaşı var biraz kısa kalçayı tam kapatmıyor indirimi…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4304AXBE404",
+      "renk_kodu": "BE404",
+      "renk_adi": "Royal",
+      "renk_hex": "#4169E1",
+      "urun_adi": "%100 Pamuk Oversıze Bisiklet Yaka Penye Uzun Kollu Tişört",
+      "kisa_aciklama": "%100 Pamuktan üretilmiştir. Oversıze Penye Uzun Kollu Tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507747",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_BE404_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_BE404_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_BE404_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_BE404_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_BE404_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,76cm - 81/60/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Oversıze",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Uzun Kollu Tişört"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuktan üretilmiştir. Oversıze Penye Uzun Kollu Tişört"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42581,
+          "Product Option Code": "I4304AX.BE404",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "L",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I4304AX_26AU_BE404_01_03.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507747",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507746"
+        },
+        {
+          "excel_satiri": 42582,
+          "Product Option Code": "I4304AX.BE404",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I4304AX_26AU_BE404_01_03.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507747",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507746"
+        },
+        {
+          "excel_satiri": 42583,
+          "Product Option Code": "I4304AX.BE404",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "XL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I4304AX_26AU_BE404_01_03.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507747",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507746"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I4304AX_26AU_BE404_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I4304AXRD51",
+      "renk_kodu": "RD51",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "%100 Pamuk Oversıze Bisiklet Yaka Penye Uzun Kollu Tişört",
+      "kisa_aciklama": "%100 Pamuktan üretilmiştir. Oversıze Penye Uzun Kollu Tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507746",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_RD51_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_RD51_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_RD51_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_RD51_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4304AX_26AU_RD51_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,77cm - 78/62/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Oversıze",
+        "urun_tipi": "Uzun Kollu Tişört",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuktan üretilmiştir. Oversıze Penye Uzun Kollu Tişört"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42584,
+          "Product Option Code": "I4304AX.RD51",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XXL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I4304AX_26AU_RD51_01_02.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507746",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-oversize-bisiklet-yaka-penye-uzun-kollu-tisort-3507746"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I4304AX_26AU_RD51_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:02:43+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

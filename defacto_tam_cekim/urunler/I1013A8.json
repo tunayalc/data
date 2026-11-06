@@ -1,0 +1,105 @@
+{
+  "model_kodu": "I1013A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-12",
+        "puan": 5.0,
+        "metin": "@Çok güzel geldi tam"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1013A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Minecraft 3'lü Pamuklu Uzun Çorap Erkek Çocuk",
+      "kisa_aciklama": "Minecraft lisanslı, çok renkli uzun çorap takımı, yüksek kesim ve pamuklu kumaştan üretilmiştir. 3'lü paket içeriğiyle erkek çocuklar için uygun…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/minecraft-3lu-pamuklu-uzun-corap-erkek-cocuk-3484707",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1013A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1013A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1013A8_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 23%,Elastan 2%,Tekstil Malzemeleri 52%,Poliester 23%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "takim_icerigi": "3'lü",
+        "corap_tipi": "Uzun Çorap",
+        "cinsiyet": "Erkek Çocuk",
+        "lisans_bilgisi": "Minecraft",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Minecraft lisanslı, çok renkli uzun çorap takımı, yüksek kesim ve pamuklu kumaştan üretilmiştir. 3'lü paket içeriğiyle erkek çocuklar için uygun…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 139.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38538,
+          "Product Option Code": "I1013A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1013A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/minecraft-3lu-pamuklu-uzun-corap-erkek-cocuk-3484707",
+          "Model Page URL": "https://www.defacto.com.tr/minecraft-3lu-pamuklu-uzun-corap-erkek-cocuk-3484707"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1013A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:42:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

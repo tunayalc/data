@@ -1,0 +1,126 @@
+{
+  "model_kodu": "G7870AX",
+  "urun_grubu": "Kadın Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7870AXBN214",
+      "renk_kodu": "BN214",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Balloon Fıt Normal Bel Mini Etek",
+      "kisa_aciklama": "Balloon Fit Çizgili Normal Bel Penye Astar Mini Etek, rahat balloon kesimi ve çizgili tasarımıyla feminen bir görünüm sunar. Normal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/balloon-fit-cizgili-normal-bel-penye-astar-mini-etek-3376701",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7870AX_26SP_BN214_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7870AX_26SP_BN214_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7870AX_26SP_BN214_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7870AX_26SP_BN214_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7870AX_26SP_BN214_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7870AX_26SP_BN214_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,80cm - 78/61/89",
+        "ana_kumas_icerigi": "Elastan 4%,Viskoz 34%,Poliester 62%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Balloon Fıt",
+        "desen": "Çizgili",
+        "kapama_detayi": "Fermuarlı",
+        "urun_boyu": "Mını",
+        "urun_tipi": "Etek",
+        "astar_bilgisi": "Penye Astar",
+        "paca_detayi": "Düz Paça",
+        "bel_detayi": "Normal Bel",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Balloon Fit Çizgili Normal Bel Penye Astar Mini Etek, rahat balloon kesimi ve çizgili tasarımıyla feminen bir görünüm sunar. Normal…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21613,
+          "Product Option Code": "G7870AX.BN214",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "34",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7870AX_26SP_BN214_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-cizgili-normal-bel-penye-astar-mini-etek-3376701",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-cizgili-normal-bel-penye-astar-mini-etek-3376701"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G7870AX_26SP_BN214_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:08:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

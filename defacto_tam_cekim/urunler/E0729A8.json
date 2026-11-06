@@ -1,0 +1,317 @@
+{
+  "model_kodu": "E0729A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 25,
+    "yorum_sayisi": 25,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 38.5,
+      "tam_oldu": 46.2,
+      "buyuk_geldi": 15.4
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-26",
+        "puan": 4.0,
+        "metin": "@Kumaşı gayet tok, kendi bedeninizi alın. Rengi de capcanlı."
+      },
+      {
+        "tarih": "2025-05-13",
+        "puan": 4.0,
+        "metin": "@Beğendim, ürün çok güzel."
+      },
+      {
+        "tarih": "2025-10-23",
+        "puan": 5.0,
+        "metin": "@Kalıbı geniş olduğu için kendi bedeninizi alın, kumaşı da gayet güzel. Çok beğendim. Kumaşı da kaliteli."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0729A8BE303",
+      "renk_kodu": "BE303",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Beli Lastikli Baskılı Şort Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Beli Lastikli Baskılı Şort, enerjik bir yaz tarzı sunar. Beli lastikli tasarımı, rahat bir uyum sağlarken, baskılı detaylar…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/beli-lastikli-baskili-sort-kiz-cocuk-3208418",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BE303_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BE303_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BE303_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BE303_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BE303_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BE303_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BE303_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,27cm",
+        "ana_kumas_icerigi": "Pamuk 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "kumas": "Sweatshirt Kumaşı",
+        "urun_tipi": "Şort"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Beli Lastikli Baskılı Şort, enerjik bir yaz tarzı sunar. Beli lastikli tasarımı, rahat bir uyum sağlarken, baskılı detaylar…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10305,
+          "Product Option Code": "E0729A8.BE303",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/E0729A8_25HS_BE303_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/beli-lastikli-baskili-sort-kiz-cocuk-3208418",
+          "Model Page URL": "https://www.defacto.com/beli-lastikli-baskili-sort-kiz-cocuk-3208418"
+        },
+        {
+          "excel_satiri": 10306,
+          "Product Option Code": "E0729A8.BE303",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/E0729A8_25HS_BE303_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/beli-lastikli-baskili-sort-kiz-cocuk-3208418",
+          "Model Page URL": "https://www.defacto.com/beli-lastikli-baskili-sort-kiz-cocuk-3208418"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/E0729A8_25HS_BE303_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0729A8PN47",
+      "renk_kodu": "PN47",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Beli Lastikli Baskılı Şort Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Beli Lastikli Baskılı Şort, enerjik bir yaz tarzı sunar. Beli lastikli tasarımı, rahat bir uyum sağlarken, baskılı detaylar…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/beli-lastikli-baskili-sort-kiz-cocuk-3208932",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_PN47_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_PN47_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_PN47_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_PN47_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_PN47_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_PN47_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,27cm",
+        "ana_kumas_icerigi": "Pamuk 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Sweatshirt Kumaşı",
+        "cinsiyet": "Kız Çocuk",
+        "urun_tipi": "Şort"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Beli Lastikli Baskılı Şort, enerjik bir yaz tarzı sunar. Beli lastikli tasarımı, rahat bir uyum sağlarken, baskılı detaylar…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10307,
+          "Product Option Code": "E0729A8.PN47",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/E0729A8_25HS_PN47_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com/beli-lastikli-baskili-sort-kiz-cocuk-3208932",
+          "Model Page URL": "https://www.defacto.com/beli-lastikli-baskili-sort-kiz-cocuk-3208418"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/E0729A8_25HS_PN47_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0729A8BG722",
+      "renk_kodu": "BG722",
+      "renk_adi": "Açık Taş",
+      "renk_hex": "#FFF6E5",
+      "urun_adi": "Beli Lastikli Baskılı Şort Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Beli Lastikli Baskılı Şort, enerjik bir yaz tarzı sunar. Beli lastikli tasarımı, rahat bir uyum sağlarken, baskılı detaylar…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/beli-lastikli-baskili-sort-kiz-cocuk-3207841",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BG722_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BG722_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BG722_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BG722_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BG722_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BG722_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_BG722_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,27cm",
+        "ana_kumas_icerigi": "Pamuk 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Sweatshirt Kumaşı",
+        "cinsiyet": "Kız Çocuk",
+        "urun_tipi": "Şort"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Beli Lastikli Baskılı Şort, enerjik bir yaz tarzı sunar. Beli lastikli tasarımı, rahat bir uyum sağlarken, baskılı detaylar…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E0729A8AR15",
+      "renk_kodu": "AR15",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Beli Lastikli Baskılı Şort Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Beli Lastikli Baskılı Şort, enerjik bir yaz tarzı sunar. Beli lastikli tasarımı, rahat bir uyum sağlarken, baskılı detaylar…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/beli-lastikli-baskili-sort-kiz-cocuk-3213308",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_AR15_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_AR15_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_AR15_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_AR15_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_AR15_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0729A8_25HS_AR15_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,27cm",
+        "ana_kumas_icerigi": "Pamuk 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Sweatshirt Kumaşı",
+        "cinsiyet": "Kız Çocuk",
+        "urun_tipi": "Şort"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Beli Lastikli Baskılı Şort, enerjik bir yaz tarzı sunar. Beli lastikli tasarımı, rahat bir uyum sağlarken, baskılı detaylar…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:41:40+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

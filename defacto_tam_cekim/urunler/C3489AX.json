@@ -1,0 +1,79 @@
+{
+  "model_kodu": "C3489AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C3489AXAR191",
+      "renk_kodu": "AR191",
+      "renk_adi": "ANTRACITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3857,
+          "Product Option Code": "C3489AX.AR191",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "L",
+          "Fit": "T-SHIRT DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3489AX_24SP_AR191_01_01.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3858,
+          "Product Option Code": "C3489AX.AR191",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "M",
+          "Fit": "T-SHIRT DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3489AX_24SP_AR191_01_01.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C3489AX_24SP_AR191_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "model_kodu": "C1471AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C1471AXRD59",
+      "renk_kodu": "RD59",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3277,
+          "Product Option Code": "C1471AX.RD59",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Package Slip",
+          "Product Color Name": "RED",
+          "SizeDefinition": "S",
+          "Fit": "BRAZILLIAN",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C1471AX_24SP_RD59_01_01.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C1471AX_24SP_RD59_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

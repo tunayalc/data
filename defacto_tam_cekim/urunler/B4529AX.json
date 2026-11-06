@@ -1,0 +1,187 @@
+{
+  "model_kodu": "B4529AX",
+  "urun_grubu": "Erkek Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 14,
+    "yorum_sayisi": 14,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 12.5,
+      "tam_oldu": 87.5,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-03-27",
+        "puan": 5.0,
+        "metin": "@1.83 78 kg M beden"
+      },
+      {
+        "tarih": "2026-01-28",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet güzel bir ürün."
+      },
+      {
+        "tarih": "2025-01-29",
+        "puan": 4.0,
+        "metin": "@Ürün gayet güzel ama çok ince, bir beden büyük alın."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B4529AXBG307",
+      "renk_kodu": "BG307",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Regular Fit Polo Yaka Keten Karışımlı Düğmeli Cepli Gömlek Ceket",
+      "kisa_aciklama": "Hafif keten karışımlı kumaşı sayesinde gün boyu nefes alabilen ve ferah bir kullanım konforu yaşatır. Regular fit kesimi, klasik polo…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-dugmeli-cepli-gomlek-ceket-3046766",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B4529AX_24SP_BG307_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B4529AX_24SP_BG307_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B4529AX_24SP_BG307_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B4529AX_24SP_BG307_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B4529AX_24SP_BG307_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B4529AX_24SP_BG307_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 86%,Keten 14%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Hafif keten karışımlı kumaşı sayesinde gün boyu nefes alabilen ve ferah bir kullanım konforu yaşatır. Regular fit kesimi, klasik polo…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1601,
+          "Product Option Code": "B4529AX.BG307",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Overshirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "3XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B4529AX_24SP_BG307_01_02.jpg",
+          "FabricDetail": "100% Linen",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-dugmeli-cepli-gomlek-ceket-3046766",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-dugmeli-cepli-gomlek-ceket-3046766"
+        },
+        {
+          "excel_satiri": 1602,
+          "Product Option Code": "B4529AX.BG307",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Overshirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B4529AX_24SP_BG307_01_02.jpg",
+          "FabricDetail": "100% Linen",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-dugmeli-cepli-gomlek-ceket-3046766",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-dugmeli-cepli-gomlek-ceket-3046766"
+        },
+        {
+          "excel_satiri": 1603,
+          "Product Option Code": "B4529AX.BG307",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Overshirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B4529AX_24SP_BG307_01_02.jpg",
+          "FabricDetail": "100% Linen",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-dugmeli-cepli-gomlek-ceket-3046766",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-dugmeli-cepli-gomlek-ceket-3046766"
+        },
+        {
+          "excel_satiri": 1604,
+          "Product Option Code": "B4529AX.BG307",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Overshirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B4529AX_24SP_BG307_01_02.jpg",
+          "FabricDetail": "100% Linen",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-dugmeli-cepli-gomlek-ceket-3046766",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-dugmeli-cepli-gomlek-ceket-3046766"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/B4529AX_24SP_BG307_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:22:05+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

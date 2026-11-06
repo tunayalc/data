@@ -1,0 +1,375 @@
+{
+  "model_kodu": "H5038AX",
+  "urun_grubu": "Erkek Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 2.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-14",
+        "puan": 1.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-16",
+        "puan": 1.0,
+        "metin": "@M beden olmama rağmen aşırı büyük ve biçimsiz"
+      },
+      {
+        "tarih": "2026-10-30",
+        "puan": 5.0,
+        "metin": "@Güzel ürün yumuşak"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5038AXGN149",
+      "renk_kodu": "GN149",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "%100 Pamuk Relax Fit Çizgili Polo Yaka Uzun Kol Sweatshirt",
+      "kisa_aciklama": "%100 pamuk kumaştan üretilen relax fit, çizgili polo yaka uzun kollu sweatshirt. Konforlu kalıbı ve şık tasarımıyla günlük kombinlerin vazgeçilmez…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5038AX_26AU_GN149_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5038AX_26AU_GN149_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5038AX_26AU_GN149_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5038AX_26AU_GN149_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5038AX_26AU_GN149_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5038AX_26AU_GN149_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5038AX_26AU_GN149_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Polo Yaka",
+        "kumas": "Sweatshirt Kumaşı",
+        "kol_boyu": "Uzun Kollu",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt",
+        "kumas_ic_yuzeyi": "İçi Yumuşak Tüylü"
+      },
+      "urun_hakkinda": [
+        "%100 pamuk kumaştan üretilen relax fit, çizgili polo yaka uzun kollu sweatshirt. Konforlu kalıbı ve şık tasarımıyla günlük kombinlerin vazgeçilmez…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29713,
+          "Product Option Code": "H5038AX.GN149",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_GN149_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        },
+        {
+          "excel_satiri": 29714,
+          "Product Option Code": "H5038AX.GN149",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_GN149_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        },
+        {
+          "excel_satiri": 29715,
+          "Product Option Code": "H5038AX.GN149",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_GN149_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        },
+        {
+          "excel_satiri": 29716,
+          "Product Option Code": "H5038AX.GN149",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_GN149_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        },
+        {
+          "excel_satiri": 29717,
+          "Product Option Code": "H5038AX.GN149",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_GN149_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_GN149_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5038AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "%100 Pamuk Relax Fit Çizgili Polo Yaka Uzun Kol Sweatshirt",
+      "kisa_aciklama": "%100 pamuk kumaştan üretilen relax fit, çizgili polo yaka uzun kollu sweatshirt. Konforlu kalıbı ve şık tasarımıyla günlük kombinlerin vazgeçilmez…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502844",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5038AX_26AU_NV64_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5038AX_26AU_NV64_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Sweatshirt Kumaşı",
+        "yaka": "Polo Yaka",
+        "kumas_ic_yuzeyi": "İçi Yumuşak Tüylü",
+        "kalip": "Relax Fıt",
+        "paca_detayi": "Düz Paça",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "%100 pamuk kumaştan üretilen relax fit, çizgili polo yaka uzun kollu sweatshirt. Konforlu kalıbı ve şık tasarımıyla günlük kombinlerin vazgeçilmez…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29718,
+          "Product Option Code": "H5038AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_NV64_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502844",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        },
+        {
+          "excel_satiri": 29719,
+          "Product Option Code": "H5038AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_NV64_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502844",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        },
+        {
+          "excel_satiri": 29720,
+          "Product Option Code": "H5038AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_NV64_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502844",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        },
+        {
+          "excel_satiri": 29721,
+          "Product Option Code": "H5038AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_NV64_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502844",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        },
+        {
+          "excel_satiri": 29722,
+          "Product Option Code": "H5038AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_NV64_01_01.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502844",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-cizgili-polo-yaka-uzun-kol-sweatshirt-3502843"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H5038AX_26AU_NV64_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:30:13+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

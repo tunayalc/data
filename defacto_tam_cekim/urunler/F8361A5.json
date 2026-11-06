@@ -1,0 +1,101 @@
+{
+  "model_kodu": "F8361A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8361A5PN426",
+      "renk_kodu": "PN426",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "2/3 Y",
+          "4/5 Y",
+          "9-12 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16254,
+          "Product Option Code": "F8361A5.PN426",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "2/3 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8361A5_26SP_PN426_01_01.jpg",
+          "FabricDetail": "CRINKLE",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 16255,
+          "Product Option Code": "F8361A5.PN426",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8361A5_26SP_PN426_01_01.jpg",
+          "FabricDetail": "CRINKLE",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 16256,
+          "Product Option Code": "F8361A5.PN426",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "9-12 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8361A5_26SP_PN426_01_01.jpg",
+          "FabricDetail": "CRINKLE",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8361A5_26SP_PN426_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

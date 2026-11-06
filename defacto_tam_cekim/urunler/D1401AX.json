@@ -1,0 +1,108 @@
+{
+  "model_kodu": "D1401AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1401AXGN404",
+      "renk_kodu": "GN404",
+      "renk_adi": "LT.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6500,
+          "Product Option Code": "D1401AX.GN404",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1401AX_24SM_GN404_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-straplez-atlet-3138632",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-straplez-atlet-3138632"
+        },
+        {
+          "excel_satiri": 6501,
+          "Product Option Code": "D1401AX.GN404",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1401AX_24SM_GN404_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-straplez-atlet-3138632",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-straplez-atlet-3138632"
+        },
+        {
+          "excel_satiri": 6502,
+          "Product Option Code": "D1401AX.GN404",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1401AX_24SM_GN404_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com/coool-fitted-straplez-atlet-3138632",
+          "Model Page URL": "https://www.defacto.com/coool-fitted-straplez-atlet-3138632"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1401AX_24SM_GN404_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:30:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-fitted-straplez-atlet-3138632",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

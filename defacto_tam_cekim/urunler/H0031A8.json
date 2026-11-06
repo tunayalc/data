@@ -1,0 +1,110 @@
+{
+  "model_kodu": "H0031A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-11",
+        "puan": 5.0,
+        "metin": "@Kışlık, gayet hoş. Harika. Çok beğendim. Teşekkürler."
+      },
+      {
+        "tarih": "2026-05-19",
+        "puan": 5.0,
+        "metin": "@Oğlum çok beğendiği"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0031A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "PlayStatıon 3'lü Pamuklu Uzun Çorap Erkek Çocuk",
+      "kisa_aciklama": "Erkek çocuklar için tasarlanan PlayStation lisanslı 3’lü uzun çorap seti, pamuklu yapısıyla gün boyu konfor ve nefes alabilirlik sunar. Esnek…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-cocuk-playstation-3443067",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0031A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0031A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0031A8_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0031A8_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "23 - 28"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliamid 21%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Uzun Çorap",
+        "cinsiyet": "Erkek Çocuk",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Erkek çocuklar için tasarlanan PlayStation lisanslı 3’lü uzun çorap seti, pamuklu yapısıyla gün boyu konfor ve nefes alabilirlik sunar. Esnek…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23629,
+          "Product Option Code": "H0031A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H0031A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com/en-iq/erkek-cocuk-playstation-3443067",
+          "Model Page URL": "https://www.defacto.com/en-iq/erkek-cocuk-playstation-3443067"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H0031A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:14:54+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

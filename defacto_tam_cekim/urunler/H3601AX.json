@@ -1,0 +1,128 @@
+{
+  "model_kodu": "H3601AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3601AXSR4",
+      "renk_kodu": "SR4",
+      "renk_adi": "Gümüş",
+      "renk_hex": null,
+      "urun_adi": "Kadın 3'lü Küpe",
+      "kisa_aciklama": "3'lü set halinde halka küpe. Farklı boyut ve yüzeylere sahip gümüş renkli tasarımlar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-3lu-kupe-3444362",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3601AX_NS_SR4_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3601AX_NS_SR4_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Demir 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "3'lü",
+        "taki_tipi": "Küpe"
+      },
+      "urun_hakkinda": [
+        "3'lü set halinde halka küpe. Farklı boyut ve yüzeylere sahip gümüş renkli tasarımlar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27518,
+          "Product Option Code": "H3601AX.SR4",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "SILVER",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3601AX_NS_SR4_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#C0C0C0",
+          "Product Page URL": "https://www.defacto.com/en-ma/kadin-3lu-kupe-3444362",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-3lu-kupe-3444361"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3601AX_NS_SR4_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H3601AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın 3'lü Küpe",
+      "kisa_aciklama": "Üç adet halka küpe seti. Farklı boyutlarda ve yüzey dokularında halka küpeler.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-3lu-kupe-3444361",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3601AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3601AX_NS_GD1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Demir 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "taki_tipi": "Küpe",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Üç adet halka küpe seti. Farklı boyutlarda ve yüzey dokularında halka küpeler."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:23:11+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

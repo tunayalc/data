@@ -1,0 +1,188 @@
+{
+  "model_kodu": "R8763AZ",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 121,
+    "yorum_sayisi": 122,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 10.0,
+      "tam_oldu": 88.3,
+      "buyuk_geldi": 1.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-03-21",
+        "puan": 3.0,
+        "metin": "@Ben DeFacto mağazasından almıştım,ürün güzel kaliteli ama fazla tüy topluyor."
+      },
+      {
+        "tarih": "2022-03-24",
+        "puan": 1.0,
+        "metin": "@Aynı ürünün mavisini aldım cuk oturdu ama siyahı dapdar geldi, madem diğerinden daha dar ismini yada beden numarasını aynı yazmayın…"
+      },
+      {
+        "tarih": "2022-01-27",
+        "puan": 5.0,
+        "metin": "@Kumaşı esnek başta zor giyiliyor ama sonradan esniyor tam bedeninizi almanızı öneririm"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "R8763AZNM40",
+      "renk_kodu": "NM40",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Carlo Skinny Fıt Normal Bel Dar Paça Uzun Boy Jean Pantolon",
+      "kisa_aciklama": "Carlo Skinny Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Uzun boy dar paça kesimi…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3374270",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/R8763AZ_26SP_NM40_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8763AZ_26SP_NM40_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8763AZ_26SP_NM40_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8763AZ_26SP_NM40_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/R8763AZ_26SP_NM40_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "36"
+        ],
+        "excel": [
+          "28-30",
+          "30-32",
+          "31-32",
+          "32-34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Carlo Skınny Fıt Normal Bel Dar Paça",
+        "paca_detayi": "Dar Paça",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Carlo Skinny Fit jean pantolon, dar kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Uzun boy dar paça kesimi…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46182,
+          "Product Option Code": "R8763AZ.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "28-30",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23AU/R8763AZ_23AU_NM40_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3374270",
+          "Model Page URL": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3374270"
+        },
+        {
+          "excel_satiri": 46183,
+          "Product Option Code": "R8763AZ.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "30-32",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/R8763AZ_25AU_NM40_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3374270",
+          "Model Page URL": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3374270"
+        },
+        {
+          "excel_satiri": 46184,
+          "Product Option Code": "R8763AZ.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "31-32",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/R8763AZ_25AU_NM40_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3374270",
+          "Model Page URL": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3374270"
+        },
+        {
+          "excel_satiri": 46185,
+          "Product Option Code": "R8763AZ.NM40",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "32-34",
+          "Fit": "CARLO - SKINNY FIT DENIM",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SP/R8763AZ_22SP_NM40_01_03.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3374270",
+          "Model Page URL": "https://www.defacto.com.tr/carlo-skinny-fit-normal-bel-dar-paca-uzun-boy-jean-pantolon-3374270"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23AU/R8763AZ_23AU_NM40_01_02.jpg",
+        "https://image.defacto.com.tr/product/25AU/R8763AZ_25AU_NM40_01_01.jpg",
+        "https://image.defacto.com.tr/product/22SP/R8763AZ_22SP_NM40_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:12:22+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

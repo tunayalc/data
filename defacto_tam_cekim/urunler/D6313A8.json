@@ -1,0 +1,119 @@
+{
+  "model_kodu": "D6313A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-11",
+        "puan": 5.0,
+        "metin": "@Kaliteli, beğendik."
+      },
+      {
+        "tarih": "2025-03-25",
+        "puan": 5.0,
+        "metin": "@Kaliteli bulduk."
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@Çok iyi kalite, tavsiye ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D6313A8BK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kargo Jogger Gabardın Pantolon",
+      "kisa_aciklama": "Erkek Çocuk Kargo Jogger Gabardın Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kargo-jogger-gabardin-pantolon-3213227",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D6313A8_25SP_BK27_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6313A8_25SP_BK27_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6313A8_25SP_BK27_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6313A8_25SP_BK27_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6313A8_25SP_BK27_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6313A8_25SP_BK27_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6313A8_25SP_BK27_07_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6313A8_25SP_BK27_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6313A8_25SP_BK27_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,44cm",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Gabardin",
+        "kalip": "Kargo Jogger",
+        "urun_tipi": "Pantolon",
+        "cinsiyet": "Erkek Çocuk"
+      },
+      "urun_hakkinda": [
+        "Erkek Çocuk Kargo Jogger Gabardın Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8273,
+          "Product Option Code": "D6313A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "CARGO JOGGER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D6313A8_25SP_BK27_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/kargo-jogger-gabardin-pantolon-3213227",
+          "Model Page URL": "https://www.defacto.com.tr/kargo-jogger-gabardin-pantolon-3213227"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D6313A8_25SP_BK27_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:36:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

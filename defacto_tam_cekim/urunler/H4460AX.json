@@ -1,0 +1,96 @@
+{
+  "model_kodu": "H4460AX",
+  "urun_grubu": "Kadın Diğer Aksesuarlar",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-23",
+        "puan": 5.0,
+        "metin": "@çok tatlı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4460AXRD1",
+      "renk_kodu": "RD1",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Kadın Pembe Bordo Yelpaze",
+      "kisa_aciklama": "Kadın pembe bordo yelpaze",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-pembe-bordo-yelpaze-3463168",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4460AX_26SM_RD1_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4460AX_26SM_RD1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4460AX_26SM_RD1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4460AX_26SM_RD1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,73cm - 82/60/89",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın pembe bordo yelpaze"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28961,
+          "Product Option Code": "H4460AX.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Hand Fan",
+          "Product Color Name": "RED",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H4460AX_26SM_RD1_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-pembe-bordo-yelpaze-3463168",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-pembe-bordo-yelpaze-3463168"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H4460AX_26SM_RD1_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:26:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

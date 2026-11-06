@@ -1,0 +1,186 @@
+{
+  "model_kodu": "I1189A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1189A8RD93",
+      "renk_kodu": "RD93",
+      "renk_adi": "Açık Kırmızı",
+      "renk_hex": "#FF4C4C",
+      "urun_adi": "Çizgili Kırmızı Diz Üstü Elbise Kız Çocuk",
+      "kisa_aciklama": "Açık kırmızı ve beyaz yatay çizgili kız çocuk elbisesi. Kayık yaka ve kısa kollu. Diz üstü boy.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cizgili-kirmizi-diz-ustu-elbise-kiz-cocuk-3486707",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1189A8_26HS_RD93_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1189A8_26HS_RD93_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1189A8_26HS_RD93_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1189A8_26HS_RD93_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1189A8_26HS_RD93_05_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,35cm",
+        "ana_kumas_icerigi": "Pamuk 85%,Elastan 2%,Poliester 13%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "A Kesim",
+        "ozel_urun": "Günlük",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Açık kırmızı ve beyaz yatay çizgili kız çocuk elbisesi. Kayık yaka ve kısa kollu. Diz üstü boy."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38779,
+          "Product Option Code": "I1189A8.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Dress",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1189A8_26HS_RD93_01_03.jpg",
+          "FabricDetail": "VIS-PES",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-kirmizi-diz-ustu-elbise-kiz-cocuk-3486707",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-kirmizi-diz-ustu-elbise-kiz-cocuk-3486707"
+        },
+        {
+          "excel_satiri": 38780,
+          "Product Option Code": "I1189A8.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Dress",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1189A8_26HS_RD93_01_03.jpg",
+          "FabricDetail": "VIS-PES",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-kirmizi-diz-ustu-elbise-kiz-cocuk-3486707",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-kirmizi-diz-ustu-elbise-kiz-cocuk-3486707"
+        },
+        {
+          "excel_satiri": 38781,
+          "Product Option Code": "I1189A8.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Dress",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1189A8_26HS_RD93_01_03.jpg",
+          "FabricDetail": "VIS-PES",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-kirmizi-diz-ustu-elbise-kiz-cocuk-3486707",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-kirmizi-diz-ustu-elbise-kiz-cocuk-3486707"
+        },
+        {
+          "excel_satiri": 38782,
+          "Product Option Code": "I1189A8.RD93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Dress",
+          "Product Color Name": "LT.RED",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1189A8_26HS_RD93_01_03.jpg",
+          "FabricDetail": "VIS-PES",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF4C4C",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-kirmizi-diz-ustu-elbise-kiz-cocuk-3486707",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-kirmizi-diz-ustu-elbise-kiz-cocuk-3486707"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I1189A8_26HS_RD93_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:42:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

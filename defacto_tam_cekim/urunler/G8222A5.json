@@ -1,0 +1,93 @@
+{
+  "model_kodu": "G8222A5",
+  "urun_grubu": "Kız Bebek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8222A5NM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "Mavi",
+      "renk_hex": "#30D5C8",
+      "urun_adi": "%100 Pamuk Pileli Jean Şort Etek Kız Bebek",
+      "kisa_aciklama": "Pileli tasarımıyla hareket özgürlüğü sağlayan jean şort etek, kız bebekler için rahat ve konforlu bir kullanım sunar. Şık ve sevimli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-pileli-jean-sort-etek-kiz-bebek-3426192",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8222A5_26HS_NM28_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8222A5_26HS_NM28_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8222A5_26HS_NM28_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "18-24 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Bebek"
+      },
+      "urun_hakkinda": [
+        "Pileli tasarımıyla hareket özgürlüğü sağlayan jean şort etek, kız bebekler için rahat ve konforlu bir kullanım sunar. Şık ve sevimli…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22039,
+          "Product Option Code": "G8222A5.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "18-24 M",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/G8222A5_26HS_NM28_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-pileli-jean-sort-etek-kiz-bebek-3426192",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-pileli-jean-sort-etek-kiz-bebek-3426192"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/G8222A5_26HS_NM28_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:11:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

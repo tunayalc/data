@@ -1,0 +1,114 @@
+{
+  "model_kodu": "F5317AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-01-07",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi, pamuk oranı da çok hoşuma gitti."
+      },
+      {
+        "tarih": "2025-11-25",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi geldi, teşekkür ederim. Çok teşekkürler."
+      },
+      {
+        "tarih": "2026-11-04",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F5317AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Erkek Rahat Lastikli 5'li Pamuklu Uzun Çorap",
+      "kisa_aciklama": "Erkekler için hazırlanan 5'li pamuklu uzun çorap seti, nefes alabilen ve yumuşak kumaşıyla gün boyu konfor sağlar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-5li-uzun-corap-3322290",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F5317AX_NS_KR1_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5317AX_NS_KR1_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5317AX_NS_KR1_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5317AX_NS_KR1_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5317AX_NS_KR1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 73%,Poliamid 24%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek",
+        "takim_icerigi": "5'li",
+        "corap_tipi": "Uzun Çorap"
+      },
+      "urun_hakkinda": [
+        "Erkekler için hazırlanan 5'li pamuklu uzun çorap seti, nefes alabilen ve yumuşak kumaşıyla gün boyu konfor sağlar.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15027,
+          "Product Option Code": "F5317AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "41-44",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/F5317AX_NS_KR1_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 12,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-5li-uzun-corap-3322290",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-5li-uzun-corap-3322290"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/F5317AX_NS_KR1_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:52:55+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

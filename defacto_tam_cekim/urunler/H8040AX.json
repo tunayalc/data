@@ -1,0 +1,663 @@
+{
+  "model_kodu": "H8040AX",
+  "urun_grubu": "Kadın Tunik",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8040AXBN258",
+      "renk_kodu": "BN258",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Slım Fıt Yarım Balıkçı Yaka Penye Kolsuz Kahverengi Bluz",
+      "kisa_aciklama": "Penye kumaştan üretilmiş slim fit balıkçı yaka kısa kollu atlet.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-kolsuz-kahverengi-bluz-3486739",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN258_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN258_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN258_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN258_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN258_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,79cm - 75/59/87",
+        "ana_kumas_icerigi": "Pamuk 46%,Elastan 4%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_yuksekligi": "65",
+        "kol_boyu": "Kolsuz",
+        "kalip": "Slım Fıt",
+        "yaka": "Yarım Balıkçı Yaka",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Kısa Kollu Tunik"
+      },
+      "urun_hakkinda": [
+        "Penye kumaştan üretilmiş slim fit balıkçı yaka kısa kollu atlet."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34231,
+          "Product Option Code": "H8040AX.BN258",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "3XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN258_01_04.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-kolsuz-kahverengi-bluz-3486739",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34232,
+          "Product Option Code": "H8040AX.BN258",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN258_01_04.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-kolsuz-kahverengi-bluz-3486739",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34233,
+          "Product Option Code": "H8040AX.BN258",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN258_01_04.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-kolsuz-kahverengi-bluz-3486739",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34234,
+          "Product Option Code": "H8040AX.BN258",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN258_01_04.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-kolsuz-kahverengi-bluz-3486739",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34235,
+          "Product Option Code": "H8040AX.BN258",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN258_01_04.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-kolsuz-kahverengi-bluz-3486739",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34236,
+          "Product Option Code": "H8040AX.BN258",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN258_01_04.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-kolsuz-kahverengi-bluz-3486739",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN258_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8040AXBN589",
+      "renk_kodu": "BN589",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Slım Fıt Yarım Balıkçı Yaka Penye Açık Kahverengi Atlet",
+      "kisa_aciklama": "Penye kumaştan üretilmiş slim fit balıkçı yaka kısa kollu atlet.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN589_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN589_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN589_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN589_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BN589_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,79cm - 75/59/87",
+        "ana_kumas_icerigi": "Pamuk 46%,Elastan 4%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Kollu Tunik",
+        "cinsiyet": "Kadın",
+        "urun_yuksekligi": "65",
+        "yaka": "Yarım Balıkçı Yaka",
+        "kol_boyu": "Kolsuz",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Penye kumaştan üretilmiş slim fit balıkçı yaka kısa kollu atlet."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34237,
+          "Product Option Code": "H8040AX.BN589",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN589_01_03.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34238,
+          "Product Option Code": "H8040AX.BN589",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN589_01_03.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34239,
+          "Product Option Code": "H8040AX.BN589",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN589_01_03.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34240,
+          "Product Option Code": "H8040AX.BN589",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN589_01_03.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34241,
+          "Product Option Code": "H8040AX.BN589",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN589_01_03.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_BN589_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8040AXNV94",
+      "renk_kodu": "NV94",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Slım Fıt Yarım Balıkçı Yaka Penye Lacivert Atlet",
+      "kisa_aciklama": "Penye kumaştan üretilmiş slim fit balıkçı yaka kısa kollu atlet.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-lacivert-atlet-3486737",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_NV94_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_NV94_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_NV94_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_NV94_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_NV94_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "M",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,79cm - 75/59/87",
+        "ana_kumas_icerigi": "Pamuk 46%,Elastan 4%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Kolsuz",
+        "urun_tipi": "Kısa Kollu Tunik",
+        "urun_yuksekligi": "65",
+        "yaka": "Yarım Balıkçı Yaka",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Penye kumaştan üretilmiş slim fit balıkçı yaka kısa kollu atlet."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34242,
+          "Product Option Code": "H8040AX.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "3XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_NV94_01_03.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-lacivert-atlet-3486737",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34243,
+          "Product Option Code": "H8040AX.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_NV94_01_03.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-lacivert-atlet-3486737",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34244,
+          "Product Option Code": "H8040AX.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_NV94_01_03.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-lacivert-atlet-3486737",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        },
+        {
+          "excel_satiri": 34245,
+          "Product Option Code": "H8040AX.NV94",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "CNS",
+          "Class Name": "Short Sleeve Tunic",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_NV94_01_03.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-lacivert-atlet-3486737",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-acik-kahverengi-atlet-3486738"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8040AX_26SM_NV94_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8040AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slım Fıt Yarım Balıkçı Yaka Penye Siyah Atlet",
+      "kisa_aciklama": "Penye kumaştan üretilmiş slim fit balıkçı yaka kısa kollu atlet.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-penye-siyah-atlet-3486736",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8040AX_26SM_BK81_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Pamuk 46%,Elastan 4%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_yuksekligi": "65",
+        "kol_boyu": "Kolsuz",
+        "urun_tipi": "Kısa Kollu Tunik",
+        "kalip": "Slım Fıt",
+        "yaka": "Yarım Balıkçı Yaka",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Penye kumaştan üretilmiş slim fit balıkçı yaka kısa kollu atlet."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:35:20+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

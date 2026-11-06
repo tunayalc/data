@@ -1,0 +1,312 @@
+{
+  "model_kodu": "F3416AX",
+  "urun_grubu": "Kadın Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 14,
+    "yorum_sayisi": 14,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 55.6,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 11.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-18",
+        "puan": 5.0,
+        "metin": "@kalıbı çok güzel"
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Güzel, beğendim."
+      },
+      {
+        "tarih": "2025-11-07",
+        "puan": 5.0,
+        "metin": "@Harika! Bayıldım, gerçekten."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3416AXGN699",
+      "renk_kodu": "GN699",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "%100 Pamuk Regular Fıt Flamlı Kısa Kollu Belden Bağlamalı Yeşil Gömlek",
+      "kisa_aciklama": "Flamlı pamuk kumaştan üretilmiş regular fit kısa kollu gömlek.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-flamli-kisa-kollu-belden-baglamali-yesil-gomlek-3480876",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3416AX_26SM_GN699_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_26SM_GN699_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_26SM_GN699_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_26SM_GN699_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_26SM_GN699_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_26SM_GN699_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,81cm - 86/63/86",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt",
+        "yaka": "Gömlek Yaka",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Flamlı pamuk kumaştan üretilmiş regular fit kısa kollu gömlek."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14394,
+          "Product Option Code": "F3416AX.GN699",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/F3416AX_26SM_GN699_01_02.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-flamli-kisa-kollu-belden-baglamali-yesil-gomlek-3480876",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-bagcikli-flamli-gomlek-3326192"
+        },
+        {
+          "excel_satiri": 14395,
+          "Product Option Code": "F3416AX.GN699",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/F3416AX_26SM_GN699_01_02.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-flamli-kisa-kollu-belden-baglamali-yesil-gomlek-3480876",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-bagcikli-flamli-gomlek-3326192"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/F3416AX_26SM_GN699_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F3416AXWT79",
+      "renk_kodu": "WT79",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "%100 Pamuk Bağcıklı Flamlı Gömlek",
+      "kisa_aciklama": "Yetişkin kadınlar için ideal olan bu gömlek, flamlı pamuk kumaşıyla konfor ve stil sunuyor. Beyaz rengi ve gömlek yaka detayıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-bagcikli-flamli-gomlek-3326192",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_WT79_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_WT79_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_WT79_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_WT79_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_WT79_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_WT79_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_WT79_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 83/62/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Kadın",
+        "yaka": "Gömlek Yaka",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için ideal olan bu gömlek, flamlı pamuk kumaşıyla konfor ve stil sunuyor. Beyaz rengi ve gömlek yaka detayıyla…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F3416AXYL1",
+      "renk_kodu": "YL1",
+      "renk_adi": "Sarı",
+      "renk_hex": "#FFFF00",
+      "urun_adi": "%100 Pamuk Bağcıklı Flamlı Gömlek",
+      "kisa_aciklama": "Yetişkin kadınlar için ideal olan bu gömlek, flamlı pamuk kumaşıyla konfor ve stil sunuyor. Beyaz rengi ve gömlek yaka detayıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-bagcikli-flamli-gomlek-3326899",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_YL1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_YL1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_YL1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_YL1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3416AX_25HS_YL1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm - 83/62/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Gömlek Yaka",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için ideal olan bu gömlek, flamlı pamuk kumaşıyla konfor ve stil sunuyor. Beyaz rengi ve gömlek yaka detayıyla…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:45:11+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

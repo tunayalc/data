@@ -1,0 +1,86 @@
+{
+  "model_kodu": "G7135A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7135A5BG286",
+      "renk_kodu": "BG286",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M",
+          "3/4 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20988,
+          "Product Option Code": "G7135A5.BG286",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Set",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "12-18 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7135A5_26SP_BG286_01_03.jpg",
+          "FabricDetail": "MUSLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/muslin-2li-takim-gomlek-pantolon-erkek-bebek-3442397",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/muslin-2li-takim-gomlek-pantolon-erkek-bebek-3442397"
+        },
+        {
+          "excel_satiri": 20989,
+          "Product Option Code": "G7135A5.BG286",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Set",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7135A5_26SP_BG286_01_03.jpg",
+          "FabricDetail": "MUSLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/muslin-2li-takim-gomlek-pantolon-erkek-bebek-3442397",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/muslin-2li-takim-gomlek-pantolon-erkek-bebek-3442397"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G7135A5_26SP_BG286_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:08:18+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/muslin-2li-takim-gomlek-pantolon-erkek-bebek-3442397",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

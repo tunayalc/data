@@ -1,0 +1,129 @@
+{
+  "model_kodu": "I3155A5",
+  "urun_grubu": "Kız Bebek Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3155A5PR1",
+      "renk_kodu": "PR1",
+      "renk_adi": "Mor",
+      "renk_hex": "#A020F0",
+      "urun_adi": "2'li Çiçekli Saç Aksesuarı Kız Bebek",
+      "kisa_aciklama": "Puantiyeli ve papatya desenli, çiçek şeklinde 2'li kız bebek saç aksesuarı seti.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/2li-cicekli-sac-aksesuari-kiz-bebek-3499398",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3155A5_NS_PR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3155A5_NS_PR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3155A5_NS_PR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Kız Bebek"
+      },
+      "urun_hakkinda": [
+        "Puantiyeli ve papatya desenli, çiçek şeklinde 2'li kız bebek saç aksesuarı seti."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41104,
+          "Product Option Code": "I3155A5.PR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "PURPLE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3155A5_NS_PR1_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 5,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "https://www.defacto.com.tr/2li-cicekli-sac-aksesuari-kiz-bebek-3499398",
+          "Model Page URL": "https://www.defacto.com.tr/2li-cicekli-sac-aksesuari-kiz-bebek-3499398"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3155A5_NS_PR1_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I3155A5KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "KARMA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 41103,
+          "Product Option Code": "I3155A5.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I3155A5_NS_KR1_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 2,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/2li-cicekli-sac-aksesuari-kiz-bebek-3499398"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I3155A5_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:59:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "model_kodu": "H8050AX",
+  "urun_grubu": "Kadın Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8050AXOG353",
+      "renk_kodu": "OG353",
+      "renk_adi": "Kiremit",
+      "renk_hex": "#AA3825",
+      "urun_adi": "Slım Fıt Halter Yaka Krep Bluz",
+      "kisa_aciklama": "Krep kumaştan üretilmiş slim fit bluz.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-halter-yaka-krep-bluz-3469766",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8050AX_26SM_OG353_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8050AX_26SM_OG353_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8050AX_26SM_OG353_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8050AX_26SM_OG353_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8050AX_26SM_OG353_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8050AX_26SM_OG353_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8050AX_26SM_OG353_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Elastan 4%,Viskoz 22%,Poliester 74%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Krep",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Atlet",
+        "yaka": "Halter Yaka",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Krep kumaştan üretilmiş slim fit bluz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34284,
+          "Product Option Code": "H8050AX.OG353",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "TILE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8050AX_26SM_OG353_01_02.jpg",
+          "FabricDetail": "CREPE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#AA3825",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-halter-yaka-krep-bluz-3469766",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-halter-yaka-krep-bluz-3469766"
+        },
+        {
+          "excel_satiri": 34285,
+          "Product Option Code": "H8050AX.OG353",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "TILE",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8050AX_26SM_OG353_01_02.jpg",
+          "FabricDetail": "CREPE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#AA3825",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-halter-yaka-krep-bluz-3469766",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-halter-yaka-krep-bluz-3469766"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8050AX_26SM_OG353_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:35:23+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

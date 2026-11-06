@@ -1,0 +1,188 @@
+{
+  "model_kodu": "F9166AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 22,
+    "yorum_sayisi": 22,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 75.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-09-03",
+        "puan": 5.0,
+        "metin": "@bence biraz daha yüksek bel ve bir beden geniş olsa harika bir pantolon olurdu onun haricinde polyester kumaş olması kötü"
+      },
+      {
+        "tarih": "2026-04-18",
+        "puan": 5.0,
+        "metin": "@Güzel"
+      },
+      {
+        "tarih": "2025-11-19",
+        "puan": 5.0,
+        "metin": "@Paranoid: Nesini beğenmediniz anlamıyorum, fiyatına göre gayet iyi ve bedava bir parça. Günlük kullanım için tam bir kurtarıcı parça. 38-40…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9166AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Flare Fit Krepe Yüksek Bel İspanyol Paça Pantolon",
+      "kisa_aciklama": "Flare Fıt Krepe Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. İspanyol paça kesimi sayesinde her tarzla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/flare-fit-krepe-yuksek-bel-ispanyol-paca-pantolon-3345355",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9166AX_25WN_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9166AX_25WN_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9166AX_25WN_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9166AX_25WN_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9166AX_25WN_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9166AX_25WN_BK81_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,76cm - 80/61/89",
+        "ana_kumas_icerigi": "Poliester 45%,Elastomultiester 55%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Pantolon",
+        "cinsiyet": "Kadın",
+        "kumas": "Krep",
+        "paca_detayi": "İspanyol Paça",
+        "kalip": "Flare Fıt",
+        "bel_detayi": "Yüksek Bel"
+      },
+      "urun_hakkinda": [
+        "Flare Fıt Krepe Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. İspanyol paça kesimi sayesinde her tarzla…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16734,
+          "Product Option Code": "F9166AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F9166AX_25WN_BK81_01_01.jpg",
+          "FabricDetail": "CREPE",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-krepe-yuksek-bel-ispanyol-paca-pantolon-3345355",
+          "Model Page URL": "https://www.defacto.com.tr/flare-fit-krepe-yuksek-bel-ispanyol-paca-pantolon-3345355"
+        },
+        {
+          "excel_satiri": 16735,
+          "Product Option Code": "F9166AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F9166AX_25WN_BK81_01_01.jpg",
+          "FabricDetail": "CREPE",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-krepe-yuksek-bel-ispanyol-paca-pantolon-3345355",
+          "Model Page URL": "https://www.defacto.com.tr/flare-fit-krepe-yuksek-bel-ispanyol-paca-pantolon-3345355"
+        },
+        {
+          "excel_satiri": 16736,
+          "Product Option Code": "F9166AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "38",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F9166AX_25WN_BK81_01_01.jpg",
+          "FabricDetail": "CREPE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-krepe-yuksek-bel-ispanyol-paca-pantolon-3345355",
+          "Model Page URL": "https://www.defacto.com.tr/flare-fit-krepe-yuksek-bel-ispanyol-paca-pantolon-3345355"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F9166AX_25WN_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:56:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

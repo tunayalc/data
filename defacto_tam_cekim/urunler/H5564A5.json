@@ -1,0 +1,115 @@
+{
+  "model_kodu": "H5564A5",
+  "urun_grubu": "Kız Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5564A5KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Hello Kitty 3'lü Uzun Çorap Kız Bebek",
+      "kisa_aciklama": "3'lü Hello Kitty lisanslı yüksek kesim uzun çorap seti, kız bebekler için ideal bir seçenektir. Çok renkli tasarımıyla tüm mevsimlerde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kiz-bebek-hello-kitty-3444469",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5564A5_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5564A5_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5564A5_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5564A5_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay"
+        ],
+        "excel": [
+          "12-24 M",
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 69%,Poliamid 27%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "lisans_bilgisi": "Hello Kitty",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Kız Bebek",
+        "corap_tipi": "Uzun Çorap"
+      },
+      "urun_hakkinda": [
+        "3'lü Hello Kitty lisanslı yüksek kesim uzun çorap seti, kız bebekler için ideal bir seçenektir. Çok renkli tasarımıyla tüm mevsimlerde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30592,
+          "Product Option Code": "H5564A5.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "12-24 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H5564A5_NS_KR1_01_01.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 3,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kiz-bebek-hello-kitty-3444469",
+          "Model Page URL": "https://www.defacto.com.tr/kiz-bebek-hello-kitty-3444469"
+        },
+        {
+          "excel_satiri": 30593,
+          "Product Option Code": "H5564A5.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "6-12 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H5564A5_NS_KR1_01_01.jpg",
+          "FabricDetail": "CO-PES-EA",
+          "Toplam": 2,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kiz-bebek-hello-kitty-3444469",
+          "Model Page URL": "https://www.defacto.com.tr/kiz-bebek-hello-kitty-3444469"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H5564A5_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:29:05+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

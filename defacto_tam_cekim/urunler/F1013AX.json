@@ -1,0 +1,243 @@
+{
+  "model_kodu": "F1013AX",
+  "urun_grubu": "Kadın Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 57.1,
+      "tam_oldu": 42.9,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-18",
+        "puan": 5.0,
+        "metin": "@Harika! Çok beğendim, beklediğim gibi geldi, teşekkürler. Teşekkürler."
+      },
+      {
+        "tarih": "2026-04-14",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi: Daha yumuşak olmasını bekliyordum ama kalıbı gayet güzel ve geniş. Çok beğendim."
+      },
+      {
+        "tarih": "2026-03-14",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F1013AXBR93",
+      "renk_kodu": "BR93",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Relax Fıt Bisiklet Yaka Sweatshirt",
+      "kisa_aciklama": "Relax fit kesimi ve bisiklet yaka tasarımıyla bu sweatshirt, sade ve konforlu bir stil sunar. Yumuşak dokusuyla günlük kullanıma uygundur…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-casual-sweatshirt-3309576",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_BR93_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_BR93_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_BR93_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_BR93_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_BR93_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,70cm - 85/60/88",
+        "ana_kumas_icerigi": "Viskoz 26%,Poliester 74%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "urun_tipi": "Sweatshirt",
+        "cinsiyet": "Kadın",
+        "kalip": "Relax Fıt",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Relax fit kesimi ve bisiklet yaka tasarımıyla bu sweatshirt, sade ve konforlu bir stil sunar. Yumuşak dokusuyla günlük kullanıma uygundur…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13705,
+          "Product Option Code": "F1013AX.BR93",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F1013AX_25AU_BR93_01_01.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-casual-sweatshirt-3309576",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-casual-sweatshirt-3309575"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F1013AX_25AU_BR93_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F1013AXGN650",
+      "renk_kodu": "GN650",
+      "renk_adi": "Koyu Yeşil",
+      "renk_hex": "#079507",
+      "urun_adi": "Relax Fıt Bisiklet Yaka Sweatshirt",
+      "kisa_aciklama": "Relax fit kesimi ve bisiklet yaka tasarımıyla bu sweatshirt, sade ve konforlu bir stil sunar. Yumuşak dokusuyla günlük kullanıma uygundur…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-casual-sweatshirt-3309575",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_GN650_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_GN650_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_GN650_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_GN650_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_GN650_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_GN650_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_GN650_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_GN650_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1013AX_25AU_GN650_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm - 86/60/89",
+        "ana_kumas_icerigi": "Viskoz 26%,Poliester 74%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Sweatshirt",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Relax fit kesimi ve bisiklet yaka tasarımıyla bu sweatshirt, sade ve konforlu bir stil sunar. Yumuşak dokusuyla günlük kullanıma uygundur…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13706,
+          "Product Option Code": "F1013AX.GN650",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F1013AX_25AU_GN650_01_02.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-casual-sweatshirt-3309575",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-casual-sweatshirt-3309575"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F1013AX_25AU_GN650_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:43:03+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

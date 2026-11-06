@@ -1,0 +1,121 @@
+{
+  "model_kodu": "H0857AX",
+  "urun_grubu": "Kadın Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0857AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kalem Normal Bel Tafta Mini Etek",
+      "kisa_aciklama": "Siyah mini etek, yaz mevsiminde rahatlıkla tercih edilebilir. Tafta astara sahip olan eteğin normal bel detayı ve kalem kalıbı bulunmaktadır.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kalem-normal-bel-tafta-mini-etek-3444293",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0857AX_26SP_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0857AX_26SP_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0857AX_26SP_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0857AX_26SP_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0857AX_26SP_BK81_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Elastan 7%,Poliester 93%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_boyu": "Mını",
+        "urun_tipi": "Etek",
+        "bel_detayi": "Normal Bel",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Siyah mini etek, yaz mevsiminde rahatlıkla tercih edilebilir. Tafta astara sahip olan eteğin normal bel detayı ve kalem kalıbı bulunmaktadır.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24297,
+          "Product Option Code": "H0857AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "40",
+          "Fit": "PENCIL SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H0857AX_26SP_BK81_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/kalem-normal-bel-tafta-mini-etek-3444293",
+          "Model Page URL": "https://www.defacto.com.tr/kalem-normal-bel-tafta-mini-etek-3444293"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H0857AX_26SP_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:15:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

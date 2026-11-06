@@ -1,0 +1,79 @@
+{
+  "model_kodu": "Y5779A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y5779A6GR310",
+      "renk_kodu": "GR310",
+      "renk_adi": "D.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "4/5 Y",
+          "5/6 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48406,
+          "Product Option Code": "Y5779A6.GR310",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "4/5 Y",
+          "Fit": "BERMUDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22HS/Y5779A6_22HS_GR310_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 6,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 48407,
+          "Product Option Code": "Y5779A6.GR310",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "BERMUDA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22HS/Y5779A6_22HS_GR310_01_03.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22HS/Y5779A6_22HS_GR310_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

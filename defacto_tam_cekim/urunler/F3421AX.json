@@ -1,0 +1,120 @@
+{
+  "model_kodu": "F3421AX",
+  "urun_grubu": "Kadın Kapri",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-13",
+        "puan": 5.0,
+        "metin": "@Gerçekten harika! Yazlık, yumuşacık ve yumuşacık. Paketledim. Kalıbı da çok güzel. Kulüp için de rahatlıkla kullanılabilir. Kumaşı yumuşacık. Ben de…"
+      },
+      {
+        "tarih": "2026-07-12",
+        "puan": 5.0,
+        "metin": "@çok güzel bayıldım yazın giyilebilecek rahat bir ürün"
+      },
+      {
+        "tarih": "2026-09-13",
+        "puan": 5.0,
+        "metin": "@Çok güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3421AXER37",
+      "renk_kodu": "ER37",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Crop Fit Kemerli Kapri Pantolon",
+      "kisa_aciklama": "Yetişkin kadınlar için sürdürülebilir bir seçenek olan bu ekru rengi dokuma pantolon, crop fit paça detayı ve kemerli kapama detayı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/crop-fit-kemerli-kapri-pantolon-3326608",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3421AX_25HS_ER37_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3421AX_25HS_ER37_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3421AX_25HS_ER37_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3421AX_25HS_ER37_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3421AX_25HS_ER37_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3421AX_25HS_ER37_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3421AX_25HS_ER37_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "46"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,78cm - 83/62/90",
+        "ana_kumas_icerigi": "Poliamid 16%,Viskoz 84%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kapama_detayi": "Kemerli",
+        "cep_ve_fermuar_detayi": "Cep Detaylı",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için sürdürülebilir bir seçenek olan bu ekru rengi dokuma pantolon, crop fit paça detayı ve kemerli kapama detayı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14396,
+          "Product Option Code": "F3421AX.ER37",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Capri",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "46",
+          "Fit": "CAPRI",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F3421AX_25HS_ER37_01_02.jpg",
+          "FabricDetail": "KRISTAL",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/crop-fit-kemerli-kapri-pantolon-3326608",
+          "Model Page URL": "https://www.defacto.com.tr/crop-fit-kemerli-kapri-pantolon-3326608"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/F3421AX_25HS_ER37_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:51:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

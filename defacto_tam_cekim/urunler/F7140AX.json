@@ -1,0 +1,234 @@
+{
+  "model_kodu": "F7140AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 17,
+    "yorum_sayisi": 17,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-14",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, bu fiyata kaçırmayın. Şahane!."
+      },
+      {
+        "tarih": "2025-12-14",
+        "puan": 5.0,
+        "metin": "@Kalıbı gayet iyi, baharlık ve yazlık bir kumaşı var, kışın da üşütmez. Rengi de çok hoş. Fiyatına göre de gayet…"
+      },
+      {
+        "tarih": "2026-01-09",
+        "puan": 5.0,
+        "metin": "@Harika! Aşırı güzel buldum. Çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F7140AXBG315",
+      "renk_kodu": "BG315",
+      "renk_adi": "Vizon",
+      "renk_hex": "#968073",
+      "urun_adi": "Straight Fit Düz Paça Düz Paça Pantolon",
+      "kisa_aciklama": "Straight Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_01_07.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_02_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_03_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_04_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_05_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_06_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_07_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_08_08.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_09_08.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7140AX_25AU_BG315_10_07.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "36",
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Elastan 14%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "kalip": "Straıght Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Straight Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c De Elde Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/HANDWASH_30_4LVLFTRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15631,
+          "Product Option Code": "F7140AX.BG315",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "28",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F7140AX_25AU_BG315_01_07.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251"
+        },
+        {
+          "excel_satiri": 15632,
+          "Product Option Code": "F7140AX.BG315",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "30",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F7140AX_25AU_BG315_01_07.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251"
+        },
+        {
+          "excel_satiri": 15633,
+          "Product Option Code": "F7140AX.BG315",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "32",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F7140AX_25AU_BG315_01_07.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251"
+        },
+        {
+          "excel_satiri": 15634,
+          "Product Option Code": "F7140AX.BG315",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "36",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F7140AX_25AU_BG315_01_07.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251"
+        },
+        {
+          "excel_satiri": 15635,
+          "Product Option Code": "F7140AX.BG315",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "38",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F7140AX_25AU_BG315_01_07.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-duz-paca-duz-paca-pantolon-3333251"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F7140AX_25AU_BG315_01_07.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:53:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

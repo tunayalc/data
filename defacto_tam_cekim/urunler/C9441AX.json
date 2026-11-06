@@ -1,0 +1,64 @@
+{
+  "model_kodu": "C9441AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C9441AXAR9",
+      "renk_kodu": "AR9",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28-30"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5784,
+          "Product Option Code": "C9441AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "28-30",
+          "Fit": "SLIM JEAN CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/C9441AX_24AU_AR9_01_04.jpg",
+          "FabricDetail": "CO-EA",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/slim-jean-cut-dar-paca-pantolon-3127898",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/slim-jean-cut-dar-paca-pantolon-3127898"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/C9441AX_24AU_AR9_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:29:18+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/slim-jean-cut-dar-paca-pantolon-3127898",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

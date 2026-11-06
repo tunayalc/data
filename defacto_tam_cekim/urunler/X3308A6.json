@@ -1,0 +1,119 @@
+{
+  "model_kodu": "X3308A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "X3308A6BK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47507,
+          "Product Option Code": "X3308A6.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/X3308A6_22SM_BK81_01_01.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/X3308A6_22SM_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "X3308A6PN105",
+      "renk_kodu": "PN105",
+      "renk_adi": "LT.PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 47508,
+          "Product Option Code": "X3308A6.PN105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/X3308A6_22SM_PN105_01_01.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 47509,
+          "Product Option Code": "X3308A6.PN105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/22SM/X3308A6_22SM_PN105_01_01.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/22SM/X3308A6_22SM_PN105_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

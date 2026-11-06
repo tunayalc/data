@@ -1,0 +1,86 @@
+{
+  "model_kodu": "B6396AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B6396AXBN305",
+      "renk_kodu": "BN305",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2036,
+          "Product Option Code": "B6396AX.BN305",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Fit",
+          "Class Name": "Bikini Bottom",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "TROPIC",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/B6396AX_24HS_BN305_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com/en-ma/sporcu-renk-bloklu-bikini-alt-3104455",
+          "Model Page URL": "https://www.defacto.com/en-ma/sporcu-renk-bloklu-bikini-alt-3104455"
+        },
+        {
+          "excel_satiri": 2037,
+          "Product Option Code": "B6396AX.BN305",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Fit",
+          "Class Name": "Bikini Bottom",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "TROPIC",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/B6396AX_24HS_BN305_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com/en-ma/sporcu-renk-bloklu-bikini-alt-3104455",
+          "Model Page URL": "https://www.defacto.com/en-ma/sporcu-renk-bloklu-bikini-alt-3104455"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/B6396AX_24HS_BN305_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:22:43+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/sporcu-renk-bloklu-bikini-alt-3104455",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

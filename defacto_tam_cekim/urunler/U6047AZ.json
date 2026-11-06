@@ -1,0 +1,79 @@
+{
+  "model_kodu": "U6047AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "U6047AZGR93",
+      "renk_kodu": "GR93",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46874,
+          "Product Option Code": "U6047AZ.GR93",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Package Slip",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "HIPSTER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/U6047AZ_24SP_GR93_01_01.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 0,
+          "Initial Price Value": 79.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 46875,
+          "Product Option Code": "U6047AZ.GR93",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Package Slip",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "S",
+          "Fit": "HIPSTER",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/U6047AZ_24SP_GR93_01_01.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 0,
+          "Initial Price Value": 79.99,
+          "Actual Price Value": 29.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/U6047AZ_24SP_GR93_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

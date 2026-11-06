@@ -1,0 +1,124 @@
+{
+  "model_kodu": "H6684A5",
+  "urun_grubu": "Kız Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-05",
+        "puan": 5.0,
+        "metin": "@Güzel çoraplar"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H6684A5SF1",
+      "renk_kodu": "SF1",
+      "renk_adi": "Yumuşak",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "3'lü Pamuklu Uzun Çorap Kız Bebek",
+      "kisa_aciklama": "Üçlü kız bebek çorap seti. Fitilli dokulu. Beyaz, pembe ve krem renklerde.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/3lu-pamuklu-uzun-corap-kiz-bebek-3452319",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6684A5_NS_SF1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6684A5_NS_SF1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6684A5_NS_SF1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "12-24 M",
+          "2-3 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 76%,Poliamid 22%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Uzun Çorap",
+        "cinsiyet": "Kız Bebek",
+        "takim_icerigi": "3'lü",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Üçlü kız bebek çorap seti. Fitilli dokulu. Beyaz, pembe ve krem renklerde."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 149.99,
+        "sepette_fiyat": 104.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31963,
+          "Product Option Code": "H6684A5.SF1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "SOFT",
+          "SizeDefinition": "12-24 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H6684A5_NS_SF1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 10,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/3lu-pamuklu-uzun-corap-kiz-bebek-3452319",
+          "Model Page URL": "https://www.defacto.com.tr/3lu-pamuklu-uzun-corap-kiz-bebek-3452319"
+        },
+        {
+          "excel_satiri": 31964,
+          "Product Option Code": "H6684A5.SF1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "SOFT",
+          "SizeDefinition": "2-3 Y",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H6684A5_NS_SF1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/3lu-pamuklu-uzun-corap-kiz-bebek-3452319",
+          "Model Page URL": "https://www.defacto.com.tr/3lu-pamuklu-uzun-corap-kiz-bebek-3452319"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H6684A5_NS_SF1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:32:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

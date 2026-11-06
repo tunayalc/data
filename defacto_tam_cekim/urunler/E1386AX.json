@@ -1,0 +1,165 @@
+{
+  "model_kodu": "E1386AX",
+  "urun_grubu": "Erkek Jean",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-29",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi bir ürün, çok beğendim. Söylediğim gibi geldi, paketlemesi de özenliydi, tavsiye ederim."
+      },
+      {
+        "tarih": "2026-08-02",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-08-07",
+        "puan": 4.0,
+        "metin": "@Ürün görüntü olarak güzel ancak kol kısımlarının fazla geniş olduğunu düşünüyorum"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1386AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "%100 Pamuk Relax Fit Kısa Kollu Gömlek",
+      "kisa_aciklama": "Kot giyen yetişkin erkekler için beyaz pamuklu kısa kollu gömlek. Relax Fit kalıbıyla tamamlayıcı stiliniz olacak ince paket-rins slikon detayıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-kisa-kollu-gomlek-3318570",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E1386AX_25SM_WT34_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1386AX_25SM_WT34_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1386AX_25SM_WT34_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1386AX_25SM_WT34_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1386AX_25SM_WT34_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1386AX_25SM_WT34_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1386AX_25SM_WT34_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1386AX_25SM_WT34_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Relax Fıt",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Kot giyen yetişkin erkekler için beyaz pamuklu kısa kollu gömlek. Relax Fit kalıbıyla tamamlayıcı stiliniz olacak ince paket-rins slikon detayıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10577,
+          "Product Option Code": "E1386AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1386AX_25SM_WT34_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kisa-kollu-gomlek-3318570",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kisa-kollu-gomlek-3318570"
+        },
+        {
+          "excel_satiri": 10578,
+          "Product Option Code": "E1386AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1386AX_25SM_WT34_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kisa-kollu-gomlek-3318570",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kisa-kollu-gomlek-3318570"
+        },
+        {
+          "excel_satiri": 10579,
+          "Product Option Code": "E1386AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1386AX_25SM_WT34_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kisa-kollu-gomlek-3318570",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kisa-kollu-gomlek-3318570"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E1386AX_25SM_WT34_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:33:49+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

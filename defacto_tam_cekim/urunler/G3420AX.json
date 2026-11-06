@@ -1,0 +1,88 @@
+{
+  "model_kodu": "G3420AX",
+  "urun_grubu": "Kadın Sütyen",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3420AXBG314",
+      "renk_kodu": "BG314",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Göğüz Ucu Gizleyici",
+      "kisa_aciklama": "Ultra ince ve hafif yapısıyla öne çıkan göğüs ucu gizleyici, vakumlu tasarımıyla cilde tutunur ve gün boyu güvenle kullanılır.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/goguz-ucu-gizleyici-3478148",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3420AX_26AU_BG314_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3420AX_26AU_BG314_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3420AX_26AU_BG314_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Slikon 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Ultra ince ve hafif yapısıyla öne çıkan göğüs ucu gizleyici, vakumlu tasarımıyla cilde tutunur ve gün boyu güvenle kullanılır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18817,
+          "Product Option Code": "G3420AX.BG314",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Accessory",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G3420AX_26AU_BG314_01_01.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 9,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/goguz-ucu-gizleyici-3478148",
+          "Model Page URL": "https://www.defacto.com.tr/goguz-ucu-gizleyici-3478148"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G3420AX_26AU_BG314_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:01:58+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

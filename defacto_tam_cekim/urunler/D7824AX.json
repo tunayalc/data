@@ -1,0 +1,113 @@
+{
+  "model_kodu": "D7824AX",
+  "urun_grubu": "Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-10",
+        "puan": 4.0,
+        "metin": "@Şık bir şapka."
+      },
+      {
+        "tarih": "2025-06-03",
+        "puan": 4.0,
+        "metin": "@Güzel şapka."
+      },
+      {
+        "tarih": "2025-12-16",
+        "puan": 5.0,
+        "metin": "@Harika! Rengi de çok şirin. Çok teşekkürler."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7824AXRD2",
+      "renk_kodu": "RD2",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Erkek Etiket Baskılı Jean Beyzbol Basketbol Şapkası",
+      "kisa_aciklama": "Yetişkin erkekler için kırmızı jean beyzbol basketbol şapkası. Etiket baskılı, CAP/YIKAMALI ürün, temel çeşit kategorisinde. İlkbahar/Yaz mevsimine uygun, 58 cm…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-etiket-baskili-jean-beyzbol-basketbol-sapkasi-3375511",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7824AX_26SM_RD2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7824AX_26SM_RD2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7824AX_26SM_RD2_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7824AX_26SM_RD2_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7824AX_26SM_RD2_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliester 23%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "sapka_tipi": "Beyzbol Basketbol Şapkası",
+        "urun_olcusu": "58 cm"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için kırmızı jean beyzbol basketbol şapkası. Etiket baskılı, CAP/YIKAMALI ürün, temel çeşit kategorisinde. İlkbahar/Yaz mevsimine uygun, 58 cm…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8961,
+          "Product Option Code": "D7824AX.RD2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "RED",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/D7824AX_26SM_RD2_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-ma/erkek-etiket-baskili-jean-beyzbol-basketbol-sapkasi-3375511",
+          "Model Page URL": "https://www.defacto.com/en-ma/erkek-etiket-baskili-jean-beyzbol-basketbol-sapkasi-3375511"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/D7824AX_26SM_RD2_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:38:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

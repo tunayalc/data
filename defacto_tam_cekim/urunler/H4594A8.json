@@ -1,0 +1,91 @@
+{
+  "model_kodu": "H4594A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Yelpaze",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4594A8BG122",
+      "renk_kodu": "BG122",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Kiraz Desenli Bej Yelpaze Kız Çocuk",
+      "kisa_aciklama": "Kız çocukları için Kiraz desenli bej yelpaze.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kiraz-desenli-bej-yelpaze-kiz-cocuk-3463120",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4594A8_26SM_BG122_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4594A8_26SM_BG122_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4594A8_26SM_BG122_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4594A8_26SM_BG122_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4594A8_26SM_BG122_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Kız çocukları için Kiraz desenli bej yelpaze."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29142,
+          "Product Option Code": "H4594A8.BG122",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Hand Fan",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H4594A8_26SM_BG122_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/kiraz-desenli-bej-yelpaze-kiz-cocuk-3463120",
+          "Model Page URL": "https://www.defacto.com.tr/kiraz-desenli-bej-yelpaze-kiz-cocuk-3463120"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H4594A8_26SM_BG122_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:26:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

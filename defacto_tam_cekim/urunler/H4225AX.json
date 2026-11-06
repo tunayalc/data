@@ -1,0 +1,131 @@
+{
+  "model_kodu": "H4225AX",
+  "urun_grubu": "Kadın Tunik",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-21",
+        "puan": 5.0,
+        "metin": "@1,65 boy 70 kg ile s beden aldım gayet şık durur arka kısmı kalçayı kapatır."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4225AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Relax Fıt Çizgili Poplin Uzun Kollu Tunik",
+      "kisa_aciklama": "Poplin kumaştan üretilmiş Çizgili relaxed fit kadın tunik. Uzun kollu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-cizgili-poplin-uzun-kollu-tunik-3450197",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4225AX_26SP_WT32_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4225AX_26SP_WT32_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4225AX_26SP_WT32_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4225AX_26SP_WT32_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4225AX_26SP_WT32_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Pamuk 58%,Poliester 42%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_yuksekligi": "72",
+        "kumas": "Poplin",
+        "cinsiyet": "Kadın",
+        "kumas_kalinligi": "İnce",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Poplin kumaştan üretilmiş Çizgili relaxed fit kadın tunik. Uzun kollu."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28640,
+          "Product Option Code": "H4225AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H4225AX_26SP_WT32_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-cizgili-poplin-uzun-kollu-tunik-3450197",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-cizgili-poplin-uzun-kollu-tunik-3450197"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H4225AX_26SP_WT32_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:27:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

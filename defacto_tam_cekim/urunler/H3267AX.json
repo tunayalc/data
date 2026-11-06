@@ -1,0 +1,213 @@
+{
+  "model_kodu": "H3267AX",
+  "urun_grubu": "Kadın Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 3.0,
+    "degerlendirme_sayisi": 11,
+    "yorum_sayisi": 11,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 20.0,
+      "tam_oldu": 80.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-04",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-06-29",
+        "puan": 3.0,
+        "metin": "@(Boy 160 Kilo 48) Öncelikle kumaşı güzel. (Sarı olan için yazıyorum) Ancak iç gösteriyor. Astar bile kurtarmıyor. Ayrıca boy da…"
+      },
+      {
+        "tarih": "2026-10-30",
+        "puan": 2.0,
+        "metin": "@İç gösteriyor"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3267AXYL488",
+      "renk_kodu": "YL488",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "Pamuklu Standart Fıt Pike Elbise",
+      "kisa_aciklama": "COURTS SPORT MAXI BOY ELBİSE, günlük giyim için idealdir. Pike kumaştan yapılmış, standart fıt kalıba sahiptir. Lacivert renk seçeneği ile…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-standart-fit-pike-elbise-3436308",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_YL488_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_YL488_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_YL488_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_YL488_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_YL488_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 82/60/88",
+        "ana_kumas_icerigi": "Pamuk 48%,Elastan 2%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pike",
+        "kullanim_alani": "Günlük Giyim",
+        "kalip": "Standart Fıt",
+        "yasam_tarzi": "Sporcu"
+      },
+      "urun_hakkinda": [
+        "COURTS SPORT MAXI BOY ELBİSE, günlük giyim için idealdir. Pike kumaştan yapılmış, standart fıt kalıba sahiptir. Lacivert renk seçeneği ile…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27140,
+          "Product Option Code": "H3267AX.YL488",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Dress",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "XS",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H3267AX_26SP_YL488_01_01.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-standart-fit-pike-elbise-3436308",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-standart-fit-pike-elbise-3436307"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H3267AX_26SP_YL488_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H3267AXNV146",
+      "renk_kodu": "NV146",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Pamuklu Standart Fıt Pike Elbise",
+      "kisa_aciklama": "COURTS SPORT MAXI BOY ELBİSE, günlük giyim için idealdir. Pike kumaştan yapılmış, standart fıt kalıba sahiptir. Lacivert renk seçeneği ile…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-standart-fit-pike-elbise-3436307",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_NV146_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_NV146_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_NV146_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_NV146_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3267AX_26SP_NV146_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 82/60/88",
+        "ana_kumas_icerigi": "Pamuk 48%,Elastan 2%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kullanim_alani": "Günlük Giyim",
+        "kalip": "Standart Fıt",
+        "yasam_tarzi": "Sporcu",
+        "kumas": "Pike"
+      },
+      "urun_hakkinda": [
+        "COURTS SPORT MAXI BOY ELBİSE, günlük giyim için idealdir. Pike kumaştan yapılmış, standart fıt kalıba sahiptir. Lacivert renk seçeneği ile…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:23:58+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

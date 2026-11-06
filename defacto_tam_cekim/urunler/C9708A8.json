@@ -1,0 +1,86 @@
+{
+  "model_kodu": "C9708A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C9708A8RD63",
+      "renk_kodu": "RD63",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "5/6 Y",
+          "7/8 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5874,
+          "Product Option Code": "C9708A8.RD63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "RED",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C9708A8_24HS_RD63_01_04.jpg",
+          "FabricDetail": "3 Thread Diagonal",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/cizgili-sort-kiz-cocuk-3137687",
+          "Model Page URL": "https://www.defacto.com/cizgili-sort-kiz-cocuk-3137687"
+        },
+        {
+          "excel_satiri": 5875,
+          "Product Option Code": "C9708A8.RD63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "RED",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C9708A8_24HS_RD63_01_04.jpg",
+          "FabricDetail": "3 Thread Diagonal",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/cizgili-sort-kiz-cocuk-3137687",
+          "Model Page URL": "https://www.defacto.com/cizgili-sort-kiz-cocuk-3137687"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/C9708A8_24HS_RD63_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:29:24+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/cizgili-sort-kiz-cocuk-3137687",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

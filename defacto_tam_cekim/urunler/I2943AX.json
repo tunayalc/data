@@ -1,0 +1,325 @@
+{
+  "model_kodu": "I2943AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-13",
+        "puan": 5.0,
+        "metin": "@Pamuklu %79 olmasından dolayı özellikle satın aldım"
+      },
+      {
+        "tarih": "2026-11-05",
+        "puan": 5.0,
+        "metin": "@Çok güzel yumuşacıklar"
+      },
+      {
+        "tarih": "2026-10-09",
+        "puan": 5.0,
+        "metin": "@Uygun fiyat performans ürünü"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2943AXBE2",
+      "renk_kodu": "BE2",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Erkek 7'li Pamuklu Melanj Görünümlü Patik Çorap",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 7'Li set. Pamuklu kumaş, elastik bilek detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-7li-pamuklu-melanj-gorunumlu-patik-corap-3518153",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_BE2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_BE2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_BE2_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 54%,Poliamid 21%,Elastan 2%,Poliester 23%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Patik Çorap",
+        "takim_icerigi": "7'li",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Kısa Çorap",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 7'Li set. Pamuklu kumaş, elastik bilek detaylı.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40783,
+          "Product Option Code": "I2943AX.BE2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2943AX_NS_BE2_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 7,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-7li-pamuklu-melanj-gorunumlu-patik-corap-3518153",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-7li-pamuklu-gorunumlu-patik-corap-3518154"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2943AX_NS_BE2_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I2943AXBN45",
+      "renk_kodu": "BN45",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Erkek 7'li Pamuklu Görünümlü Patik Çorap",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 7'Li set. Pamuklu kumaş, elastik bilek detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-7li-pamuklu-gorunumlu-patik-corap-3518155",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_BN45_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_BN45_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_BN45_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_BN45_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 79%,Poliamid 19%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Çorap",
+        "corap_tipi": "Patik Çorap",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "7'li",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 7'Li set. Pamuklu kumaş, elastik bilek detaylı.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40784,
+          "Product Option Code": "I2943AX.BN45",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2943AX_NS_BN45_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-7li-pamuklu-gorunumlu-patik-corap-3518155",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-7li-pamuklu-gorunumlu-patik-corap-3518154"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2943AX_NS_BN45_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I2943AXGR2",
+      "renk_kodu": "GR2",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Erkek 7'li Pamuklu Görünümlü Patik Çorap",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 7'Li set. Pamuklu kumaş, elastik bilek detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-7li-pamuklu-gorunumlu-patik-corap-3518154",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_GR2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_GR2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_GR2_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_GR2_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 79%,Poliamid 19%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Patik Çorap",
+        "urun_tipi": "Kısa Çorap",
+        "takim_icerigi": "7'li"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 7'Li set. Pamuklu kumaş, elastik bilek detaylı.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40785,
+          "Product Option Code": "I2943AX.GR2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2943AX_NS_GR2_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 12,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-7li-pamuklu-gorunumlu-patik-corap-3518154",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-7li-pamuklu-gorunumlu-patik-corap-3518154"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2943AX_NS_GR2_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I2943AXNV2",
+      "renk_kodu": "NV2",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Erkek 7'li Pamuklu Patik Çorap",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 7'Li set. Düz tasarımlı. Yedi adetli paket.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-7li-pamuklu-patik-corap-3518152",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_NV2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_NV2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2943AX_NS_NV2_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 79%,Poliamid 19%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Çorap",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "7'li",
+        "cinsiyet": "Erkek",
+        "corap_tipi": "Patik Çorap"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 7'Li set. Düz tasarımlı. Yedi adetli paket.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40786,
+          "Product Option Code": "I2943AX.NV2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2943AX_NS_NV2_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-7li-pamuklu-patik-corap-3518152",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-7li-pamuklu-gorunumlu-patik-corap-3518154"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2943AX_NS_NV2_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:58:20+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

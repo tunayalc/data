@@ -1,0 +1,109 @@
+{
+  "model_kodu": "M7668AZ",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "M7668AZWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45906,
+          "Product Option Code": "M7668AZ.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/M7668AZ_25SP_WT34_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 0,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-slim-fit-dar-kesim-v-yaka-basic-duz-kisa-kollu-siyah-tisort-3037880"
+        },
+        {
+          "excel_satiri": 45907,
+          "Product Option Code": "M7668AZ.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/M7668AZ_25SP_WT34_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 2,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-slim-fit-dar-kesim-v-yaka-basic-duz-kisa-kollu-siyah-tisort-3037880"
+        },
+        {
+          "excel_satiri": 45908,
+          "Product Option Code": "M7668AZ.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SP/M7668AZ_23SP_WT34_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 99.99,
+          "Actual Price Value": 59.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-slim-fit-dar-kesim-v-yaka-basic-duz-kisa-kollu-siyah-tisort-3037880"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/M7668AZ_25SP_WT34_01_01.jpg",
+        "https://image.defacto.com.tr/product/23SP/M7668AZ_23SP_WT34_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:53:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-slim-fit-dar-kesim-v-yaka-basic-duz-kisa-kollu-siyah-tisort-3037880",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

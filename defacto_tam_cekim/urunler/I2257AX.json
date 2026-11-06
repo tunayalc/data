@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I2257AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2257AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Parçalı Plaka Detaylı Kadın Kolye",
+      "kisa_aciklama": "Metalik görünümlü kadın kolye. Boynu saran parçalı plaka tasarım. Arkası ayarlanabilir zincirli ve karabina klips kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/parcali-plaka-detayli-kadin-kolye-3494124",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2257AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2257AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2257AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 95%,Çelik 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "kumas": "Jean",
+        "taki_tipi": "Kolye"
+      },
+      "urun_hakkinda": [
+        "Metalik görünümlü kadın kolye. Boynu saran parçalı plaka tasarım. Arkası ayarlanabilir zincirli ve karabina klips kapamalı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40090,
+          "Product Option Code": "I2257AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2257AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com/ar-iq/parcali-plaka-detayli-kadin-kolye-3494124",
+          "Model Page URL": "https://www.defacto.com/ar-iq/parcali-plaka-detayli-kadin-kolye-3494124"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2257AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:44:48+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

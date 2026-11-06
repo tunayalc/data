@@ -1,0 +1,123 @@
+{
+  "model_kodu": "G0738AX",
+  "urun_grubu": "Kadın Trençkot",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 25.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-07",
+        "puan": 5.0,
+        "metin": "@İnternet üzerinden aldım XL büyük geldi.mağazadan L beden ile değiştirdim çok güzel beğendim"
+      },
+      {
+        "tarih": "2026-04-23",
+        "puan": 5.0,
+        "metin": "@üzerinizde yakışan bir model tam yaza giriş zamanında bahar gibi kullanılacak incelikte ancak kumaşı çok kaliteli değil daha çok yağmurluk…"
+      },
+      {
+        "tarih": "2026-05-06",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0738AXER128",
+      "renk_kodu": "ER128",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Sıcak Tutan Regular Fıt Trençkot",
+      "kisa_aciklama": "Sıcak Tutan Zarif ve şık bir görünüm sunan Regular Fit Trençkot, klasik kesimiyle her kombine uyum sağlar. Hafif dokusu ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/sicak-tutan-regular-fit-trenckot-3377564",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_07_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_08_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0738AX_26SP_ER128_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XXS",
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 78/60/89",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt",
+        "dis_giyim_urun_grubu": "Trenchcoat"
+      },
+      "urun_hakkinda": [
+        "Sıcak Tutan Zarif ve şık bir görünüm sunan Regular Fit Trençkot, klasik kesimiyle her kombine uyum sağlar. Hafif dokusu ve…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1599.99,
+        "sepette_fiyat": 959.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17614,
+          "Product Option Code": "G0738AX.ER128",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trenchcoat",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0738AX_26SP_ER128_01_02.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 1599.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/sicak-tutan-regular-fit-trenckot-3377564",
+          "Model Page URL": "https://www.defacto.com.tr/sicak-tutan-regular-fit-trenckot-3377564"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G0738AX_26SP_ER128_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:58:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

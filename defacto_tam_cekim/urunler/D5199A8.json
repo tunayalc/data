@@ -1,0 +1,57 @@
+{
+  "model_kodu": "D5199A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5199A8WT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "WHITE (000)",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "24/25"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7902,
+          "Product Option Code": "D5199A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Footwear",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Slippers",
+          "LifeStyle": "Casual",
+          "Class Name": "Slipper-Flipflop",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "24/25",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D5199A8_24SM_WT1_01_01.jpg",
+          "FabricDetail": "TEXTILE",
+          "Toplam": -1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D5199A8_24SM_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

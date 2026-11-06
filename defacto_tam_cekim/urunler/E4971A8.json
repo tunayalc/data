@@ -1,0 +1,121 @@
+{
+  "model_kodu": "E4971A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-27",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika! İndirimdeyken çok hesaplıya geldi ve gayet şık."
+      },
+      {
+        "tarih": "2025-05-13",
+        "puan": 3.0,
+        "metin": "@Bayram kombini."
+      },
+      {
+        "tarih": "2026-10-17",
+        "puan": 5.0,
+        "metin": "@Bu neeeeee😊 çok hoş bir trikooo"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E4971A8AR82",
+      "renk_kodu": "AR82",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Crop Bisiklet Yaka Ajurlu Triko Kazak Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Crop Bisiklet Yaka Ajurlu Kazak, şık ve rahat bir seçenek sunar. Zarif ajur detayı ve modern crop kesimi…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/crop-bisiklet-yaka-ajurlu-triko-kazak-kiz-cocuk-3287012",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4971A8_25SM_AR82_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "7/8 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,23cm",
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kazak",
+        "cinsiyet": "Kız Çocuk",
+        "kol_boyu": "Uzun Kollu",
+        "triko_kalinligi": "Orta Kalın",
+        "kalip": "Cropped Fıt"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Crop Bisiklet Yaka Ajurlu Kazak, şık ve rahat bir seçenek sunar. Zarif ajur detayı ve modern crop kesimi…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11419,
+          "Product Option Code": "E4971A8.AR82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E4971A8_25SM_AR82_01_03.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/crop-bisiklet-yaka-ajurlu-triko-kazak-kiz-cocuk-3287012",
+          "Model Page URL": "https://www.defacto.com.tr/crop-bisiklet-yaka-ajurlu-triko-kazak-kiz-cocuk-3287012"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E4971A8_25SM_AR82_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:44:38+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "model_kodu": "H5198AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5198AXBE162",
+      "renk_kodu": "BE162",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Regular Fıt Kısa Kollu Açık Mavi Polo Tişört",
+      "kisa_aciklama": "Regular Fit polo yaka kısa kollu polo tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_BE162_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_BE162_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_BE162_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_BE162_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_BE162_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_BE162_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_BE162_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Elastan 4%,Poliester 96%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Polo Yaka",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular Fit polo yaka kısa kollu polo tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 629.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30010,
+          "Product Option Code": "H5198AX.BE162",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_BE162_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        },
+        {
+          "excel_satiri": 30011,
+          "Product Option Code": "H5198AX.BE162",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_BE162_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        },
+        {
+          "excel_satiri": 30012,
+          "Product Option Code": "H5198AX.BE162",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_BE162_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        },
+        {
+          "excel_satiri": 30013,
+          "Product Option Code": "H5198AX.BE162",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_BE162_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        },
+        {
+          "excel_satiri": 30014,
+          "Product Option Code": "H5198AX.BE162",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_BE162_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_BE162_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5198AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Kısa Kollu Ekru Polo Tişört",
+      "kisa_aciklama": "Man Short Sleeve Polo T-Shirt",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-kisa-kollu-ekru-polo-tisort-3441961",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_ER105_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_ER105_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_ER105_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_ER105_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5198AX_26AU_ER105_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Elastan 4%,Poliester 96%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Man Short Sleeve Polo T-Shirt"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 629.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30015,
+          "Product Option Code": "H5198AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_ER105_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-ekru-polo-tisort-3441961",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        },
+        {
+          "excel_satiri": 30016,
+          "Product Option Code": "H5198AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_ER105_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-ekru-polo-tisort-3441961",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        },
+        {
+          "excel_satiri": 30017,
+          "Product Option Code": "H5198AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_ER105_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-ekru-polo-tisort-3441961",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        },
+        {
+          "excel_satiri": 30018,
+          "Product Option Code": "H5198AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_ER105_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-ekru-polo-tisort-3441961",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        },
+        {
+          "excel_satiri": 30019,
+          "Product Option Code": "H5198AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_ER105_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-ekru-polo-tisort-3441961",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kisa-kollu-acik-mavi-polo-tisort-3441960"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H5198AX_26AU_ER105_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:31:14+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

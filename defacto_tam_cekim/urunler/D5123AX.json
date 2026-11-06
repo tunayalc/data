@@ -1,0 +1,119 @@
+{
+  "model_kodu": "D5123AX",
+  "urun_grubu": "Kadın Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 99,
+    "yorum_sayisi": 99,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.7,
+      "tam_oldu": 72.7,
+      "buyuk_geldi": 1.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-06",
+        "puan": 4.0,
+        "metin": "@Kendi bedenimi aldım 165 60 kilo 40 beden aldım tam oldu. Rengi atmaması için bir gece tuzlu suda beklettim rengi…"
+      },
+      {
+        "tarih": "2024-12-23",
+        "puan": 2.0,
+        "metin": "@çok dar yapıyorsunuz ya basenimde zor geçti karnimi sıktı biraz ligrali yapsanız çok iyi olur iade"
+      },
+      {
+        "tarih": "2025-12-17",
+        "puan": 5.0,
+        "metin": "@çok uyguna aldım bedeni rahat kalıp çok sıkı. değil beli. ideal.pqca boyu 1.65icin 40beden aldım boyu 5cm.kesilcek"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5123AXNM82",
+      "renk_kodu": "NM82",
+      "renk_adi": "Mavi Siyah",
+      "renk_hex": "#002558",
+      "urun_adi": "Straight Wide Yüksek Bel Düz ve Geniş Paça Jean Pantolon",
+      "kisa_aciklama": "Zamansız şıklığı ve üstün konforu bir araya getiren bu Straight Wide Pantolon, gardırobunuzun vazgeçilmez temel parçalarından biri olacak. Beli mükemmel…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-wide-yuksek-bel-duz-ve-genis-paca-jean-pantolon-3374319",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D5123AX_26SP_NM82_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5123AX_26SP_NM82_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5123AX_26SP_NM82_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5123AX_26SP_NM82_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5123AX_26SP_NM82_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5123AX_26SP_NM82_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,74cm - 74/60/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "bel_detayi": "Yüksek Bel"
+      },
+      "urun_hakkinda": [
+        "Zamansız şıklığı ve üstün konforu bir araya getiren bu Straight Wide Pantolon, gardırobunuzun vazgeçilmez temel parçalarından biri olacak. Beli mükemmel…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7872,
+          "Product Option Code": "D5123AX.NM82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE BLACK",
+          "SizeDefinition": "32",
+          "Fit": "STRAIGHT WIDE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D5123AX_26SP_NM82_01_05.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#002558",
+          "Product Page URL": "https://www.defacto.com.tr/straight-wide-yuksek-bel-duz-ve-genis-paca-jean-pantolon-3374319",
+          "Model Page URL": "https://www.defacto.com.tr/straight-wide-yuksek-bel-duz-ve-genis-paca-jean-pantolon-3374319"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D5123AX_26SP_NM82_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:35:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

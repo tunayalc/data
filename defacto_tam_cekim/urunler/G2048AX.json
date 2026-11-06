@@ -1,0 +1,187 @@
+{
+  "model_kodu": "G2048AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-11",
+        "puan": 4.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-06-07",
+        "puan": 5.0,
+        "metin": "@80 kg 1.80 boy l beden tam oldu yaka kısmı biraz kötü ama kalıbı çok güzel"
+      },
+      {
+        "tarih": "2026-03-10",
+        "puan": 5.0,
+        "metin": "@İstediğim gibi oldu"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2048AXBN151",
+      "renk_kodu": "BN151",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "%100 Pamuk Loose Fıt Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Loose Fıt Kısa Kollu Polo Tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-loose-fit-kisa-kollu-polo-tisort-3375984",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2048AX_26SP_BN151_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2048AX_26SP_BN151_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2048AX_26SP_BN151_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2048AX_26SP_BN151_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2048AX_26SP_BN151_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2048AX_26SP_BN151_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Loose Fıt",
+        "yaka": "Polo Yaka",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Loose Fıt Kısa Kollu Polo Tişört"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18186,
+          "Product Option Code": "G2048AX.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "L",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G2048AX_26SP_BN151_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-loose-fit-kisa-kollu-polo-tisort-3375984",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-loose-fit-kisa-kollu-polo-tisort-3375984"
+        },
+        {
+          "excel_satiri": 18187,
+          "Product Option Code": "G2048AX.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "M",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G2048AX_26SP_BN151_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-loose-fit-kisa-kollu-polo-tisort-3375984",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-loose-fit-kisa-kollu-polo-tisort-3375984"
+        },
+        {
+          "excel_satiri": 18188,
+          "Product Option Code": "G2048AX.BN151",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "S",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G2048AX_26SP_BN151_01_02.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-loose-fit-kisa-kollu-polo-tisort-3375984",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-loose-fit-kisa-kollu-polo-tisort-3375984"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G2048AX_26SP_BN151_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:58:36+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

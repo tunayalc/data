@@ -1,0 +1,123 @@
+{
+  "model_kodu": "C1420AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C1420AXNM85",
+      "renk_kodu": "NM85",
+      "renk_adi": "LT.INDIGO",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3231,
+          "Product Option Code": "C1420AX.NM85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "L",
+          "Fit": "Crop Top",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C1420AX_24SM_NM85_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3232,
+          "Product Option Code": "C1420AX.NM85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "M",
+          "Fit": "Crop Top",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C1420AX_24SM_NM85_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3233,
+          "Product Option Code": "C1420AX.NM85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "S",
+          "Fit": "Crop Top",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C1420AX_24SM_NM85_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 3234,
+          "Product Option Code": "C1420AX.NM85",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "LT.INDIGO",
+          "SizeDefinition": "XS",
+          "Fit": "Crop Top",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C1420AX_24SM_NM85_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#2800A1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C1420AX_24SM_NM85_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

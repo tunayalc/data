@@ -1,0 +1,118 @@
+{
+  "model_kodu": "Z3340AZ",
+  "urun_grubu": "Kadın Tesettür Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 68,
+    "yorum_sayisi": 68,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 30.0,
+      "tam_oldu": 70.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-05-17",
+        "puan": 2.0,
+        "metin": "@yorum yapılmamış olmasınin bedeli ağır oldu 42 beden aldım 38 gibi oldu bacağı kalın olanlar uzak dursun ya da en…"
+      },
+      {
+        "tarih": "2023-08-01",
+        "puan": 5.0,
+        "metin": "@Yorumlara bakarak bir beden büyük aldım ama asla olmadı.Tam bedeninizi alın zaten kumaş türü olarak giydikçe salan bir kumaş.Fazlasıyla yüksek…"
+      },
+      {
+        "tarih": "2023-09-08",
+        "puan": 5.0,
+        "metin": "@bu kadar güzel bir pantolon görmedim. Çok rahat. normalde L beden tercih ederim bunu xl aldim çok iyi oldu bol…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z3340AZBG187",
+      "renk_kodu": "BG187",
+      "renk_adi": "Kum",
+      "renk_hex": "#C49C7A",
+      "urun_adi": "Wıde Leg Geniş Paça Müslin Pantolon",
+      "kisa_aciklama": "Wıde Leg Müslin Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-genis-paca-muslin-pantolon-3079149",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Z3340AZ_24SP_BG187_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3340AZ_24SP_BG187_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3340AZ_24SP_BG187_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3340AZ_24SP_BG187_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Z3340AZ_24SP_BG187_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,74cm - 84/60/90",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_yuksekligi": "70",
+        "kalip": "Wıde Leg",
+        "cinsiyet": "Kadın",
+        "kumas": "Müslin"
+      },
+      "urun_hakkinda": [
+        "Wıde Leg Müslin Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48709,
+          "Product Option Code": "Z3340AZ.BG187",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "CNS",
+          "Class Name": "Trousers",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "38",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/Z3340AZ_24SP_BG187_01_02.jpg",
+          "FabricDetail": "MUSLIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-muslin-pantolon-3079149",
+          "Model Page URL": "https://www.defacto.com/en-ma/wide-leg-genis-paca-muslin-pantolon-3079149"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/Z3340AZ_24SP_BG187_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:56:31+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

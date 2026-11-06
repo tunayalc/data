@@ -1,0 +1,141 @@
+{
+  "model_kodu": "F8522AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-26",
+        "puan": 5.0,
+        "metin": "@görseldeki ne göre gelen ürünün rengi soluk gibi geldi bana mağazadan karşılaştırma yapacağım"
+      },
+      {
+        "tarih": "2026-05-14",
+        "puan": 5.0,
+        "metin": "@tam istediğim gibi tesekkürler."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8522AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fit Keten Karışımlı Gömlek Yaka Fermuarlı Mont",
+      "kisa_aciklama": "Hafif keten karışımlı kumaşı ile konforu artıran bu regular fit mont, gömlek yaka ve fermuarlı yapısıyla şıklığı ve fonksiyonelliği birleştirir.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-keten-karisimli-gomlek-yaka-fermuarli-mont-3376106",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8522AX_26SP_NV64_01_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8522AX_26SP_NV64_02_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8522AX_26SP_NV64_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8522AX_26SP_NV64_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8522AX_26SP_NV64_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8522AX_26SP_NV64_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8522AX_26SP_NV64_07_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Viskoz 88%,Keten 12%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kumas": "Keten Karışımlı",
+        "kalip": "Regular Fıt",
+        "kumas_kalinligi": "İnce",
+        "kol_boyu": "Uzun Kollu",
+        "dis_giyim_urun_grubu": "Mont",
+        "kapama_detayi": "Fermuarlı",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Hafif keten karışımlı kumaşı ile konforu artıran bu regular fit mont, gömlek yaka ve fermuarlı yapısıyla şıklığı ve fonksiyonelliği birleştirir.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 1199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16359,
+          "Product Option Code": "F8522AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8522AX_26SP_NV64_01_04.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-gomlek-yaka-fermuarli-mont-3376106",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-gomlek-yaka-fermuarli-mont-3376106"
+        },
+        {
+          "excel_satiri": 16360,
+          "Product Option Code": "F8522AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8522AX_26SP_NV64_01_04.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 2,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-gomlek-yaka-fermuarli-mont-3376106",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-keten-karisimli-gomlek-yaka-fermuarli-mont-3376106"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8522AX_26SP_NV64_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:55:33+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,639 @@
+{
+  "model_kodu": "F3800AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 53,
+    "yorum_sayisi": 53,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 22.2,
+      "buyuk_geldi": 2.8
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-09",
+        "puan": 5.0,
+        "metin": "@Bu pantolon niye otçu pantolonu gibi. Kısa bu!"
+      },
+      {
+        "tarih": "2026-04-18",
+        "puan": 5.0,
+        "metin": "@Gerçekten çok güzel bir ürün, üstelik sorunsuz bir şekilde elime ulaştı, kesinlikle öneririm."
+      },
+      {
+        "tarih": "2025-12-30",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi bir ürün. Kendi bedeninizi rahatlıkla alabilirsiniz. Çok beğendim. Ürün de gayet güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3800AXBG73",
+      "renk_kodu": "BG73",
+      "renk_adi": "Vizon",
+      "renk_hex": "#968073",
+      "urun_adi": "Regular Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BG73_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BG73_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BG73_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BG73_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BG73_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BG73_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "30",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kumas": "Fitilli Kadife",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14518,
+          "Product Option Code": "F3800AX.BG73",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_BG73_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        },
+        {
+          "excel_satiri": 14519,
+          "Product Option Code": "F3800AX.BG73",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "40",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_BG73_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_BG73_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F3800AXBN311",
+      "renk_kodu": "BN311",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Regular Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323741",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BN311_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BN311_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BN311_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_BN311_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "30",
+          "32",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kumas": "Fitilli Kadife",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14520,
+          "Product Option Code": "F3800AX.BN311",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_BN311_01_02.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323741",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        },
+        {
+          "excel_satiri": 14521,
+          "Product Option Code": "F3800AX.BN311",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "32",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_BN311_01_02.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323741",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        },
+        {
+          "excel_satiri": 14522,
+          "Product Option Code": "F3800AX.BN311",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "40",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_BN311_01_02.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323741",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_BN311_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F3800AXKH324",
+      "renk_kodu": "KH324",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Regular Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323743",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_KH324_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_KH324_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_KH324_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_KH324_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_KH324_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_KH324_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "30",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Regular Fıt",
+        "kumas": "Fitilli Kadife",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14523,
+          "Product Option Code": "F3800AX.KH324",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_KH324_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323743",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        },
+        {
+          "excel_satiri": 14524,
+          "Product Option Code": "F3800AX.KH324",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "40",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_KH324_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323743",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_KH324_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F3800AXNV86",
+      "renk_kodu": "NV86",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323742",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_NV86_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_NV86_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_NV86_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F3800AX_25AU_NV86_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kumas": "Fitilli Kadife",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14525,
+          "Product Option Code": "F3800AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_NV86_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323742",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        },
+        {
+          "excel_satiri": 14526,
+          "Product Option Code": "F3800AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "32",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_NV86_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323742",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        },
+        {
+          "excel_satiri": 14527,
+          "Product Option Code": "F3800AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "34",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_NV86_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323742",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        },
+        {
+          "excel_satiri": 14528,
+          "Product Option Code": "F3800AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "36",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_NV86_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323742",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        },
+        {
+          "excel_satiri": 14529,
+          "Product Option Code": "F3800AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_NV86_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323742",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        },
+        {
+          "excel_satiri": 14530,
+          "Product Option Code": "F3800AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "40",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_NV86_01_03.jpg",
+          "FabricDetail": "CORDUROY",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323742",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-normal-kalip-normal-bel-boru-paca-pantolon-3323740"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F3800AX_25AU_NV86_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:45:36+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "model_kodu": "D5517AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 22,
+    "yorum_sayisi": 22,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 68.8,
+      "buyuk_geldi": 6.2
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-18",
+        "puan": 5.0,
+        "metin": "@Renk ve kumaş hoşuma gitti, gerçekten güzel."
+      },
+      {
+        "tarih": "2025-04-13",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-09-03",
+        "puan": 3.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5517AXBG106",
+      "renk_kodu": "BG106",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Boxy Fit Bisiklet Yaka Ütü Gerektirmeyen Nefes Alabilen Baskılı Kısa Kollu Ağır Kumaş Tişört",
+      "kisa_aciklama": "Boxy Fit Bisiklet Yaka Baskılı Kısa Kollu Ağır Kumaş Tişört, modern ve rahat bir kesime sahip olup, şık baskısı ile…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/boxy-fit-bisiklet-yaka-tisort-3208650",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D5517AX_25SP_BG106_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5517AX_25SP_BG106_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5517AX_25SP_BG106_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5517AX_25SP_BG106_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5517AX_25SP_BG106_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5517AX_25SP_BG106_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5517AX_25SP_BG106_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5517AX_25SP_BG106_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5517AX_25SP_BG106_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 93/72/91",
+        "ana_kumas_icerigi": "Pamuk 50%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "MA",
+        "desen": "Baskılı",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Boxy Fıt"
+      },
+      "urun_hakkinda": [
+        "Boxy Fit Bisiklet Yaka Baskılı Kısa Kollu Ağır Kumaş Tişört, modern ve rahat bir kesime sahip olup, şık baskısı ile…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8021,
+          "Product Option Code": "D5517AX.BG106",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D5517AX_25SP_BG106_01_04.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/boxy-fit-bisiklet-yaka-tisort-3208650",
+          "Model Page URL": "https://www.defacto.com.tr/boxy-fit-bisiklet-yaka-tisort-3208650"
+        },
+        {
+          "excel_satiri": 8022,
+          "Product Option Code": "D5517AX.BG106",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D5517AX_25SP_BG106_01_04.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 449.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/boxy-fit-bisiklet-yaka-tisort-3208650",
+          "Model Page URL": "https://www.defacto.com.tr/boxy-fit-bisiklet-yaka-tisort-3208650"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D5517AX_25SP_BG106_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:36:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

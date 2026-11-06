@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C1648AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C1648AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3313,
+          "Product Option Code": "C1648AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Jump Suit",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "JUMPSUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C1648AX_24SM_BK81_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/lug-von-siga-x-defacto-desenli-baglanabilir-askili-poplin-uzun-tulum-3133176",
+          "Model Page URL": "https://www.defacto.com/en-iq/lug-von-siga-x-defacto-desenli-baglanabilir-askili-poplin-uzun-tulum-3133176"
+        },
+        {
+          "excel_satiri": 3314,
+          "Product Option Code": "C1648AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Jump Suit",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "36",
+          "Fit": "JUMPSUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C1648AX_24SM_BK81_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/lug-von-siga-x-defacto-desenli-baglanabilir-askili-poplin-uzun-tulum-3133176",
+          "Model Page URL": "https://www.defacto.com/en-iq/lug-von-siga-x-defacto-desenli-baglanabilir-askili-poplin-uzun-tulum-3133176"
+        },
+        {
+          "excel_satiri": 3315,
+          "Product Option Code": "C1648AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Jump Suit",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "38",
+          "Fit": "JUMPSUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C1648AX_24SM_BK81_01_04.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/lug-von-siga-x-defacto-desenli-baglanabilir-askili-poplin-uzun-tulum-3133176",
+          "Model Page URL": "https://www.defacto.com/en-iq/lug-von-siga-x-defacto-desenli-baglanabilir-askili-poplin-uzun-tulum-3133176"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C1648AX_24SM_BK81_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:24:58+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/lug-von-siga-x-defacto-desenli-baglanabilir-askili-poplin-uzun-tulum-3133176",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

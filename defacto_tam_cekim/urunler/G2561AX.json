@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G2561AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2561AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18379,
+          "Product Option Code": "G2561AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G2561AX_25WN_BK27_01_01.jpg",
+          "FabricDetail": "40/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-ust-3354299",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-ust-3354299"
+        },
+        {
+          "excel_satiri": 18380,
+          "Product Option Code": "G2561AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G2561AX_25WN_BK27_01_01.jpg",
+          "FabricDetail": "40/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-ust-3354299",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-ust-3354299"
+        },
+        {
+          "excel_satiri": 18381,
+          "Product Option Code": "G2561AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G2561AX_25WN_BK27_01_01.jpg",
+          "FabricDetail": "40/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-ust-3354299",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-ust-3354299"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G2561AX_25WN_BK27_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:00:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-ust-3354299",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

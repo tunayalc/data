@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D1354AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1354AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6453,
+          "Product Option Code": "D1354AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1354AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 4,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-bodycon-straplez-askili-elbise-3135976",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-bodycon-straplez-askili-elbise-3135976"
+        },
+        {
+          "excel_satiri": 6454,
+          "Product Option Code": "D1354AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1354AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-bodycon-straplez-askili-elbise-3135976",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-bodycon-straplez-askili-elbise-3135976"
+        },
+        {
+          "excel_satiri": 6455,
+          "Product Option Code": "D1354AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1354AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-bodycon-straplez-askili-elbise-3135976",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-bodycon-straplez-askili-elbise-3135976"
+        },
+        {
+          "excel_satiri": 6456,
+          "Product Option Code": "D1354AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "BODYCON DRESS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1354AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 179.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/ar-iq/coool-bodycon-straplez-askili-elbise-3135976",
+          "Model Page URL": "https://www.defacto.com/ar-iq/coool-bodycon-straplez-askili-elbise-3135976"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1354AX_24SM_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:30:43+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/coool-bodycon-straplez-askili-elbise-3135976",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

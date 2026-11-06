@@ -1,0 +1,567 @@
+{
+  "model_kodu": "C7589AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 48,
+    "yorum_sayisi": 48,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 71.4,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-11-28",
+        "puan": 5.0,
+        "metin": "@Tam yazlık, rahat kesim, şık duruş."
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Harika ve rahat."
+      },
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C7589AXBG695",
+      "renk_kodu": "BG695",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "%100 Pamuk Relax Fit Müslin Cepli Basic Bermuda Şort",
+      "kisa_aciklama": "Rahat bir şekilde uyum sağlayan relax fit kalıbıyla muslin kumaşıyla, ilkbahar/yaz mevsimlerinde tercihiniz olacak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3213225",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_BG695_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_BG695_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_BG695_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_BG695_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_BG695_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_BG695_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_BG695_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "36",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Rahat bir şekilde uyum sağlayan relax fit kalıbıyla muslin kumaşıyla, ilkbahar/yaz mevsimlerinde tercihiniz olacak."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5264,
+          "Product Option Code": "C7589AX.BG695",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "28",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_BG695_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3213225",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5265,
+          "Product Option Code": "C7589AX.BG695",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_BG695_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3213225",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5266,
+          "Product Option Code": "C7589AX.BG695",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_BG695_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3213225",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5267,
+          "Product Option Code": "C7589AX.BG695",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "36",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_BG695_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3213225",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5268,
+          "Product Option Code": "C7589AX.BG695",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "40",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_BG695_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3213225",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_BG695_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7589AXBG734",
+      "renk_kodu": "BG734",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "%100 Pamuk Relax Fit Müslin Cepli Basic Bermuda Şort",
+      "kisa_aciklama": "Rahat bir şekilde uyum sağlayan relax fit kalıbıyla muslin kumaşıyla, ilkbahar/yaz mevsimlerinde tercihiniz olacak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3376793",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7589AX_26SM_BG734_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_26SM_BG734_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_26SM_BG734_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_26SM_BG734_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_26SM_BG734_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "36",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Rahat bir şekilde uyum sağlayan relax fit kalıbıyla muslin kumaşıyla, ilkbahar/yaz mevsimlerinde tercihiniz olacak."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5269,
+          "Product Option Code": "C7589AX.BG734",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "28",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7589AX_26SM_BG734_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3376793",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5270,
+          "Product Option Code": "C7589AX.BG734",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7589AX_26SM_BG734_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3376793",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5271,
+          "Product Option Code": "C7589AX.BG734",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7589AX_26SM_BG734_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3376793",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5272,
+          "Product Option Code": "C7589AX.BG734",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "36",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7589AX_26SM_BG734_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3376793",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5273,
+          "Product Option Code": "C7589AX.BG734",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "40",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C7589AX_26SM_BG734_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3376793",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/C7589AX_26SM_BG734_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7589AXKH436",
+      "renk_kodu": "KH436",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "%100 Pamuk Relax Fit Müslin Cepli Basic Bermuda Şort",
+      "kisa_aciklama": "Rahat bir şekilde uyum sağlayan relax fit kalıbıyla muslin kumaşıyla, ilkbahar/yaz mevsimlerinde tercihiniz olacak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_KH436_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_KH436_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_KH436_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_KH436_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_KH436_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_KH436_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_25SM_KH436_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Rahat bir şekilde uyum sağlayan relax fit kalıbıyla muslin kumaşıyla, ilkbahar/yaz mevsimlerinde tercihiniz olacak."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5274,
+          "Product Option Code": "C7589AX.KH436",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "28",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_KH436_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5275,
+          "Product Option Code": "C7589AX.KH436",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_KH436_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5276,
+          "Product Option Code": "C7589AX.KH436",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_KH436_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        },
+        {
+          "excel_satiri": 5277,
+          "Product Option Code": "C7589AX.KH436",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Bermuda",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "36",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_KH436_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3207319"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C7589AX_25SM_KH436_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C7589AXBN192",
+      "renk_kodu": "BN192",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "%100 Pamuk Relax Fit Müslin Cepli Basic Bermuda Şort",
+      "kisa_aciklama": "Rahat bir şekilde uyum sağlayan relax fit kalıbıyla muslin kumaşıyla, ilkbahar/yaz mevsimlerinde tercihiniz olacak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-muslin-cepli-basic-bermuda-sort-3376794",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C7589AX_26SM_BN192_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_26SM_BN192_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C7589AX_26SM_BN192_03_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Rahat bir şekilde uyum sağlayan relax fit kalıbıyla muslin kumaşıyla, ilkbahar/yaz mevsimlerinde tercihiniz olacak."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:24:34+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

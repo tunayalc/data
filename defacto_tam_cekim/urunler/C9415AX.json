@@ -1,0 +1,137 @@
+{
+  "model_kodu": "C9415AX",
+  "urun_grubu": "Kadın Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 29,
+    "yorum_sayisi": 29,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 46.7,
+      "tam_oldu": 46.7,
+      "buyuk_geldi": 6.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, çok beğendim. Kendi bedenimi aldım, teşekkür ederim. Teşekkürler. Harika! Kumaşı da şahane. Çok beğendim. Teşekkür…"
+      },
+      {
+        "tarih": "2025-08-13",
+        "puan": 5.0,
+        "metin": "@urun 10 numara cooookkk coookk guzel defacto Baska renklerini uretmedıgı ıcın cok yanlıs yapıyor burdan musterı olarak ricamız lutfen Baska…"
+      },
+      {
+        "tarih": "2025-08-03",
+        "puan": 5.0,
+        "metin": "@Bayıldıııım , kesinlikle ürün abartılmalı ve farklı renkleri çıkmalı Hatta takım olarak da üretilsinnnn"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C9415AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Standart Fıt Jogger Sporcu Pantolon",
+      "kisa_aciklama": "Standart Fit Jogger Sporcu Pantolon, rahat kesimi ve esnek kumaşıyla gün boyu konfor sunar. Modern jogger tasarımı, spor ve günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-jogger-sporcu-pantolon-3374940",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C9415AX_26SP_BK81_01_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm - 82/60/88",
+        "ana_kumas_icerigi": "Elastan 21%,Naylon 79%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "yasam_tarzi": "Sporcu",
+        "kalip": "Standart Fıt",
+        "kullanim_alani": "Günlük Giyim",
+        "cep_ve_fermuar_detayi": "Fermuar Cepli"
+      },
+      "urun_hakkinda": [
+        "Standart Fit Jogger Sporcu Pantolon, rahat kesimi ve esnek kumaşıyla gün boyu konfor sunar. Modern jogger tasarımı, spor ve günlük…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5778,
+          "Product Option Code": "C9415AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/C9415AX_25AU_BK81_01_02.jpg",
+          "FabricDetail": "RACHEL",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-jogger-sporcu-pantolon-3374940",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-jogger-sporcu-pantolon-3374940"
+        },
+        {
+          "excel_satiri": 5779,
+          "Product Option Code": "C9415AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/C9415AX_25AU_BK81_01_02.jpg",
+          "FabricDetail": "RACHEL",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-jogger-sporcu-pantolon-3374940",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-jogger-sporcu-pantolon-3374940"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/C9415AX_25AU_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:29:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

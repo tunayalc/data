@@ -1,0 +1,79 @@
+{
+  "model_kodu": "B3585AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B3585AXBG185",
+      "renk_kodu": "BG185",
+      "renk_adi": "LT.SAND",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36-34",
+          "38-32"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1421,
+          "Product Option Code": "B3585AX.BG185",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.SAND",
+          "SizeDefinition": "36-34",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23AU/B3585AX_23AU_BG185_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#F6BD8C",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 1422,
+          "Product Option Code": "B3585AX.BG185",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.SAND",
+          "SizeDefinition": "38-32",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23AU/B3585AX_23AU_BG185_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#F6BD8C",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23AU/B3585AX_23AU_BG185_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I4277AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4277AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Geometrik Formlu Taş Detaylı 2'li Küpe Seti",
+      "kisa_aciklama": "Farklı tasarımlara sahip iki çift küpeden oluşan set. Metalik çerçeveli, siyah taş detaylı dikdörtgen model ve dokulu metal yüzeyli, taş…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-geometrik-formlu-tas-detayli-2li-kupe-seti-3509311",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4277AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4277AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4277AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 20%,Çinko 80%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Küpe",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "2'li"
+      },
+      "urun_hakkinda": [
+        "Farklı tasarımlara sahip iki çift küpeden oluşan set. Metalik çerçeveli, siyah taş detaylı dikdörtgen model ve dokulu metal yüzeyli, taş…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42556,
+          "Product Option Code": "I4277AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4277AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-geometrik-formlu-tas-detayli-2li-kupe-seti-3509311",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-geometrik-formlu-tas-detayli-2li-kupe-seti-3509311"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4277AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:49:24+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

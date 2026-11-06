@@ -1,0 +1,677 @@
+{
+  "model_kodu": "H8092AX",
+  "urun_grubu": "Kadın Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 18,
+    "yorum_sayisi": 18,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 33.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-09",
+        "puan": 1.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-08-09",
+        "puan": 5.0,
+        "metin": "@ürün aslında güzel ama içine konulan kaucukları asırı küçük, birde asagı cok sarkık askıları bi tık yukarda olmasını isterdim."
+      },
+      {
+        "tarih": "2026-07-07",
+        "puan": 5.0,
+        "metin": "@çok şirin bir rengi var , bayıldım."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8092AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Fıtted Pamuklu İnce Askılı Atlet",
+      "kisa_aciklama": "Siyah renkli, fitted kesim atlet. Düz yakalı ve ince askılıdır. Kısa boya sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_BK81_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_BK81_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 94%,Elastan 6%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Atlet",
+        "kalip": "Fıtted",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Siyah renkli, fitted kesim atlet. Düz yakalı ve ince askılıdır. Kısa boya sahiptir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34414,
+          "Product Option Code": "H8092AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_BK81_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34415,
+          "Product Option Code": "H8092AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_BK81_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8092AXPN46",
+      "renk_kodu": "PN46",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Fıtted Pamuklu İnce Askılı Atlet",
+      "kisa_aciklama": "Pembe renkli, fitted kesim atlet. Düz yakalı ve ince askılıdır. Kısa boya sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472142",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_PN46_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_PN46_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_PN46_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_PN46_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_PN46_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 94%,Elastan 6%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Kadın",
+        "kalip": "Fıtted"
+      },
+      "urun_hakkinda": [
+        "Pembe renkli, fitted kesim atlet. Düz yakalı ve ince askılıdır. Kısa boya sahiptir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34416,
+          "Product Option Code": "H8092AX.PN46",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_PN46_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472142",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34417,
+          "Product Option Code": "H8092AX.PN46",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_PN46_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472142",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34418,
+          "Product Option Code": "H8092AX.PN46",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_PN46_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472142",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34419,
+          "Product Option Code": "H8092AX.PN46",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_PN46_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472142",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34420,
+          "Product Option Code": "H8092AX.PN46",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_PN46_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472142",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_PN46_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8092AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Fıtted Pamuklu İnce Askılı Atlet",
+      "kisa_aciklama": "Beyaz renkli, fitted kesim atlet. Düz yakalı ve ince askılıdır. Kısa boya sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472144",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_WT32_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_WT32_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_WT32_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_WT32_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_WT32_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 94%,Elastan 6%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Fıtted",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Beyaz renkli, fitted kesim atlet. Düz yakalı ve ince askılıdır. Kısa boya sahiptir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34421,
+          "Product Option Code": "H8092AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472144",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34422,
+          "Product Option Code": "H8092AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472144",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34423,
+          "Product Option Code": "H8092AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_WT32_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472144",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_WT32_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8092AXYL236",
+      "renk_kodu": "YL236",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "Fıtted Pamuklu İnce Askılı Atlet",
+      "kisa_aciklama": "Açık sarı renkli, fitted kesim atlet. Düz yakalı ve ince askılıdır. Kısa boya sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472143",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_YL236_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_YL236_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_YL236_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_YL236_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_YL236_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_YL236_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8092AX_26SM_YL236_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 94%,Elastan 6%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Fıtted",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Açık sarı renkli, fitted kesim atlet. Düz yakalı ve ince askılıdır. Kısa boya sahiptir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 34424,
+          "Product Option Code": "H8092AX.YL236",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_YL236_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472143",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34425,
+          "Product Option Code": "H8092AX.YL236",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_YL236_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472143",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34426,
+          "Product Option Code": "H8092AX.YL236",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_YL236_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472143",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34427,
+          "Product Option Code": "H8092AX.YL236",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_YL236_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472143",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        },
+        {
+          "excel_satiri": 34428,
+          "Product Option Code": "H8092AX.YL236",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_YL236_01_01.jpg",
+          "FabricDetail": "JERSEY",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472143",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-pamuklu-ince-askili-atlet-3472141"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8092AX_26SM_YL236_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:42:51+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

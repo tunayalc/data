@@ -1,0 +1,120 @@
+{
+  "model_kodu": "C4580AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 19,
+    "yorum_sayisi": 19,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 7.7,
+      "tam_oldu": 92.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-10-13",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-06-24",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-12-06",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4580AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Fitted Bisiklet Yaka Fitilli Kaşkorse Crop Uzun Kollu Tişört",
+      "kisa_aciklama": "Fitted Bisiklet Yaka Uzun Kollu Tişört, şık ve rahat bir seçenek sunar. Kaliteli kumaşıyla gün boyu konfor sağlar. Uzun kollu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-bisiklet-yaka-uzun-kollu-tisort-3080530",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4580AX_24SM_WT32_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4580AX_24SM_WT32_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4580AX_24SM_WT32_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4580AX_24SM_WT32_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4580AX_24SM_WT32_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4580AX_24SM_WT32_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,80cm - 82/61/87",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Fitilli Kaşkorse",
+        "cinsiyet": "Kadın",
+        "kalip": "Fıtted",
+        "urun_tipi": "Uzun Kollu Tişört",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Fitted Bisiklet Yaka Uzun Kollu Tişört, şık ve rahat bir seçenek sunar. Kaliteli kumaşıyla gün boyu konfor sağlar. Uzun kollu…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4312,
+          "Product Option Code": "C4580AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4580AX_24SM_WT32_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-uzun-kollu-tisort-3080530",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-uzun-kollu-tisort-3080530"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C4580AX_24SM_WT32_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:26:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

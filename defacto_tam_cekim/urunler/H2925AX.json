@@ -1,0 +1,64 @@
+{
+  "model_kodu": "H2925AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2925AXBN320",
+      "renk_kodu": "BN320",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 26636,
+          "Product Option Code": "H2925AX.BN320",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "CNS",
+          "Class Name": "Jacket",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "LOOSE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H2925AX_26SP_BN320_01_02.jpg",
+          "FabricDetail": "JAQUARED INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/loose-fit-gomlek-yaka-fermuarli-ceket-3513996",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/loose-fit-gomlek-yaka-fermuarli-ceket-3513996"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H2925AX_26SP_BN320_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:21:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/loose-fit-gomlek-yaka-fermuarli-ceket-3513996",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

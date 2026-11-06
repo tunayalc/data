@@ -1,0 +1,380 @@
+{
+  "model_kodu": "E0446AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 38,
+    "yorum_sayisi": 38,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 61.1,
+      "buyuk_geldi": 5.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-15",
+        "puan": 5.0,
+        "metin": "@Kalıbı tam kumaşı güzel"
+      },
+      {
+        "tarih": "2025-07-18",
+        "puan": 5.0,
+        "metin": "@harika bi ürün ve gömleklerle kombini harika oluyor,terletmiyor ayrıca"
+      },
+      {
+        "tarih": "2025-05-23",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0446AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk Slım Fıt Bisiklet Yaka Ribana Atlet",
+      "kisa_aciklama": "Yetişkin Erkekler için özel olarak tasarlanan Basic_Ribana_Slim atlet. Minimal desen teması ve sürdürülebilir ribana kumaştan üretilmiştir. Bej rengi ve bisiklet…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377033",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 98/79/94",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kol_boyu": "Kolsuz",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Erkek",
+        "kumas": "Ribana"
+      },
+      "urun_hakkinda": [
+        "Yetişkin Erkekler için özel olarak tasarlanan Basic_Ribana_Slim atlet. Minimal desen teması ve sürdürülebilir ribana kumaştan üretilmiştir. Bej rengi ve bisiklet…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10155,
+          "Product Option Code": "E0446AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E0446AX_26SM_BK81_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377033",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-fitilli-ribana-bej-atlet-3510076"
+        },
+        {
+          "excel_satiri": 10156,
+          "Product Option Code": "E0446AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E0446AX_26SM_BK81_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377033",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-fitilli-ribana-bej-atlet-3510076"
+        },
+        {
+          "excel_satiri": 10157,
+          "Product Option Code": "E0446AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0446AX_25SM_BK81_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377033",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-fitilli-ribana-bej-atlet-3510076"
+        },
+        {
+          "excel_satiri": 10158,
+          "Product Option Code": "E0446AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E0446AX_26SM_BK81_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377033",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-fitilli-ribana-bej-atlet-3510076"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/E0446AX_26SM_BK81_01_01.jpg",
+        "https://image.defacto.com.tr/product/25SM/E0446AX_25SM_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0446AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "%100 Pamuk Slım Fıt Bisiklet Yaka Ribana Atlet",
+      "kisa_aciklama": "Yetişkin Erkekler için özel olarak tasarlanan Basic_Ribana_Slim atlet. Minimal desen teması ve sürdürülebilir ribana kumaştan üretilmiştir. Bej rengi ve bisiklet…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377034",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_WT34_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_WT34_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_WT34_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_WT34_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_WT34_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 98/79/94",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "urun_tipi": "Atlet",
+        "kalip": "Slım Fıt",
+        "kol_boyu": "Kolsuz",
+        "kumas": "Ribana",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Yetişkin Erkekler için özel olarak tasarlanan Basic_Ribana_Slim atlet. Minimal desen teması ve sürdürülebilir ribana kumaştan üretilmiştir. Bej rengi ve bisiklet…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10159,
+          "Product Option Code": "E0446AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E0446AX_26SM_WT34_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377034",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-fitilli-ribana-bej-atlet-3510076"
+        },
+        {
+          "excel_satiri": 10160,
+          "Product Option Code": "E0446AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E0446AX_26SM_WT34_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377034",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-fitilli-ribana-bej-atlet-3510076"
+        },
+        {
+          "excel_satiri": 10161,
+          "Product Option Code": "E0446AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E0446AX_26SM_WT34_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377034",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-fitilli-ribana-bej-atlet-3510076"
+        },
+        {
+          "excel_satiri": 10162,
+          "Product Option Code": "E0446AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Athlete",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/E0446AX_26SM_WT34_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-ribana-atlet-3377034",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-fitilli-ribana-bej-atlet-3510076"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/E0446AX_26SM_WT34_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E0446AXBG734",
+      "renk_kodu": "BG734",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "%100 Pamuk Slım Fıt Bisiklet Yaka Fitilli Ribana Bej Atlet",
+      "kisa_aciklama": "Ribana kumaştan üretilmiş slim fit bisiklet yaka atlet.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-slim-fit-bisiklet-yaka-fitilli-ribana-bej-atlet-3510076",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BG734_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BG734_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BG734_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BG734_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BG734_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BG734_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0446AX_26SM_BG734_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kolsuz",
+        "kalip": "Slım Fıt",
+        "kumas": "Ribana",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Atlet"
+      },
+      "urun_hakkinda": [
+        "Ribana kumaştan üretilmiş slim fit bisiklet yaka atlet."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:32:43+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

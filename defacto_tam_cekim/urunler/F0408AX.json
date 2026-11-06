@@ -1,0 +1,142 @@
+{
+  "model_kodu": "F0408AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-03",
+        "puan": 5.0,
+        "metin": "@Teşekkürederim"
+      },
+      {
+        "tarih": "2026-01-03",
+        "puan": 5.0,
+        "metin": "@gayet hoş"
+      },
+      {
+        "tarih": "2026-01-23",
+        "puan": 5.0,
+        "metin": "@Ürün tam kışlık paça kısmı yanlız biraz fazla dar yapılmış ürün güzel bide arka cebi maalesef yok"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0408AXNV91",
+      "renk_kodu": "NV91",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Jogger Fit Skuba Düz Paça Pantolon",
+      "kisa_aciklama": "Jogger Fıt Skuba Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/jogger-fit-skuba-duz-paca-pantolon-3312382",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0408AX_25AU_NV91_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0408AX_25AU_NV91_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0408AX_25AU_NV91_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0408AX_25AU_NV91_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0408AX_25AU_NV91_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38"
+        ],
+        "excel": [
+          "30"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "34 Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Elastan 6%,Viskoz 19%,Poliester 75%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Jogger Fıt",
+        "kumas": "Skuba Dalgıç Kumaş",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Jogger Fıt Skuba Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c De Elde Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/HANDWASH_30_4LVLFTRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13526,
+          "Product Option Code": "F0408AX.NV91",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "30",
+          "Fit": "JOGGER FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F0408AX_25AU_NV91_01_01.jpg",
+          "FabricDetail": "SCUBA",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/fr-ma/jogger-fit-skuba-duz-paca-pantolon-3312382",
+          "Model Page URL": "https://www.defacto.com/fr-ma/jogger-fit-skuba-duz-paca-pantolon-3312382"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F0408AX_25AU_NV91_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:49:26+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

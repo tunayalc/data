@@ -1,0 +1,97 @@
+{
+  "model_kodu": "I4240AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4240AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın 2'li Boncuk Detaylı İp Kolye ve Bileklik Seti",
+      "kisa_aciklama": "İnce ip kordonlu, orta kısmında zıt dokulu ve geometrik boncuk aplikeleri bulunan, ayarlanabilir sürgülü kapamalı 2'li kolye ve bileklik seti.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-boncuk-detayli-ip-kolye-ve-bileklik-seti-3507658",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4240AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4240AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4240AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 60%,Poliester 35%, 5%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_tipi": "Aksesuar Takım",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "2'li"
+      },
+      "urun_hakkinda": [
+        "İnce ip kordonlu, orta kısmında zıt dokulu ve geometrik boncuk aplikeleri bulunan, ayarlanabilir sürgülü kapamalı 2'li kolye ve bileklik seti."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42533,
+          "Product Option Code": "I4240AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Acc-Set",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4240AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-2li-boncuk-detayli-ip-kolye-ve-bileklik-seti-3583383",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-2li-boncuk-detayli-ip-kolye-ve-bileklik-seti-3583383"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4240AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:02:34+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kadin-2li-boncuk-detayli-ip-kolye-ve-bileklik-seti-3583383",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

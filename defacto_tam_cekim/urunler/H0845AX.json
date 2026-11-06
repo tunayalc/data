@@ -1,0 +1,91 @@
+{
+  "model_kodu": "H0845AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0845AXSR4",
+      "renk_kodu": "SR4",
+      "renk_adi": "Gümüş",
+      "renk_hex": null,
+      "urun_adi": "Kadın Taşlı Küpe",
+      "kisa_aciklama": "Kadın Taşlı Küpe",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-tasli-kupe-3412140",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0845AX_NS_SR4_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0845AX_NS_SR4_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0845AX_NS_SR4_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0845AX_NS_SR4_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Demir 100%",
+        "marka": "Defacto",
+        "mensei": "IN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Küpe"
+      },
+      "urun_hakkinda": [
+        "Kadın Taşlı Küpe"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24280,
+          "Product Option Code": "H0845AX.SR4",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "SILVER",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H0845AX_NS_SR4_01_02.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C0C0C0",
+          "Product Page URL": "https://www.defacto.com/en-ma/kadin-tasli-kupe-3412140",
+          "Model Page URL": "https://www.defacto.com/en-ma/kadin-tasli-kupe-3412140"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H0845AX_NS_SR4_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:16:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

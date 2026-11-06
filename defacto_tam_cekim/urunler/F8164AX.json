@@ -1,0 +1,120 @@
+{
+  "model_kodu": "F8164AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-06",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-07-03",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-04-12",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8164AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk Boxy Fit Baskılı Tişört",
+      "kisa_aciklama": "Yetişkin erkekler için özel olarak tasarlanmış siyah baskılı kısa kollu tişört. Şehir ve ülke temalı deseni ile stilinizi yansıtın. Rahat…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3374963",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8164AX_26SP_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8164AX_26SP_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8164AX_26SP_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8164AX_26SP_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8164AX_26SP_BK81_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8164AX_26SP_BK81_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Boxy Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "desen": "Baskılı"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için özel olarak tasarlanmış siyah baskılı kısa kollu tişört. Şehir ve ülke temalı deseni ile stilinizi yansıtın. Rahat…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16101,
+          "Product Option Code": "F8164AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8164AX_26SP_BK81_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3374963",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-baskili-tisort-3374963"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8164AX_26SP_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:51:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

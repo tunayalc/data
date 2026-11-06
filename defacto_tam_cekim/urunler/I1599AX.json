@@ -1,0 +1,64 @@
+{
+  "model_kodu": "I1599AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1599AXOG474",
+      "renk_kodu": "OG474",
+      "renk_adi": "Turuncu Küçük",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 39188,
+          "Product Option Code": "I1599AX.OG474",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "Turuncu Küçük",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1599AX_NS_OG474_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 4,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-kiremit-rengi-cicek-detayli-halka-kupe-3570142",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-kiremit-rengi-cicek-detayli-halka-kupe-3570142"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1599AX_NS_OG474_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:43:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kadin-kiremit-rengi-cicek-detayli-halka-kupe-3570142",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

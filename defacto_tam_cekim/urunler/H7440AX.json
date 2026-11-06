@@ -1,0 +1,104 @@
+{
+  "model_kodu": "H7440AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-15",
+        "puan": 5.0,
+        "metin": "@çok güzel"
+      },
+      {
+        "tarih": "2026-08-21",
+        "puan": 5.0,
+        "metin": "@Halhal aşırı dar bileğime olmadı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7440AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Deniz Temalı 2'li Halhal Seti",
+      "kisa_aciklama": "Kadın deniz temalı 2'li halhal seti. Altın tonlu zincir yapısı ve deniz figürlü sallantılı charm detaylarıyla yaz kombinlerinize şıklık katar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-deniz-temali-2li-halhal-seti-3458311",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7440AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7440AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7440AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Metal 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Kadın deniz temalı 2'li halhal seti. Altın tonlu zincir yapısı ve deniz figürlü sallantılı charm detaylarıyla yaz kombinlerinize şıklık katar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33096,
+          "Product Option Code": "H7440AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Anklet",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H7440AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-deniz-temali-2li-halhal-seti-3458311",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-deniz-temali-2li-halhal-seti-3458311"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H7440AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:39:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

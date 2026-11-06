@@ -1,0 +1,130 @@
+{
+  "model_kodu": "C3335AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C3335AXNM39",
+      "renk_kodu": "NM39",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3823,
+          "Product Option Code": "C3335AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "L",
+          "Fit": "CORSET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C3335AX_24HS_NM39_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/en-iq/kalin-askili-fermuarli-crop-korse-jean-bluz-3138949",
+          "Model Page URL": "https://www.defacto.com/en-iq/kalin-askili-fermuarli-crop-korse-jean-bluz-3138949"
+        },
+        {
+          "excel_satiri": 3824,
+          "Product Option Code": "C3335AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "M",
+          "Fit": "CORSET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C3335AX_24HS_NM39_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/en-iq/kalin-askili-fermuarli-crop-korse-jean-bluz-3138949",
+          "Model Page URL": "https://www.defacto.com/en-iq/kalin-askili-fermuarli-crop-korse-jean-bluz-3138949"
+        },
+        {
+          "excel_satiri": 3825,
+          "Product Option Code": "C3335AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "S",
+          "Fit": "CORSET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C3335AX_24HS_NM39_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/en-iq/kalin-askili-fermuarli-crop-korse-jean-bluz-3138949",
+          "Model Page URL": "https://www.defacto.com/en-iq/kalin-askili-fermuarli-crop-korse-jean-bluz-3138949"
+        },
+        {
+          "excel_satiri": 3826,
+          "Product Option Code": "C3335AX.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Blouse",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "XL",
+          "Fit": "CORSET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C3335AX_24HS_NM39_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/en-iq/kalin-askili-fermuarli-crop-korse-jean-bluz-3138949",
+          "Model Page URL": "https://www.defacto.com/en-iq/kalin-askili-fermuarli-crop-korse-jean-bluz-3138949"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/C3335AX_24HS_NM39_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:25:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kalin-askili-fermuarli-crop-korse-jean-bluz-3138949",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

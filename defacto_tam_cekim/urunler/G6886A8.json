@@ -1,0 +1,120 @@
+{
+  "model_kodu": "G6886A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-09",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-06",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-03-22",
+        "puan": 5.0,
+        "metin": "@bilemedim yani görselde çok güzel geldi ancak kolları çocuk için çok geniş bileğe doğru genişliyor belli bir yaş altında geniş…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6886A8BR169",
+      "renk_kodu": "BR169",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Overshirt Fit Bisiklet Yaka Baskılı Uzun Kollu Tişört Kız Çocuk",
+      "kisa_aciklama": "Kız çocuk overshirt fit bisiklet yaka baskılı uzun kollu tişört, rahat kalıbı ve dikkat çekici baskısıyla öne çıkar. Günlük kombinlerde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/overshirt-fit-bisiklet-yaka-baskili-uzun-kollu-tisort-kiz-cocuk-3375306",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6886A8_26SP_BR169_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6886A8_26SP_BR169_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6886A8_26SP_BR169_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6886A8_26SP_BR169_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6886A8_26SP_BR169_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6886A8_26SP_BR169_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "13/14 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Pamuk 42%,Poliester 58%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Sweatshirt",
+        "kalip": "Oversıze",
+        "desen": "Slogan Baskılı"
+      },
+      "urun_hakkinda": [
+        "Kız çocuk overshirt fit bisiklet yaka baskılı uzun kollu tişört, rahat kalıbı ve dikkat çekici baskısıyla öne çıkar. Günlük kombinlerde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20727,
+          "Product Option Code": "G6886A8.BR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6886A8_26SP_BR169_01_03.jpg",
+          "FabricDetail": "Selanik with brushed",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/overshirt-fit-bisiklet-yaka-baskili-uzun-kollu-tisort-kiz-cocuk-3375306",
+          "Model Page URL": "https://www.defacto.com.tr/overshirt-fit-bisiklet-yaka-baskili-uzun-kollu-tisort-kiz-cocuk-3375306"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6886A8_26SP_BR169_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:07:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

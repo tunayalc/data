@@ -1,0 +1,811 @@
+{
+  "model_kodu": "E7689AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 51,
+    "yorum_sayisi": 51,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 45.7,
+      "tam_oldu": 51.4,
+      "buyuk_geldi": 2.9
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-21",
+        "puan": 5.0,
+        "metin": "@yurt dışı seyahati için aldım.. pişman olmadım"
+      },
+      {
+        "tarih": "2026-05-29",
+        "puan": 5.0,
+        "metin": "@ürün mükemmel çok beğendim. kumaşı esnek benim boyum 1.80 kilo.92 M beden çok güzel durdu. ürünü sepete eklemiştim indirime düşünce…"
+      },
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@Kumaşı kalın ve çok güzeldi. Bu ürün serisinden farklı renklerde 2 adet satın aldım. Fiyatı biraz daha iskontolu olsaydı diğer…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E7689AXBG359",
+      "renk_kodu": "BG359",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Regular Fit Twill Gömlek",
+      "kisa_aciklama": "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3350471",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BG359_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BG359_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BG359_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BG359_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BG359_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BG359_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/72/92",
+        "ana_kumas_icerigi": "Pamuk 62%,Elastan 1%,Poliester 37%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "kumas": "Twıll",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12200,
+          "Product Option Code": "E7689AX.BG359",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_BG359_01_01.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3350471",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        },
+        {
+          "excel_satiri": 12201,
+          "Product Option Code": "E7689AX.BG359",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_BG359_01_01.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3350471",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_BG359_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E7689AXBN571",
+      "renk_kodu": "BN571",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Regular Fit Twill Gömlek",
+      "kisa_aciklama": "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3350467",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BN571_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BN571_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BN571_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BN571_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BN571_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BN571_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BN571_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BN571_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25AU_BN571_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/72/92",
+        "ana_kumas_icerigi": "Pamuk 62%,Elastan 1%,Poliester 37%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "kumas": "Twıll",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12202,
+          "Product Option Code": "E7689AX.BN571",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_BN571_01_02.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3350467",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        },
+        {
+          "excel_satiri": 12203,
+          "Product Option Code": "E7689AX.BN571",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_BN571_01_02.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3350467",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_BN571_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E7689AXGN1175",
+      "renk_kodu": "GN1175",
+      "renk_adi": "Mat Yeşil",
+      "renk_hex": "#48A14D",
+      "urun_adi": "Regular Fit Twill Gömlek",
+      "kisa_aciklama": "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3400907",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_GN1175_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_GN1175_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_GN1175_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_GN1175_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,82cm - 95/80/97",
+        "ana_kumas_icerigi": "Pamuk 36%,Elastan 2%,Poliester 62%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "kumas": "Twıll",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12207,
+          "Product Option Code": "E7689AX.GN1175",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "DULL GREEN",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E7689AX_26SP_GN1175_01_02.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#48A14D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3400907",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        },
+        {
+          "excel_satiri": 12208,
+          "Product Option Code": "E7689AX.GN1175",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "DULL GREEN",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E7689AX_26SP_GN1175_01_02.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#48A14D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3400907",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        },
+        {
+          "excel_satiri": 12209,
+          "Product Option Code": "E7689AX.GN1175",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "DULL GREEN",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E7689AX_26SP_GN1175_01_02.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#48A14D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3400907",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        },
+        {
+          "excel_satiri": 12210,
+          "Product Option Code": "E7689AX.GN1175",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "DULL GREEN",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/E7689AX_26SP_GN1175_01_02.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#48A14D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3400907",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/E7689AX_26SP_GN1175_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E7689AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fit Twill Gömlek",
+      "kisa_aciklama": "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3376970",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_NV64_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_NV64_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_NV64_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_NV64_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_NV64_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,82cm - 95/80/97",
+        "ana_kumas_icerigi": "Pamuk 36%,Elastan 2%,Poliester 62%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Twıll",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12211,
+          "Product Option Code": "E7689AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_NV64_01_01.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3376970",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_NV64_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E7689AXGR296",
+      "renk_kodu": "GR296",
+      "renk_adi": "Açık Gri",
+      "renk_hex": "#A2A2A2",
+      "urun_adi": "Regular Fit Twill Gömlek",
+      "kisa_aciklama": "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25SP_GR296_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25SP_GR296_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25SP_GR296_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25SP_GR296_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25SP_GR296_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25SP_GR296_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_25SP_GR296_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,88cm - 98/80/94",
+        "ana_kumas_icerigi": "Pamuk 56%,Elastan 4%,Poliester 40%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kumas": "Twıll"
+      },
+      "urun_hakkinda": [
+        "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E7689AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fit Twill Gömlek",
+      "kisa_aciklama": "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3376971",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_BK81_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_BK81_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_BK81_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7689AX_26SP_BK81_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 36%,Elastan 2%,Poliester 62%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Twıll",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Gardırobunuzun temel parçalarından biri olmaya aday Regular Fit twill gömlek, kaliteli dokusuyla gün boyu konfor sunar. Klasik kesimi sayesinde hem…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "E7689AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12204,
+          "Product Option Code": "E7689AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_ER105_01_01.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/esnek-kumas-capraz-dokuma-gomlek-3413122",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        },
+        {
+          "excel_satiri": 12205,
+          "Product Option Code": "E7689AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_ER105_01_01.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/esnek-kumas-capraz-dokuma-gomlek-3413122",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        },
+        {
+          "excel_satiri": 12206,
+          "Product Option Code": "E7689AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_ER105_01_01.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/esnek-kumas-capraz-dokuma-gomlek-3413122",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E7689AX_25AU_ER105_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E7689AXNV82",
+      "renk_kodu": "NV82",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12212,
+          "Product Option Code": "E7689AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Overshirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E7689AX_25SP_NV82_01_02.jpg",
+          "FabricDetail": "TWILL",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-twill-gomlek-3270281"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E7689AX_25SP_NV82_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:37:53+03:00",
+    "denenen_sayfa": 7,
+    "dogrulanan_renk": 6
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/esnek-kumas-capraz-dokuma-gomlek-3413122",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "model_kodu": "G3941A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3941A8KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "3'lü Pamuklu Patik Çorap Kız Çocuk",
+      "kisa_aciklama": "Üçlü patik çorap seti. Krem ana renk üzerine puantiye deseni ve ayıcık figürlü mavi çizgili bant detaylı. Ağız kısmı, topuk…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/3lu-pamuklu-patik-corap-kiz-cocuk-3428327",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3941A8_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3941A8_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3941A8_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3941A8_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34"
+        ],
+        "excel": [
+          "23 - 28",
+          "29 - 34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 74%,Poliamid 16%,Elastan 3%,Poliester 7%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Pamuklu",
+        "urun_tipi": "Kısa Çorap",
+        "cinsiyet": "Kız Çocuk",
+        "takim_icerigi": "3'lü",
+        "corap_tipi": "Patik Çorap"
+      },
+      "urun_hakkinda": [
+        "Üçlü patik çorap seti. Krem ana renk üzerine puantiye deseni ve ayıcık figürlü mavi çizgili bant detaylı. Ağız kısmı, topuk…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 149.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18953,
+          "Product Option Code": "G3941A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G3941A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/3lu-pamuklu-patik-corap-kiz-cocuk-3428327",
+          "Model Page URL": "https://www.defacto.com.tr/3lu-pamuklu-patik-corap-kiz-cocuk-3428327"
+        },
+        {
+          "excel_satiri": 18954,
+          "Product Option Code": "G3941A8.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G3941A8_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/3lu-pamuklu-patik-corap-kiz-cocuk-3428327",
+          "Model Page URL": "https://www.defacto.com.tr/3lu-pamuklu-patik-corap-kiz-cocuk-3428327"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G3941A8_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:00:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

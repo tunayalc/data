@@ -1,0 +1,215 @@
+{
+  "model_kodu": "G4226AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-10",
+        "puan": 5.0,
+        "metin": "@Kalıbı çok güzel baharda yaz akşamlarımin ideal"
+      },
+      {
+        "tarih": "2026-06-29",
+        "puan": 5.0,
+        "metin": "@Kaliteli kumaş ve duruşu gayet güzel teşekkürler 🙏🏼"
+      },
+      {
+        "tarih": "2026-06-29",
+        "puan": 5.0,
+        "metin": "@Gayet kaliteli ve duruşu güzel teşekkürler 🙏🏼"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4226AXAR214",
+      "renk_kodu": "AR214",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Slim Fit Blazer Ceket",
+      "kisa_aciklama": "Zamansız tasarımın modern yorumu olan bu slim fit blazer ceket, her türlü kombine kolayca uyum sağlar. Kaliteli duruşu ve şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-blazer-ceket-3376580",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_AR214_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_AR214_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_AR214_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_AR214_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_AR214_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_AR214_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_AR214_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_AR214_08_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 99/77/96",
+        "ana_kumas_icerigi": "Poliamid 80%,Elastan 20%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Ceket Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Zamansız tasarımın modern yorumu olan bu slim fit blazer ceket, her türlü kombine kolayca uyum sağlar. Kaliteli duruşu ve şık…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 1199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19080,
+          "Product Option Code": "G4226AX.AR214",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G4226AX_26SP_AR214_01_03.jpg",
+          "FabricDetail": "PES",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-blazer-ceket-3376580",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-blazer-ceket-3376579"
+        },
+        {
+          "excel_satiri": 19081,
+          "Product Option Code": "G4226AX.AR214",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G4226AX_26SP_AR214_01_03.jpg",
+          "FabricDetail": "PES",
+          "Toplam": 4,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-blazer-ceket-3376580",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-blazer-ceket-3376579"
+        },
+        {
+          "excel_satiri": 19082,
+          "Product Option Code": "G4226AX.AR214",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G4226AX_26SP_AR214_01_03.jpg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-blazer-ceket-3376580",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-blazer-ceket-3376579"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G4226AX_26SP_AR214_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G4226AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slim Fit Blazer Ceket",
+      "kisa_aciklama": "Zamansız tasarımın modern yorumu olan bu slim fit blazer ceket, her türlü kombine kolayca uyum sağlar. Kaliteli duruşu ve şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-blazer-ceket-3376579",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4226AX_26SP_BK81_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 99/77/96",
+        "ana_kumas_icerigi": "Poliamid 80%,Elastan 20%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Slım Fıt",
+        "yaka": "Ceket Yaka",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Zamansız tasarımın modern yorumu olan bu slim fit blazer ceket, her türlü kombine kolayca uyum sağlar. Kaliteli duruşu ve şık…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 1199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:01:14+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

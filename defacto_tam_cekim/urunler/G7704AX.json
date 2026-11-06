@@ -1,0 +1,354 @@
+{
+  "model_kodu": "G7704AX",
+  "urun_grubu": "Kadın Tunik",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 25,
+    "yorum_sayisi": 25,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 46.7,
+      "tam_oldu": 53.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-12",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika! Kumaşını, duruşunu ve düğmelerini çok beğendim, tam da aradığım gibiydi. Tam da istediğim gibi. Kesinlikle tavsiye ederim.…"
+      },
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@ kumaşi çok güzel kalıbı da tam çok beyendim"
+      },
+      {
+        "tarih": "2026-08-04",
+        "puan": 5.0,
+        "metin": "@ablama hediye olarak aldım rengi fln çok tatlı gorseldeki gibi tesettüre uygun uzun bir gömlek kemerle takılırsa tam oluyor ama…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7704AXRD256",
+      "renk_kodu": "RD256",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "%100 Pamuk Relax Fıt Poplin Uzun Kollu Kırmızı Tunik",
+      "kisa_aciklama": "Relax fit poplin gömlek tunik, hafif ve nefes alabilen kumaşıyla gün boyu rahatlık sunar. Şık ve modern tasarımıyla hem günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-uzun-kollu-kirmizi-tunik-3477482",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_RD256_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_RD256_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_RD256_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_RD256_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_RD256_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Poplin",
+        "cinsiyet": "Kadın",
+        "kalip": "Relax Fıt",
+        "kumas_kalinligi": "Kalın",
+        "urun_yuksekligi": "75"
+      },
+      "urun_hakkinda": [
+        "Relax fit poplin gömlek tunik, hafif ve nefes alabilen kumaşıyla gün boyu rahatlık sunar. Şık ve modern tasarımıyla hem günlük…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21484,
+          "Product Option Code": "G7704AX.RD256",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "RED",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7704AX_26SP_RD256_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-uzun-kollu-kirmizi-tunik-3477482",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-gomlek-tunik-3400993"
+        },
+        {
+          "excel_satiri": 21485,
+          "Product Option Code": "G7704AX.RD256",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "RED",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7704AX_26SP_RD256_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-uzun-kollu-kirmizi-tunik-3477482",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-gomlek-tunik-3400993"
+        },
+        {
+          "excel_satiri": 21486,
+          "Product Option Code": "G7704AX.RD256",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "RED",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7704AX_26SP_RD256_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-uzun-kollu-kirmizi-tunik-3477482",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-gomlek-tunik-3400993"
+        },
+        {
+          "excel_satiri": 21487,
+          "Product Option Code": "G7704AX.RD256",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7704AX_26SP_RD256_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-uzun-kollu-kirmizi-tunik-3477482",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-gomlek-tunik-3400993"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G7704AX_26SP_RD256_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G7704AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "%100 Pamuk Relax Fıt Poplin Gömlek Tunik",
+      "kisa_aciklama": "Relax fit poplin gömlek tunik, hafif ve nefes alabilen kumaşıyla gün boyu rahatlık sunar. Şık ve modern tasarımıyla hem günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-gomlek-tunik-3400994",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_WT32_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_WT32_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_WT32_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_WT32_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_WT32_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas_kalinligi": "Kalın",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Kadın",
+        "urun_yuksekligi": "75",
+        "kumas": "Poplin"
+      },
+      "urun_hakkinda": [
+        "Relax fit poplin gömlek tunik, hafif ve nefes alabilen kumaşıyla gün boyu rahatlık sunar. Şık ve modern tasarımıyla hem günlük…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21488,
+          "Product Option Code": "G7704AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7704AX_26SP_WT32_01_01.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-gomlek-tunik-3400994",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-gomlek-tunik-3400993"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G7704AX_26SP_WT32_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G7704AXKH21",
+      "renk_kodu": "KH21",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "%100 Pamuk Relax Fıt Poplin Gömlek Tunik",
+      "kisa_aciklama": "Relax fit poplin gömlek tunik, hafif ve nefes alabilen kumaşıyla gün boyu rahatlık sunar. Şık ve modern tasarımıyla hem günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-poplin-gomlek-tunik-3400993",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_KH21_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_KH21_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_KH21_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_KH21_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7704AX_26SP_KH21_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Poplin",
+        "kalip": "Relax Fıt",
+        "kumas_kalinligi": "Kalın",
+        "cinsiyet": "Kadın",
+        "urun_yuksekligi": "75"
+      },
+      "urun_hakkinda": [
+        "Relax fit poplin gömlek tunik, hafif ve nefes alabilen kumaşıyla gün boyu rahatlık sunar. Şık ve modern tasarımıyla hem günlük…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:07:39+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

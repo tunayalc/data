@@ -1,0 +1,122 @@
+{
+  "model_kodu": "H3545A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3545A8BE404",
+      "renk_kodu": "BE404",
+      "renk_adi": "Royal",
+      "renk_hex": "#4169E1",
+      "urun_adi": "Dısney Mıckey & Mınnıe 3D 3D Pamuklu Cap Mavi Şapka Erkek Çocuk",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş erkek çocuk şapka.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/disney-mickey-minnie-3d-3d-pamuklu-cap-mavi-sapka-erkek-cocuk-3464209",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3545A8_26SM_BE404_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3545A8_26SM_BE404_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3545A8_26SM_BE404_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3545A8_26SM_BE404_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3545A8_26SM_BE404_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3545A8_26SM_BE404_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3545A8_26SM_BE404_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "5-9 Yaş Beden - 1,28cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "desen": "3D",
+        "cinsiyet": "Erkek Çocuk",
+        "urun_olcusu": "54 cm",
+        "lisans_bilgisi": "Dısney Mıckey &amp; Mınnıe",
+        "kumas": "Pamuklu",
+        "sapka_tipi": "Cap Şapka"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş erkek çocuk şapka.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27447,
+          "Product Option Code": "H3545A8.BE404",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H3545A8_26SM_BE404_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H3545A8_26SM_BE404_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:24:58+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

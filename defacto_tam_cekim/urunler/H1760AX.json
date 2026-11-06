@@ -1,0 +1,112 @@
+{
+  "model_kodu": "H1760AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-30",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-20",
+        "puan": 5.0,
+        "metin": "@kızıma aldım,küpelerin hepsi çok güzel,çok beğendi"
+      },
+      {
+        "tarih": "2026-07-14",
+        "puan": 5.0,
+        "metin": "@Çok güzeller bu fiyata kesinlikle çok iyi ,kızımın sahte takılara alerjisi var ama defactonun takılarını çok rahat kullanıyor(?) başka hiç…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1760AXSR4",
+      "renk_kodu": "SR4",
+      "renk_adi": "Gümüş",
+      "renk_hex": null,
+      "urun_adi": "Kadın 9'lu Küpe",
+      "kisa_aciklama": "Dokuz adet küpe seti. Farklı tasarımda küpeler içerir; incili, zincirli, kurdeleli ve kalp detaylıdır.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-9lu-kupe-3422781",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1760AX_NS_SR4_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1760AX_NS_SR4_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1760AX_NS_SR4_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1760AX_NS_SR4_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1760AX_NS_SR4_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 10%,Çinko 90%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "9'lu",
+        "taki_tipi": "Küpe",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Dokuz adet küpe seti. Farklı tasarımda küpeler içerir; incili, zincirli, kurdeleli ve kalp detaylıdır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25200,
+          "Product Option Code": "H1760AX.SR4",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "SILVER",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H1760AX_NS_SR4_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C0C0C0",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-9lu-kupe-3422781?waw_keyword=A4331AX",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-9lu-kupe-3422781?waw_keyword=A4331AX"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H1760AX_NS_SR4_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:18:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

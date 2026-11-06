@@ -1,0 +1,135 @@
+{
+  "model_kodu": "D4575AX",
+  "urun_grubu": "Kadın Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 61,
+    "yorum_sayisi": 61,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 52.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 8.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-06-27",
+        "puan": 5.0,
+        "metin": "@kol boyu çok uzun yada benim vücut formuma yakışmdı cepleri olsa dahada güzel olur sanırım 170 boy 80 kg 42…"
+      },
+      {
+        "tarih": "2024-07-01",
+        "puan": 5.0,
+        "metin": "@1.60 boy ve 66 kg ile 40 beden tam oldu. Boyu bana biraz uzun. bileklerime kadar geldi ama efil efil…"
+      },
+      {
+        "tarih": "2025-09-01",
+        "puan": 3.0,
+        "metin": "@elbise çok güzel kumaşı tam yazlık doğal kumaş sadece boyu birazdan uzun olabilirdi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4575AXNV248",
+      "renk_kodu": "NV248",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "A Kesim Gömlek Yaka Desenli Bağcıklı Kısa Kollu Midi Elbise",
+      "kisa_aciklama": "A Kesim Gömlek Yaka Desenli Bağcıklı Kısa Kollu Midi Elbise, desenli kumaşı ve bağcıklı detayıyla feminen ve şık bir görünüm…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/a-kesim-gomlek-yaka-baskili-kisa-kollu-elbise-3279465",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D4575AX_25SP_NV248_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D4575AX_25SP_NV248_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D4575AX_25SP_NV248_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D4575AX_25SP_NV248_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D4575AX_25SP_NV248_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D4575AX_25SP_NV248_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,77cm - 82/60/91",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Baskılı",
+        "kalip": "A Kesim",
+        "cinsiyet": "Kadın",
+        "yaka": "Gömlek Yaka",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "A Kesim Gömlek Yaka Desenli Bağcıklı Kısa Kollu Midi Elbise, desenli kumaşı ve bağcıklı detayıyla feminen ve şık bir görünüm…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1099.99,
+        "sepette_fiyat": 439.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "D4575AXRD353",
+      "renk_kodu": "RD353",
+      "renk_adi": "DARK CORAL",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7693,
+          "Product Option Code": "D4575AX.RD353",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "DARK CORAL",
+          "SizeDefinition": "38",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4575AX_24HS_RD353_01_01.jpg",
+          "FabricDetail": "30’s Viscon Chally",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#CC3620",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-gomlek-yaka-baskili-kisa-kollu-elbise-3279465"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4575AX_24HS_RD353_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:34:52+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

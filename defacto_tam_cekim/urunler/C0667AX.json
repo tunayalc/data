@@ -1,0 +1,130 @@
+{
+  "model_kodu": "C0667AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0667AXNM86",
+      "renk_kodu": "NM86",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "32",
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3069,
+          "Product Option Code": "C0667AX.NM86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "32",
+          "Fit": "HOT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C0667AX_24HS_NM86_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-iq/yuksek-bel-kesik-uclu-paca-jean-sort-3111592",
+          "Model Page URL": "https://www.defacto.com/en-iq/yuksek-bel-kesik-uclu-paca-jean-sort-3111592"
+        },
+        {
+          "excel_satiri": 3070,
+          "Product Option Code": "C0667AX.NM86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "34",
+          "Fit": "HOT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C0667AX_24HS_NM86_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-iq/yuksek-bel-kesik-uclu-paca-jean-sort-3111592",
+          "Model Page URL": "https://www.defacto.com/en-iq/yuksek-bel-kesik-uclu-paca-jean-sort-3111592"
+        },
+        {
+          "excel_satiri": 3071,
+          "Product Option Code": "C0667AX.NM86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "36",
+          "Fit": "HOT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C0667AX_24HS_NM86_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 5,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-iq/yuksek-bel-kesik-uclu-paca-jean-sort-3111592",
+          "Model Page URL": "https://www.defacto.com/en-iq/yuksek-bel-kesik-uclu-paca-jean-sort-3111592"
+        },
+        {
+          "excel_satiri": 3072,
+          "Product Option Code": "C0667AX.NM86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Short",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "38",
+          "Fit": "HOT SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/C0667AX_24HS_NM86_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-iq/yuksek-bel-kesik-uclu-paca-jean-sort-3111592",
+          "Model Page URL": "https://www.defacto.com/en-iq/yuksek-bel-kesik-uclu-paca-jean-sort-3111592"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/C0667AX_24HS_NM86_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:24:26+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/yuksek-bel-kesik-uclu-paca-jean-sort-3111592",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

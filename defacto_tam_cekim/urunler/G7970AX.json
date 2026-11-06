@@ -1,0 +1,745 @@
+{
+  "model_kodu": "G7970AX",
+  "urun_grubu": "Erkek Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-02",
+        "puan": 5.0,
+        "metin": "@Ürün tam oldu çok beğendik"
+      },
+      {
+        "tarih": "2026-03-16",
+        "puan": 5.0,
+        "metin": "@Çok şık bir spor takım (pantolon ceket ikisini de aldım) online mağazadan indirimle çok karlı bir alışveriş."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7970AXAR9",
+      "renk_kodu": "AR9",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Regular Fit Polo Yaka Pamuk Astarlı Cepli Blazer Ceket",
+      "kisa_aciklama": "Pamuk astarlı yapısı ile nefes alabilen ve konforlu bir kullanım sunan bu regular fit blazer ceket, polo yaka ve cepli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_AR9_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_AR9_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_AR9_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_AR9_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_AR9_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ],
+        "excel": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 3%,Viskoz 32%,Poliester 65%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka",
+        "kapama_detayi": "Düğmeli",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Blazer Ceket"
+      },
+      "urun_hakkinda": [
+        "Pamuk astarlı yapısı ile nefes alabilen ve konforlu bir kullanım sunan bu regular fit blazer ceket, polo yaka ve cepli…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2499.99,
+        "sepette_fiyat": 1999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21686,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "46",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21687,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "46",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21688,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "48",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21689,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "48",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21690,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "50",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21691,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "50",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21692,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "52",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21693,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "52",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21694,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "54",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21695,
+          "Product Option Code": "G7970AX.AR9",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "54",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_AR9_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_AR9_01_02.jpg",
+        "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_AR9_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G7970AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fit Polo Yaka Pamuk Astarlı Cepli Blazer Ceket",
+      "kisa_aciklama": "Pamuk astarlı yapısı ile nefes alabilen ve konforlu bir kullanım sunan bu regular fit blazer ceket, polo yaka ve cepli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511274",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_BK81_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ],
+        "excel": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "52 Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Elastan 3%,Viskoz 32%,Poliester 65%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "kapama_detayi": "Düğmeli",
+        "cinsiyet": "Erkek",
+        "yaka": "Polo Yaka",
+        "urun_tipi": "Blazer Ceket"
+      },
+      "urun_hakkinda": [
+        "Pamuk astarlı yapısı ile nefes alabilen ve konforlu bir kullanım sunan bu regular fit blazer ceket, polo yaka ve cepli…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2499.99,
+        "sepette_fiyat": 1999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21696,
+          "Product Option Code": "G7970AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "46",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511274",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21697,
+          "Product Option Code": "G7970AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "48",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511274",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21698,
+          "Product Option Code": "G7970AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "50",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511274",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21699,
+          "Product Option Code": "G7970AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "52",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511274",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21700,
+          "Product Option Code": "G7970AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "54",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511274",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G7970AXNV86",
+      "renk_kodu": "NV86",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fit Polo Yaka Pamuk Astarlı Cepli Blazer Ceket",
+      "kisa_aciklama": "Pamuk astarlı yapısı ile nefes alabilen ve konforlu bir kullanım sunan bu regular fit blazer ceket, polo yaka ve cepli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511275",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_NV86_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_NV86_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_NV86_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_NV86_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7970AX_26AU_NV86_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ],
+        "excel": [
+          "46",
+          "48",
+          "50",
+          "52"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 3%,Viskoz 32%,Poliester 65%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Blazer Ceket",
+        "yaka": "Polo Yaka",
+        "kalip": "Regular Fıt",
+        "kapama_detayi": "Düğmeli"
+      },
+      "urun_hakkinda": [
+        "Pamuk astarlı yapısı ile nefes alabilen ve konforlu bir kullanım sunan bu regular fit blazer ceket, polo yaka ve cepli…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2499.99,
+        "sepette_fiyat": 1999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21701,
+          "Product Option Code": "G7970AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "46",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_NV86_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511275",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21702,
+          "Product Option Code": "G7970AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "48",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_NV86_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511275",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21703,
+          "Product Option Code": "G7970AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "48",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_NV86_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511275",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21704,
+          "Product Option Code": "G7970AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "50",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_NV86_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511275",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21705,
+          "Product Option Code": "G7970AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "50",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_NV86_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511275",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21706,
+          "Product Option Code": "G7970AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "52",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_NV86_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511275",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        },
+        {
+          "excel_satiri": 21707,
+          "Product Option Code": "G7970AX.NV86",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "52",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_NV86_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 0,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511275",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-pamuk-astarli-cepli-blazer-ceket-3511273"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G7970AX_26AU_NV86_01_02.jpg",
+        "https://image.defacto.com.tr/product/25WN/G7970AX_25WN_NV86_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:10:10+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

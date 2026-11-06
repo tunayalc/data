@@ -1,0 +1,139 @@
+{
+  "model_kodu": "E5498A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 48,
+    "yorum_sayisi": 48,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 75.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-04-22",
+        "puan": 4.0,
+        "metin": "@Hoş ve yumuşacık bir ürün."
+      },
+      {
+        "tarih": "2025-06-17",
+        "puan": 5.0,
+        "metin": "@Rahat ve güzel."
+      },
+      {
+        "tarih": "2026-06-12",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre kalitesi gayet iyi. Çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E5498A8WT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Erkek Çocuk 5'li Pamuklu Patik Çorap",
+      "kisa_aciklama": "Erkek çocuklar için özel olarak tasarlanmış olan bu 5'li pamuklu patik çoraplar, hem rahatlık hem de şıklığı bir arada sunuyor.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-cocuk-5li-pamuklu-patik-corap-3255890",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E5498A8_NS_WT1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5498A8_NS_WT1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5498A8_NS_WT1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5498A8_NS_WT1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5498A8_NS_WT1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5498A8_NS_WT1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E5498A8_NS_WT1_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "29 - 34",
+          "35 - 39"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 76%,Poliamid 21%,Elastan 2%,Poliester 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "takim_icerigi": "5'li",
+        "urun_tipi": "Kısa Çorap",
+        "cinsiyet": "Erkek Çocuk",
+        "corap_tipi": "Patik Çorap",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Erkek çocuklar için özel olarak tasarlanmış olan bu 5'li pamuklu patik çoraplar, hem rahatlık hem de şıklığı bir arada sunuyor.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11552,
+          "Product Option Code": "E5498A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "29 - 34",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E5498A8_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-cocuk-5li-pamuklu-patik-corap-3255890",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-5li-pamuklu-patik-corap-3255890"
+        },
+        {
+          "excel_satiri": 11553,
+          "Product Option Code": "E5498A8.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "35 - 39",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E5498A8_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 6,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-cocuk-5li-pamuklu-patik-corap-3255890",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-5li-pamuklu-patik-corap-3255890"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/E5498A8_NS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:45:00+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

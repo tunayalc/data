@@ -1,0 +1,186 @@
+{
+  "model_kodu": "H9654AX",
+  "urun_grubu": "Kadın Kemer",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-29",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H9654AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kadın Suni Deri Günlük Kemer",
+      "kisa_aciklama": "Suni deri kemer. Metal tokalı ve ayarlanabilir delikli.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-suni-deri-gunluk-kemer-3482288",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H9654AX_NS_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9654AX_NS_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9654AX_NS_BK27_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "80",
+          "85",
+          "90",
+          "95",
+          "100"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_aksesuari": "Kemer",
+        "kumas": "Suni Deri",
+        "urun_olcusu": "3 cm",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Kemer"
+      },
+      "urun_hakkinda": [
+        "Suni deri kemer. Metal tokalı ve ayarlanabilir delikli."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 179.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "H9654AXBG26",
+      "renk_kodu": "BG26",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "100",
+          "85",
+          "90",
+          "95"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 36657,
+          "Product Option Code": "H9654AX.BG26",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "100",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9654AX_NS_BG26_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-gunluk-kemer-3482288"
+        },
+        {
+          "excel_satiri": 36658,
+          "Product Option Code": "H9654AX.BG26",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "85",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9654AX_NS_BG26_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-gunluk-kemer-3482288"
+        },
+        {
+          "excel_satiri": 36659,
+          "Product Option Code": "H9654AX.BG26",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9654AX_NS_BG26_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-gunluk-kemer-3482288"
+        },
+        {
+          "excel_satiri": 36660,
+          "Product Option Code": "H9654AX.BG26",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "95",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9654AX_NS_BG26_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-suni-deri-gunluk-kemer-3482288"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H9654AX_NS_BG26_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:39:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

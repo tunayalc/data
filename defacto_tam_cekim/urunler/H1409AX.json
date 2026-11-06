@@ -1,0 +1,186 @@
+{
+  "model_kodu": "H1409AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-02",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-03-07",
+        "puan": 5.0,
+        "metin": "@normalde M beden giyiyorum ama bı tık sanki dar ama rengi görselledeki gibi kumaşı da güzel"
+      },
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@anneme almıştım severek giyiniyor"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1409AXBR115",
+      "renk_kodu": "BR115",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "%100 Pamuk Regular Fıt Baskılı Penye Tişört",
+      "kisa_aciklama": "Rahat regular fit kesimi ve şık baskısıyla Regular Fıt Baskılı Penye Tişört, günlük kombinlerinize stil ve konfor katar. Yumuşak penye…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-penye-tisort-3418349",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1409AX_26SM_BR115_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1409AX_26SM_BR115_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1409AX_26SM_BR115_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1409AX_26SM_BR115_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1409AX_26SM_BR115_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,73cm - 82/60/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt",
+        "urun_tipi": "Kısa Kollu Tişört"
+      },
+      "urun_hakkinda": [
+        "Rahat regular fit kesimi ve şık baskısıyla Regular Fıt Baskılı Penye Tişört, günlük kombinlerinize stil ve konfor katar. Yumuşak penye…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24770,
+          "Product Option Code": "H1409AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1409AX_26SM_BR115_01_02.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-penye-tisort-3418349",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-penye-tisort-3418349"
+        },
+        {
+          "excel_satiri": 24771,
+          "Product Option Code": "H1409AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1409AX_26SM_BR115_01_02.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-penye-tisort-3418349",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-penye-tisort-3418349"
+        },
+        {
+          "excel_satiri": 24772,
+          "Product Option Code": "H1409AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H1409AX_26SM_BR115_01_02.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-penye-tisort-3418349",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-penye-tisort-3418349"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H1409AX_26SM_BR115_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:16:55+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

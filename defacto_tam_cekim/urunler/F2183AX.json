@@ -1,0 +1,108 @@
+{
+  "model_kodu": "F2183AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F2183AXBN125",
+      "renk_kodu": "BN125",
+      "renk_adi": "D.CAMEL",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14040,
+          "Product Option Code": "F2183AX.BN125",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "D.CAMEL",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F2183AX_25SM_BN125_01_01.jpg",
+          "FabricDetail": "LILYUM",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#C4A65D",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-baskili-uzun-kollu-tunik-3310844",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-baskili-uzun-kollu-tunik-3310844"
+        },
+        {
+          "excel_satiri": 14041,
+          "Product Option Code": "F2183AX.BN125",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "D.CAMEL",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F2183AX_25SM_BN125_01_01.jpg",
+          "FabricDetail": "LILYUM",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#C4A65D",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-baskili-uzun-kollu-tunik-3310844",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-baskili-uzun-kollu-tunik-3310844"
+        },
+        {
+          "excel_satiri": 14042,
+          "Product Option Code": "F2183AX.BN125",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "D.CAMEL",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F2183AX_25SM_BN125_01_01.jpg",
+          "FabricDetail": "LILYUM",
+          "Toplam": 5,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#C4A65D",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-baskili-uzun-kollu-tunik-3310844",
+          "Model Page URL": "https://www.defacto.com/en-iq/regular-fit-baskili-uzun-kollu-tunik-3310844"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F2183AX_25SM_BN125_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:50:41+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-baskili-uzun-kollu-tunik-3310844",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

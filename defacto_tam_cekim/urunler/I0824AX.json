@@ -1,0 +1,119 @@
+{
+  "model_kodu": "I0824AX",
+  "urun_grubu": "Erkek Kemer",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0824AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Dikdörtgen Toka Suni Deri Günlük Kemer",
+      "kisa_aciklama": "Suni deriden kemer. Dikdörtgen metal toka ve pütürlü doku detayı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-gunluk-kemer-3483305",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0824AX_NS_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0824AX_NS_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0824AX_NS_BK27_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0824AX_NS_BK27_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "90",
+          "100",
+          "110"
+        ],
+        "excel": [
+          "90"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "110 Beden - 1,87cm - 100/78/98",
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kumas": "Suni Deri",
+        "urun_olcusu": "3,5 cm",
+        "urun_tipi": "Kemer",
+        "toka_sekli": "Dikdörtgen Toka",
+        "urun_aksesuari": "Kemer"
+      },
+      "urun_hakkinda": [
+        "Suni deriden kemer. Dikdörtgen metal toka ve pütürlü doku detayı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38343,
+          "Product Option Code": "I0824AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0824AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-gunluk-kemer-3483305",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-dikdortgen-toka-suni-deri-gunluk-kemer-3483305"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0824AX_NS_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:51:49+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

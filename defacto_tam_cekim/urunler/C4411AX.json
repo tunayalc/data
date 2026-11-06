@@ -1,0 +1,340 @@
+{
+  "model_kodu": "C4411AX",
+  "urun_grubu": "Kadın Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 60,
+    "yorum_sayisi": 60,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 30.0,
+      "tam_oldu": 63.3,
+      "buyuk_geldi": 6.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-03",
+        "puan": 5.0,
+        "metin": "@Çok beğendim, teşekkür ederim."
+      },
+      {
+        "tarih": "2025-08-05",
+        "puan": 5.0,
+        "metin": "@Beğendiğim çok güzel bir ürün."
+      },
+      {
+        "tarih": "2025-06-10",
+        "puan": 3.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C4411AXKH461",
+      "renk_kodu": "KH461",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Beli Lastikli Çiçekli Midi Etek",
+      "kisa_aciklama": "Yetişkin kadınların şıklığını tamamlayacak siyah midi etek. Basic desen teması ve kemerli kapama detayı ile öne çıkıyor. Yaz mevsimine uygun…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/beli-lastikli-cicekli-midi-etek-3213458",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C4411AX_25SP_KH461_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4411AX_25SP_KH461_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4411AX_25SP_KH461_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4411AX_25SP_KH461_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C4411AX_25SP_KH461_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Kadın",
+        "urun_boyu": "Mıdı",
+        "kapama_detayi": "Kemerli"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınların şıklığını tamamlayacak siyah midi etek. Basic desen teması ve kemerli kapama detayı ile öne çıkıyor. Yaz mevsimine uygun…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C4411AXGN158",
+      "renk_kodu": "GN158",
+      "renk_adi": "LT.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4174,
+          "Product Option Code": "C4411AX.GN158",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "42",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_GN158_01_04.jpg",
+          "FabricDetail": "AEROBIN SALDA",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_GN158_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4411AXGN166",
+      "renk_kodu": "GN166",
+      "renk_adi": "LT.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38",
+          "42",
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4175,
+          "Product Option Code": "C4411AX.GN166",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "38",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_GN166_01_03.jpg",
+          "FabricDetail": "AEROBIN SALDA",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 4176,
+          "Product Option Code": "C4411AX.GN166",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "42",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_GN166_01_03.jpg",
+          "FabricDetail": "AEROBIN SALDA",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 4177,
+          "Product Option Code": "C4411AX.GN166",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "44",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_GN166_01_03.jpg",
+          "FabricDetail": "AEROBIN SALDA",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_GN166_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4411AXNV207",
+      "renk_kodu": "NV207",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "40",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4178,
+          "Product Option Code": "C4411AX.NV207",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "40",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_NV207_01_03.jpg",
+          "FabricDetail": "AEROBIN SALDA",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 4179,
+          "Product Option Code": "C4411AX.NV207",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "42",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_NV207_01_03.jpg",
+          "FabricDetail": "AEROBIN SALDA",
+          "Toplam": 5,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_NV207_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C4411AXNV256",
+      "renk_kodu": "NV256",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4180,
+          "Product Option Code": "C4411AX.NV256",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "36",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_NV256_01_03.jpg",
+          "FabricDetail": "AEROBIN SALDA",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 4181,
+          "Product Option Code": "C4411AX.NV256",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "38",
+          "Fit": "TIERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_NV256_01_03.jpg",
+          "FabricDetail": "AEROBIN SALDA",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C4411AX_24SM_NV256_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:22:41+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

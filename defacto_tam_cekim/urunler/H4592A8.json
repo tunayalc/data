@@ -1,0 +1,90 @@
+{
+  "model_kodu": "H4592A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Yelpaze",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4592A8PN114",
+      "renk_kodu": "PN114",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "Baskılı Pembe Yelpaze Kız Çocuk",
+      "kisa_aciklama": "Kız çocuk baskılı pembe yelpaze",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baskili-pembe-yelpaze-kiz-cocuk-3463080",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4592A8_26SM_PN114_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4592A8_26SM_PN114_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4592A8_26SM_PN114_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4592A8_26SM_PN114_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Kız çocuk baskılı pembe yelpaze"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 29140,
+          "Product Option Code": "H4592A8.PN114",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Hand Fan",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H4592A8_26SM_PN114_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 7,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/baskili-pembe-yelpaze-kiz-cocuk-3463080",
+          "Model Page URL": "https://www.defacto.com.tr/baskili-pembe-yelpaze-kiz-cocuk-3463080"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H4592A8_26SM_PN114_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:28:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "model_kodu": "E7035AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E7035AXNM84",
+      "renk_kodu": "NM84",
+      "renk_adi": "BLUE GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "30-30"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12076,
+          "Product Option Code": "E7035AX.NM84",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE GREY",
+          "SizeDefinition": "30-30",
+          "Fit": "SLIM TAPERED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E7035AX_25SP_NM84_01_04.jpg",
+          "FabricDetail": "COTTON+ELASTANE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#5B686D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E7035AX_25SP_NM84_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "model_kodu": "C0589A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 34,
+    "yorum_sayisi": 34,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 40.0,
+      "tam_oldu": 60.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-03",
+        "puan": 5.0,
+        "metin": "@Kızıma aldım, biraz büyük oldu ama sorun değil, beğendim."
+      },
+      {
+        "tarih": "2025-06-17",
+        "puan": 5.0,
+        "metin": "@Şapka oldukça kaliteli ve şık, ancak 4 yaşındaki kızıma tam oldu, kalıp biraz küçük olabilir."
+      },
+      {
+        "tarih": "2025-06-03",
+        "puan": 5.0,
+        "metin": "@3 yaşındaki kızıma iyi oldu."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0589A8BE106",
+      "renk_kodu": "BE106",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Jean Bucket Şapka Kız Çocuk",
+      "kisa_aciklama": "Kız çocuk şapka kalp nakışlı model.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/jean-bucket-sapka-kiz-cocuk-3401850",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C0589A8_26SM_BE106_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0589A8_26SM_BE106_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C0589A8_26SM_BE106_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kız Çocuk",
+        "urun_olcusu": "54 cm",
+        "sapka_tipi": "Bucket Şapka"
+      },
+      "urun_hakkinda": [
+        "Kız çocuk şapka kalp nakışlı model.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3057,
+          "Product Option Code": "C0589A8.BE106",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C0589A8_26SM_BE106_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/jean-bucket-sapka-kiz-cocuk-3401850",
+          "Model Page URL": "https://www.defacto.com.tr/jean-bucket-sapka-kiz-cocuk-3401850"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/C0589A8_26SM_BE106_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:20:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

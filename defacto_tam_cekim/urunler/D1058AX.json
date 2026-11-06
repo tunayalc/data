@@ -1,0 +1,272 @@
+{
+  "model_kodu": "D1058AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 53,
+    "yorum_sayisi": 53,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 23.1,
+      "tam_oldu": 61.5,
+      "buyuk_geldi": 15.4
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-12-06",
+        "puan": 5.0,
+        "metin": "@güzel hoş bir gömlek. 82 kilo,1.75 boy M beden tam oldu"
+      },
+      {
+        "tarih": "2024-11-06",
+        "puan": 5.0,
+        "metin": "@bunlar öyle bir firma ki sadece güzel yorumlar yayınlanıyor,bana yırtık ve bembeyaz lekeli bir gömlek gönderdiler yorum yazıyorum yayınlamıyorlar"
+      },
+      {
+        "tarih": "2025-11-18",
+        "puan": 4.0,
+        "metin": "@Fiyatına göre gayet iyi, keşke bir beden büyük alsaydınız."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1058AXGR322",
+      "renk_kodu": "GR322",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "%100 Pamuk Regular Fit Waffle Basic Düz Uzun Kollu Gömlek",
+      "kisa_aciklama": "%100 pamuklu waffle kumaştan üretilen Regular Fit Waffle Basic Uzun Kollu Gömlek, rahat kalıbı ve dokulu yapısıyla şıklığı ve konforu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-waffle-basic-duz-uzun-kollu-gomlek-3147991",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_GR322_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_GR322_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_GR322_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_GR322_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_GR322_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_GR322_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_GR322_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "yaka": "Polo Yaka",
+        "kumas": "Pamuklu",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "%100 pamuklu waffle kumaştan üretilen Regular Fit Waffle Basic Uzun Kollu Gömlek, rahat kalıbı ve dokulu yapısıyla şıklığı ve konforu…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6308,
+          "Product Option Code": "D1058AX.GR322",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D1058AX_24AU_GR322_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-regular-fit-waffle-basic-duz-uzun-kollu-gomlek-3147991",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-waffle-basic-duz-uzun-kollu-gomlek-3148004"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D1058AX_24AU_GR322_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D1058AXKH493",
+      "renk_kodu": "KH493",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "%100 Pamuk Regular Fit Waffle Basic Düz Uzun Kollu Gömlek",
+      "kisa_aciklama": "%100 pamuklu waffle kumaştan üretilen Regular Fit Waffle Basic Uzun Kollu Gömlek, rahat kalıbı ve dokulu yapısıyla şıklığı ve konforu…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-waffle-basic-duz-uzun-kollu-gomlek-3148004",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_KH493_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_KH493_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_KH493_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_KH493_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_KH493_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1058AX_24AU_KH493_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "%100 pamuklu waffle kumaştan üretilen Regular Fit Waffle Basic Uzun Kollu Gömlek, rahat kalıbı ve dokulu yapısıyla şıklığı ve konforu…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6309,
+          "Product Option Code": "D1058AX.KH493",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D1058AX_24AU_KH493_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-waffle-basic-duz-uzun-kollu-gomlek-3148004",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-waffle-basic-duz-uzun-kollu-gomlek-3148004"
+        },
+        {
+          "excel_satiri": 6310,
+          "Product Option Code": "D1058AX.KH493",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D1058AX_24AU_KH493_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-waffle-basic-duz-uzun-kollu-gomlek-3148004",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-waffle-basic-duz-uzun-kollu-gomlek-3148004"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D1058AX_24AU_KH493_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:26:12+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

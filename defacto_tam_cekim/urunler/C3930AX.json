@@ -1,0 +1,622 @@
+{
+  "model_kodu": "C3930AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 48,
+    "yorum_sayisi": 48,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 22.7,
+      "tam_oldu": 77.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-09-07",
+        "puan": 4.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-12-20",
+        "puan": 4.0,
+        "metin": "@Yazlık, rahat ve günlük giyim için ideal bir ürün. Çok yumuşak. Fiyatı da gayet uygun."
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Her açıdan 5 yıldız, kesinlikle alın."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C3930AXGR419",
+      "renk_kodu": "GR419",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Relaxed Fit Düz Paça Pantolon",
+      "kisa_aciklama": "Relaxed Fıt Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_GR419_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_GR419_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_GR419_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_GR419_04_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_GR419_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_GR419_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28-30",
+          "30-30",
+          "30-32",
+          "32-30",
+          "32-32",
+          "32-34",
+          "34-32",
+          "34-34",
+          "36-30",
+          "38-32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Elastan 2%,Poliester 98%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Erkek",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Relaxed Fıt Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4002,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "28-30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 10,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4003,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "30-30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 9,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4004,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "30-32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 12,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4005,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "32-30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 5,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4006,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "32-32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 6,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4007,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "32-34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 14,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4008,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "34-32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4009,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "34-34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 10,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4010,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "36-30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 8,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4011,
+          "Product Option Code": "C3930AX.GR419",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "38-32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GR419_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C3930AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Relaxed Fit Düz Paça Pantolon",
+      "kisa_aciklama": "Relaxed Fıt Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3209865",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_BK27_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_BK27_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_BK27_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_BK27_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C3930AX_25SP_BK27_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,88cm - 100/84/96",
+        "ana_kumas_icerigi": "Elastan 2%,Poliester 98%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "paca_detayi": "Düz Paça",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Relaxed Fıt Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C3930AXAR15",
+      "renk_kodu": "AR15",
+      "renk_adi": "ANTHRA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28-30",
+          "30-30",
+          "30-32",
+          "32-30",
+          "32-32",
+          "32-34"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3994,
+          "Product Option Code": "C3930AX.AR15",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "28-30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_AR15_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 3995,
+          "Product Option Code": "C3930AX.AR15",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "30-30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_AR15_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 3996,
+          "Product Option Code": "C3930AX.AR15",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "30-32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_AR15_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 3997,
+          "Product Option Code": "C3930AX.AR15",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "32-30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_AR15_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 3998,
+          "Product Option Code": "C3930AX.AR15",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "32-32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_AR15_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 3999,
+          "Product Option Code": "C3930AX.AR15",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "32-34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_AR15_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_AR15_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C3930AXGN1217",
+      "renk_kodu": "GN1217",
+      "renk_adi": "LT.GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "30-30",
+          "30-32"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4000,
+          "Product Option Code": "C3930AX.GN1217",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "30-30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GN1217_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        },
+        {
+          "excel_satiri": 4001,
+          "Product Option Code": "C3930AX.GN1217",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "30-32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GN1217_01_03.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/C3930AX_25SP_GN1217_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C3930AXKH264",
+      "renk_kodu": "KH264",
+      "renk_adi": "TEAK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36-32"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4012,
+          "Product Option Code": "C3930AX.KH264",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "TEAK",
+          "SizeDefinition": "36-32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C3930AX_24SM_KH264_01_03.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#384E42",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/relaxed-fit-duz-paca-pantolon-3207367"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C3930AX_24SM_KH264_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:22:16+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "model_kodu": "B7274AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B7274AXBG677",
+      "renk_kodu": "BG677",
+      "renk_adi": "SAND",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2311,
+          "Product Option Code": "B7274AX.BG677",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Leggings",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "L",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B7274AX_23WN_BG677_01_01.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2312,
+          "Product Option Code": "B7274AX.BG677",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Leggings",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "M",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B7274AX_23WN_BG677_01_01.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2313,
+          "Product Option Code": "B7274AX.BG677",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Leggings",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "XL",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B7274AX_23WN_BG677_01_01.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 2314,
+          "Product Option Code": "B7274AX.BG677",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Leggings",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "XXL",
+          "Fit": "LEGGING FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/B7274AX_23WN_BG677_01_01.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/B7274AX_23WN_BG677_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

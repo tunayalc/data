@@ -1,0 +1,370 @@
+{
+  "model_kodu": "I2016AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-09",
+        "puan": 5.0,
+        "metin": "@bedenime tam uydu"
+      },
+      {
+        "tarih": "2026-11-04",
+        "puan": 5.0,
+        "metin": "@çöl güzel hem rengi hem modeli🌸🌸"
+      },
+      {
+        "tarih": "2026-09-03",
+        "puan": 5.0,
+        "metin": "@harika bir crop"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2016AXPN110",
+      "renk_kodu": "PN110",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Fıtted Omzu Açık Fitilli Kısa Kollu Pembe Tişört",
+      "kisa_aciklama": "Fitilli kumaştan üretilmiş fitted kısa kollu tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kisa-kollu-pembe-tisort-3490734",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_PN110_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_PN110_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_PN110_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_PN110_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_PN110_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Pamuk 94%,Elastan 6%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Fıtted",
+        "kumas": "Fitilli Kaşkorse",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Fitilli kumaştan üretilmiş fitted kısa kollu tişört."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 39864,
+          "Product Option Code": "I2016AX.PN110",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_PN110_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kisa-kollu-pembe-tisort-3490734",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        },
+        {
+          "excel_satiri": 39865,
+          "Product Option Code": "I2016AX.PN110",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_PN110_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kisa-kollu-pembe-tisort-3490734",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        },
+        {
+          "excel_satiri": 39866,
+          "Product Option Code": "I2016AX.PN110",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_PN110_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kisa-kollu-pembe-tisort-3490734",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        },
+        {
+          "excel_satiri": 39867,
+          "Product Option Code": "I2016AX.PN110",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_PN110_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kisa-kollu-pembe-tisort-3490734",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        },
+        {
+          "excel_satiri": 39868,
+          "Product Option Code": "I2016AX.PN110",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_PN110_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kisa-kollu-pembe-tisort-3490734",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_PN110_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I2016AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Fıtted Omzu Açık Fitilli Kaşkorse Kısa Kollu Tişört",
+      "kisa_aciklama": "Beyaz renkli örme kısa kollu tişört. Fıtted kalıbı ve fitilli kaşkorse kumaşıyla şıklığı ve konforu bir arada sunar. Omzu açık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_WT32_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_WT32_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_WT32_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_WT32_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_WT32_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2016AX_26HS_WT32_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 94%,Elastan 6%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Fıtted",
+        "kumas": "Fitilli Kaşkorse",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Beyaz renkli örme kısa kollu tişört. Fıtted kalıbı ve fitilli kaşkorse kumaşıyla şıklığı ve konforu bir arada sunar. Omzu açık…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 39869,
+          "Product Option Code": "I2016AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_WT32_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        },
+        {
+          "excel_satiri": 39870,
+          "Product Option Code": "I2016AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_WT32_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        },
+        {
+          "excel_satiri": 39871,
+          "Product Option Code": "I2016AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_WT32_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        },
+        {
+          "excel_satiri": 39872,
+          "Product Option Code": "I2016AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_WT32_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        },
+        {
+          "excel_satiri": 39873,
+          "Product Option Code": "I2016AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_WT32_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-omzu-acik-fitilli-kaskorse-kisa-kollu-tisort-3490735"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I2016AX_26HS_WT32_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:56:13+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

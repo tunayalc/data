@@ -1,0 +1,276 @@
+{
+  "model_kodu": "D7319AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 31,
+    "yorum_sayisi": 31,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 29.4,
+      "tam_oldu": 47.1,
+      "buyuk_geldi": 23.5
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-04-24",
+        "puan": 3.0,
+        "metin": "@kollari cok uzun kendisi kisa hic hava almiyor soguk havada bile terletiyor ustunuze yapisiyor"
+      },
+      {
+        "tarih": "2025-04-02",
+        "puan": 5.0,
+        "metin": "@gerçekten çok güzel kalıbı var tam olması gerektiği gibi, tam bedeninizi alın kumaşı çok kaliteli."
+      },
+      {
+        "tarih": "2025-03-20",
+        "puan": 5.0,
+        "metin": "@Biraz ince gibi geldi ama gayet güzel şık duruyor"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7319AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Su İtici Slim Fit Kolej Yaka Fermuarlı Bomber Mont",
+      "kisa_aciklama": "Su itici kumaş özelliği ile yağışlı havalarda koruma sağlayan kolej yaka bomber mont, slim fit kesimiyle modern bir siluet oluşturur.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-slim-fit-kolej-yaka-fermuarli-bomber-mont-3375353",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_BK27_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_BK27_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "yaka": "Kolej Yaka Bomber",
+        "kumas_kalinligi": "İnce",
+        "cinsiyet": "Erkek",
+        "kapama_detayi": "Fermuarlı",
+        "urun_tipi": "Mont",
+        "astar_bilgisi": "Astarlı",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Su itici kumaş özelliği ile yağışlı havalarda koruma sağlayan kolej yaka bomber mont, slim fit kesimiyle modern bir siluet oluşturur.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 1439.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8621,
+          "Product Option Code": "D7319AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7319AX_26SP_BK27_01_01.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-kolej-yaka-fermuarli-bomber-mont-3375353",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-kolej-yaka-fermuarli-bomber-mont-3210895"
+        },
+        {
+          "excel_satiri": 8622,
+          "Product Option Code": "D7319AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7319AX_26SP_BK27_01_01.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-kolej-yaka-fermuarli-bomber-mont-3375353",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-kolej-yaka-fermuarli-bomber-mont-3210895"
+        },
+        {
+          "excel_satiri": 8623,
+          "Product Option Code": "D7319AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7319AX_26SP_BK27_01_01.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-kolej-yaka-fermuarli-bomber-mont-3375353",
+          "Model Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-kolej-yaka-fermuarli-bomber-mont-3210895"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D7319AX_26SP_BK27_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D7319AXER140",
+      "renk_kodu": "ER140",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Su İtici Slim Fit Kolej Yaka Fermuarlı Bomber Mont",
+      "kisa_aciklama": "Su itici kumaş özelliği ile yağışlı havalarda koruma sağlayan kolej yaka bomber mont, slim fit kesimiyle modern bir siluet oluşturur.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-slim-fit-kolej-yaka-fermuarli-bomber-mont-3210895",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7319AX_25SP_ER140_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_25SP_ER140_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_25SP_ER140_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_25SP_ER140_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_25SP_ER140_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Mont",
+        "kumas_kalinligi": "İnce",
+        "cinsiyet": "Erkek",
+        "yaka": "Kolej Yaka Bomber",
+        "kapama_detayi": "Fermuarlı"
+      },
+      "urun_hakkinda": [
+        "Su itici kumaş özelliği ile yağışlı havalarda koruma sağlayan kolej yaka bomber mont, slim fit kesimiyle modern bir siluet oluşturur.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 899.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "D7319AXKH522",
+      "renk_kodu": "KH522",
+      "renk_adi": "Koyu Haki",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Su İtici Slim Fit Kolej Yaka Fermuarlı Bomber Mont",
+      "kisa_aciklama": "Su itici kumaş özelliği ile yağışlı havalarda koruma sağlayan kolej yaka bomber mont, slim fit kesimiyle modern bir siluet oluşturur.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-slim-fit-kolej-yaka-fermuarli-bomber-mont-3375352",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_KH522_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_KH522_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_KH522_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_KH522_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_KH522_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_KH522_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7319AX_26SP_KH522_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "cinsiyet": "Erkek",
+        "astar_bilgisi": "Astarlı",
+        "yaka": "Kolej Yaka Bomber",
+        "kalip": "Slım Fıt",
+        "kumas_kalinligi": "İnce",
+        "urun_tipi": "Mont",
+        "kapama_detayi": "Fermuarlı"
+      },
+      "urun_hakkinda": [
+        "Su itici kumaş özelliği ile yağışlı havalarda koruma sağlayan kolej yaka bomber mont, slim fit kesimiyle modern bir siluet oluşturur.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 1439.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:29:39+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

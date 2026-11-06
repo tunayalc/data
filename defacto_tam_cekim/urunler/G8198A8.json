@@ -1,0 +1,99 @@
+{
+  "model_kodu": "G8198A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8198A8TR143",
+      "renk_kodu": "TR143",
+      "renk_adi": "Deniz Mavisi",
+      "renk_hex": "#006994",
+      "urun_adi": "%100 Pamuk SpongeBob Oversıze Bisiklet Yaka Kısa Kollu Tişört Kız Çocuk",
+      "kisa_aciklama": "Oversize kız çocuk tişört. SpongeBob lisanslı ürün. Bisiklet yaka ve kısa kollu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-spongebob-oversize-bisiklet-yaka-kisa-kollu-tisort-kiz-cocuk-3453348",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8198A8_26SM_TR143_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8198A8_26SM_TR143_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8198A8_26SM_TR143_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8198A8_26SM_TR143_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8198A8_26SM_TR143_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "13/14 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "7/8 Yaş (128cm) Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Oversıze",
+        "lisans_bilgisi": "SpongeBob",
+        "cinsiyet": "Kız Çocuk",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Oversize kız çocuk tişört. SpongeBob lisanslı ürün. Bisiklet yaka ve kısa kollu."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22004,
+          "Product Option Code": "G8198A8.TR143",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "AQUA",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G8198A8_26SM_TR143_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#006994",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-spongebob-oversize-bisiklet-yaka-kisa-kollu-tisort-kiz-cocuk-3453348",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-spongebob-oversize-bisiklet-yaka-kisa-kollu-tisort-kiz-cocuk-3453348"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G8198A8_26SM_TR143_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:10:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

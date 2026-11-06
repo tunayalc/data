@@ -1,0 +1,116 @@
+{
+  "model_kodu": "H9252A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Çanta",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H9252A8BE3",
+      "renk_kodu": "BE3",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Unisex Futbol Temalı Petek Dokulu Sırt Çantası",
+      "kisa_aciklama": "Unisex sırt çantası. Ön kısımda futbol topu ve '10' rakamı detaylı kontrast yama. Fermuar kapamalı ana bölme ve fermuarlı ön…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/unisex-futbol-temali-petek-dokulu-sirt-cantasi-3483263",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H9252A8_NS_BE3_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9252A8_NS_BE3_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9252A8_NS_BE3_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9252A8_NS_BE3_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9252A8_NS_BE3_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9252A8_NS_BE3_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "canta_tipi": "Sırt Çantası",
+        "cinsiyet": "Erkek Çocuk"
+      },
+      "urun_hakkinda": [
+        "Unisex sırt çantası. Ön kısımda futbol topu ve '10' rakamı detaylı kontrast yama. Fermuar kapamalı ana bölme ve fermuarlı ön…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 1199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 36215,
+          "Product Option Code": "H9252A8.BE3",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "BackPack",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9252A8_NS_BE3_01_02.jpg",
+          "FabricDetail": "Impertex",
+          "Toplam": 3,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/unisex-futbol-temali-petek-dokulu-sirt-cantasi-3483263",
+          "Model Page URL": "https://www.defacto.com.tr/unisex-futbol-temali-petek-dokulu-sirt-cantasi-3483263"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H9252A8_NS_BE3_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:38:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

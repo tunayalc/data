@@ -1,0 +1,145 @@
+{
+  "model_kodu": "G1735AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-31",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet rahat ve şık. Kendi bedeninizi alın. Harika! Gerçekten çok şık."
+      },
+      {
+        "tarih": "2025-11-16",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, aldığımda hiç yorum yoktu ama aldığımda ürün çok güzeldi, yakası biraz fazla açıkmış gibi geldi.…"
+      },
+      {
+        "tarih": "2026-02-01",
+        "puan": 4.0,
+        "metin": "@Harika olmuş, çok beğendim ama S beden bana bol geldi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G1735AXBG350",
+      "renk_kodu": "BG350",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Slım Fıt Omzu Açık Uzun Kollu Tişört",
+      "kisa_aciklama": "Slim fit ve dar kesimiyle vücuda oturan bu omzu açık uzun kollu tişört, modern ve şık bir görünüm sunar. Hem…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dar-kesim-omuzu-acik-uzun-kollu-tisort-3349805",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G1735AX_25WN_BG350_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1735AX_25WN_BG350_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1735AX_25WN_BG350_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1735AX_25WN_BG350_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1735AX_25WN_BG350_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1735AX_25WN_BG350_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1735AX_25WN_BG350_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1735AX_25WN_BG350_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1735AX_25WN_BG350_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,70cm - 85/60/88",
+        "ana_kumas_icerigi": "Elastan 5%,Viskoz 49%,Poliester 46%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Uzun Kollu Tişört",
+        "kalip": "Slım Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Slim fit ve dar kesimiyle vücuda oturan bu omzu açık uzun kollu tişört, modern ve şık bir görünüm sunar. Hem…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18097,
+          "Product Option Code": "G1735AX.BG350",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G1735AX_25WN_BG350_01_02.jpg",
+          "FabricDetail": "PES-VIS-EA",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com/en-iq/slim-fit-dar-kesim-omuzu-acik-uzun-kollu-tisort-3349805",
+          "Model Page URL": "https://www.defacto.com/en-iq/slim-fit-dar-kesim-omuzu-acik-uzun-kollu-tisort-3349805"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G1735AX_25WN_BG350_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:59:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

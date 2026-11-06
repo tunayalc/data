@@ -1,0 +1,157 @@
+{
+  "model_kodu": "H3427AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-18",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@güzel ürün"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3427AXPR299",
+      "renk_kodu": "PR299",
+      "renk_adi": "Koyu Mor",
+      "renk_hex": "#7719B1",
+      "urun_adi": "NBA Los Angeles Lakers Baggy Fıt Şort",
+      "kisa_aciklama": "Baggy fit şort. Lastikli bel ve diz üstü boy. Yanlarda kontrast renk şerit detaylı ve üzerinde dikey Los Angeles Lakers…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/nba-los-angeles-lakers-baggy-fit-sort-3458255",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3427AX_26SM_PR299_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3427AX_26SM_PR299_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3427AX_26SM_PR299_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3427AX_26SM_PR299_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3427AX_26SM_PR299_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3427AX_26SM_PR299_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 94/74/94",
+        "ana_kumas_icerigi": "Pamuk 54%,Poliester 46%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Baggy Fıt",
+        "lisans_bilgisi": "NBA Los Angeles Lakers"
+      },
+      "urun_hakkinda": [
+        "Baggy fit şort. Lastikli bel ve diz üstü boy. Yanlarda kontrast renk şerit detaylı ve üzerinde dikey Los Angeles Lakers…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 449.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27214,
+          "Product Option Code": "H3427AX.PR299",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "DARK PURPLE",
+          "SizeDefinition": "M",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H3427AX_26SM_PR299_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#7719B1",
+          "Product Page URL": "https://www.defacto.com.tr/nba-los-angeles-lakers-baggy-fit-sort-3458255",
+          "Model Page URL": "https://www.defacto.com.tr/nba-los-angeles-lakers-baggy-fit-sort-3458255"
+        },
+        {
+          "excel_satiri": 27215,
+          "Product Option Code": "H3427AX.PR299",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "DARK PURPLE",
+          "SizeDefinition": "XL",
+          "Fit": "BAGGY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H3427AX_26SM_PR299_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#7719B1",
+          "Product Page URL": "https://www.defacto.com.tr/nba-los-angeles-lakers-baggy-fit-sort-3458255",
+          "Model Page URL": "https://www.defacto.com.tr/nba-los-angeles-lakers-baggy-fit-sort-3458255"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H3427AX_26SM_PR299_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:22:33+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

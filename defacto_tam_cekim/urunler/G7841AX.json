@@ -1,0 +1,113 @@
+{
+  "model_kodu": "G7841AX",
+  "urun_grubu": "Kadın Kaban / Parka",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-18",
+        "puan": 5.0,
+        "metin": "@çok güzel s beden aldım 161im 60 kiloyum tam oturdu kalıbı büyük m l falan almayın kilolu değilseniz"
+      },
+      {
+        "tarih": "2026-10-28",
+        "puan": 3.0,
+        "metin": "@Ürün güzel görünüyor ama bence kabandan ziyade ceket gibi. Soğuk havalarda sıcak tutacağını pek sanmıyorum. Ve arkası lastikli olmasaymış daha…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7841AXBN142",
+      "renk_kodu": "BN142",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Regular Fıt Kareli Düğmeli Kaşe Kaban",
+      "kisa_aciklama": "Klasik kareli deseni ve kaliteli kaşe kumaşıyla öne çıkan bu kaban, önden düğmeli kapamasıyla zamansız bir duruş sergiler. Rahat regular…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-kareli-dugmeli-kase-kaban-3375355",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7841AX_26SP_BN142_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7841AX_26SP_BN142_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7841AX_26SP_BN142_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7841AX_26SP_BN142_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7841AX_26SP_BN142_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7841AX_26SP_BN142_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7841AX_26SP_BN142_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7841AX_26SP_BN142_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7841AX_26SP_BN142_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,77cm - 85/62/89",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Klasik kareli deseni ve kaliteli kaşe kumaşıyla öne çıkan bu kaban, önden düğmeli kapamasıyla zamansız bir duruş sergiler. Rahat regular…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2999.99,
+        "sepette_fiyat": 1799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21607,
+          "Product Option Code": "G7841AX.BN142",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Cachet",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G7841AX_26SP_BN142_01_02.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 1999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kareli-dugmeli-kase-kaban-3375355",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kareli-dugmeli-kase-kaban-3375355"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G7841AX_26SP_BN142_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:09:57+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,572 @@
+{
+  "model_kodu": "B8672AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 107,
+    "yorum_sayisi": 107,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 15.9,
+      "tam_oldu": 77.3,
+      "buyuk_geldi": 6.8
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-07-06",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-06-28",
+        "puan": 5.0,
+        "metin": "@gorunusu oldukca guzel"
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Tam beden, kaliteli, alınabilir."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B8672AXBG702",
+      "renk_kodu": "BG702",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Şort",
+      "kisa_aciklama": "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Düz Şort",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BG702_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BG702_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BG702_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BG702_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BG702_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BG702_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 69%,Poliester 31%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "paca_detayi": "Düz Paça",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "urun_yuksekligi": "48",
+        "urun_boyu": "Kısa Boy"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Düz Şort"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2633,
+          "Product Option Code": "B8672AX.BG702",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_BG702_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294"
+        },
+        {
+          "excel_satiri": 2634,
+          "Product Option Code": "B8672AX.BG702",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_BG702_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_BG702_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B8672AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Şort",
+      "kisa_aciklama": "Örme alt şort, yetişkin erkekler için siyah bir şıklık sunar. Cep detayı ve düz paça ile önemli bir detay ekler.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3374393",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 98/79/94",
+        "ana_kumas_icerigi": "Pamuk 65%,Poliester 35%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "urun_boyu": "Kısa Boy",
+        "urun_yuksekligi": "48",
+        "paca_detayi": "Düz Paça",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Örme alt şort, yetişkin erkekler için siyah bir şıklık sunar. Cep detayı ve düz paça ile önemli bir detay ekler.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2635,
+          "Product Option Code": "B8672AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_BK81_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3374393",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294"
+        },
+        {
+          "excel_satiri": 2636,
+          "Product Option Code": "B8672AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_BK81_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3374393",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294"
+        },
+        {
+          "excel_satiri": 2637,
+          "Product Option Code": "B8672AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/B8672AX_24SM_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3374393",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294"
+        },
+        {
+          "excel_satiri": 2638,
+          "Product Option Code": "B8672AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_BK81_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3374393",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_BK81_01_03.jpg",
+        "https://image.defacto.com.tr/product/24SM/B8672AX_24SM_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B8672AXBN337",
+      "renk_kodu": "BN337",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Şort",
+      "kisa_aciklama": "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Düz Şort",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3212488",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BN337_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BN337_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BN337_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BN337_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BN337_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_BN337_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 69%,Poliester 31%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "urun_boyu": "Kısa Boy",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "urun_yuksekligi": "48"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Düz Şort"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2639,
+          "Product Option Code": "B8672AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_BN337_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3212488",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_BN337_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B8672AXGR184",
+      "renk_kodu": "GR184",
+      "renk_adi": "Açık Gri",
+      "renk_hex": "#A2A2A2",
+      "urun_adi": "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Şort",
+      "kisa_aciklama": "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Düz Şort",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3212287",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_GR184_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_GR184_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_GR184_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_GR184_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_GR184_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_25SP_GR184_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 69%,Poliester 31%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "cinsiyet": "Erkek",
+        "urun_boyu": "Kısa Boy",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "paca_detayi": "Düz Paça",
+        "urun_yuksekligi": "48"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Düz Şort"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2640,
+          "Product Option Code": "B8672AX.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_GR184_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3212287",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294"
+        },
+        {
+          "excel_satiri": 2641,
+          "Product Option Code": "B8672AX.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_GR184_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3212287",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3210294"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/B8672AX_25SP_GR184_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B8672AXBN192",
+      "renk_kodu": "BN192",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Şort",
+      "kisa_aciklama": "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Düz Şort",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-duz-paca-beli-bagcikli-cepli-basic-sort-3374392",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BN192_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BN192_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BN192_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BN192_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BN192_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8672AX_26SM_BN192_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 98/79/94",
+        "ana_kumas_icerigi": "Pamuk 65%,Poliester 35%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Erkek",
+        "urun_yuksekligi": "48",
+        "kalip": "Regular Fıt",
+        "urun_boyu": "Kısa Boy",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Düz Paça Beli Bağcıklı Cepli Basic Düz Şort"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:20:06+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

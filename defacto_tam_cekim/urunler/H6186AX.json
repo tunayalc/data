@@ -1,0 +1,513 @@
+{
+  "model_kodu": "H6186AX",
+  "urun_grubu": "Kadın Tunik",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H6186AXKH340",
+      "renk_kodu": "KH340",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Relax Fit Uzun Kollu Yün Karışımlı Triko Tunik",
+      "kisa_aciklama": "Bisiklet yaka, uzun kollu, relax fit rahat kesim yün karışımlı triko tunik. Yaka, manşet ve etek ucu fitilli kenarlı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-uzun-kollu-yun-karisimli-triko-tunik-3498401",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_KH340_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_KH340_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_KH340_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_KH340_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,79cm - 75/59/87",
+        "ana_kumas_icerigi": "Akrilik 75%,Poliester 21%,Yün 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "triko_kalinligi": "Orta Kalın",
+        "kumas": "Triko",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Bisiklet yaka, uzun kollu, relax fit rahat kesim yün karışımlı triko tunik. Yaka, manşet ve etek ucu fitilli kenarlı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31383,
+          "Product Option Code": "H6186AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "3XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_KH340_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-uzun-kollu-yun-karisimli-triko-tunik-3498401",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31384,
+          "Product Option Code": "H6186AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_KH340_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-uzun-kollu-yun-karisimli-triko-tunik-3498401",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31385,
+          "Product Option Code": "H6186AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_KH340_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-uzun-kollu-yun-karisimli-triko-tunik-3498401",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31386,
+          "Product Option Code": "H6186AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_KH340_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-uzun-kollu-yun-karisimli-triko-tunik-3498401",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31387,
+          "Product Option Code": "H6186AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_KH340_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-uzun-kollu-yun-karisimli-triko-tunik-3498401",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31388,
+          "Product Option Code": "H6186AX.KH340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_KH340_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-uzun-kollu-yun-karisimli-triko-tunik-3498401",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_KH340_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H6186AXPR169",
+      "renk_kodu": "PR169",
+      "renk_adi": "Koyu Mor",
+      "renk_hex": "#7719B1",
+      "urun_adi": "Relax Fit Bisiklet Yaka Uzun Kollu Yün Karışımlı Triko Tunik",
+      "kisa_aciklama": "Bisiklet yaka, uzun kollu, relax fit rahat kesim triko tunik. Yaka, manşet ve etek ucu fitilli kenarlı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_PR169_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_PR169_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_PR169_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_PR169_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_PR169_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_PR169_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_PR169_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_PR169_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "3XL",
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,72cm - 84/60/89",
+        "ana_kumas_icerigi": "Akrilik 80%,Poliester 20%,Yün 0%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "triko_kalinligi": "Orta Kalın",
+        "kalip": "Relax Fıt",
+        "kumas": "Triko",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Bisiklet yaka, uzun kollu, relax fit rahat kesim triko tunik. Yaka, manşet ve etek ucu fitilli kenarlı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31389,
+          "Product Option Code": "H6186AX.PR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "DARK PURPLE",
+          "SizeDefinition": "3XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_PR169_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#7719B1",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31390,
+          "Product Option Code": "H6186AX.PR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "DARK PURPLE",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_PR169_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#7719B1",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31391,
+          "Product Option Code": "H6186AX.PR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "DARK PURPLE",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_PR169_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#7719B1",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31392,
+          "Product Option Code": "H6186AX.PR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "DARK PURPLE",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_PR169_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#7719B1",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31393,
+          "Product Option Code": "H6186AX.PR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "DARK PURPLE",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_PR169_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#7719B1",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        },
+        {
+          "excel_satiri": 31394,
+          "Product Option Code": "H6186AX.PR169",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "CNS",
+          "Class Name": "Tunic",
+          "Product Color Name": "DARK PURPLE",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_PR169_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#7719B1",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-bisiklet-yaka-uzun-kollu-yun-karisimli-triko-tunik-3504544"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/H6186AX_26WN_PR169_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H6186AXBR33",
+      "renk_kodu": "BR33",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Relax Fit Uzun Kollu Yün Karışımlı Triko Tunik",
+      "kisa_aciklama": "Bisiklet yaka, uzun kollu, relax fit rahat kesim yün karışımlı triko tunik. Yaka, manşet ve etek ucu fitilli kenarlı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-uzun-kollu-yun-karisimli-triko-tunik-3498402",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_BR33_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_BR33_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_BR33_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_BR33_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6186AX_26WN_BR33_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Akrilik 77%,Poliester 19%,Yün 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Relax Fıt",
+        "triko_kalinligi": "Orta Kalın",
+        "cinsiyet": "Kadın",
+        "kumas": "Triko"
+      },
+      "urun_hakkinda": [
+        "Bisiklet yaka, uzun kollu, relax fit rahat kesim yün karışımlı triko tunik. Yaka, manşet ve etek ucu fitilli kenarlı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:34:58+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

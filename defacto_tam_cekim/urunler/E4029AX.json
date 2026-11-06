@@ -1,0 +1,127 @@
+{
+  "model_kodu": "E4029AX",
+  "urun_grubu": "Kadın Blazer Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 32,
+    "yorum_sayisi": 32,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 62.5,
+      "buyuk_geldi": 12.5
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-01-14",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-10-02",
+        "puan": 5.0,
+        "metin": "@Tam benden güzel ürün"
+      },
+      {
+        "tarih": "2025-09-08",
+        "puan": 2.0,
+        "metin": "@Ürünün kalıbı çok geniş rengi de soluk"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E4029AXBG633",
+      "renk_kodu": "BG633",
+      "renk_adi": "Camel",
+      "renk_hex": "#C19A6B",
+      "urun_adi": "%100 Pamuk Crop Dik Yaka Fermuarlı Cepli Gabardin Ceket",
+      "kisa_aciklama": "%100 Pamuk kumaştan üretilmiş Crop dik yaka fermuarlı cepli gabardin ceket, modern ve dinamik tasarımıyla dikkat çeker. Cepleriyle pratiklik sunarken,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-crop-dik-yaka-fermuarli-cepli-gabardin-ceket-3206795",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E4029AX_25SP_BG633_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4029AX_25SP_BG633_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4029AX_25SP_BG633_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4029AX_25SP_BG633_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4029AX_25SP_BG633_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4029AX_25SP_BG633_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4029AX_25SP_BG633_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4029AX_25SP_BG633_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4029AX_25SP_BG633_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,74cm - 80/60/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "markalar": "Coool",
+        "kumas": "Gabardin",
+        "kapama_detayi": "Fermuarlı",
+        "cinsiyet": "Kadın",
+        "yaka": "Dik Yaka",
+        "kalip": "Cropped Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Blazer Ceket"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk kumaştan üretilmiş Crop dik yaka fermuarlı cepli gabardin ceket, modern ve dinamik tasarımıyla dikkat çeker. Cepleriyle pratiklik sunarken,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11251,
+          "Product Option Code": "E4029AX.BG633",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Young",
+          "Class Name": "Blazer",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "42",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E4029AX_25SP_BG633_01_02.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-crop-dik-yaka-fermuarli-cepli-gabardin-ceket-3206795",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-crop-dik-yaka-fermuarli-cepli-gabardin-ceket-3206795"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E4029AX_25SP_BG633_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:44:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

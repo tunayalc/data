@@ -1,0 +1,119 @@
+{
+  "model_kodu": "E1340AX",
+  "urun_grubu": "Kadın Yelek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-06-23",
+        "puan": 5.0,
+        "metin": "@Tam bedeninizi almanız gereken güzel bir ürün."
+      },
+      {
+        "tarih": "2025-10-25",
+        "puan": 5.0,
+        "metin": "@Harika bir kumaşı var. Şahane!."
+      },
+      {
+        "tarih": "2025-06-23",
+        "puan": 5.0,
+        "metin": "@Rahat ve güzel, tam bedeninizi alabilirsiniz."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1340AXNV173",
+      "renk_kodu": "NV173",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Basıc Uzun Cepli Süveter",
+      "kisa_aciklama": "Regular fit kesimi ve V yaka tasarımıyla bu basic düz süveter, rahatlık ve şıklığı bir arada sunar. Uzun cepli detaylarıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/basic-uzun-cepli-suveter-3206898",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E1340AX_25SP_NV173_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1340AX_25SP_NV173_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1340AX_25SP_NV173_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1340AX_25SP_NV173_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1340AX_25SP_NV173_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1340AX_25SP_NV173_06_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Elastan 3%,Viskoz 37%,Poliester 60%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_yuksekligi": "95",
+        "kol_boyu": "Kolsuz",
+        "dis_giyim_urun_grubu": "Panço",
+        "cinsiyet": "Kadın",
+        "yaka": "V Yaka",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve V yaka tasarımıyla bu basic düz süveter, rahatlık ve şıklığı bir arada sunar. Uzun cepli detaylarıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10557,
+          "Product Option Code": "E1340AX.NV173",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "CNS",
+          "Class Name": "Vest",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E1340AX_25SP_NV173_01_02.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/basic-uzun-cepli-suveter-3206898",
+          "Model Page URL": "https://www.defacto.com.tr/basic-uzun-cepli-suveter-3206898"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E1340AX_25SP_NV173_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:42:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

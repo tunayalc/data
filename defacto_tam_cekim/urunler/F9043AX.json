@@ -1,0 +1,108 @@
+{
+  "model_kodu": "F9043AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-01",
+        "puan": 5.0,
+        "metin": "@Kumaşı ince kalın oduncu gömleği değil rengi ve kumaşı güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9043AXKH190",
+      "renk_kodu": "KH190",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "%100 Pamuk REGULAR FIT Flanel Gömlek",
+      "kisa_aciklama": "%100 pamuklu yumuşak flanel kumaştan üretilen regular fit uzun kollu gömlek, klasik ve zamansız tarzıyla hem günlük hem de şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-flanel-gomlek-3376751",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9043AX_26SP_KH190_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9043AX_26SP_KH190_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9043AX_26SP_KH190_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9043AX_26SP_KH190_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9043AX_26SP_KH190_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9043AX_26SP_KH190_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Polo Yaka",
+        "kumas": "Flanel",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "%100 pamuklu yumuşak flanel kumaştan üretilen regular fit uzun kollu gömlek, klasik ve zamansız tarzıyla hem günlük hem de şık…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16641,
+          "Product Option Code": "F9043AX.KH190",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9043AX_26SP_KH190_01_04.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-flanel-gomlek-3376751",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-flanel-gomlek-3376751"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9043AX_26SP_KH190_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:53:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "model_kodu": "H4019AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-28",
+        "puan": 5.0,
+        "metin": "@Rengi güzel sade olanda her kombine gider"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4019AXPN1",
+      "renk_kodu": "PN1",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Berrin Özkan x Defacto 4'lü Pembe Bileklik",
+      "kisa_aciklama": "Kadın 4'lü pembe boncuklu bileklik seti. Her biri farklı tasarıma sahip dört adet bileklik. Bir bileklikte aralıklı altın rengi metal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/berrin-ozkan-x-defacto-4lu-pembe-bileklik-3439717",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4019AX_NS_PN1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4019AX_NS_PN1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4019AX_NS_PN1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4019AX_NS_PN1_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4019AX_NS_PN1_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4019AX_NS_PN1_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4019AX_NS_PN1_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4019AX_NS_PN1_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Cam 20%,Reçine 20%,Çinko 40%,Pirinç 20%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "taki_tipi": "Bileklik",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın 4'lü pembe boncuklu bileklik seti. Her biri farklı tasarıma sahip dört adet bileklik. Bir bileklikte aralıklı altın rengi metal…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 359.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28083,
+          "Product Option Code": "H4019AX.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H4019AX_NS_PN1_01_02.jpg",
+          "FabricDetail": "Plastic",
+          "Toplam": 7,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/berrin-ozkan-x-defacto-4lu-pembe-bileklik-3439717",
+          "Model Page URL": "https://www.defacto.com.tr/berrin-ozkan-x-defacto-4lu-pembe-bileklik-3439717"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H4019AX_NS_PN1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:26:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

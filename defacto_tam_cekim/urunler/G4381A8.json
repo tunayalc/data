@@ -1,0 +1,109 @@
+{
+  "model_kodu": "G4381A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-27",
+        "puan": 5.0,
+        "metin": "@beli dar geldi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4381A8BE278",
+      "renk_kodu": "BE278",
+      "renk_adi": "Koyu Mavi",
+      "renk_hex": "#00008B",
+      "urun_adi": "Barrel Fit Konforlu Geniş Kesim Jean Pantolon Erkek Çocuk",
+      "kisa_aciklama": "Bacak kısmında hafifçe genişleyip paçaya doğru toparlanan yenilikçi yapısıyla enerjik adımları destekler. Yenilikçi stiliyle dikkat çeken süper rahat bir modeldir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/barrel-fit-konforlu-genis-kesim-jean-pantolon-erkek-cocuk-3374533",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4381A8_26SP_BE278_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4381A8_26SP_BE278_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4381A8_26SP_BE278_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4381A8_26SP_BE278_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4381A8_26SP_BE278_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4381A8_26SP_BE278_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4381A8_26SP_BE278_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4381A8_26SP_BE278_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "cinsiyet": "Erkek Çocuk"
+      },
+      "urun_hakkinda": [
+        "Bacak kısmında hafifçe genişleyip paçaya doğru toparlanan yenilikçi yapısıyla enerjik adımları destekler. Yenilikçi stiliyle dikkat çeken süper rahat bir modeldir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19181,
+          "Product Option Code": "G4381A8.BE278",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "BARREL FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G4381A8_26SP_BE278_01_03.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.tr/barrel-fit-konforlu-genis-kesim-jean-pantolon-erkek-cocuk-3374533",
+          "Model Page URL": "https://www.defacto.com.tr/barrel-fit-konforlu-genis-kesim-jean-pantolon-erkek-cocuk-3374533"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G4381A8_26SP_BE278_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:02:58+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

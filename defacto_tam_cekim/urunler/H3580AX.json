@@ -1,0 +1,126 @@
+{
+  "model_kodu": "H3580AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-01",
+        "puan": 5.0,
+        "metin": "@Gayet güzel inşallah kararmaz"
+      },
+      {
+        "tarih": "2026-10-10",
+        "puan": 1.0,
+        "metin": "@ürün lastikli ama oldukça zayıf bilekler için tasarlanmış ve zincirin bir bölümü kopuk iade"
+      },
+      {
+        "tarih": "2026-08-15",
+        "puan": 5.0,
+        "metin": "@süper"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3580AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Örgü Zincir Bileklik",
+      "kisa_aciklama": "Örgü zincir bileklik. Taş detaylı silindirik boncuklar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-orgu-zincir-bileklik-3442033",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3580AX_NS_GD1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3580AX_NS_GD1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3580AX_NS_GD1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3580AX_NS_GD1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3580AX_NS_GD1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Cam 10%,Çinko 20%,Demir 20%,Pirinç 50%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Bileklik"
+      },
+      "urun_hakkinda": [
+        "Örgü zincir bileklik. Taş detaylı silindirik boncuklar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "H3580AXSR4",
+      "renk_kodu": "SR4",
+      "renk_adi": "SILVER",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27496,
+          "Product Option Code": "H3580AX.SR4",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "SILVER",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3580AX_NS_SR4_01_02.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C0C0C0",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/en-ma/kadin-orgu-zincir-bileklik-3442033"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3580AX_NS_SR4_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:23:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

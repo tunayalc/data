@@ -1,0 +1,317 @@
+{
+  "model_kodu": "G8028AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-05",
+        "puan": 5.0,
+        "metin": "@İnce salaş fena değil fiyat performan ürünü"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8028AXER100",
+      "renk_kodu": "ER100",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Pamuklu Regular Fıt Kısa Kollu Polo Ekru Tişört",
+      "kisa_aciklama": "Yetişkin erkekler için özel olarak tasarlanan Bej Kısa Kollu Polo Tişört, hem şık hem de rahat bir seçenektir. Dikey jakarlı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_ER100_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_ER100_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_ER100_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_ER100_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_ER100_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_ER100_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Pamuk 48%,Elastan 2%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için özel olarak tasarlanan Bej Kısa Kollu Polo Tişört, hem şık hem de rahat bir seçenektir. Dikey jakarlı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21773,
+          "Product Option Code": "G8028AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G8028AX_26SM_ER100_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733"
+        },
+        {
+          "excel_satiri": 21774,
+          "Product Option Code": "G8028AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G8028AX_26SM_ER100_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733"
+        },
+        {
+          "excel_satiri": 21775,
+          "Product Option Code": "G8028AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G8028AX_26SM_ER100_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G8028AX_26SM_ER100_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G8028AXKH487",
+      "renk_kodu": "KH487",
+      "renk_adi": "Meşe Yeşili",
+      "renk_hex": "#384E42",
+      "urun_adi": "Pamuklu Regular Fıt Kısa Kollu Polo Haki Tişört",
+      "kisa_aciklama": "Yetişkin erkekler için özel olarak tasarlanan Bej Kısa Kollu Polo Tişört, hem şık hem de rahat bir seçenektir. Dikey jakarlı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-haki-tisort-3468874",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_KH487_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_KH487_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_KH487_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_KH487_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8028AX_26SM_KH487_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Pamuk 48%,Elastan 2%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için özel olarak tasarlanan Bej Kısa Kollu Polo Tişört, hem şık hem de rahat bir seçenektir. Dikey jakarlı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21776,
+          "Product Option Code": "G8028AX.KH487",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "TEAK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G8028AX_26SM_KH487_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#384E42",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-haki-tisort-3468874",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733"
+        },
+        {
+          "excel_satiri": 21777,
+          "Product Option Code": "G8028AX.KH487",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "TEAK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G8028AX_26SM_KH487_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#384E42",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-haki-tisort-3468874",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733"
+        },
+        {
+          "excel_satiri": 21778,
+          "Product Option Code": "G8028AX.KH487",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "TEAK",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G8028AX_26SM_KH487_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#384E42",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-haki-tisort-3468874",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733"
+        },
+        {
+          "excel_satiri": 21779,
+          "Product Option Code": "G8028AX.KH487",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "TEAK",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G8028AX_26SM_KH487_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#384E42",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-haki-tisort-3468874",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-kisa-kollu-polo-ekru-tisort-3460733"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G8028AX_26SM_KH487_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:08:25+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

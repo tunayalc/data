@@ -1,0 +1,119 @@
+{
+  "model_kodu": "G4414AX",
+  "urun_grubu": "Kadın Pijama Alt",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4414AXER98",
+      "renk_kodu": "ER98",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Regular Fıt Uzun Boy Gabardin Ekru Pijama Alt",
+      "kisa_aciklama": "Uzun boy regular fit ürün. Regular fit gabardin pijama alt. Uzun boy ve düz paça tasarıma sahip. Ekru rengindedir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-uzun-boy-gabardin-ekru-pijama-alt-3377518",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4414AX_26SM_ER98_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4414AX_26SM_ER98_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4414AX_26SM_ER98_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4414AX_26SM_ER98_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4414AX_26SM_ER98_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 85/62/91",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "IN",
+        "kumas": "Gabardin",
+        "cinsiyet": "Kadın",
+        "markalar": "Fall ın Love",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Uzun boy regular fit ürün. Regular fit gabardin pijama alt. Uzun boy ve düz paça tasarıma sahip. Ekru rengindedir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19189,
+          "Product Option Code": "G4414AX.ER98",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Bottoms",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4414AX_26SM_ER98_01_01.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-uzun-boy-gabardin-ekru-pijama-alt-3377518",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-uzun-boy-gabardin-ekru-pijama-alt-3377518"
+        },
+        {
+          "excel_satiri": 19190,
+          "Product Option Code": "G4414AX.ER98",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Bottoms",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4414AX_26SM_ER98_01_01.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-uzun-boy-gabardin-ekru-pijama-alt-3377518",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-uzun-boy-gabardin-ekru-pijama-alt-3377518"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G4414AX_26SM_ER98_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:01:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

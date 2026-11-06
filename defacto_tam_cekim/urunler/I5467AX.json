@@ -1,0 +1,465 @@
+{
+  "model_kodu": "I5467AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-12",
+        "puan": 5.0,
+        "metin": "@kalitesi güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I5467AXAR231",
+      "renk_kodu": "AR231",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Standart Fıt Şort",
+      "kisa_aciklama": "Standart fıt şort. Düz dokuma kumaştan. Diz üstü boy. Yan cepli.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-sort-3516624",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_AR231_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_AR231_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_AR231_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_AR231_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_AR231_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_AR231_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Pamuk 76%,Elastan 4%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart fıt şort. Düz dokuma kumaştan. Diz üstü boy. Yan cepli."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43226,
+          "Product Option Code": "I5467AX.AR231",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_AR231_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516624",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        },
+        {
+          "excel_satiri": 43227,
+          "Product Option Code": "I5467AX.AR231",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_AR231_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516624",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        },
+        {
+          "excel_satiri": 43228,
+          "Product Option Code": "I5467AX.AR231",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_AR231_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516624",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        },
+        {
+          "excel_satiri": 43229,
+          "Product Option Code": "I5467AX.AR231",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_AR231_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516624",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        },
+        {
+          "excel_satiri": 43230,
+          "Product Option Code": "I5467AX.AR231",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_AR231_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516624",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_AR231_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I5467AXGR94",
+      "renk_kodu": "GR94",
+      "renk_adi": "Açık Gri",
+      "renk_hex": "#A2A2A2",
+      "urun_adi": "Yan Şerit Detaylı Açık Standart Fit Şort",
+      "kisa_aciklama": "Yan dikişleri boyunca kontrast renk şerit detayı bulunan, diz üstü boy standart kesim şort.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yan-serit-detayli-acik-standart-fit-sort-3523908",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_GR94_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_GR94_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_GR94_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_GR94_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_GR94_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Pamuk 76%,Elastan 4%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Yan dikişleri boyunca kontrast renk şerit detayı bulunan, diz üstü boy standart kesim şort."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43231,
+          "Product Option Code": "I5467AX.GR94",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_GR94_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/yan-serit-detayli-acik-standart-fit-sort-3523908",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        },
+        {
+          "excel_satiri": 43232,
+          "Product Option Code": "I5467AX.GR94",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_GR94_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/yan-serit-detayli-acik-standart-fit-sort-3523908",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        },
+        {
+          "excel_satiri": 43233,
+          "Product Option Code": "I5467AX.GR94",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_GR94_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/yan-serit-detayli-acik-standart-fit-sort-3523908",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        },
+        {
+          "excel_satiri": 43234,
+          "Product Option Code": "I5467AX.GR94",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_GR94_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/yan-serit-detayli-acik-standart-fit-sort-3523908",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        },
+        {
+          "excel_satiri": 43235,
+          "Product Option Code": "I5467AX.GR94",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_GR94_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/yan-serit-detayli-acik-standart-fit-sort-3523908",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-sort-3516623"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I5467AX_26HS_GR94_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I5467AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Standart Fıt Şort",
+      "kisa_aciklama": "Standart kesim şort. Yan çizgi detaylı. Diz üstü ve cepli.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-sort-3516623",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I5467AX_26HS_BK81_01_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Pamuk 76%,Elastan 4%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart kesim şort. Yan çizgi detaylı. Diz üstü ve cepli."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:04:48+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

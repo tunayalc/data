@@ -1,0 +1,130 @@
+{
+  "model_kodu": "E8483AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8483AXPN637",
+      "renk_kodu": "PN637",
+      "renk_adi": "LT.PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12608,
+          "Product Option Code": "E8483AX.PN637",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "L",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E8483AX_25SP_PN637_01_02.jpg",
+          "FabricDetail": "Pes Elastane Jersey",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/slim-fit-dar-kesim-v-yaka-casual-atlet-3317854",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/slim-fit-dar-kesim-v-yaka-casual-atlet-3317854"
+        },
+        {
+          "excel_satiri": 12609,
+          "Product Option Code": "E8483AX.PN637",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "M",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E8483AX_25SP_PN637_01_02.jpg",
+          "FabricDetail": "Pes Elastane Jersey",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/slim-fit-dar-kesim-v-yaka-casual-atlet-3317854",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/slim-fit-dar-kesim-v-yaka-casual-atlet-3317854"
+        },
+        {
+          "excel_satiri": 12610,
+          "Product Option Code": "E8483AX.PN637",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "XL",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E8483AX_25SP_PN637_01_02.jpg",
+          "FabricDetail": "Pes Elastane Jersey",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/slim-fit-dar-kesim-v-yaka-casual-atlet-3317854",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/slim-fit-dar-kesim-v-yaka-casual-atlet-3317854"
+        },
+        {
+          "excel_satiri": 12611,
+          "Product Option Code": "E8483AX.PN637",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Bodysuit",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "XXL",
+          "Fit": "BODY SUIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E8483AX_25SP_PN637_01_02.jpg",
+          "FabricDetail": "Pes Elastane Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/slim-fit-dar-kesim-v-yaka-casual-atlet-3317854",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/slim-fit-dar-kesim-v-yaka-casual-atlet-3317854"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E8483AX_25SP_PN637_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:47:10+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/slim-fit-dar-kesim-v-yaka-casual-atlet-3317854",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

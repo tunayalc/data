@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C0962AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C0962AXGN1139",
+      "renk_kodu": "GN1139",
+      "renk_adi": "MINT",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3138,
+          "Product Option Code": "C0962AX.GN1139",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "34",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0962AX_24SM_GN1139_01_04.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com/cicekli-krinkil-viskon-mini-sort-etek-3106739",
+          "Model Page URL": "https://www.defacto.com/cicekli-krinkil-viskon-mini-sort-etek-3106739"
+        },
+        {
+          "excel_satiri": 3139,
+          "Product Option Code": "C0962AX.GN1139",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "36",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0962AX_24SM_GN1139_01_04.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com/cicekli-krinkil-viskon-mini-sort-etek-3106739",
+          "Model Page URL": "https://www.defacto.com/cicekli-krinkil-viskon-mini-sort-etek-3106739"
+        },
+        {
+          "excel_satiri": 3140,
+          "Product Option Code": "C0962AX.GN1139",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "38",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C0962AX_24SM_GN1139_01_04.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 169.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com/cicekli-krinkil-viskon-mini-sort-etek-3106739",
+          "Model Page URL": "https://www.defacto.com/cicekli-krinkil-viskon-mini-sort-etek-3106739"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C0962AX_24SM_GN1139_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:24:43+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/cicekli-krinkil-viskon-mini-sort-etek-3106739",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

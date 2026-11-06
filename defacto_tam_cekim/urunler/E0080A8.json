@@ -1,0 +1,124 @@
+{
+  "model_kodu": "E0080A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 21,
+    "yorum_sayisi": 21,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Çok güzel bir ürün. Fiyatı da gayet uygun."
+      },
+      {
+        "tarih": "2025-04-29",
+        "puan": 5.0,
+        "metin": "@Harika, çok güzel."
+      },
+      {
+        "tarih": "2025-08-19",
+        "puan": 5.0,
+        "metin": "@Hem çok iyi hem de güzel, kargo da hızlı."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0080A8BE801",
+      "renk_kodu": "BE801",
+      "renk_adi": "Mat Mavi",
+      "renk_hex": "#2C6FBB",
+      "urun_adi": "%100 Pamuk Bisiklet Yaka Baskılı Kısa Kollu Tişört Erkek Çocuk",
+      "kisa_aciklama": "%100 Pamuk kumaştan üretilmiş biziklet yaka kısa kollu erkek çocuk tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-bisiklet-yaka-baskili-kisa-kollu-tisort-erkek-cocuk-3207178",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0080A8_25SM_BE801_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0080A8_25SM_BE801_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0080A8_25SM_BE801_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0080A8_25SM_BE801_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0080A8_25SM_BE801_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0080A8_25SM_BE801_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0080A8_25SM_BE801_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0080A8_25SM_BE801_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0080A8_25SM_BE801_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "7/8 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "11/12 Yaş (152cm) Beden - 1,44cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek Çocuk",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt",
+        "desen": "Baskılı",
+        "urun_tipi": "Kısa Kollu Tişört"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk kumaştan üretilmiş biziklet yaka kısa kollu erkek çocuk tişört."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 89.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9981,
+          "Product Option Code": "E0080A8.BE801",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "DULL BLUE",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0080A8_25SM_BE801_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#2C6FBB",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-bisiklet-yaka-baskili-kisa-kollu-tisort-erkek-cocuk-3207178",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-bisiklet-yaka-baskili-kisa-kollu-tisort-erkek-cocuk-3207178"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0080A8_25SM_BE801_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:41:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

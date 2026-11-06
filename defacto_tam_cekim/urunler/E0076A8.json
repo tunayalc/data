@@ -1,0 +1,122 @@
+{
+  "model_kodu": "E0076A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-18",
+        "puan": 5.0,
+        "metin": "@Çok hoşuma gitti."
+      },
+      {
+        "tarih": "2025-12-18",
+        "puan": 5.0,
+        "metin": "@Harika! Gelecek yaz için aldım. Çok beğendim."
+      },
+      {
+        "tarih": "2025-08-17",
+        "puan": 5.0,
+        "metin": "@mavi rengi çok güzel kalıbı da tam oldu bedenine göre"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0076A8BE177",
+      "renk_kodu": "BE177",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "%100 Pamuk Bisiklet Yaka Baskılı Kısa Kollu Tişört Erkek Çocuk",
+      "kisa_aciklama": "%100 Pamuk erkek çocuk bisiklet yaka baskılı kısa kollu tişört, enerjik tasarımı ve yumuşak pamuklu kumaşıyla gün boyu rahatlık ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-bisiklet-yaka-baskili-kisa-kollu-tisort-erkek-cocuk-3213304",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0076A8_25SM_BE177_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0076A8_25SM_BE177_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0076A8_25SM_BE177_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0076A8_25SM_BE177_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0076A8_25SM_BE177_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0076A8_25SM_BE177_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0076A8_25SM_BE177_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "5/6 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,44cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "urun_tipi": "Kısa Kollu Tişört",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt",
+        "desen": "Baskılı",
+        "cinsiyet": "Erkek Çocuk"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk erkek çocuk bisiklet yaka baskılı kısa kollu tişört, enerjik tasarımı ve yumuşak pamuklu kumaşıyla gün boyu rahatlık ve…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9976,
+          "Product Option Code": "E0076A8.BE177",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E0076A8_25SM_BE177_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-bisiklet-yaka-baskili-kisa-kollu-tisort-erkek-cocuk-3213304",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-bisiklet-yaka-baskili-kisa-kollu-tisort-erkek-cocuk-3213304"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E0076A8_25SM_BE177_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:32:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

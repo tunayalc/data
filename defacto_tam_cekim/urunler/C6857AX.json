@@ -1,0 +1,64 @@
+{
+  "model_kodu": "C6857AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C6857AXGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4983,
+          "Product Option Code": "C6857AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Core",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XXL",
+          "Fit": "JOGGER - STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/C6857AX_24AU_GR210_01_01.jpg",
+          "FabricDetail": "SCUBA",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com/en-iq/jogger-standart-fit-cepli-skuba-dalgic-kumas-pantolon-3288663",
+          "Model Page URL": "https://www.defacto.com/en-iq/jogger-standart-fit-cepli-skuba-dalgic-kumas-pantolon-3288663"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/C6857AX_24AU_GR210_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:27:48+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/jogger-standart-fit-cepli-skuba-dalgic-kumas-pantolon-3288663",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

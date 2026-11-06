@@ -1,0 +1,212 @@
+{
+  "model_kodu": "G4088AX",
+  "urun_grubu": "Kadın Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 14,
+    "yorum_sayisi": 14,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 16.7,
+      "tam_oldu": 83.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-01",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir takım, 166 boyunda ve 50 kiloyum, XS beden bana tam oturdu. Şahane bir ürün. Çok beğendim."
+      },
+      {
+        "tarih": "2026-02-23",
+        "puan": 5.0,
+        "metin": "@Harika! Gayet sık ve şık. Çok beğendim."
+      },
+      {
+        "tarih": "2026-02-12",
+        "puan": 5.0,
+        "metin": "@Harika! Çok beğendim, tüm renklerini aldım."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4088AXGN1051",
+      "renk_kodu": "GN1051",
+      "renk_adi": "Koyu Yeşil",
+      "renk_hex": "#079507",
+      "urun_adi": "Flare Fit İspanyol Paça Uzun Sporcu Pantolon",
+      "kisa_aciklama": "Vücut hatlarını zarifçe saran Flare Fit sporcu pantolon, ispanyol paça kesimiyle retro bir şıklık sunar. Esnek ve nefes alabilen kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/flare-fit-ispanyol-paca-uzun-sporcu-pantolon-3357286",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4088AX_25AU_GN1051_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4088AX_25AU_GN1051_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4088AX_25AU_GN1051_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4088AX_25AU_GN1051_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4088AX_25AU_GN1051_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,79cm - 90/61/90",
+        "ana_kumas_icerigi": "Elastan 14%,Poliester 86%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "İspanyol Paça",
+        "kalip": "Flare Fıt",
+        "kumas_ic_yuzeyi": "İçi Yumuşak Tüylü",
+        "kullanim_alani": "Günlük Giyim",
+        "yasam_tarzi": "Sporcu"
+      },
+      "urun_hakkinda": [
+        "Vücut hatlarını zarifçe saran Flare Fit sporcu pantolon, ispanyol paça kesimiyle retro bir şıklık sunar. Esnek ve nefes alabilen kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 489.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19002,
+          "Product Option Code": "G4088AX.GN1051",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "DARK GREEN",
+          "SizeDefinition": "M",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G4088AX_25AU_GN1051_01_02.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ispanyol-paca-uzun-sporcu-pantolon-3357286",
+          "Model Page URL": "https://www.defacto.com.tr/flare-fit-ispanyol-paca-uzun-sporcu-pantolon-3357286"
+        },
+        {
+          "excel_satiri": 19003,
+          "Product Option Code": "G4088AX.GN1051",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "DARK GREEN",
+          "SizeDefinition": "S",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G4088AX_25AU_GN1051_01_02.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/flare-fit-ispanyol-paca-uzun-sporcu-pantolon-3357286",
+          "Model Page URL": "https://www.defacto.com.tr/flare-fit-ispanyol-paca-uzun-sporcu-pantolon-3357286"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G4088AX_25AU_GN1051_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G4088AXBG721",
+      "renk_kodu": "BG721",
+      "renk_adi": "STONE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19001,
+          "Product Option Code": "G4088AX.BG721",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XS",
+          "Fit": "FLARE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G4088AX_25AU_BG721_01_02.jpg",
+          "FabricDetail": "PES-EA",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/flare-fit-ispanyol-paca-uzun-sporcu-pantolon-3424380",
+          "Model Page URL": "https://www.defacto.com.tr/flare-fit-ispanyol-paca-uzun-sporcu-pantolon-3357286"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G4088AX_25AU_BG721_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:00:58+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/flare-fit-ispanyol-paca-uzun-sporcu-pantolon-3424380",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

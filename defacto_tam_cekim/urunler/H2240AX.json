@@ -1,0 +1,113 @@
+{
+  "model_kodu": "H2240AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 20.0,
+      "tam_oldu": 80.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-11-02",
+        "puan": 5.0,
+        "metin": "@2.ye tekrar aldım güzel"
+      },
+      {
+        "tarih": "2026-10-06",
+        "puan": 5.0,
+        "metin": "@Kolum için aldım biraz sıkıyor ama zamanla açılır düye düşünüyorum kalitesi kendisi çok hoş teşekkürler"
+      },
+      {
+        "tarih": "2026-05-06",
+        "puan": 5.0,
+        "metin": "@Taytlarım için aldım gauette uygun fiyatlı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2240AXBG471",
+      "renk_kodu": "BG471",
+      "renk_adi": "Vizon",
+      "renk_hex": "#968073",
+      "urun_adi": "Kadın 2'li Pamuklu Tozluk",
+      "kisa_aciklama": "Kadın 2'li Pamuklu Tozluk, rahatlık ve şıklığı bir araya getiriyor. Yumuşak pamuklu dokusu ile gün boyu konfor sunarken, farklı stillerle…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-pamuklu-uzun-corap-3421481",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H2240AX_NS_BG471_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2240AX_NS_BG471_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2240AX_NS_BG471_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H2240AX_NS_BG471_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 92%,Poliamid 7%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Kadın",
+        "corap_tipi": "Uzun Çorap",
+        "takim_icerigi": "2'li"
+      },
+      "urun_hakkinda": [
+        "Kadın 2'li Pamuklu Tozluk, rahatlık ve şıklığı bir araya getiriyor. Yumuşak pamuklu dokusu ile gün boyu konfor sunarken, farklı stillerle…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 199.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25992,
+          "Product Option Code": "H2240AX.BG471",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "36-40",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H2240AX_NS_BG471_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-2li-pamuklu-uzun-corap-3421481",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-2li-pamuklu-uzun-corap-3421481"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H2240AX_NS_BG471_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:19:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

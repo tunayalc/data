@@ -1,0 +1,617 @@
+{
+  "model_kodu": "D1524AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 52,
+    "yorum_sayisi": 52,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 7.3,
+      "tam_oldu": 75.6,
+      "buyuk_geldi": 17.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-10-30",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-10-30",
+        "puan": 5.0,
+        "metin": "@tam beden yumuşak bir kumaşı var sıcak tutuyor"
+      },
+      {
+        "tarih": "2024-10-15",
+        "puan": 3.0,
+        "metin": "@ceket kendini salmış durumda ince bir kumaşı var"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1524AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Ultra Yumuşak Slim Fit Dik Yaka Astarlı Fermuarlı Cepli Süet Mont",
+      "kisa_aciklama": "Ultra yumuşak süet dokusuyla lüks bir his sunan bu slim fit mont, dik yaka detayıyla modern bir stil yaratır. Astarlı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430323",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_BK27_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_BK27_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_BK27_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_BK27_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_BK27_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kumas_kalinligi": "İnce",
+        "kapama_detayi": "Fermuarlı",
+        "kalip": "Regular Fıt",
+        "urun_tipi": "Mont",
+        "dis_giyim_urun_grubu": "Mont",
+        "kumas": "Süet",
+        "cinsiyet": "Erkek",
+        "astar_bilgisi": "Astarlı",
+        "yaka": "Dik Yaka"
+      },
+      "urun_hakkinda": [
+        "Ultra yumuşak süet dokusuyla lüks bir his sunan bu slim fit mont, dik yaka detayıyla modern bir stil yaratır. Astarlı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6524,
+          "Product Option Code": "D1524AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_BK27_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430323",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        },
+        {
+          "excel_satiri": 6525,
+          "Product Option Code": "D1524AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_BK27_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430323",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        },
+        {
+          "excel_satiri": 6526,
+          "Product Option Code": "D1524AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_BK27_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430323",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        },
+        {
+          "excel_satiri": 6527,
+          "Product Option Code": "D1524AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_BK27_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430323",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        },
+        {
+          "excel_satiri": 6528,
+          "Product Option Code": "D1524AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_BK27_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430323",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_BK27_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D1524AXBN267",
+      "renk_kodu": "BN267",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Ultra Yumuşak Slim Fit Dik Yaka Astarlı Fermuarlı Cepli Süet Mont",
+      "kisa_aciklama": "Ultra yumuşak süet dokusuyla lüks bir his sunan bu slim fit mont, dik yaka detayıyla modern bir stil yaratır. Astarlı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_BN267_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Elastan 4%,Poliester 96%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "dis_giyim_urun_grubu": "Mont",
+        "kapama_detayi": "Fermuarlı",
+        "kumas_kalinligi": "İnce",
+        "kalip": "Slım Fıt",
+        "kumas": "Süet",
+        "yaka": "Dik Yaka",
+        "urun_tipi": "Mont",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Ultra yumuşak süet dokusuyla lüks bir his sunan bu slim fit mont, dik yaka detayıyla modern bir stil yaratır. Astarlı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2499.99,
+        "sepette_fiyat": 1749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6529,
+          "Product Option Code": "D1524AX.BN267",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/D1524AX_25AU_BN267_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/D1524AX_25AU_BN267_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D1524AXNV253",
+      "renk_kodu": "NV253",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Ultra Yumuşak Slim Fit Dik Yaka Astarlı Fermuarlı Cepli Süet Mont",
+      "kisa_aciklama": "Ultra yumuşak süet dokusuyla lüks bir his sunan bu slim fit mont, dik yaka detayıyla modern bir stil yaratır. Astarlı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430322",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_NV253_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_NV253_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_NV253_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_NV253_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_26AU_NV253_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Elastan 3%,Poliester 97%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kumas": "Süet",
+        "kalip": "Regular Fıt",
+        "kumas_kalinligi": "İnce",
+        "yaka": "Dik Yaka",
+        "astar_bilgisi": "Astarlı",
+        "cinsiyet": "Erkek",
+        "dis_giyim_urun_grubu": "Mont",
+        "kapama_detayi": "Fermuarlı",
+        "urun_tipi": "Mont"
+      },
+      "urun_hakkinda": [
+        "Ultra yumuşak süet dokusuyla lüks bir his sunan bu slim fit mont, dik yaka detayıyla modern bir stil yaratır. Astarlı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 2499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6530,
+          "Product Option Code": "D1524AX.NV253",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430322",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        },
+        {
+          "excel_satiri": 6531,
+          "Product Option Code": "D1524AX.NV253",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430322",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        },
+        {
+          "excel_satiri": 6532,
+          "Product Option Code": "D1524AX.NV253",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 2,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430322",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        },
+        {
+          "excel_satiri": 6533,
+          "Product Option Code": "D1524AX.NV253",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430322",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        },
+        {
+          "excel_satiri": 6534,
+          "Product Option Code": "D1524AX.NV253",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Mont",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "SUEDE",
+          "Toplam": 1,
+          "Initial Price Value": 2499.99,
+          "Actual Price Value": 2499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3430322",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280814"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/D1524AX_26AU_NV253_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D1524AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Ultra Yumuşak Slim Fit Dik Yaka Astarlı Fermuarlı Cepli Süet Mont",
+      "kisa_aciklama": "Ultra yumuşak süet dokusuyla lüks bir his sunan bu slim fit mont, dik yaka detayıyla modern bir stil yaratır. Astarlı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-slim-fit-dik-yaka-astarli-fermuarli-cepli-suet-mont-3280816",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_NV64_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_NV64_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_NV64_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_NV64_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_NV64_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_NV64_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_NV64_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_NV64_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1524AX_25AU_NV64_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,86cm - 98/78/99",
+        "ana_kumas_icerigi": "Elastan 4%,Poliester 96%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kumas": "Süet",
+        "kalip": "Slım Fıt",
+        "kumas_kalinligi": "İnce",
+        "yaka": "Dik Yaka",
+        "urun_tipi": "Mont",
+        "cinsiyet": "Erkek",
+        "dis_giyim_urun_grubu": "Mont",
+        "kapama_detayi": "Fermuarlı"
+      },
+      "urun_hakkinda": [
+        "Ultra yumuşak süet dokusuyla lüks bir his sunan bu slim fit mont, dik yaka detayıyla modern bir stil yaratır. Astarlı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2499.99,
+        "sepette_fiyat": 1749.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:26:17+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

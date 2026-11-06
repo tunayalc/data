@@ -1,0 +1,109 @@
+{
+  "model_kodu": "E8956AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E8956AXBR95",
+      "renk_kodu": "BR95",
+      "renk_adi": "ROSE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12731,
+          "Product Option Code": "E8956AX.BR95",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "L",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E8956AX_25AU_BR95_01_03.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/ultra-yumusak-wide-leg-genis-paca-standart-boy-modal-soft-touch-pantolon-3324235",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/ultra-yumusak-wide-leg-genis-paca-standart-boy-modal-soft-touch-pantolon-3324234"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E8956AX_25AU_BR95_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E8956AXNV165",
+      "renk_kodu": "NV165",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12732,
+          "Product Option Code": "E8956AX.NV165",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XS",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/E8956AX_25AU_NV165_01_03.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/ultra-yumusak-wide-leg-genis-paca-standart-boy-modal-soft-touch-pantolon-3324234",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/ultra-yumusak-wide-leg-genis-paca-standart-boy-modal-soft-touch-pantolon-3324234"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/E8956AX_25AU_NV165_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:47:28+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/ultra-yumusak-wide-leg-genis-paca-standart-boy-modal-soft-touch-pantolon-3324235",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/ultra-yumusak-wide-leg-genis-paca-standart-boy-modal-soft-touch-pantolon-3324234",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "model_kodu": "I5519A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I5519A8PR1",
+      "renk_kodu": "PR1",
+      "renk_adi": "Mor",
+      "renk_hex": "#A020F0",
+      "urun_adi": "5'li Fırfırlı Çiçekli Pamuklu Uzun Çorap Kız Çocuk",
+      "kisa_aciklama": "Pamuklu kumaştan 5'li çorap paketi. Çiçekli ve ajur dokulu alternatiflerden oluşur. Bilek kısmı fırfır bitişlidir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/5li-firfirli-cicekli-pamuklu-uzun-corap-kiz-cocuk-3524065",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I5519A8_NS_PR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5519A8_NS_PR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I5519A8_NS_PR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "29 - 34",
+          "35 - 39"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 75%,Poliamid 23%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "corap_tipi": "Uzun Çorap",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan 5'li çorap paketi. Çiçekli ve ajur dokulu alternatiflerden oluşur. Bilek kısmı fırfır bitişlidir.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 43272,
+          "Product Option Code": "I5519A8.PR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "PURPLE",
+          "SizeDefinition": "29 - 34",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I5519A8_NS_PR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "https://www.defacto.com.tr/5li-firfirli-cicekli-pamuklu-uzun-corap-kiz-cocuk-3524065",
+          "Model Page URL": "https://www.defacto.com.tr/5li-firfirli-cicekli-pamuklu-uzun-corap-kiz-cocuk-3524065"
+        },
+        {
+          "excel_satiri": 43273,
+          "Product Option Code": "I5519A8.PR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "PURPLE",
+          "SizeDefinition": "35 - 39",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I5519A8_NS_PR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 349.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "https://www.defacto.com.tr/5li-firfirli-cicekli-pamuklu-uzun-corap-kiz-cocuk-3524065",
+          "Model Page URL": "https://www.defacto.com.tr/5li-firfirli-cicekli-pamuklu-uzun-corap-kiz-cocuk-3524065"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I5519A8_NS_PR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:04:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

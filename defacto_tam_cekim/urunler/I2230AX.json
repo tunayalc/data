@@ -1,0 +1,495 @@
+{
+  "model_kodu": "I2230AX",
+  "urun_grubu": "Kadın Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-24",
+        "puan": 5.0,
+        "metin": "@Ürün çok güzel sadece kalıp dar M giyen L yada XL alsın"
+      },
+      {
+        "tarih": "2026-09-10",
+        "puan": 5.0,
+        "metin": "@Şu ana kadar aldığım en iyi içlik gerçekten dokusu yakası muazzam"
+      },
+      {
+        "tarih": "2026-09-22",
+        "puan": 5.0,
+        "metin": "@kumaşı cok güzsl bi beden büyük alin"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2230AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slım Fıt Yarım Balıkçı Yaka Ribana Siyah Atlet",
+      "kisa_aciklama": "Ribana kumaştan üretilmiş slim fit balıkçı yaka atlet.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-siyah-atlet-3517079",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 46%,Elastan 3%,Modal 51%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kolsuz",
+        "urun_tipi": "Atlet",
+        "kalip": "Slım Fıt",
+        "kumas": "Ribana",
+        "yaka": "Yarım Balıkçı Yaka",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Ribana kumaştan üretilmiş slim fit balıkçı yaka atlet."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40047,
+          "Product Option Code": "I2230AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-siyah-atlet-3517079",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        },
+        {
+          "excel_satiri": 40048,
+          "Product Option Code": "I2230AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-siyah-atlet-3517079",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        },
+        {
+          "excel_satiri": 40049,
+          "Product Option Code": "I2230AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BK81_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-siyah-atlet-3517079",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I2230AXBN340",
+      "renk_kodu": "BN340",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Slım Fıt Yarım Balıkçı Yaka Ribana Basic Atlet",
+      "kisa_aciklama": "Ribana kumaştan üretilmiş slim fit balıkçı yaka atlet.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-basic-atlet-3531547",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BN340_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BN340_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BN340_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BN340_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BN340_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BN340_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_BN340_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 79/61/88",
+        "ana_kumas_icerigi": "Pamuk 46%,Elastan 3%,Modal 51%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Yarım Balıkçı Yaka",
+        "kol_boyu": "Kolsuz",
+        "cinsiyet": "Kadın",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Atlet",
+        "kumas": "Ribana"
+      },
+      "urun_hakkinda": [
+        "Ribana kumaştan üretilmiş slim fit balıkçı yaka atlet."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40050,
+          "Product Option Code": "I2230AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BN340_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-basic-atlet-3531547",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        },
+        {
+          "excel_satiri": 40051,
+          "Product Option Code": "I2230AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BN340_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-basic-atlet-3531547",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        },
+        {
+          "excel_satiri": 40052,
+          "Product Option Code": "I2230AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BN340_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-basic-atlet-3531547",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        },
+        {
+          "excel_satiri": 40053,
+          "Product Option Code": "I2230AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BN340_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-basic-atlet-3531547",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        },
+        {
+          "excel_satiri": 40054,
+          "Product Option Code": "I2230AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BN340_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-basic-atlet-3531547",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_BN340_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I2230AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Slım Fıt Yarım Balıkçı Yaka Ribana Atlet",
+      "kisa_aciklama": "Ribana kumaştan üretilmiş slim fit balıkçı yaka atlet.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2230AX_26AU_ER105_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 46%,Elastan 3%,Modal 51%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Ribana",
+        "yaka": "Yarım Balıkçı Yaka",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Kadın",
+        "kalip": "Slım Fıt",
+        "kol_boyu": "Kolsuz"
+      },
+      "urun_hakkinda": [
+        "Ribana kumaştan üretilmiş slim fit balıkçı yaka atlet."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40055,
+          "Product Option Code": "I2230AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_ER105_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        },
+        {
+          "excel_satiri": 40056,
+          "Product Option Code": "I2230AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_ER105_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        },
+        {
+          "excel_satiri": 40057,
+          "Product Option Code": "I2230AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_ER105_01_01.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-yarim-balikci-yaka-ribana-atlet-3517078"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I2230AX_26AU_ER105_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:56:41+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "model_kodu": "H9215AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-18",
+        "puan": 5.0,
+        "metin": "@tam beden"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H9215AXGR150",
+      "renk_kodu": "GR150",
+      "renk_adi": "Açık Gri",
+      "renk_hex": "#A2A2A2",
+      "urun_adi": "Erkek 5'li Pamuklu Patik Çorap",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Bilek hizasında tasarıma sahip. Çeşitli gri tonları ve siyah renklerde, düz, fitilli ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3471979",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H9215AX_NS_GR150_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9215AX_NS_GR150_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9215AX_NS_GR150_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9215AX_NS_GR150_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 52%,Poliamid 21%,Elastan 2%,Poliester 25%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "takim_icerigi": "5'li",
+        "urun_tipi": "Kısa Çorap",
+        "corap_tipi": "Patik Çorap",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş patik çorap. 5'Li set. Bilek hizasında tasarıma sahip. Çeşitli gri tonları ve siyah renklerde, düz, fitilli ve…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 36179,
+          "Product Option Code": "H9215AX.GR150",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "41-44",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9215AX_NS_GR150_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 5,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3471979",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-5li-pamuklu-patik-corap-3471979"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H9215AX_NS_GR150_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:38:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

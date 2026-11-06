@@ -1,0 +1,119 @@
+{
+  "model_kodu": "E1723AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 20.0,
+      "buyuk_geldi": 20.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-09-12",
+        "puan": 3.0,
+        "metin": "@Standart urun"
+      },
+      {
+        "tarih": "2025-09-04",
+        "puan": 4.0,
+        "metin": "@Kumasi guzel"
+      },
+      {
+        "tarih": "2025-11-06",
+        "puan": 5.0,
+        "metin": "@ürün çok güzel ve yumuşak. kargo paketleme de harika . teşekkürler 🙏"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1723AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk Boxy Fit Bisiklet Yaka Baskılı Kısa Kollu Tişört",
+      "kisa_aciklama": "Boxy fit bisiklet yaka baskılı kısa kollu tişört, modern geniş kesimi ve şık baskılarıyla rahatlık ve tarzı bir arada sunar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3209946",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E1723AX_25SM_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1723AX_25SM_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1723AX_25SM_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1723AX_25SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1723AX_25SM_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1723AX_25SM_BK81_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Boxy Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Boxy fit bisiklet yaka baskılı kısa kollu tişört, modern geniş kesimi ve şık baskılarıyla rahatlık ve tarzı bir arada sunar.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 174.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10655,
+          "Product Option Code": "E1723AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E1723AX_25SM_BK81_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3209946",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3209946"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E1723AX_25SM_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:42:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

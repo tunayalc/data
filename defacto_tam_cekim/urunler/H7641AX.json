@@ -1,0 +1,136 @@
+{
+  "model_kodu": "H7641AX",
+  "urun_grubu": "Kadın Tunik",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-18",
+        "puan": 5.0,
+        "metin": "@Tam kalıp.Yakası çok güzel hırkalarla süveterlerle yeleklerle hoş duruyor hanım hanımcık.Tek eksi yanı %100 pamuk olmayışı."
+      },
+      {
+        "tarih": "2026-08-05",
+        "puan": 5.0,
+        "metin": "@çok cool"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7641AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Poplin Uzun Kollu Ekru Tunik",
+      "kisa_aciklama": "Poplin kumaştan üretilmiş regular fit uzun kollu tunik.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-poplin-uzun-kollu-ekru-tunik-3469003",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7641AX_26SM_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7641AX_26SM_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7641AX_26SM_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7641AX_26SM_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7641AX_26SM_ER105_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Pamuk 50%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Poplin",
+        "urun_yuksekligi": "75",
+        "kumas_kalinligi": "İnce",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Poplin kumaştan üretilmiş regular fit uzun kollu tunik."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1099.99,
+        "sepette_fiyat": 549.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33431,
+          "Product Option Code": "H7641AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Tunic",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H7641AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 1099.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-poplin-uzun-kollu-ekru-tunik-3469003",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-poplin-uzun-kollu-ekru-tunik-3469003"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H7641AX_26SM_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:34:15+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

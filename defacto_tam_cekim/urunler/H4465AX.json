@@ -1,0 +1,88 @@
+{
+  "model_kodu": "H4465AX",
+  "urun_grubu": "Kadın Diğer Aksesuarlar",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4465AXBE105",
+      "renk_kodu": "BE105",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Baskılı Yelpaze Kadın",
+      "kisa_aciklama": "Baskılı Yelpaze Kadın",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-3463111",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4465AX_26SM_BE105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4465AX_26SM_BE105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4465AX_26SM_BE105_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Baskılı Yelpaze Kadın"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 159.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28966,
+          "Product Option Code": "H4465AX.BE105",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Hand Fan",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H4465AX_26SM_BE105_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-3463111",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-3463111"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H4465AX_26SM_BE105_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:26:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

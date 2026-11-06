@@ -1,0 +1,117 @@
+{
+  "model_kodu": "G6957A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 33.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-20",
+        "puan": 2.0,
+        "metin": "@13 yaşındaki kızıma 13 14 aldım ve en az 2 beden büyük dalga mı geçiyorsunuz insanlarla bu nasıl bi kalıptır…"
+      },
+      {
+        "tarih": "2026-01-22",
+        "puan": 5.0,
+        "metin": "@11 yaşındaki kızıma 11-12 yaş aldım aşırı beğendi model olarak da kalıp olarak da çok iyi"
+      },
+      {
+        "tarih": "2026-01-23",
+        "puan": 5.0,
+        "metin": "@bedenine göre cok begendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6957A8NM34",
+      "renk_kodu": "NM34",
+      "renk_adi": "Koyu Mavi",
+      "renk_hex": "#00008B",
+      "urun_adi": "Barrel Fit Yuvarlak Hatlı Barrel Jean Pantolon Kız Çocuk",
+      "kisa_aciklama": "Bacaklarda hafifçe genişleyip paçaya doğru daralan yenilikçi tasarımıyla çocuklara ekstra hareket alanı sağlar. Eğlenceli görünümüyle sıradanlıktan uzak, çok rahat bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/barrel-fit-yuvarlak-hatli-barrel-jean-pantolon-kiz-cocuk-3374067",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6957A8_26SP_NM34_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6957A8_26SP_NM34_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6957A8_26SP_NM34_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6957A8_26SP_NM34_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6957A8_26SP_NM34_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Geniş Paça",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Bacaklarda hafifçe genişleyip paçaya doğru daralan yenilikçi tasarımıyla çocuklara ekstra hareket alanı sağlar. Eğlenceli görünümüyle sıradanlıktan uzak, çok rahat bir…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20779,
+          "Product Option Code": "G6957A8.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "BARREL FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6957A8_26SP_NM34_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.tr/barrel-fit-yuvarlak-hatli-barrel-jean-pantolon-kiz-cocuk-3374067",
+          "Model Page URL": "https://www.defacto.com.tr/barrel-fit-yuvarlak-hatli-barrel-jean-pantolon-kiz-cocuk-3374067"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6957A8_26SP_NM34_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:07:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

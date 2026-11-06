@@ -1,0 +1,100 @@
+{
+  "model_kodu": "I4288AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-21",
+        "puan": 5.0,
+        "metin": "@tatlı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4288AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın 2'li Boncuklu ve Taş Uçlu Zincir Kolye Seti",
+      "kisa_aciklama": "İkili kolye seti. Biri tam tur boncuk detaylı, diğeri ince metal zincirli ve oval taş uçlu. Arkası ayarlanabilir uzatma zincirli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-boncuklu-ve-tas-uclu-zincir-kolye-seti-3507657",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4288AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4288AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4288AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 35%, 5%,Demir 60%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Kolye",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "2'li"
+      },
+      "urun_hakkinda": [
+        "İkili kolye seti. Biri tam tur boncuk detaylı, diğeri ince metal zincirli ve oval taş uçlu. Arkası ayarlanabilir uzatma zincirli…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42565,
+          "Product Option Code": "I4288AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4288AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-2li-boncuklu-ve-tas-uclu-zincir-kolye-seti-3507657",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-2li-boncuklu-ve-tas-uclu-zincir-kolye-seti-3507657"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4288AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:49:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

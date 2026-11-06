@@ -1,0 +1,90 @@
+{
+  "model_kodu": "I2679A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2679A8NV2",
+      "renk_kodu": "NV2",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Kareli Saç Tokası Kız Çocuk",
+      "kisa_aciklama": "Ekose desenli, fiyonk şekilli kız çocuk saç aksesuarı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kareli-sac-tokasi-kiz-cocuk-3494990",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2679A8_NS_NV2_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2679A8_NS_NV2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2679A8_NS_NV2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2679A8_NS_NV2_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2679A8_NS_NV2_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Ekose desenli, fiyonk şekilli kız çocuk saç aksesuarı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40567,
+          "Product Option Code": "I2679A8.NV2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2679A8_NS_NV2_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 4,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/kareli-sac-tokasi-kiz-cocuk-3494990",
+          "Model Page URL": "https://www.defacto.com.tr/kareli-sac-tokasi-kiz-cocuk-3494990"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2679A8_NS_NV2_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:57:59+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

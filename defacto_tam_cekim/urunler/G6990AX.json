@@ -1,0 +1,130 @@
+{
+  "model_kodu": "G6990AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6990AXNM34",
+      "renk_kodu": "NM34",
+      "renk_adi": "D.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "30-30",
+          "32-32",
+          "33-32",
+          "34-30"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20840,
+          "Product Option Code": "G6990AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "30-30",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G6990AX_25AU_NM34_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/en-iq/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3370077",
+          "Model Page URL": "https://www.defacto.com/en-iq/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3370077"
+        },
+        {
+          "excel_satiri": 20841,
+          "Product Option Code": "G6990AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "32-32",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G6990AX_25AU_NM34_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/en-iq/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3370077",
+          "Model Page URL": "https://www.defacto.com/en-iq/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3370077"
+        },
+        {
+          "excel_satiri": 20842,
+          "Product Option Code": "G6990AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "33-32",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G6990AX_25AU_NM34_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/en-iq/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3370077",
+          "Model Page URL": "https://www.defacto.com/en-iq/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3370077"
+        },
+        {
+          "excel_satiri": 20843,
+          "Product Option Code": "G6990AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "34-30",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G6990AX_25AU_NM34_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/en-iq/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3370077",
+          "Model Page URL": "https://www.defacto.com/en-iq/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3370077"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G6990AX_25AU_NM34_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:08:05+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3370077",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

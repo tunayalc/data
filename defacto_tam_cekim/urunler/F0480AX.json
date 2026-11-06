@@ -1,0 +1,125 @@
+{
+  "model_kodu": "F0480AX",
+  "urun_grubu": "Erkek Ev Terliği",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-01-28",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-02-05",
+        "puan": 5.0,
+        "metin": "@yumuşacık tabanı rahat"
+      },
+      {
+        "tarih": "2026-09-24",
+        "puan": 5.0,
+        "metin": "@Sıcak tutuyor işimi görüyor 42 numara ayak"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0480AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Düz Taban Ev Terliği",
+      "kisa_aciklama": "Erkek Düz Taban Ev Terliği, hafif ve rahat yapısıyla evde gün boyu konfor sağlar. Sade tasarımıyla her tarza uyum sağlarken,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-duz-taban-ev-terligi-3298932",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0480AX_25WN_BK23_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0480AX_25WN_BK23_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0480AX_25WN_BK23_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0480AX_25WN_BK23_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0480AX_25WN_BK23_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0480AX_25WN_BK23_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "40/41",
+          "42/43",
+          "44/45"
+        ],
+        "excel": [
+          "44/45"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Tekstil Malzemeleri 50%,Poliüretan 50%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "topuk_boyu": "2,5 cm",
+        "cinsiyet": "Erkek",
+        "ayakkabi_taban_tipi": "Düz Taban",
+        "urun_tipi": "Ev Terliği",
+        "ayakkabi_tipi": "Ev Terliği",
+        "paket_icerigi": "Paketli"
+      },
+      "urun_hakkinda": [
+        "Erkek Düz Taban Ev Terliği, hafif ve rahat yapısıyla evde gün boyu konfor sağlar. Sade tasarımıyla her tarza uyum sağlarken,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13586,
+          "Product Option Code": "F0480AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Footwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Slippers",
+          "LifeStyle": "Casual",
+          "Class Name": "Home Slipper",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "44/45",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F0480AX_25WN_BK23_01_01.jpg",
+          "FabricDetail": "TEXTILE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-duz-taban-ev-terligi-3340185",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/erkek-duz-taban-ev-terligi-3340185"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F0480AX_25WN_BK23_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:42:22+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-duz-taban-ev-terligi-3340185",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

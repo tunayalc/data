@@ -1,0 +1,394 @@
+{
+  "model_kodu": "H8522AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-20",
+        "puan": 5.0,
+        "metin": "@tam beden ince baharlık üst"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8522AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Bisiklet Yaka Uzun Kollu Çizgili Tişört",
+      "kisa_aciklama": "Bisiklet yaka, uzun kollu, esnek örme kumaştan çizgili tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8522AX_26AU_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8522AX_26AU_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8522AX_26AU_BK81_03_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 81/60/89",
+        "ana_kumas_icerigi": "Elastan 3%,Viskoz 68%,Poliester 29%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "yaka": "Bisiklet Yaka"
+      },
+      "urun_hakkinda": [
+        "Bisiklet yaka, uzun kollu, esnek örme kumaştan çizgili tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 35324,
+          "Product Option Code": "H8522AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        },
+        {
+          "excel_satiri": 35325,
+          "Product Option Code": "H8522AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        },
+        {
+          "excel_satiri": 35326,
+          "Product Option Code": "H8522AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        },
+        {
+          "excel_satiri": 35327,
+          "Product Option Code": "H8522AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        },
+        {
+          "excel_satiri": 35328,
+          "Product Option Code": "H8522AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H8522AXBN338",
+      "renk_kodu": "BN338",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Bisiklet Yaka Uzun Kollu Çizgili Tişört",
+      "kisa_aciklama": "Bisiklet yaka, uzun kollu, esnek örme kumaştan çizgili tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486140",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8522AX_26AU_BN338_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8522AX_26AU_BN338_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8522AX_26AU_BN338_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8522AX_26AU_BN338_04_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 81/60/89",
+        "ana_kumas_icerigi": "Elastan 3%,Viskoz 68%,Poliester 29%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "yaka": "Bisiklet Yaka"
+      },
+      "urun_hakkinda": [
+        "Bisiklet yaka, uzun kollu, esnek örme kumaştan çizgili tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 35329,
+          "Product Option Code": "H8522AX.BN338",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BN338_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486140",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        },
+        {
+          "excel_satiri": 35330,
+          "Product Option Code": "H8522AX.BN338",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BN338_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486140",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        },
+        {
+          "excel_satiri": 35331,
+          "Product Option Code": "H8522AX.BN338",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BN338_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486140",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        },
+        {
+          "excel_satiri": 35332,
+          "Product Option Code": "H8522AX.BN338",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BN338_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486140",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        },
+        {
+          "excel_satiri": 35333,
+          "Product Option Code": "H8522AX.BN338",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "BODY",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BN338_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486140",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-cizgili-tisort-3486139"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H8522AX_26AU_BN338_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:44:50+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

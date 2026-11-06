@@ -1,0 +1,179 @@
+{
+  "model_kodu": "G1720AX",
+  "urun_grubu": "Kadın Pijama Üst",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 50.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-11",
+        "puan": 3.0,
+        "metin": "@kumaşı çok ince iç gösteriyor"
+      },
+      {
+        "tarih": "2026-06-04",
+        "puan": 5.0,
+        "metin": "@büyük geldi iade"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G1720AXPN149",
+      "renk_kodu": "PN149",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "%100 Pamuk Baskılı Kısa Kollu Pijama Üstü",
+      "kisa_aciklama": "Baskılı kısa kollu pijama üstü, yumuşak ve hafif kumaşıyla rahat bir uyku sağlar. Neşeli baskısı sayesinde ev giyimine sevimli bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-baskili-kisa-kollu-pijama-ustu-3377089",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G1720AX_26SP_PN149_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1720AX_26SP_PN149_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1720AX_26SP_PN149_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1720AX_26SP_PN149_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1720AX_26SP_PN149_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,79cm - 85/60/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "markalar": "Fall ın Love",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Baskılı kısa kollu pijama üstü, yumuşak ve hafif kumaşıyla rahat bir uyku sağlar. Neşeli baskısı sayesinde ev giyimine sevimli bir…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18084,
+          "Product Option Code": "G1720AX.PN149",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1720AX_26SP_PN149_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-kisa-kollu-pijama-ustu-3377089",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-kisa-kollu-pijama-ustu-3377089"
+        },
+        {
+          "excel_satiri": 18085,
+          "Product Option Code": "G1720AX.PN149",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1720AX_26SP_PN149_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-kisa-kollu-pijama-ustu-3377089",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-kisa-kollu-pijama-ustu-3377089"
+        },
+        {
+          "excel_satiri": 18086,
+          "Product Option Code": "G1720AX.PN149",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1720AX_26SP_PN149_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-kisa-kollu-pijama-ustu-3377089",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-kisa-kollu-pijama-ustu-3377089"
+        },
+        {
+          "excel_satiri": 18087,
+          "Product Option Code": "G1720AX.PN149",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Casual",
+          "Class Name": "Knitted Tops",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1720AX_26SP_PN149_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-kisa-kollu-pijama-ustu-3377089",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-kisa-kollu-pijama-ustu-3377089"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G1720AX_26SP_PN149_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:59:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

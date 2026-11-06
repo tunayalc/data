@@ -1,0 +1,140 @@
+{
+  "model_kodu": "G6503AX",
+  "urun_grubu": "Kadın Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 21,
+    "yorum_sayisi": 21,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-28",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre aşırı güzel duruyor, kumaşı da aşırı kalın değil; bel bölgesinde bir böbreği var, bu yüzden de çok esneme…"
+      },
+      {
+        "tarih": "2026-02-22",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, aşırı beğendim. Kargosu biraz bekletti ama elbiseye diyecek bir şey yok, gayet güzel. Kesinlikle tavsiye…"
+      },
+      {
+        "tarih": "2026-02-19",
+        "puan": 4.0,
+        "metin": "@Harika bir elbise, aşırı güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6503AXBN66",
+      "renk_kodu": "BN66",
+      "renk_adi": "Koyu Kahve",
+      "renk_hex": "#5C4033",
+      "urun_adi": "Bisiklet Yaka Yırtmaçlı Uzun Kollu Midi Elbise",
+      "kisa_aciklama": "Bisiklet Yaka Yırtmaçlı Uzun Kollu Midi Elbise, zarif bisiklet yaka ve uzun kollu tasarımıyla sade ve şık bir görünüm sunar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-midi-elbise-3362170",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6503AX_25AU_BN66_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6503AX_25AU_BN66_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6503AX_25AU_BN66_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6503AX_25AU_BN66_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6503AX_25AU_BN66_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,76cm - 78/60/86",
+        "ana_kumas_icerigi": "Elastan 3%,Viskoz 30%,Poliester 67%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_boyu": "Mıdı",
+        "kol_boyu": "Uzun Kollu",
+        "ozel_urun": "Günlük",
+        "cinsiyet": "Kadın",
+        "bel_detayi": "Normal Bel"
+      },
+      "urun_hakkinda": [
+        "Bisiklet Yaka Yırtmaçlı Uzun Kollu Midi Elbise, zarif bisiklet yaka ve uzun kollu tasarımıyla sade ve şık bir görünüm sunar.…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 909.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20393,
+          "Product Option Code": "G6503AX.BN66",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Knitted Dress",
+          "Product Color Name": "D.BROWN",
+          "SizeDefinition": "M",
+          "Fit": "FIT AND FLARE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G6503AX_25AU_BN66_01_02.jpg",
+          "FabricDetail": "26/1 SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#5C4033",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-midi-elbise-3362170",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-midi-elbise-3362170"
+        },
+        {
+          "excel_satiri": 20394,
+          "Product Option Code": "G6503AX.BN66",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Knitted Dress",
+          "Product Color Name": "D.BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "FIT AND FLARE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G6503AX_25AU_BN66_01_02.jpg",
+          "FabricDetail": "26/1 SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#5C4033",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-midi-elbise-3362170",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-uzun-kollu-midi-elbise-3362170"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G6503AX_25AU_BN66_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:06:44+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

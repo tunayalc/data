@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C5658AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C5658AXNM34",
+      "renk_kodu": "NM34",
+      "renk_adi": "D.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4687,
+          "Product Option Code": "C5658AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Dress",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "34",
+          "Fit": "FASHION FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C5658AX_24SP_NM34_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/en-iq/fashion-fit-straplez-jean-mini-elbise-3103093",
+          "Model Page URL": "https://www.defacto.com/en-iq/fashion-fit-straplez-jean-mini-elbise-3103093"
+        },
+        {
+          "excel_satiri": 4688,
+          "Product Option Code": "C5658AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Dress",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "36",
+          "Fit": "FASHION FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C5658AX_24SP_NM34_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 5,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/en-iq/fashion-fit-straplez-jean-mini-elbise-3103093",
+          "Model Page URL": "https://www.defacto.com/en-iq/fashion-fit-straplez-jean-mini-elbise-3103093"
+        },
+        {
+          "excel_satiri": 4689,
+          "Product Option Code": "C5658AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Dress",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "38",
+          "Fit": "FASHION FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C5658AX_24SP_NM34_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com/en-iq/fashion-fit-straplez-jean-mini-elbise-3103093",
+          "Model Page URL": "https://www.defacto.com/en-iq/fashion-fit-straplez-jean-mini-elbise-3103093"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C5658AX_24SP_NM34_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:27:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fashion-fit-straplez-jean-mini-elbise-3103093",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

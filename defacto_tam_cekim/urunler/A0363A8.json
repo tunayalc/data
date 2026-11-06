@@ -1,0 +1,105 @@
+{
+  "model_kodu": "A0363A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Takım - Set",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A0363A8BE756",
+      "renk_kodu": "BE756",
+      "renk_adi": "Mavi",
+      "renk_hex": "#0085FF",
+      "urun_adi": "Erkek Çocuk Kısa Kollu Tişört Şort 2'li Takım",
+      "kisa_aciklama": "Pamuklu penye kumaşı, bisiklet yaka, kısa kollu, yaka esnek ribana kumaşlı ve baskılı tişört, esnek belli basic kısa şortu ile…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/2li-takim-2779711",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A0363A8_23HS_BE756_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)",
+          "6/7 Yaş (122cm)",
+          "10/11 Yaş (146cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)"
+        ],
+        "excel": [
+          "5/6 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "5/6 Yaş (116cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Erkek Çocuk",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Pamuklu penye kumaşı, bisiklet yaka, kısa kollu, yaka esnek ribana kumaşlı ve baskılı tişört, esnek belli basic kısa şortu ile…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 32,
+          "Product Option Code": "A0363A8.BE756",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Set",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Set",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/A0363A8_23HS_BE756_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/2li-takim-2779711",
+          "Model Page URL": "https://www.defacto.com.tr/2li-takim-2779711"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/A0363A8_23HS_BE756_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:19:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

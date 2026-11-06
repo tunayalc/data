@@ -1,0 +1,238 @@
+{
+  "model_kodu": "E4987AX",
+  "urun_grubu": "Kadın Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 20,
+    "yorum_sayisi": 20,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.0,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 8.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-31",
+        "puan": 5.0,
+        "metin": "@çok kaliteli ama tam yazlık bir kumaş değil"
+      },
+      {
+        "tarih": "2025-11-20",
+        "puan": 5.0,
+        "metin": "@Harika! Gömlek çok hoşuma gittiği için almıştım, iyi ki de almışım. Kumaşı da gayet güzel. Kendi bedeninizi rahatlıkla alabilirsiniz. Ütü…"
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Çok iyi, harika."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E4987AXBG352",
+      "renk_kodu": "BG352",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Basıc Yarım Kollu Gömlek",
+      "kisa_aciklama": "Yetişkin kadınlar için tasarlanmış basic yarım kollu gömlek, regular fit kesimiyle rahat bir kullanım sunar. İlkbahar/Yaz sezonu için hafif yapısıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209107",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_BG352_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_BG352_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_BG352_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_BG352_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_BG352_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_BG352_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_BG352_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_BG352_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_BG352_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Poliamid 15%,Viskoz 85%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt",
+        "yaka": "Gömlek Yaka"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için tasarlanmış basic yarım kollu gömlek, regular fit kesimiyle rahat bir kullanım sunar. İlkbahar/Yaz sezonu için hafif yapısıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 11430,
+          "Product Option Code": "E4987AX.BG352",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E4987AX_25SP_BG352_01_02.jpg",
+          "FabricDetail": "KRISTAL",
+          "Toplam": 5,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209107",
+          "Model Page URL": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209107"
+        },
+        {
+          "excel_satiri": 11431,
+          "Product Option Code": "E4987AX.BG352",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E4987AX_25SP_BG352_01_02.jpg",
+          "FabricDetail": "KRISTAL",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209107",
+          "Model Page URL": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209107"
+        },
+        {
+          "excel_satiri": 11432,
+          "Product Option Code": "E4987AX.BG352",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E4987AX_25SP_BG352_01_02.jpg",
+          "FabricDetail": "KRISTAL",
+          "Toplam": 5,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209107",
+          "Model Page URL": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209107"
+        },
+        {
+          "excel_satiri": 11433,
+          "Product Option Code": "E4987AX.BG352",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/E4987AX_25SP_BG352_01_02.jpg",
+          "FabricDetail": "KRISTAL",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209107",
+          "Model Page URL": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209107"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/E4987AX_25SP_BG352_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E4987AXNV243",
+      "renk_kodu": "NV243",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Basıc Yarım Kollu Gömlek",
+      "kisa_aciklama": "Yetişkin kadınlar için tasarlanmış basic yarım kollu gömlek, regular fit kesimiyle rahat bir kullanım sunar. İlkbahar/Yaz sezonu için hafif yapısıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/basic-yarim-kollu-gomlek-3209679",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_NV243_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_NV243_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_NV243_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_NV243_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_NV243_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_NV243_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_NV243_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E4987AX_25SP_NV243_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 84/61/92",
+        "ana_kumas_icerigi": "Poliamid 15%,Viskoz 85%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Gömlek Yaka",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için tasarlanmış basic yarım kollu gömlek, regular fit kesimiyle rahat bir kullanım sunar. İlkbahar/Yaz sezonu için hafif yapısıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:44:39+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

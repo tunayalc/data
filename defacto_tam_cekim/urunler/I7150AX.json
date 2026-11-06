@@ -1,0 +1,101 @@
+{
+  "model_kodu": "I7150AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-03",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I7150AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın 2'li Şerit ve Taş Detaylı Küpe Seti",
+      "kisa_aciklama": "Metalik bitişli ikili küpe seti. Biri çoklu şerit kabartmalı formda, diğeri kabartma çerçeveli geometrik taş detaylı tasarım.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-serit-ve-tas-detayli-kupe-seti-3524440",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I7150AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I7150AX_NS_GD1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Küpe",
+        "takim_icerigi": "2'li",
+        "urun_olcusu": "1 cm",
+        "kumas": "Jean",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Metalik bitişli ikili küpe seti. Biri çoklu şerit kabartmalı formda, diğeri kabartma çerçeveli geometrik taş detaylı tasarım."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44333,
+          "Product Option Code": "I7150AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I7150AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 5,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-2li-serit-ve-tas-detayli-kupe-seti-3524440",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-2li-serit-ve-tas-detayli-kupe-seti-3524440"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I7150AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:07:36+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

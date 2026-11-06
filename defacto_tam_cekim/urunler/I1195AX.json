@@ -1,0 +1,395 @@
+{
+  "model_kodu": "I1195AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-17",
+        "puan": 5.0,
+        "metin": "@çok guzel ama ic gösteriyor uygun çamaşır lazım"
+      },
+      {
+        "tarih": "2026-08-31",
+        "puan": 5.0,
+        "metin": "@Öncelikle iç göstermiyor,kalıbı bayağı bol. 170 boy 68 kg tesettürlü olduğum için 40 beden aldım ama bayağı büyük oldu belden…"
+      },
+      {
+        "tarih": "2026-09-16",
+        "puan": 5.0,
+        "metin": "@Kumaşı cok guzel takim olarak aldım. kesimi geniş balloon kesim lastikli bir pantolon çok şık"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1195AXBN338",
+      "renk_kodu": "BN338",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Barrel Fit Keten Karışımlı Beli Lastikli Lastikli Paça Pantolon",
+      "kisa_aciklama": "Barrel Fıt Keten Karışımlı Pantolon, normal kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Daralan paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487438",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_BN338_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_BN338_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_BN338_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_BN338_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_BN338_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,73cm - 82/60/89",
+        "ana_kumas_icerigi": "Pamuk 93%,Keten 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Pantolon",
+        "urun_boyu": "Bilek Boy",
+        "paca_detayi": "Esnek Bantlı Paça",
+        "bel_detayi": "Beli Lastikli",
+        "kumas": "Keten Karışımlı"
+      },
+      "urun_hakkinda": [
+        "Barrel Fıt Keten Karışımlı Pantolon, normal kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Daralan paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38783,
+          "Product Option Code": "I1195AX.BN338",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "40",
+          "Fit": "BARREL FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1195AX_26HS_BN338_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487438",
+          "Model Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487437"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I1195AX_26HS_BN338_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I1195AXPN440",
+      "renk_kodu": "PN440",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Barrel Fit Keten Karışımlı Beli Lastikli Lastikli Paça Pantolon",
+      "kisa_aciklama": "Barrel Fıt Keten Karışımlı Pantolon, normal kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Daralan paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487439",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_PN440_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_PN440_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_PN440_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_PN440_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_PN440_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_PN440_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_PN440_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_PN440_08_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 93%,Keten 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Esnek Bantlı Paça",
+        "bel_detayi": "Beli Lastikli",
+        "urun_tipi": "Pantolon",
+        "kumas": "Keten Karışımlı",
+        "urun_boyu": "Bilek Boy"
+      },
+      "urun_hakkinda": [
+        "Barrel Fıt Keten Karışımlı Pantolon, normal kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Daralan paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38784,
+          "Product Option Code": "I1195AX.PN440",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "38",
+          "Fit": "BARREL FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1195AX_26HS_PN440_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 899.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487439",
+          "Model Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487437"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I1195AX_26HS_PN440_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I1195AXWT83",
+      "renk_kodu": "WT83",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Barrel Fit Keten Karışımlı Beli Lastikli Lastikli Paça Pantolon",
+      "kisa_aciklama": "Barrel Fıt Keten Karışımlı Pantolon, normal kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Daralan paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487437",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_WT83_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_WT83_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_WT83_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_WT83_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_WT83_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_WT83_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1195AX_26HS_WT83_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "34",
+          "40",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "34 Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 93%,Keten 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Keten Karışımlı",
+        "bel_detayi": "Beli Lastikli",
+        "urun_boyu": "Bilek Boy",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Esnek Bantlı Paça",
+        "urun_tipi": "Pantolon"
+      },
+      "urun_hakkinda": [
+        "Barrel Fıt Keten Karışımlı Pantolon, normal kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Daralan paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38785,
+          "Product Option Code": "I1195AX.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "34",
+          "Fit": "BARREL FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1195AX_26HS_WT83_01_01.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487437",
+          "Model Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487437"
+        },
+        {
+          "excel_satiri": 38786,
+          "Product Option Code": "I1195AX.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "40",
+          "Fit": "BARREL FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1195AX_26HS_WT83_01_01.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487437",
+          "Model Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487437"
+        },
+        {
+          "excel_satiri": 38787,
+          "Product Option Code": "I1195AX.WT83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "42",
+          "Fit": "BARREL FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I1195AX_26HS_WT83_01_01.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 1499.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487437",
+          "Model Page URL": "https://www.defacto.com.tr/barrel-fit-keten-karisimli-beli-lastikli-lastikli-paca-pantolon-3487437"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I1195AX_26HS_WT83_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:53:13+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

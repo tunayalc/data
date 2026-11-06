@@ -1,0 +1,91 @@
+{
+  "model_kodu": "I7168AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I7168AXAG1",
+      "renk_kodu": "AG1",
+      "renk_adi": "Antik Sarı",
+      "renk_hex": null,
+      "urun_adi": "Kadın Kalp Figürlü 2'li Kolye",
+      "kisa_aciklama": "Metal zincirli ikili kolye. Kabartma detaylı kalp figürlü kolye uçlu. Ayarlanabilir klips kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-kalp-figurlu-2li-kolye-3525326",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I7168AX_NS_AG1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I7168AX_NS_AG1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I7168AX_NS_AG1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 20%,Demir 80%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Kolye",
+        "kumas": "Jean",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "2'li",
+        "urun_olcusu": "1 cm"
+      },
+      "urun_hakkinda": [
+        "Metal zincirli ikili kolye. Kabartma detaylı kalp figürlü kolye uçlu. Ayarlanabilir klips kapamalı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44346,
+          "Product Option Code": "I7168AX.AG1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "ANTIQUE GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I7168AX_NS_AG1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 5,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B0903D",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-kalp-figurlu-2li-kolye-3525326",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-kalp-figurlu-2li-kolye-3525326"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I7168AX_NS_AG1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:07:40+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

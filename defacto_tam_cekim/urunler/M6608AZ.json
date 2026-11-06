@@ -1,0 +1,658 @@
+{
+  "model_kodu": "M6608AZ",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 830,
+    "yorum_sayisi": 830,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 20.0,
+      "tam_oldu": 78.5,
+      "buyuk_geldi": 1.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2021-03-02",
+        "puan": 4.0,
+        "metin": "@Ürünü beğenerek giyiyorum"
+      },
+      {
+        "tarih": "2021-04-08",
+        "puan": 4.0,
+        "metin": "@Bir beden büyük alın onun harici harikaaa"
+      },
+      {
+        "tarih": "2022-06-05",
+        "puan": 5.0,
+        "metin": "@İki sene önce 30 geçen sene 50 şimdi 100 tl olmuş ama kalitesi aynı boğaz kısmı biraz geniş geldi 193…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "M6608AZBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slim Fit Bisiklet Yaka Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Slim fit bisiklet yaka kısa kollu basic tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374398",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Slim fit bisiklet yaka kısa kollu basic tişört"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45859,
+          "Product Option Code": "M6608AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/M6608AZ_25SP_BK81_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374398",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45860,
+          "Product Option Code": "M6608AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_BK81_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374398",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45861,
+          "Product Option Code": "M6608AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/M6608AZ_25SP_BK81_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374398",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45862,
+          "Product Option Code": "M6608AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_BK81_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374398",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45863,
+          "Product Option Code": "M6608AZ.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_BK81_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374398",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/M6608AZ_25SP_BK81_01_01.jpg",
+        "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "M6608AZER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Slim Fit Bisiklet Yaka Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Slim fit bisiklet yaka kısa kollu basic tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_ER105_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "excel": [
+          "3XL",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Slim fit bisiklet yaka kısa kollu basic tişört"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45864,
+          "Product Option Code": "M6608AZ.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "3XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/M6608AZ_25SP_ER105_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45865,
+          "Product Option Code": "M6608AZ.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/M6608AZ_25SP_ER105_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45866,
+          "Product Option Code": "M6608AZ.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/M6608AZ_25SP_ER105_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/M6608AZ_25SP_ER105_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "M6608AZGN829",
+      "renk_kodu": "GN829",
+      "renk_adi": "Yeşil",
+      "renk_hex": "#00C000",
+      "urun_adi": "Slim Fit Bisiklet Yaka Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Slim fit bisiklet yaka kısa kollu basic tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374397",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GN829_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GN829_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GN829_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GN829_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GN829_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Slım Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Slim fit bisiklet yaka kısa kollu basic tişört"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45867,
+          "Product Option Code": "M6608AZ.GN829",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/M6608AZ_25SP_GN829_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 84.49,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374397",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45868,
+          "Product Option Code": "M6608AZ.GN829",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/M6608AZ_24SP_GN829_01_02.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 84.49,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374397",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45869,
+          "Product Option Code": "M6608AZ.GN829",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_GN829_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 84.49,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374397",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/M6608AZ_25SP_GN829_01_01.jpg",
+        "https://image.defacto.com.tr/product/24SP/M6608AZ_24SP_GN829_01_02.jpg",
+        "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_GN829_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "M6608AZGR368",
+      "renk_kodu": "GR368",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Slim Fit Bisiklet Yaka Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Slim fit bisiklet yaka kısa kollu basic tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374399",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GR368_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GR368_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GR368_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GR368_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/M6608AZ_26SP_GR368_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Slım Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Slim fit bisiklet yaka kısa kollu basic tişört"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45870,
+          "Product Option Code": "M6608AZ.GR368",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_GR368_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374399",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45871,
+          "Product Option Code": "M6608AZ.GR368",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_GR368_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374399",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45872,
+          "Product Option Code": "M6608AZ.GR368",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_GR368_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374399",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45873,
+          "Product Option Code": "M6608AZ.GR368",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_GR368_01_01.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374399",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/M6608AZ_26SP_GR368_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "M6608AZGR91",
+      "renk_kodu": "GR91",
+      "renk_adi": "LT.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45874,
+          "Product Option Code": "M6608AZ.GR91",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SP/M6608AZ_23SP_GR91_01_02.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        },
+        {
+          "excel_satiri": 45875,
+          "Product Option Code": "M6608AZ.GR91",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SP/M6608AZ_23SP_GR91_01_02.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-kisa-kollu-basic-tisort-3374396"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SP/M6608AZ_23SP_GR91_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:10:44+03:00",
+    "denenen_sayfa": 4,
+    "dogrulanan_renk": 4
+  }
+}

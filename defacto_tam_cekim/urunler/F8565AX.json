@@ -1,0 +1,108 @@
+{
+  "model_kodu": "F8565AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8565AXGN1180",
+      "renk_kodu": "GN1180",
+      "renk_adi": "MINT",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16401,
+          "Product Option Code": "F8565AX.GN1180",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F8565AX_25HS_GN1180_01_01.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3337662",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3337662"
+        },
+        {
+          "excel_satiri": 16402,
+          "Product Option Code": "F8565AX.GN1180",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F8565AX_25HS_GN1180_01_01.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3337662",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3337662"
+        },
+        {
+          "excel_satiri": 16403,
+          "Product Option Code": "F8565AX.GN1180",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "MINT",
+          "SizeDefinition": "XS",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25HS/F8565AX_25HS_GN1180_01_01.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#9BECCF",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3337662",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3337662"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25HS/F8565AX_25HS_GN1180_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:55:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-bisiklet-yaka-baskili-kisa-kollu-tisort-3337662",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "model_kodu": "B5040AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "B5040AXPN508",
+      "renk_kodu": "PN508",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1740,
+          "Product Option Code": "B5040AX.PN508",
+          "BrandName": "Defacto",
+          "Division Name": "Footwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Slippers",
+          "LifeStyle": "Casual",
+          "Class Name": "Slipper-Flipflop",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "38",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/B5040AX_23HS_PN508_01_02.jpg",
+          "FabricDetail": "Eva",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/B5040AX_23HS_PN508_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B5040AXWT16",
+      "renk_kodu": "WT16",
+      "renk_adi": "OFF WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1741,
+          "Product Option Code": "B5040AX.WT16",
+          "BrandName": "Defacto",
+          "Division Name": "Footwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Slippers",
+          "LifeStyle": "Casual",
+          "Class Name": "Slipper-Flipflop",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "38",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/B5040AX_23HS_WT16_01_02.jpg",
+          "FabricDetail": "Eva",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/B5040AX_23HS_WT16_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:22+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

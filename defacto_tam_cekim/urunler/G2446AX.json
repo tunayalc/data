@@ -1,0 +1,120 @@
+{
+  "model_kodu": "G2446AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2446AXBE104",
+      "renk_kodu": "BE104",
+      "renk_adi": "Royal",
+      "renk_hex": "#4169E1",
+      "urun_adi": "NBA Los Angeles Lakers Standart Fıt Şort",
+      "kisa_aciklama": "Yetişkin erkekler için NBA Los Angeles Lakers lisanslı şort. Standart fit kesimi ile rahatlık sunar. Şık ve spor bir görünüm…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/nba-los-angeles-lakers-standart-fit-sort-3495944",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2446AX_26AU_BE104_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2446AX_26AU_BE104_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2446AX_26AU_BE104_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2446AX_26AU_BE104_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2446AX_26AU_BE104_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2446AX_26AU_BE104_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2446AX_26AU_BE104_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Pamuk 55%,Poliester 45%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Standart Fıt",
+        "lisans_bilgisi": "NBA Los Angeles Lakers"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için NBA Los Angeles Lakers lisanslı şort. Standart fit kesimi ile rahatlık sunar. Şık ve spor bir görünüm…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18349,
+          "Product Option Code": "G2446AX.BE104",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Short",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G2446AX_26AU_BE104_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "https://www.defacto.com.tr/nba-los-angeles-lakers-standart-fit-sort-3495944",
+          "Model Page URL": "https://www.defacto.com.tr/nba-los-angeles-lakers-standart-fit-sort-3495944"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G2446AX_26AU_BE104_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:00:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

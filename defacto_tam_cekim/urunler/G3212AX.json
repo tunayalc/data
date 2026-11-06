@@ -1,0 +1,141 @@
+{
+  "model_kodu": "G3212AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 33.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-04",
+        "puan": 4.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-10",
+        "puan": 5.0,
+        "metin": "@Güzel ürün"
+      },
+      {
+        "tarih": "2026-05-15",
+        "puan": 5.0,
+        "metin": "@175cm 75kg S beden tam oldu kalıbı olsun boyu olsun baya güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3212AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk REGULAR FIT Baskılı Kısa Kollu Tişört",
+      "kisa_aciklama": "Regular Fit Baskılı Tişört, klasik konforu modern grafik detaylarla birleştirerek günlük stilinize dinamik bir enerji katıyor. Vücut hatlarını ne çok…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-kisa-kollu-tisort-3426229",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G3212AX_26SP_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3212AX_26SP_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3212AX_26SP_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3212AX_26SP_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G3212AX_26SP_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 98/79/94",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "desen": "Baskılı",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular Fit Baskılı Tişört, klasik konforu modern grafik detaylarla birleştirerek günlük stilinize dinamik bir enerji katıyor. Vücut hatlarını ne çok…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18696,
+          "Product Option Code": "G3212AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G3212AX_26SP_BK81_01_01.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-kisa-kollu-tisort-3426229",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-kisa-kollu-tisort-3426229"
+        },
+        {
+          "excel_satiri": 18697,
+          "Product Option Code": "G3212AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G3212AX_26SP_BK81_01_01.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-kisa-kollu-tisort-3426229",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-baskili-kisa-kollu-tisort-3426229"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G3212AX_26SP_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:00:11+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "model_kodu": "F9846AX",
+  "urun_grubu": "Kadın Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-01",
+        "puan": 5.0,
+        "metin": "@kafama büyük geldi yeğenime verdim erkek onda iyi durdu"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9846AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kadın Pamuklu Cap Şapka",
+      "kisa_aciklama": "Yetişkinler için siyah renkte, pamuklu, cap şapka tipindeki bu ürün, tüm sezon kullanıma uygundur. Kadınlar için tasarlanmış olan şapka, 58…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-pamuklu-cap-sapka-3375205",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9846AX_26SM_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9846AX_26SM_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9846AX_26SM_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9846AX_26SM_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9846AX_26SM_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9846AX_26SM_BK27_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "58 cm",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Kadın",
+        "sapka_tipi": "Cap Şapka"
+      },
+      "urun_hakkinda": [
+        "Yetişkinler için siyah renkte, pamuklu, cap şapka tipindeki bu ürün, tüm sezon kullanıma uygundur. Kadınlar için tasarlanmış olan şapka, 58…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17237,
+          "Product Option Code": "F9846AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/F9846AX_26SM_BK27_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-pamuklu-cap-sapka-3375205",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-pamuklu-cap-sapka-3375205"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/F9846AX_26SM_BK27_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:57:25+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

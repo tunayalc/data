@@ -1,0 +1,108 @@
+{
+  "model_kodu": "D1200AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1200AXBN156",
+      "renk_kodu": "BN156",
+      "renk_adi": "CAMEL",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6368,
+          "Product Option Code": "D1200AX.BN156",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "L",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1200AX_24SM_BN156_01_01.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 7,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com/crop-gomlek-yaka-poplin-kisa-kollu-gomlek-3131090",
+          "Model Page URL": "https://www.defacto.com/crop-gomlek-yaka-poplin-kisa-kollu-gomlek-3131090"
+        },
+        {
+          "excel_satiri": 6369,
+          "Product Option Code": "D1200AX.BN156",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "XL",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1200AX_24SM_BN156_01_01.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com/crop-gomlek-yaka-poplin-kisa-kollu-gomlek-3131090",
+          "Model Page URL": "https://www.defacto.com/crop-gomlek-yaka-poplin-kisa-kollu-gomlek-3131090"
+        },
+        {
+          "excel_satiri": 6370,
+          "Product Option Code": "D1200AX.BN156",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "XXL",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D1200AX_24SM_BN156_01_01.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com/crop-gomlek-yaka-poplin-kisa-kollu-gomlek-3131090",
+          "Model Page URL": "https://www.defacto.com/crop-gomlek-yaka-poplin-kisa-kollu-gomlek-3131090"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D1200AX_24SM_BN156_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:30:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/crop-gomlek-yaka-poplin-kisa-kollu-gomlek-3131090",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

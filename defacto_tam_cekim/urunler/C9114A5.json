@@ -1,0 +1,114 @@
+{
+  "model_kodu": "C9114A5",
+  "urun_grubu": "Erkek Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 77,
+    "yorum_sayisi": 77,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-01-13",
+        "puan": 5.0,
+        "metin": "@çok kaliteli"
+      },
+      {
+        "tarih": "2025-01-16",
+        "puan": 4.0,
+        "metin": "@Lastikleri keşke biraz daha sıkı olsaydı."
+      },
+      {
+        "tarih": "2025-02-05",
+        "puan": 5.0,
+        "metin": "@Yeğenime aldım, çok tatlı."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C9114A5KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Dikişsiz 5'li Pamuklu Uzun Çorap Erkek Bebek",
+      "kisa_aciklama": "Erkek Bebek Dikişsiz 5'li Pamuklu Uzun Çorap: Kaliteli pamuklu kumaştan üretilen bu uzun çoraplar, bebeğinizin rahatlığını ve konforunu sağlar. Dikişsiz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/dikissiz-5li-pamuklu-uzun-corap-erkek-bebek-3190975",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C9114A5_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9114A5_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9114A5_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "0-6 M",
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliamid 20%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "takim_icerigi": "5'li",
+        "cinsiyet": "Erkek Bebek",
+        "corap_tipi": "Uzun Çorap",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Erkek Bebek Dikişsiz 5'li Pamuklu Uzun Çorap: Kaliteli pamuklu kumaştan üretilen bu uzun çoraplar, bebeğinizin rahatlığını ve konforunu sağlar. Dikişsiz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5668,
+          "Product Option Code": "C9114A5.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "6-12 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/C9114A5_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.eg/dikissiz-5li-pamuklu-uzun-corap-erkek-bebek-3190975",
+          "Model Page URL": "https://www.defacto.com.eg/dikissiz-5li-pamuklu-uzun-corap-erkek-bebek-3190975"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/C9114A5_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:29:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

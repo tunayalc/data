@@ -1,0 +1,114 @@
+{
+  "model_kodu": "B8003AX",
+  "urun_grubu": "Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-16",
+        "puan": 5.0,
+        "metin": "@Harika! Eşime hediye aldım, çok hoşuna gitti."
+      },
+      {
+        "tarih": "2026-02-15",
+        "puan": 5.0,
+        "metin": "@Harika! Eşime hediye aldım, çok hoşuna gitti."
+      },
+      {
+        "tarih": "2025-04-02",
+        "puan": 3.0,
+        "metin": "@Ürün güzel, beğenerek aldım ama pahalı."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B8003AXNM83",
+      "renk_kodu": "NM83",
+      "renk_adi": "Mavi Siyah",
+      "renk_hex": "#002558",
+      "urun_adi": "Pamuklu Erkek Nakışlı Nakış Jean Beyzbol Basketbol Şapkası",
+      "kisa_aciklama": "Yetişkin erkekler için özel olarak tasarlanmış İndigo renkli nakışlı beyzbol basketbol şapkası. Jean kumaştan üretilmiş olan bu şapka, temel bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-erkek-nakisli-nakis-jean-beyzbol-basketbol-sapkasi-3376564",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B8003AX_26SM_NM83_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8003AX_26SM_NM83_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8003AX_26SM_NM83_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8003AX_26SM_NM83_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8003AX_26SM_NM83_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliester 23%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "sapka_tipi": "Beyzbol Basketbol Şapkası",
+        "cinsiyet": "Erkek",
+        "urun_olcusu": "58 cm",
+        "desen": "Nakışlı"
+      },
+      "urun_hakkinda": [
+        "Yetişkin erkekler için özel olarak tasarlanmış İndigo renkli nakışlı beyzbol basketbol şapkası. Jean kumaştan üretilmiş olan bu şapka, temel bir…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2481,
+          "Product Option Code": "B8003AX.NM83",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BLUE BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/B8003AX_26SM_NM83_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#002558",
+          "Product Page URL": "https://www.defacto.com/ar-iq/pamuklu-erkek-nakisli-nakis-jean-beyzbol-basketbol-sapkasi-3376564",
+          "Model Page URL": "https://www.defacto.com/ar-iq/pamuklu-erkek-nakisli-nakis-jean-beyzbol-basketbol-sapkasi-3376564"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/B8003AX_26SM_NM83_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:23:29+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

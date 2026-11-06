@@ -1,0 +1,79 @@
+{
+  "model_kodu": "Z6514A6",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "Z6514A6PR44",
+      "renk_kodu": "PR44",
+      "renk_adi": "MENEKŞE-353-13",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "10/11 Y",
+          "8/9 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48927,
+          "Product Option Code": "Z6514A6.PR44",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Woven Bikini",
+          "Product Color Name": "MENEKŞE-353-13",
+          "SizeDefinition": "10/11 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/Z6514A6_23HS_PR44_01_03.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#EE82EE",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 48928,
+          "Product Option Code": "Z6514A6.PR44",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Woven Bikini",
+          "Product Color Name": "MENEKŞE-353-13",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/Z6514A6_23HS_PR44_01_03.jpg",
+          "FabricDetail": "SEERSUCKER",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#EE82EE",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/Z6514A6_23HS_PR44_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:25+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

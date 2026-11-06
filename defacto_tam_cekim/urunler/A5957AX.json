@@ -1,0 +1,86 @@
+{
+  "model_kodu": "A5957AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A5957AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "ECRU",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "42",
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 545,
+          "Product Option Code": "A5957AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "42",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/A5957AX_24HS_ER105_01_04.jpg",
+          "FabricDetail": "SALDA",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-ma/traditional-a-kesim-midi-etek-3130480",
+          "Model Page URL": "https://www.defacto.com/en-ma/traditional-a-kesim-midi-etek-3130480"
+        },
+        {
+          "excel_satiri": 546,
+          "Product Option Code": "A5957AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "44",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/A5957AX_24HS_ER105_01_04.jpg",
+          "FabricDetail": "SALDA",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/en-ma/traditional-a-kesim-midi-etek-3130480",
+          "Model Page URL": "https://www.defacto.com/en-ma/traditional-a-kesim-midi-etek-3130480"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/A5957AX_24HS_ER105_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:20:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/traditional-a-kesim-midi-etek-3130480",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

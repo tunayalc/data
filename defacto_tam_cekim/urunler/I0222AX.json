@@ -1,0 +1,184 @@
+{
+  "model_kodu": "I0222AX",
+  "urun_grubu": "Erkek Parfüm",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0222AXBN200",
+      "renk_kodu": "BN200",
+      "renk_adi": "Camel",
+      "renk_hex": "#C19A6B",
+      "urun_adi": "Erkek 100 ml Core Motion Parfüm",
+      "kisa_aciklama": "Erkek 100 ml Core Motion Parfüm",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-100-ml-core-motion-parfum-3491598",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0222AX_NS_BN200_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0222AX_NS_BN200_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0222AX_NS_BN200_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Kozmetik 100%",
+        "marka": "Defacto",
+        "parfum_urun_tipi_bilgisi": "Parfüm",
+        "urun_hacmi": "100 ml",
+        "parfum_paketleme_bilgisi": "Kutu",
+        "koku_cesidi": "Odunsu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Erkek 100 ml Core Motion Parfüm",
+        "İstediğiniz kozmetik ve kişisel bakım ürünlerini hemen sipariş verin, ürününüzü evinizden teslim almanın ayrıcalığını yaşayın."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37569,
+          "Product Option Code": "I0222AX.BN200",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0222AX_NS_BN200_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-100-ml-core-motion-parfum-3491598",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-100-ml-core-motion-parfum-3491598"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0222AX_NS_BN200_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0222AXBK2",
+      "renk_kodu": "BK2",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37568,
+          "Product Option Code": "I0222AX.BK2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0222AX_NS_BK2_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 7,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-100-ml-black-steel-parfum-3568646",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-100-ml-core-motion-parfum-3491598"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0222AX_NS_BK2_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I0222AXBN444",
+      "renk_kodu": "BN444",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37570,
+          "Product Option Code": "I0222AX.BN444",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0222AX_NS_BN444_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 6,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/erkek-100-ml-burning-wood-parfum-3568645",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-100-ml-core-motion-parfum-3491598"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0222AX_NS_BN444_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:40:38+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/erkek-100-ml-black-steel-parfum-3568646",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/erkek-100-ml-burning-wood-parfum-3568645",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

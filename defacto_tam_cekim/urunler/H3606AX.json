@@ -1,0 +1,88 @@
+{
+  "model_kodu": "H3606AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3606AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın 2'li Kolye",
+      "kisa_aciklama": "İki adet ince metal zincir kolye. Biri çoklu, renkli küçük sallantılı uç detaylı kısa model. Diğeri Y şekilli, uzun ve…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-kolye-3443058",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3606AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3606AX_NS_GD1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 35%,Plastik 5%,Çinko 15%,Demir 45%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Kolye",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "İki adet ince metal zincir kolye. Biri çoklu, renkli küçük sallantılı uç detaylı kısa model. Diğeri Y şekilli, uzun ve…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27520,
+          "Product Option Code": "H3606AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3606AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com/en-ma/kadin-2li-kolye-3443058",
+          "Model Page URL": "https://www.defacto.com/en-ma/kadin-2li-kolye-3443058"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3606AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:23:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

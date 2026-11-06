@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H2831A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H2831A5NV147",
+      "renk_kodu": "NV147",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M",
+          "3-4 Y",
+          "4-5 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 26550,
+          "Product Option Code": "H2831A5.NV147",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Overalls",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "12-18 M",
+          "Fit": "OVERALLS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H2831A5_26SM_NV147_01_02.jpg",
+          "FabricDetail": "TENCEL",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/akiskan-kumasli-tulum-kiz-bebek-3506143",
+          "Model Page URL": "https://www.defacto.com.eg/akiskan-kumasli-tulum-kiz-bebek-3506143"
+        },
+        {
+          "excel_satiri": 26551,
+          "Product Option Code": "H2831A5.NV147",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Overalls",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "3-4 Y",
+          "Fit": "OVERALLS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H2831A5_26SM_NV147_01_02.jpg",
+          "FabricDetail": "TENCEL",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/akiskan-kumasli-tulum-kiz-bebek-3506143",
+          "Model Page URL": "https://www.defacto.com.eg/akiskan-kumasli-tulum-kiz-bebek-3506143"
+        },
+        {
+          "excel_satiri": 26552,
+          "Product Option Code": "H2831A5.NV147",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Overalls",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "4-5 Y",
+          "Fit": "OVERALLS",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H2831A5_26SM_NV147_01_02.jpg",
+          "FabricDetail": "TENCEL",
+          "Toplam": 4,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.eg/akiskan-kumasli-tulum-kiz-bebek-3506143",
+          "Model Page URL": "https://www.defacto.com.eg/akiskan-kumasli-tulum-kiz-bebek-3506143"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H2831A5_26SM_NV147_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:21:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/akiskan-kumasli-tulum-kiz-bebek-3506143",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

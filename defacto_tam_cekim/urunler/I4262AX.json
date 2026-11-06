@@ -1,0 +1,89 @@
+{
+  "model_kodu": "I4262AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4262AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Taşlı ve Sallantılı 4'lü Küpe Seti",
+      "kisa_aciklama": "Altın sarısı tonlarında, bordo renkli taş detaylarına sahip 4 çift küpeden oluşan set. Düz metalik halka, taşlı çivi, zincir sallantılı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-tasli-ve-sallantili-4lu-kupe-seti-3510150",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4262AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4262AX_NS_KR1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Küpe",
+        "takim_icerigi": "4'lü"
+      },
+      "urun_hakkinda": [
+        "Altın sarısı tonlarında, bordo renkli taş detaylarına sahip 4 çift küpeden oluşan set. Düz metalik halka, taşlı çivi, zincir sallantılı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42543,
+          "Product Option Code": "I4262AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4262AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-tasli-ve-sallantili-4lu-kupe-seti-3510150",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-tasli-ve-sallantili-4lu-kupe-seti-3510150"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4262AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:49:16+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

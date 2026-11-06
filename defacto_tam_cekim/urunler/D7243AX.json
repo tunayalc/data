@@ -1,0 +1,253 @@
+{
+  "model_kodu": "D7243AX",
+  "urun_grubu": "Erkek Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 15,
+    "yorum_sayisi": 15,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 40.0,
+      "tam_oldu": 60.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-14",
+        "puan": 5.0,
+        "metin": "@Harika bir gömlek, mutlaka alın, çevrenizdekilere de aldırın. Şahane bir parça."
+      },
+      {
+        "tarih": "2025-07-29",
+        "puan": 5.0,
+        "metin": "@Kalite ve fiyat harika."
+      },
+      {
+        "tarih": "2025-12-15",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7243AXGR370",
+      "renk_kodu": "GR370",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Regular Fit Polo Yaka Fermuarlı Gömlek Ceket",
+      "kisa_aciklama": "Polo yaka tasarımı ile klasik bir dokunuş kazanan bu gömlek ceket, fermuarlı ön kapamasıyla pratik bir kullanım sağlar. Regular fit…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-fermuarli-gomlek-ceket-3211133",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_GR370_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_GR370_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_GR370_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_GR370_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_GR370_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_GR370_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Poliamid 16%,Elastan 2%,Viskoz 30%,Poliester 52%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek",
+        "kapama_detayi": "Çıtçıtlı",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Polo yaka tasarımı ile klasik bir dokunuş kazanan bu gömlek ceket, fermuarlı ön kapamasıyla pratik bir kullanım sağlar. Regular fit…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8572,
+          "Product Option Code": "D7243AX.GR370",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Overshirt",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7243AX_25SP_GR370_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-fermuarli-gomlek-ceket-3211133",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-fermuarli-gomlek-ceket-3208119"
+        },
+        {
+          "excel_satiri": 8573,
+          "Product Option Code": "D7243AX.GR370",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Overshirt",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7243AX_25SP_GR370_01_01.jpg",
+          "FabricDetail": "KNITTED",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-fermuarli-gomlek-ceket-3211133",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-fermuarli-gomlek-ceket-3208119"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D7243AX_25SP_GR370_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D7243AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fit Polo Yaka Fermuarlı Gömlek Ceket",
+      "kisa_aciklama": "Polo yaka tasarımı ile klasik bir dokunuş kazanan bu gömlek ceket, fermuarlı ön kapamasıyla pratik bir kullanım sağlar. Regular fit…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-fermuarli-gomlek-ceket-3208119",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BK81_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BK81_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BK81_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,89cm - 100/81/97",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 32%,Poliester 66%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Polo Yaka",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Erkek",
+        "kapama_detayi": "Çıtçıtlı"
+      },
+      "urun_hakkinda": [
+        "Polo yaka tasarımı ile klasik bir dokunuş kazanan bu gömlek ceket, fermuarlı ön kapamasıyla pratik bir kullanım sağlar. Regular fit…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "D7243AXBG49",
+      "renk_kodu": "BG49",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Regular Fit Polo Yaka Fermuarlı Gömlek Ceket",
+      "kisa_aciklama": "Polo yaka tasarımı ile klasik bir dokunuş kazanan bu gömlek ceket, fermuarlı ön kapamasıyla pratik bir kullanım sağlar. Regular fit…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-fermuarli-gomlek-ceket-3213495",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7243AX_25SP_BG49_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 96/77/97",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 30%,Poliester 68%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kapama_detayi": "Çıtçıtlı",
+        "cinsiyet": "Erkek",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Polo yaka tasarımı ile klasik bir dokunuş kazanan bu gömlek ceket, fermuarlı ön kapamasıyla pratik bir kullanım sağlar. Regular fit…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:29:26+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

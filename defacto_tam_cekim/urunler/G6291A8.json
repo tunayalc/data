@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G6291A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6291A8BR284",
+      "renk_kodu": "BR284",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "13/14 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20118,
+          "Product Option Code": "G6291A8.BR284",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Polo T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6291A8_26SP_BR284_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-baskili-tisort-erkek-cocuk-3444839",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-baskili-tisort-erkek-cocuk-3444839"
+        },
+        {
+          "excel_satiri": 20119,
+          "Product Option Code": "G6291A8.BR284",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Polo T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6291A8_26SP_BR284_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-baskili-tisort-erkek-cocuk-3444839",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-baskili-tisort-erkek-cocuk-3444839"
+        },
+        {
+          "excel_satiri": 20120,
+          "Product Option Code": "G6291A8.BR284",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Polo T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6291A8_26SP_BR284_01_03.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-baskili-tisort-erkek-cocuk-3444839",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/polo-yaka-baskili-tisort-erkek-cocuk-3444839"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6291A8_26SP_BR284_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:05:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/polo-yaka-baskili-tisort-erkek-cocuk-3444839",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "model_kodu": "H3311A5",
+  "urun_grubu": "Erkek Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3311A5BN45",
+      "renk_kodu": "BN45",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Ayı Baskılı Dikişsiz 3'lü Pamuklu Uzun Kahverengi Çorap Erkek Bebek",
+      "kisa_aciklama": "Erkek bebekler için ayı baskılı, yumuşak pamuklu ve dikişsiz yapısıyla minik ayakları gün boyu rahat ettiren 3'lü uzun kahverengi çorap…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ayi-baskili-dikissiz-3lu-pamuklu-uzun-kahverengi-corap-erkek-bebek-3428435",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3311A5_NS_BN45_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3311A5_NS_BN45_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3311A5_NS_BN45_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3311A5_NS_BN45_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 50%,Poliamid 24%,Elastan 2%,Poliester 24%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Erkek Bebek",
+        "corap_tipi": "Uzun Çorap"
+      },
+      "urun_hakkinda": [
+        "Erkek bebekler için ayı baskılı, yumuşak pamuklu ve dikişsiz yapısıyla minik ayakları gün boyu rahat ettiren 3'lü uzun kahverengi çorap…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 149.99,
+        "sepette_fiyat": 104.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27148,
+          "Product Option Code": "H3311A5.BN45",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "6-12 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3311A5_NS_BN45_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com/ayi-baskili-dikissiz-3lu-pamuklu-uzun-kahverengi-corap-erkek-bebek-3428435",
+          "Model Page URL": "https://www.defacto.com/ayi-baskili-dikissiz-3lu-pamuklu-uzun-kahverengi-corap-erkek-bebek-3428435"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3311A5_NS_BN45_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:22:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "model_kodu": "F1522AX",
+  "urun_grubu": "Erkek Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 11,
+    "yorum_sayisi": 11,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-27",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-11-18",
+        "puan": 3.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-11-15",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F1522AXBN584",
+      "renk_kodu": "BN584",
+      "renk_adi": "Camel",
+      "renk_hex": "#C19A6B",
+      "urun_adi": "Standart Fıt Yarım Fermuarlı Çizgili Triko Kazak",
+      "kisa_aciklama": "Standart Fıt Yarım Fermuarlı Çizgili Triko Kazak",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_BN584_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_BN584_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_BN584_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_BN584_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_BN584_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_BN584_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_BN584_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_BN584_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Uzun Kollu",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kumas_kalinligi": "Kalın",
+        "kalip": "Standart Fıt",
+        "kumas": "Triko"
+      },
+      "urun_hakkinda": [
+        "Standart Fıt Yarım Fermuarlı Çizgili Triko Kazak"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13805,
+          "Product Option Code": "F1522AX.BN584",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_BN584_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        },
+        {
+          "excel_satiri": 13806,
+          "Product Option Code": "F1522AX.BN584",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_BN584_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 7,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        },
+        {
+          "excel_satiri": 13807,
+          "Product Option Code": "F1522AX.BN584",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_BN584_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        },
+        {
+          "excel_satiri": 13808,
+          "Product Option Code": "F1522AX.BN584",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_BN584_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        },
+        {
+          "excel_satiri": 13809,
+          "Product Option Code": "F1522AX.BN584",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "CAMEL",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_BN584_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#C19A6B",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_BN584_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F1522AXER140",
+      "renk_kodu": "ER140",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Standart Fit Yarım Fermuarlı Çizgili Triko Kazak",
+      "kisa_aciklama": "Standart fit kesimi ve yarım fermuarlı tasarımıyla hem şık hem rahat olan çizgili triko kazak, soğuk günlerde sıcaklık ve stil…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3462136",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_ER140_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_ER140_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_ER140_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_ER140_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_ER140_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_ER140_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_ER140_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F1522AX_26AU_ER140_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Standart Fıt",
+        "kumas_kalinligi": "Kalın",
+        "kol_boyu": "Uzun Kollu",
+        "kumas": "Triko",
+        "triko_kalinligi": "İnce Kalınlık",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Standart fit kesimi ve yarım fermuarlı tasarımıyla hem şık hem rahat olan çizgili triko kazak, soğuk günlerde sıcaklık ve stil…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13810,
+          "Product Option Code": "F1522AX.ER140",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_ER140_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3462136",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        },
+        {
+          "excel_satiri": 13811,
+          "Product Option Code": "F1522AX.ER140",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_ER140_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 4,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3462136",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        },
+        {
+          "excel_satiri": 13812,
+          "Product Option Code": "F1522AX.ER140",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_ER140_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3462136",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        },
+        {
+          "excel_satiri": 13813,
+          "Product Option Code": "F1522AX.ER140",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_ER140_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3462136",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        },
+        {
+          "excel_satiri": 13814,
+          "Product Option Code": "F1522AX.ER140",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_ER140_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3462136",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-yarim-fermuarli-cizgili-triko-kazak-3460807"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/F1522AX_26AU_ER140_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:43:15+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

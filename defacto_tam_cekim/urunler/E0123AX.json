@@ -1,0 +1,121 @@
+{
+  "model_kodu": "E0123AX",
+  "urun_grubu": "Erkek Boxer",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 22,
+    "yorum_sayisi": 22,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-11",
+        "puan": 4.0,
+        "metin": "@Rengi capcanlı, gayet güzel. Renkleri de çok hoş."
+      },
+      {
+        "tarih": "2025-11-13",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet iyi. Kumaşı da çok kaliteli."
+      },
+      {
+        "tarih": "2025-11-19",
+        "puan": 5.0,
+        "metin": "@Harika! Çok teşekkür ederim. Sağ olun."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E0123AXNV135",
+      "renk_kodu": "NV135",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fıt Çizgili 3'lü Boxer",
+      "kisa_aciklama": "Modern ve dengeli bir silüet sunan Regular Fit kesimiyle gün boyu konforu şıklıkla birleştirir. Pamuklu esnek dokusu ve zamansız çizgili…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-cizgili-3lu-boxer-3402840",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E0123AX_26SP_NV135_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0123AX_26SP_NV135_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0123AX_26SP_NV135_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0123AX_26SP_NV135_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0123AX_26SP_NV135_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0123AX_26SP_NV135_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E0123AX_26SP_NV135_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "ic_giyim_kategori": "Boxer",
+        "takim_icerigi": "3'lü",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "desen": "Çizgili"
+      },
+      "urun_hakkinda": [
+        "Modern ve dengeli bir silüet sunan Regular Fit kesimiyle gün boyu konforu şıklıkla birleştirir. Pamuklu esnek dokusu ve zamansız çizgili…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10014,
+          "Product Option Code": "E0123AX.NV135",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Young",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/E0123AX_24AU_NV135_01_01.jpg",
+          "FabricDetail": "36/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-cizgili-3lu-boxer-3402840",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-cizgili-3lu-boxer-3402840"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/E0123AX_24AU_NV135_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:41:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

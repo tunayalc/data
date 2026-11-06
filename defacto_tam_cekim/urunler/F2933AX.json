@@ -1,0 +1,142 @@
+{
+  "model_kodu": "F2933AX",
+  "urun_grubu": "Kadın Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 27,
+    "yorum_sayisi": 27,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-02",
+        "puan": 5.0,
+        "metin": "@Ben çok beğendim bedenimden bir büyük aldım biraz bol oldu ama kötü durmadı renk kumaş olarak da çok iyi bir…"
+      },
+      {
+        "tarih": "2025-09-04",
+        "puan": 5.0,
+        "metin": "@Çok beğendim ince ve kibar boyu falanda iyi"
+      },
+      {
+        "tarih": "2025-04-15",
+        "puan": 5.0,
+        "metin": "@Çok beğendim. Esnek kumaşı var, biraz kısa ama güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F2933AXBN267",
+      "renk_kodu": "BN267",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Yüksek Bel Yırtmaçlı Mini Etek",
+      "kisa_aciklama": "Yüksek bel kadın kahverengi mini etek. Fermuarlı kapanışı ile şık ve zarif bir görünüm sağlar. İlkbahar/Yaz koleksiyonunun temel parçasıdır.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yuksek-bel-yirtmacli-mini-etek-3304604",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F2933AX_25SP_BN267_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2933AX_25SP_BN267_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2933AX_25SP_BN267_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2933AX_25SP_BN267_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F2933AX_25SP_BN267_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,78cm - 80/60/88",
+        "ana_kumas_icerigi": "Elastan 13%,Poliester 87%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "bel_detayi": "Yüksek Bel",
+        "cinsiyet": "Kadın",
+        "kapama_detayi": "Fermuarlı",
+        "urun_boyu": "Mını",
+        "urun_tipi": "Etek"
+      },
+      "urun_hakkinda": [
+        "Yüksek bel kadın kahverengi mini etek. Fermuarlı kapanışı ile şık ve zarif bir görünüm sağlar. İlkbahar/Yaz koleksiyonunun temel parçasıdır."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14247,
+          "Product Option Code": "F2933AX.BN267",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "40",
+          "Fit": "SKORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/F2933AX_25SP_BN267_01_03.jpg",
+          "FabricDetail": "DOUBLE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com/ar-iq/yuksek-bel-yirtmacli-mini-etek-3304604",
+          "Model Page URL": "https://www.defacto.com/ar-iq/yuksek-bel-yirtmacli-mini-etek-3304604"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/F2933AX_25SP_BN267_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:51:15+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

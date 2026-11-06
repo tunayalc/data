@@ -1,0 +1,88 @@
+{
+  "model_kodu": "I2620AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2620AXBN201",
+      "renk_kodu": "BN201",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Puantiyeli Fiyonk Kahverengi Saç Tokası",
+      "kisa_aciklama": "Kahverengi saten görünümlü fiyonk saç tokası. Uzun kurdele şerit detaylı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/puantiyeli-fiyonk-kahverengi-sac-tokasi-3495530",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2620AX_NS_BN201_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2620AX_NS_BN201_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2620AX_NS_BN201_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 80%,Demir 20%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kahverengi saten görünümlü fiyonk saç tokası. Uzun kurdele şerit detaylı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40477,
+          "Product Option Code": "I2620AX.BN201",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I2620AX_NS_BN201_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/puantiyeli-fiyonk-kahverengi-sac-tokasi-3495530",
+          "Model Page URL": "https://www.defacto.com.tr/puantiyeli-fiyonk-kahverengi-sac-tokasi-3495530"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I2620AX_NS_BN201_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:45:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

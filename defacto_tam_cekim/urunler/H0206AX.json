@@ -1,0 +1,477 @@
+{
+  "model_kodu": "H0206AX",
+  "urun_grubu": "Kadın Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-27",
+        "puan": 5.0,
+        "metin": "@dokusu ve rengi kalıbını beğenerek aldım"
+      },
+      {
+        "tarih": "2026-10-31",
+        "puan": 5.0,
+        "metin": "@Şahane ürün spor ve şık"
+      },
+      {
+        "tarih": "2026-10-31",
+        "puan": 5.0,
+        "metin": "@Beyaz kısımları ile çok hoş bir kazak tam beden"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0206AXGR156",
+      "renk_kodu": "GR156",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Yün Karışımlı Kazak",
+      "kisa_aciklama": "Regular fit kazak, rahat kesimi ve sade tasarımıyla günlük kullanıma uygundur. Yumuşak dokusu sayesinde konforlu ve zamansız bir stil sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3499328",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_GR156_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_GR156_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_GR156_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_GR156_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_GR156_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_GR156_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_GR156_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 83/60/90",
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Kazak",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kumas_kalinligi": "İnce",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kazak, rahat kesimi ve sade tasarımıyla günlük kullanıma uygundur. Yumuşak dokusu sayesinde konforlu ve zamansız bir stil sunar."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23800,
+          "Product Option Code": "H0206AX.GR156",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H0206AX_26AU_GR156_01_02.jpg",
+          "FabricDetail": "SINGLE PLATE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3499328",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137"
+        },
+        {
+          "excel_satiri": 23801,
+          "Product Option Code": "H0206AX.GR156",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H0206AX_26AU_GR156_01_02.jpg",
+          "FabricDetail": "SINGLE PLATE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3499328",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137"
+        },
+        {
+          "excel_satiri": 23802,
+          "Product Option Code": "H0206AX.GR156",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H0206AX_26AU_GR156_01_02.jpg",
+          "FabricDetail": "SINGLE PLATE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3499328",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H0206AX_26AU_GR156_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H0206AXNV131",
+      "renk_kodu": "NV131",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Yün Karışımlı Kazak",
+      "kisa_aciklama": "Regular fit kazak, rahat kesimi ve sade tasarımıyla günlük kullanıma uygundur. Yumuşak dokusu sayesinde konforlu ve zamansız bir stil sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26SP_NV131_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26SP_NV131_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26SP_NV131_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26SP_NV131_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26SP_NV131_05_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kazak",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kumas_kalinligi": "İnce"
+      },
+      "urun_hakkinda": [
+        "Regular fit kazak, rahat kesimi ve sade tasarımıyla günlük kullanıma uygundur. Yumuşak dokusu sayesinde konforlu ve zamansız bir stil sunar."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23803,
+          "Product Option Code": "H0206AX.NV131",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Pullover",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H0206AX_26SP_NV131_01_04.jpg",
+          "FabricDetail": "SINGLE PLATE",
+          "Toplam": 4,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137"
+        },
+        {
+          "excel_satiri": 23804,
+          "Product Option Code": "H0206AX.NV131",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Pullover",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H0206AX_26SP_NV131_01_04.jpg",
+          "FabricDetail": "SINGLE PLATE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137"
+        },
+        {
+          "excel_satiri": 23805,
+          "Product Option Code": "H0206AX.NV131",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Pullover",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H0206AX_26SP_NV131_01_04.jpg",
+          "FabricDetail": "SINGLE PLATE",
+          "Toplam": 3,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H0206AX_26SP_NV131_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H0206AXNV58",
+      "renk_kodu": "NV58",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fıt Bisiklet Yaka Yün Karışımlı Kazak",
+      "kisa_aciklama": "Regular fit kazak, rahat kesimi ve sade tasarımıyla günlük kullanıma uygundur. Yumuşak dokusu sayesinde konforlu ve zamansız bir stil sunar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3499329",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_NV58_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_NV58_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_NV58_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_NV58_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_NV58_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_NV58_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0206AX_26AU_NV58_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,73cm - 82/60/89",
+        "ana_kumas_icerigi": "Akrilik 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "triko_kalinligi": "İnce Kalınlık",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Kazak",
+        "kumas_kalinligi": "İnce",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kazak, rahat kesimi ve sade tasarımıyla günlük kullanıma uygundur. Yumuşak dokusu sayesinde konforlu ve zamansız bir stil sunar."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23806,
+          "Product Option Code": "H0206AX.NV58",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Pullover",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H0206AX_26AU_NV58_01_02.jpg",
+          "FabricDetail": "SINGLE PLATE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3499329",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137"
+        },
+        {
+          "excel_satiri": 23807,
+          "Product Option Code": "H0206AX.NV58",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Pullover",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H0206AX_26AU_NV58_01_02.jpg",
+          "FabricDetail": "SINGLE PLATE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3499329",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137"
+        },
+        {
+          "excel_satiri": 23808,
+          "Product Option Code": "H0206AX.NV58",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Core",
+          "Class Name": "Pullover",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H0206AX_26AU_NV58_01_02.jpg",
+          "FabricDetail": "SINGLE PLATE",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3499329",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-yun-karisimli-kazak-3412137"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H0206AX_26AU_NV58_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:13:30+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

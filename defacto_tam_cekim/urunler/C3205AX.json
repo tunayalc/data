@@ -1,0 +1,86 @@
+{
+  "model_kodu": "C3205AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C3205AXNV30",
+      "renk_kodu": "NV30",
+      "renk_adi": "NAVY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3776,
+          "Product Option Code": "C3205AX.NV30",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3205AX_24SP_NV30_01_01.jpg",
+          "FabricDetail": "Cotton / Modal",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-iq/fitted-modal-kisa-kollu-tisort-3142848",
+          "Model Page URL": "https://www.defacto.com/en-iq/fitted-modal-kisa-kollu-tisort-3142848"
+        },
+        {
+          "excel_satiri": 3777,
+          "Product Option Code": "C3205AX.NV30",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/C3205AX_24SP_NV30_01_01.jpg",
+          "FabricDetail": "Cotton / Modal",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/en-iq/fitted-modal-kisa-kollu-tisort-3142848",
+          "Model Page URL": "https://www.defacto.com/en-iq/fitted-modal-kisa-kollu-tisort-3142848"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/C3205AX_24SP_NV30_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:25:48+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fitted-modal-kisa-kollu-tisort-3142848",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

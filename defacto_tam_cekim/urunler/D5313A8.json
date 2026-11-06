@@ -1,0 +1,118 @@
+{
+  "model_kodu": "D5313A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-01",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-03-18",
+        "puan": 5.0,
+        "metin": "@Kızım için aldığımız bu ürünü çok güzel bulduk."
+      },
+      {
+        "tarih": "2025-08-12",
+        "puan": 4.0,
+        "metin": "@Rengine bayıldım ama rengi soluyor."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5313A8IN8",
+      "renk_kodu": "IN8",
+      "renk_adi": "Koyu İndigo",
+      "renk_hex": "#19025D",
+      "urun_adi": "Nakışlı Jean Cap Şapka Erkek Çocuk",
+      "kisa_aciklama": "Nakışlı jean cap şapka, modern ve şık bir görünüm sunar. Dayanıklı jean kumaşı günlük kullanımda rahatlık sağlar. Spor ve günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-cocuk-nakisli-jean-cap-sapka-3375855",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D5313A8_26SM_IN8_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5313A8_26SM_IN8_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5313A8_26SM_IN8_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5313A8_26SM_IN8_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5313A8_26SM_IN8_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5313A8_26SM_IN8_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5313A8_26SM_IN8_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5313A8_26SM_IN8_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "5-9 Yaş Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 71%,Poliamid 3%,Viskoz 3%,Poliester 23%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "54 cm",
+        "sapka_tipi": "Cap Şapka",
+        "desen": "Nakışlı",
+        "cinsiyet": "Erkek Çocuk"
+      },
+      "urun_hakkinda": [
+        "Nakışlı jean cap şapka, modern ve şık bir görünüm sunar. Dayanıklı jean kumaşı günlük kullanımda rahatlık sağlar. Spor ve günlük…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 349.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7962,
+          "Product Option Code": "D5313A8.IN8",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "D.INDIGO",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/D5313A8_25SM_IN8_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#19025D",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-cocuk-nakisli-jean-cap-sapka-3375855",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-cocuk-nakisli-jean-cap-sapka-3375855"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/D5313A8_25SM_IN8_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:35:56+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

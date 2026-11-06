@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H1984AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-04",
+        "puan": 5.0,
+        "metin": "@Çok kaliteli, beğendik teşekkür ederiz."
+      },
+      {
+        "tarih": "2026-05-26",
+        "puan": 5.0,
+        "metin": "@Yumuşacık çok rahat her rengini aldım"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1984AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Erkek 2'li Bambu Çorap",
+      "kisa_aciklama": "Erkek 2'li Bambu Çorap, doğanın sunduğu en yumuşak ve fonksiyonel lifleri ayaklarınıza taşıyor. Hem klasik ayakkabılarla hem de spor ayakkabılarla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-2li-bambu-bambu-corap-3424241",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1984AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1984AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1984AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1984AX_NS_KR1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 18%,Elastan 2%,Viskoz 80%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "corap_tipi": "Bambu Çorap",
+        "takim_icerigi": "2'li",
+        "kumas": "Bambu"
+      },
+      "urun_hakkinda": [
+        "Erkek 2'li Bambu Çorap, doğanın sunduğu en yumuşak ve fonksiyonel lifleri ayaklarınıza taşıyor. Hem klasik ayakkabılarla hem de spor ayakkabılarla…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 174.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25568,
+          "Product Option Code": "H1984AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "41-44",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H1984AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Bamboo",
+          "Toplam": 7,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-2li-bambu-bambu-corap-3424241",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-2li-bambu-bambu-corap-3424241"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H1984AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:19:00+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "model_kodu": "A1100A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1100A8OG96",
+      "renk_kodu": "OG96",
+      "renk_adi": "LT.SALMON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "10/11 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 122,
+          "Product Option Code": "A1100A8.OG96",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Knitted Pyjamas",
+          "Product Color Name": "LT.SALMON",
+          "SizeDefinition": "10/11 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23SM/A1100A8_23SM_OG96_01_02.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 349.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FFA07A",
+          "Product Page URL": "https://www.defacto.com/en-iq/kiz-cocuk-regular-fit-disney-bambi-lisansli-pijama-2799379",
+          "Model Page URL": "https://www.defacto.com/en-iq/kiz-cocuk-regular-fit-disney-bambi-lisansli-pijama-2799379"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23SM/A1100A8_23SM_OG96_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:19:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kiz-cocuk-regular-fit-disney-bambi-lisansli-pijama-2799379",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

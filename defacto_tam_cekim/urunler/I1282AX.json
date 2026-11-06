@@ -1,0 +1,91 @@
+{
+  "model_kodu": "I1282AX",
+  "urun_grubu": "Kadın Yüzük",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1282AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın 7'li Yüzük Seti",
+      "kisa_aciklama": "7 adet sarı renkli yüzük seti. Dört adet düz, bir adet burma dokulu, bir adet tırtıklı dokulu ve bir adet…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-7li-yuzuk-seti-3485849",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I1282AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1282AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I1282AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Çinko 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "7'li",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Yüzük"
+      },
+      "urun_hakkinda": [
+        "7 adet sarı renkli yüzük seti. Dört adet düz, bir adet burma dokulu, bir adet tırtıklı dokulu ve bir adet…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 209.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38864,
+          "Product Option Code": "I1282AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Ring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "S",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1282AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-7li-yuzuk-seti-3485849?waw_keyword=B6939A8RD282",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-7li-yuzuk-seti-3485849?waw_keyword=B6939A8RD282"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1282AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:53:33+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

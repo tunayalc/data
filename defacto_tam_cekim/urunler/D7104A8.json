@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D7104A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7104A8NM39",
+      "renk_kodu": "NM39",
+      "renk_adi": "LT.BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "7/8 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8496,
+          "Product Option Code": "D7104A8.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Jacket",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7104A8_25SP_NM39_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-denim-ceket-kiz-cocuk-3238636",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-denim-ceket-kiz-cocuk-3238636"
+        },
+        {
+          "excel_satiri": 8497,
+          "Product Option Code": "D7104A8.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Jacket",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7104A8_25SP_NM39_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-denim-ceket-kiz-cocuk-3238636",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-denim-ceket-kiz-cocuk-3238636"
+        },
+        {
+          "excel_satiri": 8498,
+          "Product Option Code": "D7104A8.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Jacket",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7104A8_25SP_NM39_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-denim-ceket-kiz-cocuk-3238636",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-denim-ceket-kiz-cocuk-3238636"
+        },
+        {
+          "excel_satiri": 8499,
+          "Product Option Code": "D7104A8.NM39",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Jacket",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "JACKET",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7104A8_25SP_NM39_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.eg/100-pamuk-denim-ceket-kiz-cocuk-3238636",
+          "Model Page URL": "https://www.defacto.com.eg/100-pamuk-denim-ceket-kiz-cocuk-3238636"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D7104A8_25SP_NM39_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:37:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-denim-ceket-kiz-cocuk-3238636",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

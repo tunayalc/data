@@ -1,0 +1,195 @@
+{
+  "model_kodu": "E1037AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-22",
+        "puan": 5.0,
+        "metin": "@Eşime aldım, bedeni tam geldi, kumaşı da gayet güzel. Fiyatına göre gayet iyi. Çok beğendim."
+      },
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Boy 177, 73 kilo, 30 beden oldu. Kargoda genelde pantolonlarda boy sıkıntısı olur, biraz kısa kalır ama bu üründe sıkıntı…"
+      },
+      {
+        "tarih": "2025-08-12",
+        "puan": 3.0,
+        "metin": "@Bej rengi ile bu yeşil renk arasında kalıp ve boy farkı var, birbirini tutmuyor. Bej 30 beden iken yeşil 32…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E1037AXGN425",
+      "renk_kodu": "GN425",
+      "renk_adi": "Açık Yeşil",
+      "renk_hex": "#B4EC9A",
+      "urun_adi": "Regular Jogger Gabardın Lastikli Paça Pantolon",
+      "kisa_aciklama": "Regular Jogger Gabardın Pantolon, rahat kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-jogger-gabardin-lastikli-paca-pantolon-3197209",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_GN425_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "excel": [
+          "32",
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "32 Beden - 1,90cm - 100/81/97",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cep_ve_fermuar_detayi": "Kargo Cepli",
+        "cinsiyet": "Erkek",
+        "kumas": "Gabardin"
+      },
+      "urun_hakkinda": [
+        "Regular Jogger Gabardın Pantolon, rahat kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 909.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10451,
+          "Product Option Code": "E1037AX.GN425",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "32",
+          "Fit": "Regular Jogger",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1037AX_24WN_GN425_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-jogger-gabardin-lastikli-paca-pantolon-3197209",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-jogger-gabardin-lastikli-paca-pantolon-3197208"
+        },
+        {
+          "excel_satiri": 10452,
+          "Product Option Code": "E1037AX.GN425",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.GREEN",
+          "SizeDefinition": "34",
+          "Fit": "Regular Jogger",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24WN/E1037AX_24WN_GN425_01_04.jpg",
+          "FabricDetail": "GABARDIN",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#B4EC9A",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-jogger-gabardin-lastikli-paca-pantolon-3197209",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-jogger-gabardin-lastikli-paca-pantolon-3197208"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24WN/E1037AX_24WN_GN425_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "E1037AXBG766",
+      "renk_kodu": "BG766",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "Regular Jogger Gabardın Lastikli Paça Pantolon",
+      "kisa_aciklama": "Regular Jogger Gabardın Pantolon, rahat kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-jogger-gabardin-lastikli-paca-pantolon-3197208",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_07_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_08_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E1037AX_24WN_BG766_10_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,90cm - 100/81/97",
+        "ana_kumas_icerigi": "Pamuk 98%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Gabardin",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Kargo Cepli"
+      },
+      "urun_hakkinda": [
+        "Regular Jogger Gabardın Pantolon, rahat kalıbı ve esnek beliyle gün boyu maksimum konfor sunar. Sportif lastikli paça kesimi sayesinde her…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 909.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:33:31+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

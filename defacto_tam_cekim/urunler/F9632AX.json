@@ -1,0 +1,251 @@
+{
+  "model_kodu": "F9632AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 75.0,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-24",
+        "puan": 5.0,
+        "metin": "@aynı göründüğü gibi tam bedeninizi alın"
+      },
+      {
+        "tarih": "2026-09-29",
+        "puan": 5.0,
+        "metin": "@ben çok beğendim kumaşı olsun rengi olsun bence bu renklerin daha çok model olarak gelmesi gerekiyor fiyat performans açıkçası"
+      },
+      {
+        "tarih": "2026-10-31",
+        "puan": 5.0,
+        "metin": "@Aynısından babama da Alaçam tam oldu M bedeni bana"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9632AXER100",
+      "renk_kodu": "ER100",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Pamuklu REGULAR FIT Uzun Kollu Tişört",
+      "kisa_aciklama": "Pamuklu REGULAR FIT Uzun Kollu Tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375593",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_ER100_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_ER100_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_ER100_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_ER100_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_ER100_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 50%,Elastan 1%,Viskoz 12%,Poliester 37%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Pamuklu REGULAR FIT Uzun Kollu Tişört"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17049,
+          "Product Option Code": "F9632AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Body",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9632AX_26SP_ER100_01_01.jpg",
+          "FabricDetail": "JAQUARED INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375593",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375592"
+        },
+        {
+          "excel_satiri": 17050,
+          "Product Option Code": "F9632AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Body",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9632AX_26SP_ER100_01_01.jpg",
+          "FabricDetail": "JAQUARED INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375593",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375592"
+        },
+        {
+          "excel_satiri": 17051,
+          "Product Option Code": "F9632AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Body",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9632AX_26SP_ER100_01_01.jpg",
+          "FabricDetail": "JAQUARED INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375593",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375592"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9632AX_26SP_ER100_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9632AXKH404",
+      "renk_kodu": "KH404",
+      "renk_adi": "Haki",
+      "renk_hex": "#767442",
+      "urun_adi": "Pamuklu REGULAR FIT Uzun Kollu Tişört",
+      "kisa_aciklama": "Pamuklu REGULAR FIT Uzun Kollu Tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375592",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_KH404_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_KH404_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_KH404_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_KH404_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9632AX_26SP_KH404_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 50%,Elastan 1%,Viskoz 12%,Poliester 37%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "yaka": "Polo Yaka",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Uzun Kollu",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Pamuklu REGULAR FIT Uzun Kollu Tişört"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17052,
+          "Product Option Code": "F9632AX.KH404",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Body",
+          "Product Color Name": "Khaki",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9632AX_26SP_KH404_01_01.jpg",
+          "FabricDetail": "JAQUARED INTERLOCK",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#767442",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375592",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-uzun-kollu-tisort-3375592"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9632AX_26SP_KH404_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:54:34+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

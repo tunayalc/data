@@ -1,0 +1,64 @@
+{
+  "model_kodu": "D5124AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5124AXRD54",
+      "renk_kodu": "RD54",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7873,
+          "Product Option Code": "D5124AX.RD54",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D5124AX_24AU_RD54_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 6,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-dik-yaka-basic-fermuarli-fitilli-kaskorse-crop-kirmizi-hirka-3156174",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-dik-yaka-basic-fermuarli-fitilli-kaskorse-crop-kirmizi-hirka-3156174"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D5124AX_24AU_RD54_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:35:41+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fitted-dik-yaka-basic-fermuarli-fitilli-kaskorse-crop-kirmizi-hirka-3156174",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

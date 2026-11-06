@@ -1,0 +1,97 @@
+{
+  "model_kodu": "H0832AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0832AXSR4",
+      "renk_kodu": "SR4",
+      "renk_adi": "Gümüş",
+      "renk_hex": null,
+      "urun_adi": "Kadın Taşlı Zincir Kolye",
+      "kisa_aciklama": "Zarif detaylarla tasarlanan kadın kolye, her kombine şıklık ve zarafet katar. Günlük kullanımda da özel anlarda da stilinizi tamamlayan zamansız…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-tasli-zincir-kolye-3414687",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0832AX_NS_SR4_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0832AX_NS_SR4_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Akrilik 10%,Demir 90%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "urun_olcusu": "6 cm",
+        "taki_tipi": "Kolye"
+      },
+      "urun_hakkinda": [
+        "Zarif detaylarla tasarlanan kadın kolye, her kombine şıklık ve zarafet katar. Günlük kullanımda da özel anlarda da stilinizi tamamlayan zamansız…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24276,
+          "Product Option Code": "H0832AX.SR4",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "SILVER",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H0832AX_NS_SR4_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C0C0C0",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-tasli-zincir-kolye-3489956",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-tasli-zincir-kolye-3489956"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H0832AX_NS_SR4_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:15:09+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kadin-tasli-zincir-kolye-3489956",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

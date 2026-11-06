@@ -1,0 +1,108 @@
+{
+  "model_kodu": "C8559AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8559AXBN294",
+      "renk_kodu": "BN294",
+      "renk_adi": "LT.BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "XL",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5453,
+          "Product Option Code": "C8559AX.BN294",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8559AX_24SM_BN294_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 9,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com/en-iq/fitted-v-yaka-keten-karisimli-kolsuz-bluz-3112475",
+          "Model Page URL": "https://www.defacto.com/en-iq/fitted-v-yaka-keten-karisimli-kolsuz-bluz-3112475"
+        },
+        {
+          "excel_satiri": 5454,
+          "Product Option Code": "C8559AX.BN294",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8559AX_24SM_BN294_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com/en-iq/fitted-v-yaka-keten-karisimli-kolsuz-bluz-3112475",
+          "Model Page URL": "https://www.defacto.com/en-iq/fitted-v-yaka-keten-karisimli-kolsuz-bluz-3112475"
+        },
+        {
+          "excel_satiri": 5455,
+          "Product Option Code": "C8559AX.BN294",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Sleeveless Blouse",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8559AX_24SM_BN294_01_02.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com/en-iq/fitted-v-yaka-keten-karisimli-kolsuz-bluz-3112475",
+          "Model Page URL": "https://www.defacto.com/en-iq/fitted-v-yaka-keten-karisimli-kolsuz-bluz-3112475"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C8559AX_24SM_BN294_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:28:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fitted-v-yaka-keten-karisimli-kolsuz-bluz-3112475",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "model_kodu": "I2229A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Atkı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2229A8RD1",
+      "renk_kodu": "RD1",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Marvel Comics Baskılı Polar Boyunluk Atkı Erkek Çocuk",
+      "kisa_aciklama": "Yumuşak polar dokulu, tamamı Marvel Avengers çizgi roman karakter baskılı, kenarları biyeli boyunluk atkı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/marvel-comics-baskili-polar-boyunluk-atki-erkek-cocuk-3513103",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2229A8_26WN_RD1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2229A8_26WN_RD1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2229A8_26WN_RD1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2229A8_26WN_RD1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2229A8_26WN_RD1_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 4%,Poliester 96%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "lisans_bilgisi": "Marvel Comıcs",
+        "cinsiyet": "Erkek Çocuk",
+        "kumas": "Polar"
+      },
+      "urun_hakkinda": [
+        "Yumuşak polar dokulu, tamamı Marvel Avengers çizgi roman karakter baskılı, kenarları biyeli boyunluk atkı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40046,
+          "Product Option Code": "I2229A8.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Scarf & Set",
+          "Product Color Name": "RED",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/sketch/StyleSeasonDesignSketchImage420502_Version_1/avengers_QGIC_PA03GG.jpg",
+          "FabricDetail": "POLAR",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/marvel-comics-baskili-polar-boyunluk-atki-erkek-cocuk-3513103",
+          "Model Page URL": "https://www.defacto.com.tr/marvel-comics-baskili-polar-boyunluk-atki-erkek-cocuk-3513103"
+        }
+      ],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:56:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

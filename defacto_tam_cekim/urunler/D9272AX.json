@@ -1,0 +1,108 @@
+{
+  "model_kodu": "D9272AX",
+  "urun_grubu": "Erkek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-31",
+        "puan": 5.0,
+        "metin": "@Çok kaliteli ve uygun fiyatlı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9272AXBK21",
+      "renk_kodu": "BK21",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Erkek Star Wars Cap Şapka",
+      "kisa_aciklama": "Star Wars lisanslı Yoda şapkası, siyah renk ve cap şapka tipi ile özgün bir tarz sunuyor. İlkbahar/Yaz mevsimlerinde kullanıma uygun…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-star-wars-cap-sapka-3207100",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9272AX_25SM_BK21_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9272AX_25SM_BK21_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9272AX_25SM_BK21_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9272AX_25SM_BK21_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9272AX_25SM_BK21_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9272AX_25SM_BK21_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9272AX_25SM_BK21_07_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9272AX_25SM_BK21_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,88cm - 93/72/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "lisans_bilgisi": "Star Wars",
+        "cinsiyet": "Erkek",
+        "urun_olcusu": "58 cm",
+        "sapka_tipi": "Cap Şapka"
+      },
+      "urun_hakkinda": [
+        "Star Wars lisanslı Yoda şapkası, siyah renk ve cap şapka tipi ile özgün bir tarz sunuyor. İlkbahar/Yaz mevsimlerinde kullanıma uygun…",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9590,
+          "Product Option Code": "D9272AX.BK21",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/D9272AX_26SM_BK21_01_01.jpg",
+          "FabricDetail": "VISCON POLYSTER",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-star-wars-cap-sapka-3207100",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-star-wars-cap-sapka-3207100"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/D9272AX_26SM_BK21_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:40:03+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

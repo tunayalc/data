@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D3364AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D3364AXGR184",
+      "renk_kodu": "GR184",
+      "renk_adi": "LT.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7080,
+          "Product Option Code": "D3364AX.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D3364AX_24SM_GR184_01_03.jpg",
+          "FabricDetail": "CO-EA",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-kisa-kollu-tisort-3144396",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-kisa-kollu-tisort-3144396"
+        },
+        {
+          "excel_satiri": 7081,
+          "Product Option Code": "D3364AX.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "M",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D3364AX_24SM_GR184_01_03.jpg",
+          "FabricDetail": "CO-EA",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-kisa-kollu-tisort-3144396",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-kisa-kollu-tisort-3144396"
+        },
+        {
+          "excel_satiri": 7082,
+          "Product Option Code": "D3364AX.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "S",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D3364AX_24SM_GR184_01_03.jpg",
+          "FabricDetail": "CO-EA",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-kisa-kollu-tisort-3144396",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-kisa-kollu-tisort-3144396"
+        },
+        {
+          "excel_satiri": 7083,
+          "Product Option Code": "D3364AX.GR184",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "XS",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D3364AX_24SM_GR184_01_03.jpg",
+          "FabricDetail": "CO-EA",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-kisa-kollu-tisort-3144396",
+          "Model Page URL": "https://www.defacto.com/en-ma/fitted-bisiklet-yaka-kisa-kollu-tisort-3144396"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D3364AX_24SM_GR184_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:32:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/fitted-bisiklet-yaka-kisa-kollu-tisort-3144396",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

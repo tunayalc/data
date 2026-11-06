@@ -1,0 +1,139 @@
+{
+  "model_kodu": "D2254A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek İç Giyim",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 18,
+    "yorum_sayisi": 18,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 40.0,
+      "tam_oldu": 60.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-04",
+        "puan": 5.0,
+        "metin": "@Kaliteli ama bedene göre aldım. Çok kısa oldu, keşke 3-4 yaş büyük alsaydım."
+      },
+      {
+        "tarih": "2026-02-18",
+        "puan": 5.0,
+        "metin": "@Harika! Çok hoşuma gitti."
+      },
+      {
+        "tarih": "2025-11-06",
+        "puan": 5.0,
+        "metin": "@Harika! Çok hoşuma gitti, 10 yaşındaki oğluma almıştım, biz de beğendik."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D2254A8WT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "%100 Pamuk 5'li Atlet Erkek Çocuk",
+      "kisa_aciklama": "5'li Atlet Erkek Çocuk",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-5li-atlet-erkek-cocuk-3448710",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D2254A8_26SM_WT34_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D2254A8_26SM_WT34_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D2254A8_26SM_WT34_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)"
+        ],
+        "excel": [
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Erkek Çocuk",
+        "kalip": "Regular Fıt",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "5'li Atlet Erkek Çocuk"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6690,
+          "Product Option Code": "D2254A8.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/D2254A8_26SM_WT34_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-5li-atlet-erkek-cocuk-3448710",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-5li-atlet-erkek-cocuk-3448710"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/D2254A8_26SM_WT34_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:31:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

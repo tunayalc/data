@@ -1,0 +1,164 @@
+{
+  "model_kodu": "F0998AX",
+  "urun_grubu": "Kadın Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 24,
+    "yorum_sayisi": 24,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 42.1,
+      "tam_oldu": 26.3,
+      "buyuk_geldi": 31.6
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-16",
+        "puan": 5.0,
+        "metin": "@iki rengi de aldım yaz için ideal"
+      },
+      {
+        "tarih": "2026-01-02",
+        "puan": 4.0,
+        "metin": "@Harika! Sağ olun. Teşekkür ederim."
+      },
+      {
+        "tarih": "2026-01-10",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0998AXBN340",
+      "renk_kodu": "BN340",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Wıde Leg Modal Pantolon",
+      "kisa_aciklama": "Wide leg kesimi ve cepli tasarımıyla bu modal pantolon, rahatlığı ve şıklığı bir arada sunar. Yumuşak dokusuyla gün boyu konfor…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-pantolon-3300278",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0998AX_25AU_BN340_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0998AX_25AU_BN340_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0998AX_25AU_BN340_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0998AX_25AU_BN340_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0998AX_25AU_BN340_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0998AX_25AU_BN340_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm",
+        "ana_kumas_icerigi": "Elastan 4%,Modal 32%,Poliester 64%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kumas": "Modal",
+        "kalip": "Wıde Leg",
+        "cinsiyet": "Kadın",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Wide leg kesimi ve cepli tasarımıyla bu modal pantolon, rahatlığı ve şıklığı bir arada sunar. Yumuşak dokusuyla gün boyu konfor…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13690,
+          "Product Option Code": "F0998AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Core",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F0998AX_25AU_BN340_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3300278",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3300278"
+        },
+        {
+          "excel_satiri": 13691,
+          "Product Option Code": "F0998AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Core",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XS",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/F0998AX_25AU_BN340_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3300278",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-pantolon-3300278"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/F0998AX_25AU_BN340_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:42:57+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

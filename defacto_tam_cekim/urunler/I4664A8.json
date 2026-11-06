@@ -1,0 +1,151 @@
+{
+  "model_kodu": "I4664A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-22",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-17",
+        "puan": 5.0,
+        "metin": "@Ürün ince değil , gayet şık ve sık"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I4664A8PN1",
+      "renk_kodu": "PN1",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Hello Kitty Baskılı Külotlu Çorap Kız Çocuk",
+      "kisa_aciklama": "Hello Kitty lisanslı ürün. Hello Kitty baskılı külotlu çorap.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/hello-kitty-baskili-kulotlu-corap-kiz-cocuk-3514281",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I4664A8_NS_PN1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4664A8_NS_PN1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I4664A8_NS_PN1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "9/10 Yaş (140cm)"
+        ],
+        "excel": [
+          "5/6 Y",
+          "7/8 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 92%,Elastan 8%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "corap_tipi": "Külotlu Çorap",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Hello Kitty lisanslı ürün. Hello Kitty baskılı külotlu çorap.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 149.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 42812,
+          "Product Option Code": "I4664A8.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4664A8_NS_PN1_01_01.jpg",
+          "FabricDetail": "POLIAMIT",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        },
+        {
+          "excel_satiri": 42813,
+          "Product Option Code": "I4664A8.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4664A8_NS_PN1_01_01.jpg",
+          "FabricDetail": "POLIAMIT",
+          "Toplam": 3,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        },
+        {
+          "excel_satiri": 42814,
+          "Product Option Code": "I4664A8.PN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I4664A8_NS_PN1_01_01.jpg",
+          "FabricDetail": "POLIAMIT",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "Doğrulanamadı",
+          "Model Page URL": "Doğrulanamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I4664A8_NS_PN1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:03:31+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "model_kodu": "F3577AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "F3577AXBE511",
+      "renk_kodu": "BE511",
+      "renk_adi": "BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14461,
+          "Product Option Code": "F3577AX.BE511",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "42",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F3577AX_25SM_BE511_01_09.jpg",
+          "FabricDetail": "MUSLIN",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com/a-kesim-cizgili-normal-bel-cepli-muslin-sort-3311925",
+          "Model Page URL": "https://www.defacto.com/a-kesim-cizgili-normal-bel-cepli-muslin-sort-3311925"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F3577AX_25SM_BE511_01_09.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:51:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/a-kesim-cizgili-normal-bel-cepli-muslin-sort-3311925",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

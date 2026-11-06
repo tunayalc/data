@@ -1,0 +1,517 @@
+{
+  "model_kodu": "F7993AX",
+  "urun_grubu": "Kadın Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 16.7,
+      "buyuk_geldi": 16.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-05",
+        "puan": 5.0,
+        "metin": "@38 Beden tam geldi, rengi göründüğü gibi, biraz basenli gösteriyor."
+      },
+      {
+        "tarih": "2025-11-06",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-09-12",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F7993AXBG207",
+      "renk_kodu": "BG207",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "A Kesim Yüksek Bel Poplin Mıdı Etek",
+      "kisa_aciklama": "Ekru Poplin Midi Etek, Yüksek Bel detayı ve A Kesim kalıbıyla öne çıkıyor.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BG207_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BG207_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BG207_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BG207_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BG207_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "40",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,74cm - 78/60/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Etek",
+        "kumas": "Poplin",
+        "bel_detayi": "Yüksek Bel",
+        "markalar": "Coool",
+        "kalip": "A Kesim",
+        "urun_boyu": "Mıdı"
+      },
+      "urun_hakkinda": [
+        "Ekru Poplin Midi Etek, Yüksek Bel detayı ve A Kesim kalıbıyla öne çıkıyor."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15958,
+          "Product Option Code": "F7993AX.BG207",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "40",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_BG207_01_01.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666"
+        },
+        {
+          "excel_satiri": 15959,
+          "Product Option Code": "F7993AX.BG207",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "42",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_BG207_01_01.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_BG207_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F7993AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "A Kesim Yüksek Bel Poplin Mıdı Etek",
+      "kisa_aciklama": "Beyaz Poplin Midi Etek, Yüksek Bel detayı ve A Kesim kalıbıyla öne çıkıyor.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3484410",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_WT32_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_WT32_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_WT32_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_WT32_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_WT32_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_WT32_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "40",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Poplin",
+        "bel_detayi": "Yüksek Bel",
+        "markalar": "Coool",
+        "cinsiyet": "Kadın",
+        "urun_boyu": "Mıdı",
+        "kalip": "A Kesim",
+        "urun_tipi": "Etek"
+      },
+      "urun_hakkinda": [
+        "Beyaz Poplin Midi Etek, Yüksek Bel detayı ve A Kesim kalıbıyla öne çıkıyor."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15960,
+          "Product Option Code": "F7993AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "40",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_WT32_01_01.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3484410",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666"
+        },
+        {
+          "excel_satiri": 15961,
+          "Product Option Code": "F7993AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "42",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_WT32_01_01.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3484410",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_WT32_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F7993AXYL252",
+      "renk_kodu": "YL252",
+      "renk_adi": "Sarı",
+      "renk_hex": "#FFFF00",
+      "urun_adi": "A Kesim Yüksek Bel Poplin Mıdı Etek",
+      "kisa_aciklama": "Sarı Poplin Midi Etek, Yüksek Bel detayı ve A Kesim kalıbıyla öne çıkıyor.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3478085",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_YL252_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_YL252_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_YL252_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_YL252_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_YL252_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_YL252_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "38",
+          "40",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Etek",
+        "markalar": "Coool",
+        "kalip": "A Kesim",
+        "cinsiyet": "Kadın",
+        "kumas": "Poplin",
+        "urun_boyu": "Mıdı",
+        "bel_detayi": "Yüksek Bel"
+      },
+      "urun_hakkinda": [
+        "Sarı Poplin Midi Etek, Yüksek Bel detayı ve A Kesim kalıbıyla öne çıkıyor."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15962,
+          "Product Option Code": "F7993AX.YL252",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "38",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_YL252_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3478085",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666"
+        },
+        {
+          "excel_satiri": 15963,
+          "Product Option Code": "F7993AX.YL252",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "40",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_YL252_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3478085",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666"
+        },
+        {
+          "excel_satiri": 15964,
+          "Product Option Code": "F7993AX.YL252",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "YELLOW",
+          "SizeDefinition": "42",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_YL252_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFF00",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3478085",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420666"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F7993AX_26SP_YL252_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F7993AXBN549",
+      "renk_kodu": "BN549",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "A Kesim Yüksek Bel Poplin Mıdı Etek",
+      "kisa_aciklama": "A kesim ve yüksek bel tasarımıyla bu poplin midi etek, zarif ve feminen bir siluet sunar. Hafif ve nefes alabilen…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3420667",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BN549_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BN549_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BN549_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BN549_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BN549_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_BN549_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Etek",
+        "urun_boyu": "Mıdı",
+        "kumas": "Poplin",
+        "markalar": "Coool",
+        "cinsiyet": "Kadın",
+        "kalip": "A Kesim",
+        "bel_detayi": "Yüksek Bel"
+      },
+      "urun_hakkinda": [
+        "A kesim ve yüksek bel tasarımıyla bu poplin midi etek, zarif ve feminen bir siluet sunar. Hafif ve nefes alabilen…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F7993AXRD256",
+      "renk_kodu": "RD256",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "A Kesim Yüksek Bel Poplin Mıdı Etek",
+      "kisa_aciklama": "A kesim ve yüksek bel tasarımıyla bu poplin midi etek, zarif ve feminen bir siluet sunar. Hafif ve nefes alabilen…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/a-kesim-yuksek-bel-poplin-midi-etek-3484411",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_RD256_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_RD256_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_RD256_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_RD256_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F7993AX_26SP_RD256_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "A Kesim",
+        "bel_detayi": "Yüksek Bel",
+        "cinsiyet": "Kadın",
+        "markalar": "Coool",
+        "urun_tipi": "Etek",
+        "kumas": "Poplin",
+        "urun_boyu": "Mıdı"
+      },
+      "urun_hakkinda": [
+        "A kesim ve yüksek bel tasarımıyla bu poplin midi etek, zarif ve feminen bir siluet sunar. Hafif ve nefes alabilen…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:51:05+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

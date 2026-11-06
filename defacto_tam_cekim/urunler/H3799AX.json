@@ -1,0 +1,192 @@
+{
+  "model_kodu": "H3799AX",
+  "urun_grubu": "Kadın Sütyen",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 33.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-19",
+        "puan": 3.0,
+        "metin": "@aşırı tatlı ama maalesef çok büyük küçük beden almama rağmen"
+      },
+      {
+        "tarih": "2026-09-01",
+        "puan": 5.0,
+        "metin": "@İçi dolgulu kalitesi de çok güzel, tavsiye ederim"
+      },
+      {
+        "tarih": "2026-09-30",
+        "puan": 5.0,
+        "metin": "@güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3799AXBE550",
+      "renk_kodu": "BE550",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Poplin Kaplı Push Up Balenli Çizgili Bra",
+      "kisa_aciklama": "Poplin kumaştan üretilmiş balenli kaplı bra.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/poplin-kapli-push-up-balenli-cizgili-bra-3443041",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3799AX_26SP_BE550_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3799AX_26SP_BE550_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3799AX_26SP_BE550_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3799AX_26SP_BE550_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3799AX_26SP_BE550_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3799AX_26SP_BE550_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3799AX_26SP_BE550_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3799AX_26SP_BE550_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "70/B",
+          "75/A",
+          "75/B",
+          "80/A",
+          "80/B",
+          "85/B"
+        ],
+        "excel": [
+          "70/B",
+          "75/B",
+          "85/B"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "75/B Beden - 1,72cm - 84/59/85",
+        "ana_kumas_icerigi": "Pamuk 59%,Elastan 1%,Poliester 40%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Poplin",
+        "urun_tipi": "Bra",
+        "sutyen_kap_detayi": "Kaplı",
+        "ic_giyim_kategori": "Bra",
+        "markalar": "Fall ın Love",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Poplin kumaştan üretilmiş balenli kaplı bra.",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27784,
+          "Product Option Code": "H3799AX.BE550",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Bra",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "70/B",
+          "Fit": "STRAPLESS BRA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H3799AX_26SP_BE550_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/en-ma/poplin-kapli-push-up-balenli-cizgili-bra-3443041",
+          "Model Page URL": "https://www.defacto.com/en-ma/poplin-kapli-push-up-balenli-cizgili-bra-3443041"
+        },
+        {
+          "excel_satiri": 27785,
+          "Product Option Code": "H3799AX.BE550",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Bra",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "75/B",
+          "Fit": "STRAPLESS BRA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H3799AX_26SP_BE550_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/en-ma/poplin-kapli-push-up-balenli-cizgili-bra-3443041",
+          "Model Page URL": "https://www.defacto.com/en-ma/poplin-kapli-push-up-balenli-cizgili-bra-3443041"
+        },
+        {
+          "excel_satiri": 27786,
+          "Product Option Code": "H3799AX.BE550",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Bra",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "85/B",
+          "Fit": "STRAPLESS BRA",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H3799AX_26SP_BE550_01_02.jpg",
+          "FabricDetail": "POPLIN",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/en-ma/poplin-kapli-push-up-balenli-cizgili-bra-3443041",
+          "Model Page URL": "https://www.defacto.com/en-ma/poplin-kapli-push-up-balenli-cizgili-bra-3443041"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H3799AX_26SP_BE550_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:23:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

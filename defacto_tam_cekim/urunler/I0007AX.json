@@ -1,0 +1,101 @@
+{
+  "model_kodu": "I0007AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": 1.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 100.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-18",
+        "puan": 1.0,
+        "metin": "@Resımde gorundugu gıbı degıl"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0007AXPN50",
+      "renk_kodu": "PN50",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Kadın 2'li Çiçekli Pembe Saç Tokası",
+      "kisa_aciklama": "Kadın 2'li saç aksesuarı. Çiçek formunda iki farklı pembe tonda parçadan oluşur. Her bir aksesuarın ortasında inci detayı bulunur. Kumaş…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-2li-cicekli-pembe-sac-tokasi-3478717",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0007AX_NS_PN50_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0007AX_NS_PN50_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0007AX_NS_PN50_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0007AX_NS_PN50_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,73cm - 76/60/90",
+        "ana_kumas_icerigi": "Akrilik 5%,Poliester 35%,Demir 60%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın 2'li saç aksesuarı. Çiçek formunda iki farklı pembe tonda parçadan oluşur. Her bir aksesuarın ortasında inci detayı bulunur. Kumaş…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37155,
+          "Product Option Code": "I0007AX.PN50",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I0007AX_NS_PN50_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-2li-cicekli-pembe-sac-tokasi-3478717",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-2li-cicekli-pembe-sac-tokasi-3478717"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I0007AX_NS_PN50_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:39:52+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

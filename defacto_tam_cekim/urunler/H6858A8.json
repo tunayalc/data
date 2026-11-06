@@ -1,0 +1,131 @@
+{
+  "model_kodu": "H6858A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-08",
+        "puan": 5.0,
+        "metin": "@bir iki beden buyuk aldim. cok begendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H6858A8BK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Bisiklet Yaka Desenli Atlet Kız Çocuk",
+      "kisa_aciklama": "Ribanalı örme kumaştan, bisiklet yaka ve kolsuz atlet. Yatay siyah beyaz çizgili desene ve kontrast renkli yaka ve kol ağzı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/bisiklet-yaka-desenli-atlet-kiz-cocuk-3478729",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6858A8_26HS_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6858A8_26HS_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6858A8_26HS_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6858A8_26HS_BK81_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6858A8_26HS_BK81_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "5/6 Y",
+          "8/9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,35cm",
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 32%,Poliester 66%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kolsuz",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Kız Çocuk",
+        "kumas": "Ribana"
+      },
+      "urun_hakkinda": [
+        "Ribanalı örme kumaştan, bisiklet yaka ve kolsuz atlet. Yatay siyah beyaz çizgili desene ve kontrast renkli yaka ve kol ağzı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 32102,
+          "Product Option Code": "H6858A8.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "ATHLETE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H6858A8_26HS_BK81_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-desenli-atlet-kiz-cocuk-3478729",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-desenli-atlet-kiz-cocuk-3478729"
+        },
+        {
+          "excel_satiri": 32103,
+          "Product Option Code": "H6858A8.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "ATHLETE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H6858A8_26HS_BK81_01_02.jpg",
+          "FabricDetail": "RIB",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-desenli-atlet-kiz-cocuk-3478729",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-desenli-atlet-kiz-cocuk-3478729"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H6858A8_26HS_BK81_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:36:52+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

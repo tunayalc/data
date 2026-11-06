@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D6564AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D6564AXBR244",
+      "renk_kodu": "BR244",
+      "renk_adi": "RED",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "XXL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8301,
+          "Product Option Code": "D6564AX.BR244",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "RED",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D6564AX_25SP_BR244_01_04.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/nba-chicago-bulls-standart-fit-cepli-beli-bagcikli-kalin-jogger-esofman-alti-3240907",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/nba-chicago-bulls-standart-fit-cepli-beli-bagcikli-kalin-jogger-esofman-alti-3240907"
+        },
+        {
+          "excel_satiri": 8302,
+          "Product Option Code": "D6564AX.BR244",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "RED",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D6564AX_25SP_BR244_01_04.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/nba-chicago-bulls-standart-fit-cepli-beli-bagcikli-kalin-jogger-esofman-alti-3240907",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/nba-chicago-bulls-standart-fit-cepli-beli-bagcikli-kalin-jogger-esofman-alti-3240907"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D6564AX_25SP_BR244_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:36:57+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/nba-chicago-bulls-standart-fit-cepli-beli-bagcikli-kalin-jogger-esofman-alti-3240907",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

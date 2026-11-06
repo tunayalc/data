@@ -1,0 +1,166 @@
+{
+  "model_kodu": "I6894AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I6894AXNM36",
+      "renk_kodu": "NM36",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Regular Fit Yıkamalı Jean Bermuda",
+      "kisa_aciklama": "Regular fit bermuda şort. Yıkama efektli, beş cepli denim bermuda şort. Kemer köprülü bel. Önü metal düğme ve fermuar kapamalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-yikamali-jean-bermuda-3521387",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6894AX_26AU_NM36_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6894AX_26AU_NM36_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6894AX_26AU_NM36_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6894AX_26AU_NM36_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6894AX_26AU_NM36_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6894AX_26AU_NM36_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6894AX_26AU_NM36_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I6894AX_26AU_NM36_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,88cm - 104/76/96",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit bermuda şort. Yıkama efektli, beş cepli denim bermuda şort. Kemer köprülü bel. Önü metal düğme ve fermuar kapamalı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44186,
+          "Product Option Code": "I6894AX.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "28",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I6894AX_26AU_NM36_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-yikamali-jean-bermuda-3521387",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yikamali-jean-bermuda-3521387"
+        },
+        {
+          "excel_satiri": 44187,
+          "Product Option Code": "I6894AX.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "30",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I6894AX_26AU_NM36_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-yikamali-jean-bermuda-3521387",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yikamali-jean-bermuda-3521387"
+        },
+        {
+          "excel_satiri": 44188,
+          "Product Option Code": "I6894AX.NM36",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Bermuda",
+          "Product Color Name": "ANTHRA",
+          "SizeDefinition": "32",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/I6894AX_26AU_NM36_01_03.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-yikamali-jean-bermuda-3521387",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yikamali-jean-bermuda-3521387"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/I6894AX_26AU_NM36_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:07:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

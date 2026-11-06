@@ -1,0 +1,105 @@
+{
+  "model_kodu": "G9258AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@kumaşını çok beğendim, rengi de aynı göründüğü gibi gayet güzel ben. tişörtlerde bolluğu sevdiğim için en büyük bedeni aldım. gayet…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G9258AXYL507",
+      "renk_kodu": "YL507",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "Bisiklet Yaka Çiçekli Kısa Kollu Tişört",
+      "kisa_aciklama": "Yetişkin kadınlar için ilkbahar/yaz koleksiyonumuza hoş geldiniz. Çiçekli sarı kısa kollu tişört, baskılı yarasa kol detayıyla dikkat çekiyor. Şık bisiklet…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/bisiklet-yaka-cicekli-kisa-kollu-tisort-3419067",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G9258AX_26HS_YL507_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9258AX_26HS_YL507_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9258AX_26HS_YL507_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9258AX_26HS_YL507_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G9258AX_26HS_YL507_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Viskoz 35%,Poliester 65%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Kadın",
+        "yaka": "Bisiklet Yaka",
+        "desen": "Çiçekli"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için ilkbahar/yaz koleksiyonumuza hoş geldiniz. Çiçekli sarı kısa kollu tişört, baskılı yarasa kol detayıyla dikkat çekiyor. Şık bisiklet…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22945,
+          "Product Option Code": "G9258AX.YL507",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "XXL",
+          "Fit": "BATWİNG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/G9258AX_26HS_YL507_01_02.jpg",
+          "FabricDetail": "POLYVISCONE",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/bisiklet-yaka-cicekli-kisa-kollu-tisort-3419067",
+          "Model Page URL": "https://www.defacto.com.tr/bisiklet-yaka-cicekli-kisa-kollu-tisort-3419067"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/G9258AX_26HS_YL507_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:13:20+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

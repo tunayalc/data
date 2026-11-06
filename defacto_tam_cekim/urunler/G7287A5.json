@@ -1,0 +1,64 @@
+{
+  "model_kodu": "G7287A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7287A5KH434",
+      "renk_kodu": "KH434",
+      "renk_adi": "LT.KHAKI",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "12-18 M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21107,
+          "Product Option Code": "G7287A5.KH434",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "12-18 M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7287A5_26SM_KH434_01_02.jpg",
+          "FabricDetail": "2 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.eg/beli-lastikli-2li-sort-erkek-bebek-3444965",
+          "Model Page URL": "https://www.defacto.com.eg/beli-lastikli-2li-sort-erkek-bebek-3444965"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G7287A5_26SM_KH434_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:08:34+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/beli-lastikli-2li-sort-erkek-bebek-3444965",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

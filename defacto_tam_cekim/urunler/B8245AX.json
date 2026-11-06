@@ -1,0 +1,124 @@
+{
+  "model_kodu": "B8245AX",
+  "urun_grubu": "Kadın Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 27,
+    "yorum_sayisi": 27,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 11.1,
+      "tam_oldu": 77.8,
+      "buyuk_geldi": 11.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-04-05",
+        "puan": 4.0,
+        "metin": "@pantolon kumaşı biraz tok değil 168. 85 kılo 44 beden 3 sezeryan doğum karnı var 44 tam oldu"
+      },
+      {
+        "tarih": "2024-06-15",
+        "puan": 5.0,
+        "metin": "@çok iyi"
+      },
+      {
+        "tarih": "2024-01-15",
+        "puan": 5.0,
+        "metin": "@Pantolon çok güzel ancak 38 bedenim birazcik bel kismindan dar oldu ve paca boyu birazcik uzun."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B8245AXNM34",
+      "renk_kodu": "NM34",
+      "renk_adi": "Koyu Mavi",
+      "renk_hex": "#00008B",
+      "urun_adi": "Wıde Leg Kargo Yüksek Bel Jean Pantolon",
+      "kisa_aciklama": "Modern ve güçlü bir stil sunan Wide Leg Kargo Yüksek Bel Jean Pantolon, geniş paça tasarımıyla rahat ve özgür bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-kargo-yuksek-bel-jean-pantolon-3058622",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B8245AX_24SP_NM34_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8245AX_24SP_NM34_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8245AX_24SP_NM34_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8245AX_24SP_NM34_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8245AX_24SP_NM34_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8245AX_24SP_NM34_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8245AX_24SP_NM34_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8245AX_24SP_NM34_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B8245AX_24SP_NM34_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "32",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,78cm - 79/57/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yikama_detayi": "Yıkamalı",
+        "cinsiyet": "Kadın",
+        "bel_detayi": "Yüksek Bel"
+      },
+      "urun_hakkinda": [
+        "Modern ve güçlü bir stil sunan Wide Leg Kargo Yüksek Bel Jean Pantolon, geniş paça tasarımıyla rahat ve özgür bir…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 2510,
+          "Product Option Code": "B8245AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "44",
+          "Fit": "WIDELEG CARGO",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B8245AX_24SP_NM34_01_01.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-kargo-yuksek-bel-jean-pantolon-3058622",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-kargo-yuksek-bel-jean-pantolon-3058622"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/B8245AX_24SP_NM34_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:23:34+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

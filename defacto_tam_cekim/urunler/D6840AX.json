@@ -1,0 +1,146 @@
+{
+  "model_kodu": "D6840AX",
+  "urun_grubu": "Kadın Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 12,
+    "yorum_sayisi": 12,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 20.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 40.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-11-06",
+        "puan": 3.0,
+        "metin": "@Ürün rengi kalinligi güzel ama modelde dizde bitiyor ama giydiğimde midi etwk boyunda oluyor ve biraz bol geldi"
+      },
+      {
+        "tarih": "2024-10-25",
+        "puan": 5.0,
+        "metin": "@mağazada S beden olmadığı için L beden denemiştim onlineden sipariş verdim iki üç gün içinde elime ulaştı harika bir şey…"
+      },
+      {
+        "tarih": "2025-03-14",
+        "puan": 2.0,
+        "metin": "@Mankende görüp elbiseyi çok beğenip sipariş ettim ama giyindiğimde omuz kısmı hiç yerinde durmuyor kolumu indirip kaldırdığımda boynuma geri toplanıyordu…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D6840AXBN340",
+      "renk_kodu": "BN340",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Fitted Açık Omuz Ribana Uzun Kollu Midi Elbise",
+      "kisa_aciklama": "Fitted Açık Omuz Ribana Uzun Kollu Midi Elbise, vücuda oturan kesimi ve şık açık omuz detayıyla zarif bir siluet yaratır.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fitted-acik-omuz-ribana-uzun-kollu-elbise-3305244",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D6840AX_25AU_BN340_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6840AX_25AU_BN340_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6840AX_25AU_BN340_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6840AX_25AU_BN340_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D6840AX_25AU_BN340_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,74cm - 82/59/89",
+        "ana_kumas_icerigi": "Viskoz 93%,Poliester 7%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kumas_kalinligi": "İnce",
+        "ozel_urun": "Trend",
+        "kumas": "Triko",
+        "triko_kalinligi": "İnce Kalınlık",
+        "yaka": "Açık Omuz",
+        "kalip": "Fıtted",
+        "urun_tipi": "Elbise",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Fitted Açık Omuz Ribana Uzun Kollu Midi Elbise, vücuda oturan kesimi ve şık açık omuz detayıyla zarif bir siluet yaratır.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8439,
+          "Product Option Code": "D6840AX.BN340",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Dress",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "FITTED",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/D6840AX_25AU_BN340_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/fitted-acik-omuz-ribana-uzun-kollu-elbise-3305244",
+          "Model Page URL": "https://www.defacto.com.tr/fitted-acik-omuz-ribana-uzun-kollu-elbise-3305244"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/D6840AX_25AU_BN340_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:37:13+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

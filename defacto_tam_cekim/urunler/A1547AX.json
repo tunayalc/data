@@ -1,0 +1,122 @@
+{
+  "model_kodu": "A1547AX",
+  "urun_grubu": "Kadın Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 11,
+    "yorum_sayisi": 11,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 81.8,
+      "buyuk_geldi": 18.2
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-02-28",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-01-26",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-01-17",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1547AXGR184",
+      "renk_kodu": "GR184",
+      "renk_adi": "Açık Gri",
+      "renk_hex": "#A2A2A2",
+      "urun_adi": "DeFactoFit Fermuarlı Cepli Spor Hafif Mont",
+      "kisa_aciklama": "İçi astarlı sıcak tutan kumaşı, ayarlanabilir yapısı, dik yaka, fonksiyonel cep detaylı modeli ile çok şık, serin havaların spor kombininin…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/defacto-fit-regular-fit-mont-2795395",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_07_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_08_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1547AX_23AU_GR184_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 84/61/90",
+        "ana_kumas_icerigi": "Poliester 74%,Elastomultiester 26%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Regular Fıt",
+        "kapama_detayi": "Fermuarlı",
+        "dis_giyim_urun_grubu": "Mont"
+      },
+      "urun_hakkinda": [
+        "İçi astarlı sıcak tutan kumaşı, ayarlanabilir yapısı, dik yaka, fonksiyonel cep detaylı modeli ile çok şık, serin havaların spor kombininin…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1699.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 151,
+          "Product Option Code": "A1547AX.GR184",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23AU/A1547AX_23AU_GR184_01_03.jpg",
+          "FabricDetail": "PES",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com/defacto-fit-regular-fit-mont-2795395",
+          "Model Page URL": "https://www.defacto.com/defacto-fit-regular-fit-mont-2795395"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23AU/A1547AX_23AU_GR184_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:19:55+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "model_kodu": "H0027AX",
+  "urun_grubu": "Kadın Tesettür Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 62.5,
+      "tam_oldu": 25.0,
+      "buyuk_geldi": 12.5
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-13",
+        "puan": 5.0,
+        "metin": "@Elbiseyi beğendim yalnız kollarında astarı yok."
+      },
+      {
+        "tarih": "2026-08-07",
+        "puan": 4.0,
+        "metin": "@elbise çok güzel astarlı ve iç göstermiyor yaka kısmı da kapalı 160 boy 100 kg ye 46 beden oldu fakat…"
+      },
+      {
+        "tarih": "2026-06-29",
+        "puan": 5.0,
+        "metin": "@Ürün kaliteli astarlı fakat bi tık büyük ve uzun geldi bana uzun boylular daha rahat tercih edebilir"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0027AXBG74",
+      "renk_kodu": "BG74",
+      "renk_adi": "Bej",
+      "renk_hex": "#FBEED6",
+      "urun_adi": "Keten Karışımlı Kuşaklı Maxi Elbise",
+      "kisa_aciklama": "Yetişkinler için mükemmel bir seçim olan bu bej pamuk-keten karışımlı elbise, günlük kullanım için idealdir. Uzun kollu ve V yaka…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/keten-karisimli-kusakli-maxi-elbise-3422813",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0027AX_26SP_BG74_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0027AX_26SP_BG74_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0027AX_26SP_BG74_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0027AX_26SP_BG74_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0027AX_26SP_BG74_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0027AX_26SP_BG74_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "38",
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,72cm - 88/60/90",
+        "ana_kumas_icerigi": "Viskoz 85%,Keten 15%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Elbise",
+        "urun_yuksekligi": "135",
+        "yaka": "V Yaka",
+        "kumas": "Keten Karışımlı",
+        "ozel_urun": "Günlük",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Yetişkinler için mükemmel bir seçim olan bu bej pamuk-keten karışımlı elbise, günlük kullanım için idealdir. Uzun kollu ve V yaka…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23627,
+          "Product Option Code": "H0027AX.BG74",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Woven Dress",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "38",
+          "Fit": "FIT AND FLARE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H0027AX_26SP_BG74_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/keten-karisimli-kusakli-maxi-elbise-3422813",
+          "Model Page URL": "https://www.defacto.com.tr/keten-karisimli-kusakli-maxi-elbise-3422813"
+        },
+        {
+          "excel_satiri": 23628,
+          "Product Option Code": "H0027AX.BG74",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "CNS",
+          "Class Name": "Long Sleeve Woven Dress",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "42",
+          "Fit": "FIT AND FLARE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H0027AX_26SP_BG74_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 3,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.tr/keten-karisimli-kusakli-maxi-elbise-3422813",
+          "Model Page URL": "https://www.defacto.com.tr/keten-karisimli-kusakli-maxi-elbise-3422813"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H0027AX_26SP_BG74_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:14:53+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

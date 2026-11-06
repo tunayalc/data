@@ -1,0 +1,133 @@
+{
+  "model_kodu": "H4036A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Fular",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-23",
+        "puan": 5.0,
+        "metin": "@cok cici"
+      },
+      {
+        "tarih": "2026-10-24",
+        "puan": 5.0,
+        "metin": "@Rengini beğenemedim"
+      },
+      {
+        "tarih": "2026-07-14",
+        "puan": 5.0,
+        "metin": "@Çok tatlı renkleri fotoğrafta göründüğü gibi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4036A8RD2",
+      "renk_kodu": "RD2",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Desenli Saten Fular Kız Çocuk",
+      "kisa_aciklama": "Desenli saten fular, parlak ve yumuşak dokusuyla şıklık katıyor. Renkli ve zarif desenleriyle her kombine zarif bir dokunuş sağlar. Hafif…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/desenli-saten-fular-kiz-cocuk-3435712",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4036A8_26SM_RD2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4036A8_26SM_RD2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4036A8_26SM_RD2_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "esarp_sal_olcusu": "50x50",
+        "kumas": "Saten"
+      },
+      "urun_hakkinda": [
+        "Desenli saten fular, parlak ve yumuşak dokusuyla şıklık katıyor. Renkli ve zarif desenleriyle her kombine zarif bir dokunuş sağlar. Hafif…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28140,
+          "Product Option Code": "H4036A8.RD2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Scarfs/Shawls/Towels",
+          "LifeStyle": "Casual",
+          "Class Name": "Shawl",
+          "Product Color Name": "RED",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H4036A8_26SM_RD2_01_01.jpg",
+          "FabricDetail": "SATIN",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/desenli-saten-fular-kiz-cocuk-3435712",
+          "Model Page URL": "https://www.defacto.com.tr/desenli-saten-fular-kiz-cocuk-3435712"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H4036A8_26SM_RD2_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:24:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

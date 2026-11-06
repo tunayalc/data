@@ -1,0 +1,139 @@
+{
+  "model_kodu": "F5509AX",
+  "urun_grubu": "Kadın Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 28,
+    "yorum_sayisi": 28,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 14.3,
+      "tam_oldu": 85.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-16",
+        "puan": 5.0,
+        "metin": "@Rengi çok güzel, üzerime tam oturdu, kumaşı ve kalıbı da gayet iyi. Çok beğendim."
+      },
+      {
+        "tarih": "2025-12-22",
+        "puan": 5.0,
+        "metin": "@Çok güzel bir ürün. Fiyatı da gayet uygun."
+      },
+      {
+        "tarih": "2025-11-26",
+        "puan": 5.0,
+        "metin": "@Harika! Gerçekten şahane, aşırı güzel. Çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F5509AXBN331",
+      "renk_kodu": "BN331",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Slım Fıt Bisiklet Yaka Simli Kumaş Atlet",
+      "kisa_aciklama": "Slim fit dar kesimi ve bisiklet yaka tasarımıyla bu simli kumaş atlet, şık ve dikkat çekici bir görünüm sunar. Parlak…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-simli-kumas-atlet-3343443",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F5509AX_25AU_BN331_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5509AX_25AU_BN331_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5509AX_25AU_BN331_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5509AX_25AU_BN331_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden",
+        "ana_kumas_icerigi": "Metal Elyaf 7%,Viskoz 32%,Poliester 61%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Kadın",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Slim fit dar kesimi ve bisiklet yaka tasarımıyla bu simli kumaş atlet, şık ve dikkat çekici bir görünüm sunar. Parlak…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15038,
+          "Product Option Code": "F5509AX.BN331",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F5509AX_25SM_BN331_01_02.jpg",
+          "FabricDetail": "LUREXLI",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-simli-kumas-atlet-3343443",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-simli-kumas-atlet-3343443"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F5509AX_25SM_BN331_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:47:33+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

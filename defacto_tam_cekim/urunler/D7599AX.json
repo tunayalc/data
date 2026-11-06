@@ -1,0 +1,571 @@
+{
+  "model_kodu": "D7599AX",
+  "urun_grubu": "Erkek Hırka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 136,
+    "yorum_sayisi": 136,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 52.5,
+      "tam_oldu": 45.0,
+      "buyuk_geldi": 2.5
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-11-25",
+        "puan": 5.0,
+        "metin": "@1.84 Boy 92 Kg XL beden çok iyi oldu. Kumaşı tok, kalitesi harika. Sipariş vereceklere referans olsun diye belirttim. (Gri…"
+      },
+      {
+        "tarih": "2026-09-30",
+        "puan": 4.0,
+        "metin": "@ürün biraz ince daha kalın olmasını bekliyordum"
+      },
+      {
+        "tarih": "2025-10-28",
+        "puan": 5.0,
+        "metin": "@ürün çok iyi sadece beyaz üstüne giyilince siyah pamuklanıyo"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7599AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Relax Fıt Kapüşonlu İçi Yumuşak Tüylü Kalın Kumaş Fermuarlı Sweatshirt",
+      "kisa_aciklama": "Relax Fıt Kapüşonlu İçi Yumuşak Tüylü Kalın Kumaş Fermuarlı Sweatshirt",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455812",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_BK81_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_BK81_05_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 96/74/90",
+        "ana_kumas_icerigi": "Pamuk 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kalip": "Relax Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kumas_ic_yuzeyi": "İçi Yumuşak Tüylü",
+        "yaka": "Kapüşonlu",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Relax Fıt Kapüşonlu İçi Yumuşak Tüylü Kalın Kumaş Fermuarlı Sweatshirt"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8789,
+          "Product Option Code": "D7599AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 9,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455812",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8790,
+          "Product Option Code": "D7599AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 5,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455812",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8791,
+          "Product Option Code": "D7599AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455812",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8792,
+          "Product Option Code": "D7599AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 5,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455812",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8793,
+          "Product Option Code": "D7599AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455812",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D7599AXGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "Gri Melanj",
+      "renk_hex": "#808080",
+      "urun_adi": "Relax Fıt Kapüşonlu İçi Yumuşak Tüylü Kalın Kumaş Fermuarlı Sweatshirt",
+      "kisa_aciklama": "Relax Fıt Kapüşonlu İçi Yumuşak Tüylü Kalın Kumaş Fermuarlı Sweatshirt",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_GR210_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_GR210_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_GR210_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_GR210_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_GR210_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_GR210_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_GR210_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_GR210_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Pamuk 40%,Poliester 60%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kol_boyu": "Uzun Kollu",
+        "kumas_ic_yuzeyi": "İçi Yumuşak Tüylü",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt",
+        "yaka": "Kapüşonlu",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Relax Fıt Kapüşonlu İçi Yumuşak Tüylü Kalın Kumaş Fermuarlı Sweatshirt"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8794,
+          "Product Option Code": "D7599AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_GR210_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 4,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8795,
+          "Product Option Code": "D7599AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_GR210_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 4,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8796,
+          "Product Option Code": "D7599AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "S",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_GR210_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8797,
+          "Product Option Code": "D7599AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_GR210_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 4,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8798,
+          "Product Option Code": "D7599AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "XXL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_GR210_01_02.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_GR210_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D7599AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Relax Fit Kapüşonlu İçi Yumuşak Tüylü Kanguru Cepli Fermuarlı Sweatshirt",
+      "kisa_aciklama": "%100 Pamuk REGULAR FIT Polo Tişört",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kanguru-cepli-fermuarli-sweatshirt-3455811",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_NV64_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_NV64_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_NV64_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_NV64_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_NV64_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_NV64_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7599AX_26AU_NV64_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Pamuk 68%,Poliester 32%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "yaka": "Kapüşonlu",
+        "kalip": "Relax Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kol_boyu": "Uzun Kollu",
+        "kumas_ic_yuzeyi": "İçi Yumuşak Tüylü"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuk REGULAR FIT Polo Tişört"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8799,
+          "Product Option Code": "D7599AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_NV64_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kanguru-cepli-fermuarli-sweatshirt-3455811",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8800,
+          "Product Option Code": "D7599AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7599AX_26SP_NV64_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 3,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kanguru-cepli-fermuarli-sweatshirt-3455811",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        },
+        {
+          "excel_satiri": 8801,
+          "Product Option Code": "D7599AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7599AX_26SP_NV64_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kanguru-cepli-fermuarli-sweatshirt-3455811",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-kapusonlu-ici-yumusak-tuylu-kalin-kumas-fermuarli-sweatshirt-3455810"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/D7599AX_26AU_NV64_01_01.jpg",
+        "https://image.defacto.com.tr/product/26SP/D7599AX_26SP_NV64_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:30:10+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

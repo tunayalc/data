@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H0374A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0374A8IN249",
+      "renk_kodu": "IN249",
+      "renk_adi": "INDIGO",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 23942,
+          "Product Option Code": "H0374A8.IN249",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Knitted Pyjamas",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H0374A8_26SM_IN249_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-2li-beyaz-pijama-takimi-erkek-cocuk-3489154",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-2li-beyaz-pijama-takimi-erkek-cocuk-3489154"
+        },
+        {
+          "excel_satiri": 23943,
+          "Product Option Code": "H0374A8.IN249",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Knitted Pyjamas",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H0374A8_26SM_IN249_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-2li-beyaz-pijama-takimi-erkek-cocuk-3489154",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-2li-beyaz-pijama-takimi-erkek-cocuk-3489154"
+        },
+        {
+          "excel_satiri": 23944,
+          "Product Option Code": "H0374A8.IN249",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Homewear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Knitted Pyjamas",
+          "Product Color Name": "INDIGO",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H0374A8_26SM_IN249_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#3F00FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-2li-beyaz-pijama-takimi-erkek-cocuk-3489154",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/100-pamuk-regular-fit-2li-beyaz-pijama-takimi-erkek-cocuk-3489154"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H0374A8_26SM_IN249_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:15:34+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-regular-fit-2li-beyaz-pijama-takimi-erkek-cocuk-3489154",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

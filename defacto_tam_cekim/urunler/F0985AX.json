@@ -1,0 +1,141 @@
+{
+  "model_kodu": "F0985AX",
+  "urun_grubu": "Kadın Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 38,
+    "yorum_sayisi": 38,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 73.1,
+      "tam_oldu": 19.2,
+      "buyuk_geldi": 7.7
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-05",
+        "puan": 5.0,
+        "metin": "@ara boy bir elbise viskon kumaş dokusu yumaşık rengi çok güzel"
+      },
+      {
+        "tarih": "2025-05-13",
+        "puan": 4.0,
+        "metin": "@160 boyum var, bilekte oldu."
+      },
+      {
+        "tarih": "2025-07-17",
+        "puan": 5.0,
+        "metin": "@Kumaşı güzel, beden rahat oldu. 90 kiloyum, dökümlü ve çok güzel durdu, tavsiye ederim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F0985AXOG327",
+      "renk_kodu": "OG327",
+      "renk_adi": "Turuncu",
+      "renk_hex": "#FFA500",
+      "urun_adi": "Regular Fit V Yaka Çiçekli Yarım Kollu Midi Elbise",
+      "kisa_aciklama": "Regular fit V Yaka Çiçek Desenli Yarım Kollu Midi Elbise",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-v-yaka-cicekli-yarim-kollu-midi-elbise-3424192",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F0985AX_26SM_OG327_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0985AX_26SM_OG327_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0985AX_26SM_OG327_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F0985AX_26SM_OG327_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "desen": "Baskılı",
+        "kalip": "Regular Fıt",
+        "yaka": "V Yaka",
+        "kapama_detayi": "Bağcıklı"
+      },
+      "urun_hakkinda": [
+        "Regular fit V Yaka Çiçek Desenli Yarım Kollu Midi Elbise"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 13676,
+          "Product Option Code": "F0985AX.OG327",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve Woven Dress",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/F0985AX_26SM_OG327_01_02.jpg",
+          "FabricDetail": "30’s Viscon Chally",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-cicekli-yarim-kollu-midi-elbise-3424192",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-v-yaka-cicekli-yarim-kollu-midi-elbise-3424192"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/F0985AX_26SM_OG327_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:42:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

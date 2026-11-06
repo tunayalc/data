@@ -1,0 +1,104 @@
+{
+  "model_kodu": "D9868AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-09-06",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9868AXKH465",
+      "renk_kodu": "KH465",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "Relaxed Fit Pamuklu Düz Paça Pantolon",
+      "kisa_aciklama": "Relaxed Fıt Pamuklu Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relaxed-fit-pamuklu-duz-paca-pantolon-3210233",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9868AX_25SP_KH465_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9868AX_25SP_KH465_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9868AX_25SP_KH465_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9868AX_25SP_KH465_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9868AX_25SP_KH465_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "30",
+          "32",
+          "34",
+          "36"
+        ],
+        "excel": [
+          "36"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,88cm - 90/74/91",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Relax Fıt",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Fermuarlı",
+        "paca_detayi": "Düz Paça"
+      },
+      "urun_hakkinda": [
+        "Relaxed Fıt Pamuklu Pantolon, rahat kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9817,
+          "Product Option Code": "D9868AX.KH465",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "36",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9868AX_25SP_KH465_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com/en-ma/relaxed-fit-pamuklu-duz-paca-pantolon-3210233",
+          "Model Page URL": "https://www.defacto.com/en-ma/relaxed-fit-pamuklu-duz-paca-pantolon-3210233"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D9868AX_25SP_KH465_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:40:43+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

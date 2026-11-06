@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D7711A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7711A8GN763",
+      "renk_kodu": "GN763",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "7/8 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8899,
+          "Product Option Code": "D7711A8.GN763",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7711A8_25SP_GN763_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-sirt-baskili-sweatshirt-erkek-cocuk-3244789",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-sirt-baskili-sweatshirt-erkek-cocuk-3244789"
+        },
+        {
+          "excel_satiri": 8900,
+          "Product Option Code": "D7711A8.GN763",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7711A8_25SP_GN763_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-sirt-baskili-sweatshirt-erkek-cocuk-3244789",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-sirt-baskili-sweatshirt-erkek-cocuk-3244789"
+        },
+        {
+          "excel_satiri": 8901,
+          "Product Option Code": "D7711A8.GN763",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7711A8_25SP_GN763_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-sirt-baskili-sweatshirt-erkek-cocuk-3244789",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-sirt-baskili-sweatshirt-erkek-cocuk-3244789"
+        },
+        {
+          "excel_satiri": 8902,
+          "Product Option Code": "D7711A8.GN763",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D7711A8_25SP_GN763_01_01.jpg",
+          "FabricDetail": "3 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.eg/bisiklet-yaka-sirt-baskili-sweatshirt-erkek-cocuk-3244789",
+          "Model Page URL": "https://www.defacto.com.eg/bisiklet-yaka-sirt-baskili-sweatshirt-erkek-cocuk-3244789"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D7711A8_25SP_GN763_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:38:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/bisiklet-yaka-sirt-baskili-sweatshirt-erkek-cocuk-3244789",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

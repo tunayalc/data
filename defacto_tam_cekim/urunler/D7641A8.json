@@ -1,0 +1,127 @@
+{
+  "model_kodu": "D7641A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-15",
+        "puan": 4.0,
+        "metin": "@Kumaşı güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7641A8BE745",
+      "renk_kodu": "BE745",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Cropped Fit Kısa Kollu Gömlek Kız Çocuk",
+      "kisa_aciklama": "Kız Çocuk Crop Kısa Kollu Gömlek, sıcak günlerin vazgeçilmezi olacak şık ve rahat bir parça. Modern kesimi ve sevimli detaylarıyla,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cropped-fit-kisa-kollu-gomlek-kiz-cocuk-3274641",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7641A8_25SM_BE745_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7641A8_25SM_BE745_02_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "9/10 Yaş (140cm) Beden - 1,27cm",
+        "ana_kumas_icerigi": "Poliamid 15%,Viskoz 85%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kısa Kollu Gömlek",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Kız Çocuk",
+        "kalip": "Cropped Fıt"
+      },
+      "urun_hakkinda": [
+        "Kız Çocuk Crop Kısa Kollu Gömlek, sıcak günlerin vazgeçilmezi olacak şık ve rahat bir parça. Modern kesimi ve sevimli detaylarıyla,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8833,
+          "Product Option Code": "D7641A8.BE745",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/D7641A8_25SM_BE745_01_04.jpg",
+          "FabricDetail": "SALDA",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/cropped-fit-kisa-kollu-gomlek-kiz-cocuk-3274641",
+          "Model Page URL": "https://www.defacto.com.tr/cropped-fit-kisa-kollu-gomlek-kiz-cocuk-3274641"
+        },
+        {
+          "excel_satiri": 8834,
+          "Product Option Code": "D7641A8.BE745",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/D7641A8_25SM_BE745_01_04.jpg",
+          "FabricDetail": "SALDA",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/cropped-fit-kisa-kollu-gomlek-kiz-cocuk-3274641",
+          "Model Page URL": "https://www.defacto.com.tr/cropped-fit-kisa-kollu-gomlek-kiz-cocuk-3274641"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/D7641A8_25SM_BE745_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:30:20+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

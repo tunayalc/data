@@ -1,0 +1,117 @@
+{
+  "model_kodu": "H9278AX",
+  "urun_grubu": "Erkek Çanta",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H9278AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Çok Cepli Ayarlanabilir Askılı Erkek Bel Çantası",
+      "kisa_aciklama": "Teknik kumaş görünümlü erkek bel çantası. Ayarlanabilir tokalı askı, fermuarlı ön cep ve ana bölme detaylı. İpli fermuar uçları ile…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cok-cepli-ayarlanabilir-askili-erkek-bel-cantasi-3476708",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H9278AX_NS_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9278AX_NS_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9278AX_NS_BK27_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9278AX_NS_BK27_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9278AX_NS_BK27_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H9278AX_NS_BK27_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,87cm - 100/78/98",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "1 cm",
+        "canta_tipi": "Bel Çantası",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Teknik kumaş görünümlü erkek bel çantası. Ayarlanabilir tokalı askı, fermuarlı ön cep ve ana bölme detaylı. İpli fermuar uçları ile…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 36227,
+          "Product Option Code": "H9278AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "Bag",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H9278AX_NS_BK27_01_02.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/cok-cepli-ayarlanabilir-askili-erkek-bel-cantasi-3476708",
+          "Model Page URL": "https://www.defacto.com.tr/cok-cepli-ayarlanabilir-askili-erkek-bel-cantasi-3476708"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H9278AX_NS_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:47:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

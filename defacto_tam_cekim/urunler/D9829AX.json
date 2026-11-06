@@ -1,0 +1,212 @@
+{
+  "model_kodu": "D9829AX",
+  "urun_grubu": "Erkek Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 56,
+    "yorum_sayisi": 56,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 34.8,
+      "tam_oldu": 54.4,
+      "buyuk_geldi": 10.9
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-07",
+        "puan": 5.0,
+        "metin": "@Tam beden tsk"
+      },
+      {
+        "tarih": "2025-07-22",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre iyi."
+      },
+      {
+        "tarih": "2025-06-17",
+        "puan": 5.0,
+        "metin": "@Ürün, fotoğrafta görüldüğü gibi geldi, rengi ve dokusu hoş, kalıbı da oldukça iyi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9829AXNM34",
+      "renk_kodu": "NM34",
+      "renk_adi": "Koyu Mavi",
+      "renk_hex": "#00008B",
+      "urun_adi": "Sergio Regular Fıt Normal Bel Boru Paça Jean Pantolon",
+      "kisa_aciklama": "Sergio Regular Fit jean pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Zamansız boru paça kesimi sayesinde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9829AX_26SP_NM34_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9829AX_26SP_NM34_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9829AX_26SP_NM34_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9829AX_26SP_NM34_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9829AX_26SP_NM34_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "28-30",
+          "32-32",
+          "34-30",
+          "36-30",
+          "38-32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "Beden 30 - Boy 30 Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "paca_detayi": "Düz Paça",
+        "kalip": "Sergio Regular Fıt Normal Bel Boru Paça"
+      },
+      "urun_hakkinda": [
+        "Sergio Regular Fit jean pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Zamansız boru paça kesimi sayesinde…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 539.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9771,
+          "Product Option Code": "D9829AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "28-30",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D9829AX_26SP_NM34_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412"
+        },
+        {
+          "excel_satiri": 9772,
+          "Product Option Code": "D9829AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "32-32",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D9829AX_26SP_NM34_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412"
+        },
+        {
+          "excel_satiri": 9773,
+          "Product Option Code": "D9829AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "34-30",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D9829AX_26SP_NM34_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412"
+        },
+        {
+          "excel_satiri": 9774,
+          "Product Option Code": "D9829AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "36-30",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D9829AX_26SP_NM34_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412"
+        },
+        {
+          "excel_satiri": 9775,
+          "Product Option Code": "D9829AX.NM34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "D.BLUE",
+          "SizeDefinition": "38-32",
+          "Fit": "SERGIO -REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D9829AX_26SP_NM34_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#00008B",
+          "Product Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412",
+          "Model Page URL": "https://www.defacto.com.tr/sergio-regular-fit-normal-bel-boru-paca-jean-pantolon-3377412"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D9829AX_26SP_NM34_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:32:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

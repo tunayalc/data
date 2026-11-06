@@ -1,0 +1,119 @@
+{
+  "model_kodu": "X9506AZ",
+  "urun_grubu": "Kadın Külot",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 29,
+    "yorum_sayisi": 29,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 8.3,
+      "tam_oldu": 83.3,
+      "buyuk_geldi": 8.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-07-23",
+        "puan": 5.0,
+        "metin": "@DeFactonun çamaşırları birçok çamaşır markasınınkinden çok daha iyi"
+      },
+      {
+        "tarih": "2022-08-11",
+        "puan": 5.0,
+        "metin": "@171 boy 96 kg 3xl ideal, kumaşını beğendim"
+      },
+      {
+        "tarih": "2023-01-19",
+        "puan": 5.0,
+        "metin": "@Kumaşı çok güzel esnek ama bir beden küçük alınmalı."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "X9506AZBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "3'lü Slıp Külot",
+      "kisa_aciklama": "Fall in Love 3'lü Paketli Slip Külot, şıklığı ve rahatlığı bir arada sunan bir iç çamaşırı seçeneğidir. Yüksek kaliteli malzemelerden…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/fall-in-love-3lu-paketli-slip-kulot-3066736",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/X9506AZ_24SP_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/X9506AZ_24SP_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X9506AZ_24SP_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X9506AZ_24SP_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X9506AZ_24SP_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/X9506AZ_24SP_BK27_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "3'lü",
+        "markalar": "Fall ın Love",
+        "urun_tipi": "Paketli Slip Külot",
+        "ic_giyim_kategori": "Slıp Külot"
+      },
+      "urun_hakkinda": [
+        "Fall in Love 3'lü Paketli Slip Külot, şıklığı ve rahatlığı bir arada sunan bir iç çamaşırı seçeneğidir. Yüksek kaliteli malzemelerden…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48031,
+          "Product Option Code": "X9506AZ.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Package Slip",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "BRIEF",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/X9506AZ_24SP_BK27_01_02.jpg",
+          "FabricDetail": "LYCRA JERSEY",
+          "Toplam": 0,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/fall-in-love-3lu-paketli-slip-kulot-3066736",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/fall-in-love-3lu-paketli-slip-kulot-3066736"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/X9506AZ_24SP_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:55:44+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "model_kodu": "G0862AX",
+  "urun_grubu": "Kadın Bluz",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 4,
+    "yorum_sayisi": 4,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-12",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir parça, aşırı beğendim, kendi bedeninizi alın. Çok beğendim. Harika! Kesinlikle tavsiye ederim."
+      },
+      {
+        "tarih": "2025-12-29",
+        "puan": 5.0,
+        "metin": "@mukemmel"
+      },
+      {
+        "tarih": "2026-03-02",
+        "puan": 5.0,
+        "metin": "@Ürün tam kalıp geldi ben takım şeklinde aldım kumaşı da çok güzel tavsiye ederim 💖"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0862AXGR312",
+      "renk_kodu": "GR312",
+      "renk_adi": "Koyu Gri",
+      "renk_hex": "#6E6E6E",
+      "urun_adi": "Regular Fıt Kayık Yaka Kareli Flanel Kısa Kollu Bluz",
+      "kisa_aciklama": "Regular fit kesimi ve kayık yaka tasarımıyla bu kareli flanel kısa kollu bluz, hem rahat hem şık bir görünüm sunar.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-kayik-yaka-kareli-flanel-kisa-kollu-bluz-3351717",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0862AX_25AU_GR312_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0862AX_25AU_GR312_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0862AX_25AU_GR312_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0862AX_25AU_GR312_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0862AX_25AU_GR312_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0862AX_25AU_GR312_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,70cm - 85/60/88",
+        "ana_kumas_icerigi": "Pamuk 71%,Poliester 29%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "desen": "Kareli",
+        "yaka": "Kayık Yaka",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Kısa Kollu Bluz",
+        "kumas": "Flanel",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve kayık yaka tasarımıyla bu kareli flanel kısa kollu bluz, hem rahat hem şık bir görünüm sunar.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17700,
+          "Product Option Code": "G0862AX.GR312",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Blouse",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G0862AX_25AU_GR312_01_01.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kayik-yaka-kareli-flanel-kisa-kollu-bluz-3351717",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kayik-yaka-kareli-flanel-kisa-kollu-bluz-3351717"
+        },
+        {
+          "excel_satiri": 17701,
+          "Product Option Code": "G0862AX.GR312",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Blouse",
+          "Product Color Name": "D.GREY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/G0862AX_25AU_GR312_01_01.jpg",
+          "FabricDetail": "FLANNEL",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#6E6E6E",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kayik-yaka-kareli-flanel-kisa-kollu-bluz-3351717",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kayik-yaka-kareli-flanel-kisa-kollu-bluz-3351717"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/G0862AX_25AU_GR312_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:56:58+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

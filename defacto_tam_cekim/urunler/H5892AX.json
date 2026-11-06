@@ -1,0 +1,181 @@
+{
+  "model_kodu": "H5892AX",
+  "urun_grubu": "Kadın Atlet",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-13",
+        "puan": 5.0,
+        "metin": "@beğendim bir çok kombin için kurtarıcı bir parça"
+      },
+      {
+        "tarih": "2026-10-26",
+        "puan": 5.0,
+        "metin": "@165-72 L bedenim ...bunu bılerek XL aldı. gaywt ıyı surdu bor beden büyük alın bence"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5892AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Dantelli Atlet",
+      "kisa_aciklama": "Dantel kumaştan üretilmiş regular fit kadın atlet.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-dantelli-atlet-3461672",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5892AX_26SM_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5892AX_26SM_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5892AX_26SM_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5892AX_26SM_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5892AX_26SM_ER105_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5892AX_26SM_ER105_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 58%,Viskoz 6%,Poliester 36%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas_kalinligi": "İnce",
+        "kalip": "Regular Fıt",
+        "urun_tipi": "Atlet",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Dantel kumaştan üretilmiş regular fit kadın atlet."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31078,
+          "Product Option Code": "H5892AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5892AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "CROCHET",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dantelli-atlet-3461672",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dantelli-atlet-3461672"
+        },
+        {
+          "excel_satiri": 31079,
+          "Product Option Code": "H5892AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5892AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "CROCHET",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dantelli-atlet-3461672",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dantelli-atlet-3461672"
+        },
+        {
+          "excel_satiri": 31080,
+          "Product Option Code": "H5892AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Casual",
+          "Class Name": "Athlete",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5892AX_26SM_ER105_01_02.jpg",
+          "FabricDetail": "CROCHET",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-dantelli-atlet-3461672",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-dantelli-atlet-3461672"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H5892AX_26SM_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:29:57+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

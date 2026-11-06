@@ -1,0 +1,101 @@
+{
+  "model_kodu": "C8293AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8293AXPR242",
+      "renk_kodu": "PR242",
+      "renk_adi": "LT.LILAC",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5428,
+          "Product Option Code": "C8293AX.PR242",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "L",
+          "Fit": "STRAIGHT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8293AX_24SM_PR242_01_01.jpg",
+          "FabricDetail": "PAISLEY",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5429,
+          "Product Option Code": "C8293AX.PR242",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "M",
+          "Fit": "STRAIGHT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8293AX_24SM_PR242_01_01.jpg",
+          "FabricDetail": "PAISLEY",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5430,
+          "Product Option Code": "C8293AX.PR242",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Knitted Dress",
+          "Product Color Name": "LT.LILAC",
+          "SizeDefinition": "S",
+          "Fit": "STRAIGHT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8293AX_24SM_PR242_01_01.jpg",
+          "FabricDetail": "PAISLEY",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#F4DCF4",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C8293AX_24SM_PR242_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

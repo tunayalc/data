@@ -1,0 +1,64 @@
+{
+  "model_kodu": "H3801AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3801AXNM83",
+      "renk_kodu": "NM83",
+      "renk_adi": "BLUE BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "28"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27790,
+          "Product Option Code": "H3801AX.NM83",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE BLACK",
+          "SizeDefinition": "28",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H3801AX_26SP_NM83_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#002558",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-genis-kalip-normal-bel-genis-paca-jean-pantolon-3515010",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/wide-leg-genis-kalip-normal-bel-genis-paca-jean-pantolon-3515010"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H3801AX_26SP_NM83_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:23:39+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/wide-leg-genis-kalip-normal-bel-genis-paca-jean-pantolon-3515010",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

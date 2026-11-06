@@ -1,0 +1,105 @@
+{
+  "model_kodu": "G2275AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-01",
+        "puan": 4.0,
+        "metin": "@Kumaşı çok ince . İç gösteriyor. Ama renkler canlı . Duruşu güzel ."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G2275AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Relax Fıt Bisiklet Yaka Meyve Baskılı Penye Kısa Kollu Ekru Tişört",
+      "kisa_aciklama": "Penye kumaştan üretilmiş baskılı relaxed fit bisiklet yaka kısa kollu tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-bisiklet-yaka-meyve-baskili-penye-kisa-kollu-ekru-tisort-3375284",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G2275AX_26SP_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2275AX_26SP_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2275AX_26SP_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2275AX_26SP_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G2275AX_26SP_ER105_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "urun_tipi": "Kısa Kollu Tişört",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Kadın",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Penye kumaştan üretilmiş baskılı relaxed fit bisiklet yaka kısa kollu tişört."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18285,
+          "Product Option Code": "G2275AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G2275AX_26SP_ER105_01_01.jpg",
+          "FabricDetail": "COTTON SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-bisiklet-yaka-meyve-baskili-penye-kisa-kollu-ekru-tisort-3375284",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-bisiklet-yaka-meyve-baskili-penye-kisa-kollu-ekru-tisort-3375284"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G2275AX_26SP_ER105_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:00:27+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

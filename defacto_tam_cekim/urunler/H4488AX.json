@@ -1,0 +1,119 @@
+{
+  "model_kodu": "H4488AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4488AXAR214",
+      "renk_kodu": "AR214",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "%100 Pamuk NBA Lisanslı Boston Celtıcs Oversıze Bisiklet Yaka Baskılı Kısa Kollu Tişört",
+      "kisa_aciklama": "%100 Pamuktan üretilmiştir. NBA baskılı oversize bisiklet yaka kısa kollu tişört. NBA lisanslı ürün.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-nba-lisansli-boston-celtics-oversize-bisiklet-yaka-baskili-kisa-kollu-tisort-3502483",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4488AX_26AU_AR214_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4488AX_26AU_AR214_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4488AX_26AU_AR214_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4488AX_26AU_AR214_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4488AX_26AU_AR214_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Baskılı",
+        "lisans_bilgisi": "NBA Boston Celtıcs",
+        "kalip": "Oversıze"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuktan üretilmiştir. NBA baskılı oversize bisiklet yaka kısa kollu tişört. NBA lisanslı ürün."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28970,
+          "Product Option Code": "H4488AX.AR214",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "L",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H4488AX_26AU_AR214_01_01.jpg",
+          "FabricDetail": "SUPREME",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-nba-lisansli-boston-celtics-oversize-bisiklet-yaka-baskili-kisa-kollu-tisort-3502483",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-nba-lisansli-boston-celtics-oversize-bisiklet-yaka-baskili-kisa-kollu-tisort-3502483"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H4488AX_26AU_AR214_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:28:23+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

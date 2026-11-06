@@ -1,0 +1,281 @@
+{
+  "model_kodu": "H0888AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 13,
+    "yorum_sayisi": 13,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-26",
+        "puan": 5.0,
+        "metin": "@hafif güzel ürün"
+      },
+      {
+        "tarih": "2026-10-21",
+        "puan": 5.0,
+        "metin": "@rengi hoş daha önce 36 beden aldım biraz küçük olduğu için 38 bedenini sipariş verdim daha rahat"
+      },
+      {
+        "tarih": "2026-08-15",
+        "puan": 5.0,
+        "metin": "@çok güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0888AXGR105",
+      "renk_kodu": "GR105",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Wıde Leg Geniş Paça Yüksek Bel Pantolon",
+      "kisa_aciklama": "Wıde Leg Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421431",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_GR105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_GR105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_GR105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_GR105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_GR105_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "34",
+          "36",
+          "38",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "kalip": "Wıde Leg",
+        "bel_detayi": "Yüksek Bel",
+        "urun_tipi": "Pantolon",
+        "paca_detayi": "Geniş Paça"
+      },
+      "urun_hakkinda": [
+        "Wıde Leg Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24321,
+          "Product Option Code": "H0888AX.GR105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "34",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H0888AX_26SM_GR105_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421431",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421430"
+        },
+        {
+          "excel_satiri": 24322,
+          "Product Option Code": "H0888AX.GR105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "36",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H0888AX_26SM_GR105_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421431",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421430"
+        },
+        {
+          "excel_satiri": 24323,
+          "Product Option Code": "H0888AX.GR105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "38",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H0888AX_26SM_GR105_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421431",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421430"
+        },
+        {
+          "excel_satiri": 24324,
+          "Product Option Code": "H0888AX.GR105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "40",
+          "Fit": "WIDE LEG",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H0888AX_26SM_GR105_01_01.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421431",
+          "Model Page URL": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421430"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H0888AX_26SM_GR105_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H0888AXIN265",
+      "renk_kodu": "IN265",
+      "renk_adi": "İndigo",
+      "renk_hex": "#3F00FF",
+      "urun_adi": "Wıde Leg Geniş Paça Yüksek Bel Pantolon",
+      "kisa_aciklama": "Wıde Leg Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/wide-leg-genis-paca-yuksek-bel-pantolon-3421430",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_IN265_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_IN265_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_IN265_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_IN265_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0888AX_26SM_IN265_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Geniş Paça",
+        "bel_detayi": "Yüksek Bel",
+        "kalip": "Wıde Leg",
+        "urun_tipi": "Pantolon",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Wıde Leg Pantolon, normal kalıbı ve yüksek beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:15:18+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

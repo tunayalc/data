@@ -1,0 +1,230 @@
+{
+  "model_kodu": "H5934AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-17",
+        "puan": 5.0,
+        "metin": "@boyu biraz küçük gibi ama rahat kumaş"
+      },
+      {
+        "tarih": "2026-09-15",
+        "puan": 5.0,
+        "metin": "@kalıbı cok büyük yoksada kumaşı güzeldi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5934AXKH504",
+      "renk_kodu": "KH504",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "%100 Pamuk Regular Fıt Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Regular fit polo tişört. Kısa kollu, polo yaka ve fermuarlı. Fitilli kumaş dokulu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-kisa-kollu-polo-tisort-3450080",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5934AX_26SM_KH504_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5934AX_26SM_KH504_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5934AX_26SM_KH504_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5934AX_26SM_KH504_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5934AX_26SM_KH504_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka"
+      },
+      "urun_hakkinda": [
+        "Regular fit polo tişört. Kısa kollu, polo yaka ve fermuarlı. Fitilli kumaş dokulu."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31122,
+          "Product Option Code": "H5934AX.KH504",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5934AX_26SM_KH504_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-kisa-kollu-polo-tisort-3450080",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-kisa-kollu-polo-tisort-3449041"
+        },
+        {
+          "excel_satiri": 31123,
+          "Product Option Code": "H5934AX.KH504",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H5934AX_26SM_KH504_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-kisa-kollu-polo-tisort-3450080",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-regular-fit-kisa-kollu-polo-tisort-3449041"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H5934AX_26SM_KH504_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5934AXIN241",
+      "renk_kodu": "IN241",
+      "renk_adi": "İndigo",
+      "renk_hex": "#3F00FF",
+      "urun_adi": "%100 Pamuk Regular Fıt Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Regular fit polo tişört. Kısa kollu, polo yaka ve fermuarlı. Fitilli kumaş dokulu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-regular-fit-kisa-kollu-polo-tisort-3449041",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5934AX_26SM_IN241_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5934AX_26SM_IN241_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5934AX_26SM_IN241_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular fit polo tişört. Kısa kollu, polo yaka ve fermuarlı. Fitilli kumaş dokulu."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:34:13+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

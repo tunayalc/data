@@ -1,0 +1,401 @@
+{
+  "model_kodu": "G0950AX",
+  "urun_grubu": "Erkek Mont",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-16",
+        "puan": 5.0,
+        "metin": "@Ürün çok güzel ve kaliteli"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0950AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slim Fit Dik Yaka Cepli Fermuarlı Mont",
+      "kisa_aciklama": "Dik yaka detayı ve pratik fermuar sistemiyle soğuk günlerde konforu ön planda tutan bu mont, slim fit kalıbıyla estetik bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BK81_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BK81_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Dik yaka detayı ve pratik fermuar sistemiyle soğuk günlerde konforu ön planda tutan bu mont, slim fit kalıbıyla estetik bir…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "İç Cep",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/ic_ve_fonksiyonel_cep_v2_EW9BUPKA3GG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2999.99,
+        "sepette_fiyat": 1799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17792,
+          "Product Option Code": "G0950AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 5,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        },
+        {
+          "excel_satiri": 17793,
+          "Product Option Code": "G0950AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        },
+        {
+          "excel_satiri": 17794,
+          "Product Option Code": "G0950AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 0,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        },
+        {
+          "excel_satiri": 17795,
+          "Product Option Code": "G0950AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0950AX_26SP_BK81_01_01.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 0,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        },
+        {
+          "excel_satiri": 17796,
+          "Product Option Code": "G0950AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        },
+        {
+          "excel_satiri": 17797,
+          "Product Option Code": "G0950AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BK81_01_03.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 4,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BK81_01_03.jpg",
+        "https://image.defacto.com.tr/product/26SP/G0950AX_26SP_BK81_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G0950AXBN192",
+      "renk_kodu": "BN192",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Su İtici Slim Fit Dik Yaka Mont",
+      "kisa_aciklama": "Dik yaka detayı ve pratik fermuar sistemiyle soğuk günlerde konforu ön planda tutan bu mont, slim fit kalıbıyla estetik bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/su-itici-slim-fit-dik-yaka-mont-3479812",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BN192_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BN192_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BN192_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BN192_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BN192_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BN192_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BN192_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0950AX_26AU_BN192_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/76/94",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "Dik yaka detayı ve pratik fermuar sistemiyle soğuk günlerde konforu ön planda tutan bu mont, slim fit kalıbıyla estetik bir…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yanlızca Kuru Temizleme",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DRYCLEANONLY_OO0SHZZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "İç Cep",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/ic_ve_fonksiyonel_cep_v2_EW9BUPKA3GG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 2999.99,
+        "sepette_fiyat": 1799.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17798,
+          "Product Option Code": "G0950AX.BN192",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BN192_01_02.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-dik-yaka-mont-3479812",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        },
+        {
+          "excel_satiri": 17799,
+          "Product Option Code": "G0950AX.BN192",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BN192_01_02.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 1,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-dik-yaka-mont-3479812",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        },
+        {
+          "excel_satiri": 17800,
+          "Product Option Code": "G0950AX.BN192",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BN192_01_02.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-dik-yaka-mont-3479812",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        },
+        {
+          "excel_satiri": 17801,
+          "Product Option Code": "G0950AX.BN192",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Fit",
+          "Class Name": "Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BN192_01_02.jpg",
+          "FabricDetail": "TPU",
+          "Toplam": 2,
+          "Initial Price Value": 2999.99,
+          "Actual Price Value": 2999.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/su-itici-slim-fit-dik-yaka-mont-3479812",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-cepli-fermuarli-mont-3479813"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/G0950AX_26AU_BN192_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:57:12+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

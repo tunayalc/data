@@ -1,0 +1,57 @@
+{
+  "model_kodu": "E7341AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "E7341AXBG290",
+      "renk_kodu": "BG290",
+      "renk_adi": "VISON ORTA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "Orta Boy"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12156,
+          "Product Option Code": "E7341AX.BG290",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Unisex",
+          "Buyer Group Name": "Baggage",
+          "LifeStyle": "Casual",
+          "Class Name": "Baggage",
+          "Product Color Name": "VISON ORTA",
+          "SizeDefinition": "Orta Boy",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E7341AX_NS_BG290_01_01.jpg",
+          "FabricDetail": "OTHER",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1199.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/E7341AX_NS_BG290_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:24+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

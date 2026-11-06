@@ -1,0 +1,89 @@
+{
+  "model_kodu": "H8640AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8640AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Altın Rengi Taşlı Küpe",
+      "kisa_aciklama": "Genç ve dinamik kadınlar için tasarlanmış Taşlı Küpe. Canlı altın rengi ve şık tasarımıyla her mevsimde kullanıma uygundur. Temel çeşit…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-altin-rengi-tasli-kupe-3475096",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8640AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8640AX_NS_GD1_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 50%,Pirinç 50%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Küpe",
+        "kumas": "Jean",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Genç ve dinamik kadınlar için tasarlanmış Taşlı Küpe. Canlı altın rengi ve şık tasarımıyla her mevsimde kullanıma uygundur. Temel çeşit…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 35467,
+          "Product Option Code": "H8640AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H8640AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "10 OZ",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-altin-rengi-tasli-kupe-3475096",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-altin-rengi-tasli-kupe-3475096"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H8640AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:45:18+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

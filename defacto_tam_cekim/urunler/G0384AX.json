@@ -1,0 +1,396 @@
+{
+  "model_kodu": "G0384AX",
+  "urun_grubu": "Erkek Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-01",
+        "puan": 5.0,
+        "metin": "@çok güzel incecik"
+      },
+      {
+        "tarih": "2026-07-23",
+        "puan": 5.0,
+        "metin": "@Bedeni tam oldu, çok rahat bir kesim. Nefes alan kalite kumaş, fiyat performans.."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0384AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Straight Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Straıght Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376091",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BK27_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "32",
+          "34",
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Poliamid 26%,Elastan 2%,Viskoz 72%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Straıght Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Straıght Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17513,
+          "Product Option Code": "G0384AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "32",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_BK27_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376091",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090"
+        },
+        {
+          "excel_satiri": 17514,
+          "Product Option Code": "G0384AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_BK27_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376091",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090"
+        },
+        {
+          "excel_satiri": 17515,
+          "Product Option Code": "G0384AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "40",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_BK27_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376091",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_BK27_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G0384AXBN603",
+      "renk_kodu": "BN603",
+      "renk_adi": "Kahve",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Straight Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Straıght Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BN603_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BN603_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BN603_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BN603_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_BN603_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Poliamid 26%,Elastan 2%,Viskoz 72%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cinsiyet": "Erkek",
+        "kalip": "Straıght Fıt"
+      },
+      "urun_hakkinda": [
+        "Straıght Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17516,
+          "Product Option Code": "G0384AX.BN603",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "28",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_BN603_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090"
+        },
+        {
+          "excel_satiri": 17517,
+          "Product Option Code": "G0384AX.BN603",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "30",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_BN603_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090"
+        },
+        {
+          "excel_satiri": 17518,
+          "Product Option Code": "G0384AX.BN603",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "32",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_BN603_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_BN603_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G0384AXKH525",
+      "renk_kodu": "KH525",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Straight Fit Normal Kalıp Normal Bel Boru Paça Pantolon",
+      "kisa_aciklama": "Straıght Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376092",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_KH525_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_KH525_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_KH525_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_KH525_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0384AX_26SP_KH525_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34",
+          "36",
+          "38",
+          "40"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,83cm - 83/64/90",
+        "ana_kumas_icerigi": "Poliamid 26%,Elastan 2%,Viskoz 72%",
+        "marka": "Defacto",
+        "mensei": "MM",
+        "kalip": "Straıght Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Straıght Fıt Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17519,
+          "Product Option Code": "G0384AX.KH525",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "28",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_KH525_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376092",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090"
+        },
+        {
+          "excel_satiri": 17520,
+          "Product Option Code": "G0384AX.KH525",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "30",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_KH525_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376092",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090"
+        },
+        {
+          "excel_satiri": 17521,
+          "Product Option Code": "G0384AX.KH525",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "32",
+          "Fit": "STRAIGHT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_KH525_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376092",
+          "Model Page URL": "https://www.defacto.com.tr/straight-fit-normal-kalip-normal-bel-boru-paca-pantolon-3376090"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G0384AX_26SP_KH525_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:56:13+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

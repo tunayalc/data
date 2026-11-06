@@ -1,0 +1,89 @@
+{
+  "model_kodu": "H7473AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7473AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Deniz Temalı İp Kolye",
+      "kisa_aciklama": "Kiremit rengi örgü ipli, ayarlanabilir sürgülü düğüm kapamalı kolye. Metalik deniz yıldızı, metalik deniz kabuğu, doğal deniz kabuğu ve fasetli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-deniz-temali-ip-kolye-3465387",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7473AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7473AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7473AX_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 10%,Plastik 5%,Pamuk 10%,Çinko Alaşım 75%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Kolye",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kiremit rengi örgü ipli, ayarlanabilir sürgülü düğüm kapamalı kolye. Metalik deniz yıldızı, metalik deniz kabuğu, doğal deniz kabuğu ve fasetli…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33121,
+          "Product Option Code": "H7473AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Necklace",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H7473AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-deniz-temali-ip-kolye-3465387",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-deniz-temali-ip-kolye-3465387"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H7473AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:39:44+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

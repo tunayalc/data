@@ -1,0 +1,115 @@
+{
+  "model_kodu": "D7742A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-18",
+        "puan": 5.0,
+        "metin": "@çok guxel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7742A8ER139",
+      "renk_kodu": "ER139",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Bisiklet Yaka Kısa Kollu Tişört Erkek Çocuk",
+      "kisa_aciklama": "Erkek çocuklar için bisiklet yaka kısa kollu tişört, yumuşak ve hafif kumaşıyla konforlu bir giyim sunar. Spor ve günlük kullanıma…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/bisiklet-yaka-kisa-kollu-tisort-erkek-cocuk-3208905",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7742A8_25SM_ER139_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,44cm",
+        "ana_kumas_icerigi": "Pamuk 47%,Poliester 53%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek Çocuk",
+        "urun_tipi": "Kısa Kollu Tişört",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Erkek çocuklar için bisiklet yaka kısa kollu tişört, yumuşak ve hafif kumaşıyla konforlu bir giyim sunar. Spor ve günlük kullanıma…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 89.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8920,
+          "Product Option Code": "D7742A8.ER139",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/D7742A8_25SM_ER139_01_02.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com/bisiklet-yaka-kisa-kollu-tisort-erkek-cocuk-3208905",
+          "Model Page URL": "https://www.defacto.com/bisiklet-yaka-kisa-kollu-tisort-erkek-cocuk-3208905"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/D7742A8_25SM_ER139_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:38:19+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

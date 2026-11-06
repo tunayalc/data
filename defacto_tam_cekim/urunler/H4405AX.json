@@ -1,0 +1,154 @@
+{
+  "model_kodu": "H4405AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4405AXGN1",
+      "renk_kodu": "GN1",
+      "renk_adi": "GREEN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28897,
+          "Product Option Code": "H4405AX.GN1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "GREEN",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H4405AX_NS_GN1_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 7,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#00C000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-100-ml-blooming-heart-parfum-3559590",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-100-ml-blooming-heart-parfum-3559590"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H4405AX_NS_GN1_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H4405AXPN18",
+      "renk_kodu": "PN18",
+      "renk_adi": "NEON FUCHIA",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28898,
+          "Product Option Code": "H4405AX.PN18",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "NEON FUCHIA",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H4405AX_NS_PN18_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 8,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FF35FF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-100-ml-satin-blush-parfum-3559591",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-100-ml-blooming-heart-parfum-3559590"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H4405AX_NS_PN18_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H4405AXPR113",
+      "renk_kodu": "PR113",
+      "renk_adi": "PURPLE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28899,
+          "Product Option Code": "H4405AX.PR113",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Perfume",
+          "LifeStyle": "Casual",
+          "Class Name": "Perfume Bottle Type",
+          "Product Color Name": "PURPLE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H4405AX_NS_PR113_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 5,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#A020F0",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kadin-fruity-floral-100-ml-parfum-3559592",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-100-ml-blooming-heart-parfum-3559590"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H4405AX_NS_PR113_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:25:46+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kadin-100-ml-blooming-heart-parfum-3559590",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/kadin-100-ml-satin-blush-parfum-3559591",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/kadin-fruity-floral-100-ml-parfum-3559592",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "model_kodu": "B1177AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 151,
+    "yorum_sayisi": 151,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 34.0,
+      "tam_oldu": 62.0,
+      "buyuk_geldi": 4.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-09-25",
+        "puan": 5.0,
+        "metin": "@Boğazı sıkmasın diye geniş almıştım, iyi ki öyle yapmışım. Kumaş kalitesi idare eder, ince."
+      },
+      {
+        "tarih": "2024-03-29",
+        "puan": 5.0,
+        "metin": "@ürün kusursuz"
+      },
+      {
+        "tarih": "2025-07-08",
+        "puan": 5.0,
+        "metin": "@İnanılmaz güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B1177AXBG115",
+      "renk_kodu": "BG115",
+      "renk_adi": "Kum",
+      "renk_hex": "#C49C7A",
+      "urun_adi": "Regular Fıt Yarım Balıkçı Yaka Fitilli Kısa Kollu Tişört",
+      "kisa_aciklama": "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla şıklık sunan bu fitilli kaşkorse kısa kollu tişört, rahat ve modern bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301202",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_BG115_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_BG115_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_BG115_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_BG115_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_BG115_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_BG115_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_BG115_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_BG115_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_BG115_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,70cm - 85/60/88",
+        "ana_kumas_icerigi": "Elastan 7%,Poliester 93%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "urun_tipi": "Kısa Kollu Tişört",
+        "cinsiyet": "Kadın",
+        "kalip": "Regular Fıt",
+        "paca_detayi": "Düz Paça",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Yarım Balıkçı Yaka",
+        "kumas": "Fitilli Kaşkorse"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla şıklık sunan bu fitilli kaşkorse kısa kollu tişört, rahat ve modern bir…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1227,
+          "Product Option Code": "B1177AX.BG115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/B1177AX_25AU_BG115_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301202",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301201"
+        },
+        {
+          "excel_satiri": 1228,
+          "Product Option Code": "B1177AX.BG115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/B1177AX_25AU_BG115_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com/en-iq/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301202",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301201"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/B1177AX_25AU_BG115_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B1177AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fıt Yarım Balıkçı Yaka Fitilli Kısa Kollu Tişört",
+      "kisa_aciklama": "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla şıklık sunan bu fitilli kaşkorse kısa kollu tişört, rahat ve modern bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301201",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_ER105_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_ER105_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_ER105_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_ER105_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B1177AX_25AU_ER105_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,70cm - 85/60/88",
+        "ana_kumas_icerigi": "Elastan 8%,Poliester 92%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "paca_detayi": "Düz Paça",
+        "kumas": "Fitilli Kaşkorse",
+        "yaka": "Yarım Balıkçı Yaka",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "urun_tipi": "Kısa Kollu Tişört",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla şıklık sunan bu fitilli kaşkorse kısa kollu tişört, rahat ve modern bir…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1229,
+          "Product Option Code": "B1177AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/B1177AX_24AU_ER105_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301201",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301201"
+        },
+        {
+          "excel_satiri": 1230,
+          "Product Option Code": "B1177AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/B1177AX_25SP_ER105_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301201",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301201"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/B1177AX_24AU_ER105_01_02.jpg",
+        "https://image.defacto.com.tr/product/25SP/B1177AX_25SP_ER105_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "B1177AXBG106",
+      "renk_kodu": "BG106",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1226,
+          "Product Option Code": "B1177AX.BG106",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/B1177AX_24AU_BG106_01_02.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-fitilli-kisa-kollu-tisort-3301201"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/B1177AX_24AU_BG106_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:21:40+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

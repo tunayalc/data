@@ -1,0 +1,86 @@
+{
+  "model_kodu": "C6812AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C6812AXBR134",
+      "renk_kodu": "BR134",
+      "renk_adi": "LT.ROSE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "L",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 4980,
+          "Product Option Code": "C6812AX.BR134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Blouse",
+          "Product Color Name": "LT.ROSE",
+          "SizeDefinition": "L",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C6812AX_24SM_BR134_01_01.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B85F83",
+          "Product Page URL": "https://www.defacto.com/crop-gomlek-yaka-keten-karisimli-kisa-kollu-bluz-3124297",
+          "Model Page URL": "https://www.defacto.com/crop-gomlek-yaka-keten-karisimli-kisa-kollu-bluz-3124297"
+        },
+        {
+          "excel_satiri": 4981,
+          "Product Option Code": "C6812AX.BR134",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Blouse",
+          "Product Color Name": "LT.ROSE",
+          "SizeDefinition": "XL",
+          "Fit": "CROPPED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C6812AX_24SM_BR134_01_01.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 6,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#B85F83",
+          "Product Page URL": "https://www.defacto.com/crop-gomlek-yaka-keten-karisimli-kisa-kollu-bluz-3124297",
+          "Model Page URL": "https://www.defacto.com/crop-gomlek-yaka-keten-karisimli-kisa-kollu-bluz-3124297"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C6812AX_24SM_BR134_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:27:48+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/crop-gomlek-yaka-keten-karisimli-kisa-kollu-bluz-3124297",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

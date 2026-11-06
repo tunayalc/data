@@ -1,0 +1,119 @@
+{
+  "model_kodu": "G0257A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0257A8BK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Skınny Fıt Jean Pantolon Kız Çocuk",
+      "kisa_aciklama": "Skinny Fit Jean Pantolon Kız Çocuk modeli, esnek yapısı ve dar kesimiyle hareket özgürlüğü sunar. Günlük kombinlerde modern ve şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/skinny-fit-jean-pantolon-kiz-cocuk-3375118",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0257A8_26SP_BK27_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0257A8_26SP_BK27_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0257A8_26SP_BK27_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0257A8_26SP_BK27_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0257A8_26SP_BK27_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "5/6 Y",
+          "7/8 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Pamuk 68%,Elastan 2%,Viskoz 10%,Poliester 20%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Skınny Fıt",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Skinny Fit Jean Pantolon Kız Çocuk modeli, esnek yapısı ve dar kesimiyle hareket özgürlüğü sunar. Günlük kombinlerde modern ve şık…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17448,
+          "Product Option Code": "G0257A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "5/6 Y",
+          "Fit": "SKINNY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0257A8_26SP_BK27_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/skinny-fit-jean-pantolon-kiz-cocuk-3375118",
+          "Model Page URL": "https://www.defacto.com.tr/skinny-fit-jean-pantolon-kiz-cocuk-3375118"
+        },
+        {
+          "excel_satiri": 17449,
+          "Product Option Code": "G0257A8.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "SKINNY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0257A8_26SP_BK27_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/skinny-fit-jean-pantolon-kiz-cocuk-3375118",
+          "Model Page URL": "https://www.defacto.com.tr/skinny-fit-jean-pantolon-kiz-cocuk-3375118"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G0257A8_26SP_BK27_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:56:08+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

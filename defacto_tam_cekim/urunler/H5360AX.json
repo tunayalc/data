@@ -1,0 +1,121 @@
+{
+  "model_kodu": "H5360AX",
+  "urun_grubu": "Kadın Çanta",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-07",
+        "puan": 5.0,
+        "metin": "@içine ne koyarsan alacak ebatta,zevkle kullanıyorum, kalitesi yüksek"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5360AXBG232",
+      "renk_kodu": "BG232",
+      "renk_adi": "Koyu Vizon",
+      "renk_hex": "#7F6C62",
+      "urun_adi": "Kadın Omuz Çantası",
+      "kisa_aciklama": "Kadın Omuz Çantası.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-omuz-cantasi-3441002",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5360AX_NS_BG232_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5360AX_NS_BG232_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5360AX_NS_BG232_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5360AX_NS_BG232_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5360AX_NS_BG232_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Polivinil Klorür 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "canta_tipi": "Omuz Çantası",
+        "urun_olcusu": "6*30*33",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın Omuz Çantası."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30276,
+          "Product Option Code": "H5360AX.BG232",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Bags",
+          "LifeStyle": "Casual",
+          "Class Name": "Bag",
+          "Product Color Name": "D.VISON",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H5360AX_NS_BG232_01_01.jpg",
+          "FabricDetail": "POLYURETHANE",
+          "Toplam": 1,
+          "Initial Price Value": 1499.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#7F6C62",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-omuz-cantasi-3441002",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-omuz-cantasi-3441002"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H5360AX_NS_BG232_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:31:55+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

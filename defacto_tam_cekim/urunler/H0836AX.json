@@ -1,0 +1,133 @@
+{
+  "model_kodu": "H0836AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H0836AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Yarım Halka Küpe",
+      "kisa_aciklama": "Kadın Küpe, zarif tasarımıyla her kombini tamamlayan şıklıkta. Hem gündüz hem gece kullanabileceğiniz bu aksesuar, stilinize sofistike bir dokunuş katacak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-yarim-halka-kupe-3410113",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H0836AX_NS_GD1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0836AX_NS_GD1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0836AX_NS_GD1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0836AX_NS_GD1_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0836AX_NS_GD1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H0836AX_NS_GD1_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Çinko 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "taki_tipi": "Küpe"
+      },
+      "urun_hakkinda": [
+        "Kadın Küpe, zarif tasarımıyla her kombini tamamlayan şıklıkta. Hem gündüz hem gece kullanabileceğiniz bu aksesuar, stilinize sofistike bir dokunuş katacak."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 174.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24277,
+          "Product Option Code": "H0836AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H0836AX_NS_GD1_01_02.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com/ar-iq/kadin-yarim-halka-kupe-3410113",
+          "Model Page URL": "https://www.defacto.com/ar-iq/kadin-yarim-halka-kupe-3410113"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H0836AX_NS_GD1_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H0836AXSR4",
+      "renk_kodu": "SR4",
+      "renk_adi": "SILVER",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 24278,
+          "Product Option Code": "H0836AX.SR4",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "SILVER",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H0836AX_NS_SR4_01_02.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 3,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#C0C0C0",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/ar-iq/kadin-yarim-halka-kupe-3410113"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H0836AX_NS_SR4_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:16:27+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

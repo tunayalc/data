@@ -1,0 +1,208 @@
+{
+  "model_kodu": "N0503AZ",
+  "urun_grubu": "Erkek Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 396,
+    "yorum_sayisi": 396,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 9.8,
+      "tam_oldu": 86.3,
+      "buyuk_geldi": 3.9
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-02-14",
+        "puan": 5.0,
+        "metin": "@harika. 10 numara 5 yıldız. eşime çok yakıştı. 52 beden tam oldu 95 kilo. önünü kapatmadan kullanıyor. omuzlar tam oturdu.…"
+      },
+      {
+        "tarih": "2022-02-20",
+        "puan": 4.0,
+        "metin": "@Eskitilmiş gibi duruyor, beden bir tık küçük oluyor büyük alabilirsiniz bir beden. Slim fit ürün baya. Ben iade etmedim biraderime…"
+      },
+      {
+        "tarih": "2022-03-14",
+        "puan": 3.0,
+        "metin": "@Dokusu filan hiç blazer ceket gibi değilde sanki hırka gibiydi iade ettik kolları kısa geldi"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "N0503AZBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slim Fit Dar Kesim Astarlı Düğmeli Blazer Ceket",
+      "kisa_aciklama": "Slim Fit Dar Kesim Astarlı Blazer Ceket, modern ve şık bir görünüm için ideal bir tercihtir. İnce kesimi ve kaliteli…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-astarli-blazer-ceket-3206851",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/N0503AZ_25SP_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/N0503AZ_25SP_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/N0503AZ_25SP_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/N0503AZ_25SP_BK27_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/N0503AZ_25SP_BK27_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/N0503AZ_25SP_BK27_06_04.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "46",
+          "48",
+          "50",
+          "52",
+          "54",
+          "56",
+          "58"
+        ],
+        "excel": [
+          "56"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "52 Beden - 1,88cm - 93/72/92",
+        "ana_kumas_icerigi": "Pamuk 26%,Poliester 74%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Slım Fıt",
+        "astar_bilgisi": "Astarlı",
+        "urun_tipi": "Blazer Ceket"
+      },
+      "urun_hakkinda": [
+        "Slim Fit Dar Kesim Astarlı Blazer Ceket, modern ve şık bir görünüm için ideal bir tercihtir. İnce kesimi ve kaliteli…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1999.99,
+        "sepette_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45936,
+          "Product Option Code": "N0503AZ.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "56",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/N0503AZ_25SP_BK27_01_01.jpg",
+          "FabricDetail": "Cotton-Pes",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-astarli-blazer-ceket-3206851",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-astarli-blazer-ceket-3206851"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/N0503AZ_25SP_BK27_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "N0503AZBG224",
+      "renk_kodu": "BG224",
+      "renk_adi": "BEIGE MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "56"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45935,
+          "Product Option Code": "N0503AZ.BG224",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "BEIGE MELANGE",
+          "SizeDefinition": "56",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/N0503AZ_25SP_BG224_01_03.jpg",
+          "FabricDetail": "Cotton-Pes",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/slim-fit-dar-kesim-astarli-blazer-ceket-3244495",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-astarli-blazer-ceket-3206851"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/N0503AZ_25SP_BG224_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "N0503AZGR377",
+      "renk_kodu": "GR377",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "52"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 45937,
+          "Product Option Code": "N0503AZ.GR377",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Blazer & Vest",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Blazer",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "52",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/N0503AZ_25SP_GR377_01_04.jpg",
+          "FabricDetail": "Cotton-Pes",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-astarli-blazer-ceket-3206851"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/N0503AZ_25SP_GR377_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:53:50+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/slim-fit-dar-kesim-astarli-blazer-ceket-3244495",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

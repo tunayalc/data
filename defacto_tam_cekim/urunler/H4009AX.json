@@ -1,0 +1,95 @@
+{
+  "model_kodu": "H4009AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H4009AXRD1",
+      "renk_kodu": "RD1",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Berrin Özkan x Defacto Deniz Temalı Kırmızı Bileklik",
+      "kisa_aciklama": "Kırmızı ip bileklik. Ortada nazar boncuğu figürü, inci benzeri ve yıldız figürlü sallantı detayları.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/berrin-ozkan-x-defacto-deniz-temali-kirmizi-bileklik-3437042",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H4009AX_NS_RD1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4009AX_NS_RD1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4009AX_NS_RD1_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4009AX_NS_RD1_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4009AX_NS_RD1_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4009AX_NS_RD1_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4009AX_NS_RD1_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H4009AX_NS_RD1_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,72cm - 83/58/87",
+        "ana_kumas_icerigi": "Plastik 10%,Poliester 30%,Çinko 50%,Emaye 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "taki_tipi": "Bileklik",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kırmızı ip bileklik. Ortada nazar boncuğu figürü, inci benzeri ve yıldız figürlü sallantı detayları."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 28073,
+          "Product Option Code": "H4009AX.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Bracelet",
+          "Product Color Name": "RED",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H4009AX_NS_RD1_01_02.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 6,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H4009AX_NS_RD1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:26:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

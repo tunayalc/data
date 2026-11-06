@@ -1,0 +1,120 @@
+{
+  "model_kodu": "G7898AX",
+  "urun_grubu": "Kadın Kemer",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7898AXBN45",
+      "renk_kodu": "BN45",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Kadın Oval Toka Suni Deri Günlük Kemer",
+      "kisa_aciklama": "Kadın Oval Toka Suni Deri Klasik Kemer, zarif tasarımıyla kombinlerinize sofistike bir dokunuş katar. Dayanıklı suni deri yapısı ve şık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-oval-toka-suni-deri-gunluk-kemer-3372423",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7898AX_NS_BN45_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7898AX_NS_BN45_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7898AX_NS_BN45_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "80",
+          "85",
+          "90",
+          "95",
+          "100"
+        ],
+        "excel": [
+          "85"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_tipi": "Kemer",
+        "urun_olcusu": "2 cm",
+        "kumas": "Suni Deri",
+        "urun_aksesuari": "Kemer",
+        "cinsiyet": "Kadın",
+        "toka_sekli": "Oval Toka"
+      },
+      "urun_hakkinda": [
+        "Kadın Oval Toka Suni Deri Klasik Kemer, zarif tasarımıyla kombinlerinize sofistike bir dokunuş katar. Dayanıklı suni deri yapısı ve şık…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 179.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21630,
+          "Product Option Code": "G7898AX.BN45",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "85",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G7898AX_NS_BN45_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com/ar-iq/kadin-oval-toka-suni-deri-gunluk-kemer-3372423",
+          "Model Page URL": "https://www.defacto.com/ar-iq/kadin-oval-toka-suni-deri-gunluk-kemer-3372423"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G7898AX_NS_BN45_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:10:00+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

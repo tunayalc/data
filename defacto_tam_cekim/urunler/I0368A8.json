@@ -1,0 +1,119 @@
+{
+  "model_kodu": "I0368A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I0368A8PN2",
+      "renk_kodu": "PN2",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "Super 1 Takım Pamuklu Kız Çocuk",
+      "kisa_aciklama": "Şık ve kaliteli pamuklu kumaştan üretilmiş, lisanslı Süper 1 Takım kız çocuk şapka.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/super-1-takim-pamuklu-kiz-cocuk-3498410",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I0368A8_26SM_PN2_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0368A8_26SM_PN2_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0368A8_26SM_PN2_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0368A8_26SM_PN2_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0368A8_26SM_PN2_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0368A8_26SM_PN2_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I0368A8_26SM_PN2_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "5-9 Yaş Beden - 1,35cm",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "kumas": "Pamuklu",
+        "urun_olcusu": "54 cm"
+      },
+      "urun_hakkinda": [
+        "Şık ve kaliteli pamuklu kumaştan üretilmiş, lisanslı Süper 1 Takım kız çocuk şapka.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 599.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 37747,
+          "Product Option Code": "I0368A8.PN2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/I0368A8_26SM_PN2_01_04.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 3,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/super-1-takim-pamuklu-kiz-cocuk-3498410",
+          "Model Page URL": "https://www.defacto.com.tr/super-1-takim-pamuklu-kiz-cocuk-3498410"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/I0368A8_26SM_PN2_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:50:21+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

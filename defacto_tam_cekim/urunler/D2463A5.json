@@ -1,0 +1,114 @@
+{
+  "model_kodu": "D2463A5",
+  "urun_grubu": "Erkek Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 77,
+    "yorum_sayisi": 77,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 40.0,
+      "tam_oldu": 60.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-10",
+        "puan": 5.0,
+        "metin": "@pamuklu kalitesi çok iyi tam kışlık kalın çoraplar❤️"
+      },
+      {
+        "tarih": "2025-05-26",
+        "puan": 5.0,
+        "metin": "@Oğlum için aldım, oldukça kalın ve kışlık bir ürün, güzel."
+      },
+      {
+        "tarih": "2025-05-26",
+        "puan": 5.0,
+        "metin": "@Kışlık çoraplar oldukça kalın."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D2463A5KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kaydırmaz Taban 5'li Pamuklu Havlu Çorap Erkek Bebek",
+      "kisa_aciklama": "5'li paket yüksek kesim baskılı uzun çoraplar, pamuklu kumaştan üretilmiştir. Çok renkli ve hayvan desenli olan bu temel çeşit ürün,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-bebek-kaydirmaz-taban-5li-pamuklu-havlu-corap-3171164",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D2463A5_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D2463A5_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D2463A5_NS_KR1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 52%,Poliamid 19%,Elastan 1%,Poliester 28%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek Bebek",
+        "desen": "Hayvan Desenli",
+        "corap_tipi": "Havlu Çorap",
+        "kumas": "Pamuklu",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "5'li paket yüksek kesim baskılı uzun çoraplar, pamuklu kumaştan üretilmiştir. Çok renkli ve hayvan desenli olan bu temel çeşit ürün,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 179.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6776,
+          "Product Option Code": "D2463A5.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "6-12 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/D2463A5_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-bebek-kaydirmaz-taban-5li-pamuklu-havlu-corap-3171164",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-bebek-kaydirmaz-taban-5li-pamuklu-havlu-corap-3171164"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/D2463A5_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:31:35+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

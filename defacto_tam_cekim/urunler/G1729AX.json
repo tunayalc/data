@@ -1,0 +1,124 @@
+{
+  "model_kodu": "G1729AX",
+  "urun_grubu": "Kadın Külot",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-23",
+        "puan": 5.0,
+        "metin": "@Renkler müthiş dikişsiz ve fiyat harika"
+      },
+      {
+        "tarih": "2026-07-07",
+        "puan": 5.0,
+        "metin": "@Güzel"
+      },
+      {
+        "tarih": "2026-06-11",
+        "puan": 5.0,
+        "metin": "@İçten göstermiyor gerçekten ve kaliteli"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G1729AXBN307",
+      "renk_kodu": "BN307",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Micro 3'lü Külot",
+      "kisa_aciklama": "Yetişkin kadınlar için Fall in Love marka kadın iç çamaşırı. Micro kumaştan yapılmış 3'lü paketli slip külot takımı. Kahve renk…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/micro-3lu-kulot-3375571",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1729AX_26SP_BN307_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 80/60/89",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Paketli Slip Külot",
+        "markalar": "Fall ın Love"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için Fall in Love marka kadın iç çamaşırı. Micro kumaştan yapılmış 3'lü paketli slip külot takımı. Kahve renk…",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18094,
+          "Product Option Code": "G1729AX.BN307",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Package Slip",
+          "Product Color Name": "LT.BROWN",
+          "SizeDefinition": "XL",
+          "Fit": "BRIEF",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1729AX_26SP_BN307_01_02.jpg",
+          "FabricDetail": "MICRO",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#C3A489",
+          "Product Page URL": "https://www.defacto.com.tr/micro-3lu-kulot-3375571",
+          "Model Page URL": "https://www.defacto.com.tr/micro-3lu-kulot-3375571"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G1729AX_26SP_BN307_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:59:47+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

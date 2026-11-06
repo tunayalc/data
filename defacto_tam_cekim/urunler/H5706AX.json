@@ -1,0 +1,90 @@
+{
+  "model_kodu": "H5706AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5706AXBE1",
+      "renk_kodu": "BE1",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Kadın Çizgili Saç Bandı",
+      "kisa_aciklama": "Dolgun saç bandı. Çizgili detay.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-cizgili-sac-bandi-3444448",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5706AX_NS_BE1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5706AX_NS_BE1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5706AX_NS_BE1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5706AX_NS_BE1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "STD Beden - 1,75cm - 75/61/89",
+        "ana_kumas_icerigi": "Poliester 70%,Demir 30%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Dolgun saç bandı. Çizgili detay."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 174.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30783,
+          "Product Option Code": "H5706AX.BE1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Acc.",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H5706AX_NS_BE1_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-cizgili-sac-bandi-3444448",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-cizgili-sac-bandi-3444448"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H5706AX_NS_BE1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:29:28+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

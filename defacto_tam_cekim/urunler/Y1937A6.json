@@ -1,0 +1,140 @@
+{
+  "model_kodu": "Y1937A6",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 136,
+    "yorum_sayisi": 136,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 6.1,
+      "tam_oldu": 87.9,
+      "buyuk_geldi": 6.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2022-10-27",
+        "puan": 5.0,
+        "metin": "@Çok güzel ama bu çoraplar neden çabuk kayboluyor"
+      },
+      {
+        "tarih": "2022-09-16",
+        "puan": 5.0,
+        "metin": "@harika mutlaka alın"
+      },
+      {
+        "tarih": "2025-01-13",
+        "puan": 3.0,
+        "metin": "@klasik DeFacto corabı"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "Y1937A6KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "5'li Pamuklu Patik Çorap Kız Çocuk",
+      "kisa_aciklama": "Pamuklu renkli kısa patik çorap modeli ile gün boyu konforlu kullanım sağlayan birbirinden farklı renk seçeneği ile tercih edeceğiniz DeFacto…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-kiz-cocuk-2568628",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/Y1937A6_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y1937A6_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y1937A6_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y1937A6_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y1937A6_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y1937A6_NS_KR1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/Y1937A6_NS_KR1_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34",
+          "35 - 39"
+        ],
+        "excel": [
+          "29 - 34",
+          "35 - 39"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 73%,Poliamid 23%,Elastan 3%,Poliester 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "urun_tipi": "Kısa Çorap",
+        "cinsiyet": "Kız Çocuk",
+        "corap_tipi": "Patik Çorap",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Pamuklu renkli kısa patik çorap modeli ile gün boyu konforlu kullanım sağlayan birbirinden farklı renk seçeneği ile tercih edeceğiniz DeFacto…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 99.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 48137,
+          "Product Option Code": "Y1937A6.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/Y1937A6_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-kiz-cocuk-2568628",
+          "Model Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-kiz-cocuk-2568628"
+        },
+        {
+          "excel_satiri": 48138,
+          "Product Option Code": "Y1937A6.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "35 - 39",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/Y1937A6_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-kiz-cocuk-2568628",
+          "Model Page URL": "https://www.defacto.com.tr/5li-pamuklu-patik-corap-kiz-cocuk-2568628"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/Y1937A6_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:55:51+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

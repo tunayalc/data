@@ -1,0 +1,117 @@
+{
+  "model_kodu": "D0535AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-11-25",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2024-12-11",
+        "puan": 5.0,
+        "metin": "@Güzel"
+      },
+      {
+        "tarih": "2024-12-02",
+        "puan": 5.0,
+        "metin": "@ince yazlik"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D0535AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Rahat Lastikli 5'li Pamuklu Uzun Çorap",
+      "kisa_aciklama": "Kadın Rahat Lastikli 5'li Pamuklu Uzun Çorap: Şıklığı ve konforu bir arada sunan uzun çoraplar, pamuklu dokusuyla gün boyu rahatlık…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-5li-pamuklu-uzun-corap-3170341",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D0535AX_NS_KR1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0535AX_NS_KR1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0535AX_NS_KR1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0535AX_NS_KR1_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0535AX_NS_KR1_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0535AX_NS_KR1_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0535AX_NS_KR1_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40",
+          "STD"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 72%,Poliamid 26%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Uzun Çorap",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Kadın Rahat Lastikli 5'li Pamuklu Uzun Çorap: Şıklığı ve konforu bir arada sunan uzun çoraplar, pamuklu dokusuyla gün boyu rahatlık…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6091,
+          "Product Option Code": "D0535AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "36-40",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/D0535AX_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 10,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-5li-pamuklu-uzun-corap-3170341",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-5li-pamuklu-uzun-corap-3170341"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/D0535AX_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:29:50+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

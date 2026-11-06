@@ -1,0 +1,94 @@
+{
+  "model_kodu": "H6682A5",
+  "urun_grubu": "Kız Bebek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H6682A5PN2",
+      "renk_kodu": "PN2",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "3D 3'lü Pamuklu Uzun Çorap Kız Bebek",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş çorap. 3'Lü set.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/3d-3lu-pamuklu-uzun-corap-kiz-bebek-3452231",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H6682A5_NS_PN2_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6682A5_NS_PN2_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H6682A5_NS_PN2_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "6-12 M",
+          "12-24 Ay",
+          "2-3 Y"
+        ],
+        "excel": [
+          "6-12 M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 75%,Poliamid 23%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Bebek",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Uzun Çorap",
+        "desen": "3D",
+        "takim_icerigi": "3'lü"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş çorap. 3'Lü set."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 149.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 31960,
+          "Product Option Code": "H6682A5.PN2",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "6-12 M",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H6682A5_NS_PN2_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com/3d-3lu-pamuklu-uzun-corap-kiz-bebek-3452231",
+          "Model Page URL": "https://www.defacto.com/3d-3lu-pamuklu-uzun-corap-kiz-bebek-3452231"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H6682A5_NS_PN2_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:32:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

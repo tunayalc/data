@@ -1,0 +1,546 @@
+{
+  "model_kodu": "G1286AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 22,
+    "yorum_sayisi": 22,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 55.6,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 11.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-10",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-30",
+        "puan": 3.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-07-10",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G1286AXER100",
+      "renk_kodu": "ER100",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Ultra Yumuşak %100 Pamuk Regular Fıt Kısa Kollu Tişört",
+      "kisa_aciklama": "Ultra Yumuşak %100 Pamuk Basic Tişört, doğal pamuklu yapısıyla gün boyu nefes alabilir ve rahat bir kullanım sunar. Sade tasarımı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_ER100_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_ER100_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_ER100_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_ER100_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_ER100_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_ER100_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_ER100_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "yaka": "Polo Yaka",
+        "kalip": "Regular Fıt",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak %100 Pamuk Basic Tişört, doğal pamuklu yapısıyla gün boyu nefes alabilir ve rahat bir kullanım sunar. Sade tasarımı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 249.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17915,
+          "Product Option Code": "G1286AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_ER100_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 5,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17916,
+          "Product Option Code": "G1286AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_ER100_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 6,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17917,
+          "Product Option Code": "G1286AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_ER100_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17918,
+          "Product Option Code": "G1286AX.ER100",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_ER100_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_ER100_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G1286AXGN465",
+      "renk_kodu": "GN465",
+      "renk_adi": "Koyu Yeşil",
+      "renk_hex": "#079507",
+      "urun_adi": "Ultra Yumuşak %100 Pamuk Regular Fıt Kısa Kollu Tişört",
+      "kisa_aciklama": "Ultra Yumuşak %100 Pamuk Basic Tişört, doğal pamuklu yapısıyla gün boyu nefes alabilir ve rahat bir kullanım sunar. Sade tasarımı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377569",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GN465_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GN465_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GN465_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GN465_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GN465_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GN465_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka",
+        "kol_boyu": "Kısa Kollu",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak %100 Pamuk Basic Tişört, doğal pamuklu yapısıyla gün boyu nefes alabilir ve rahat bir kullanım sunar. Sade tasarımı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17919,
+          "Product Option Code": "G1286AX.GN465",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GN465_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377569",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17920,
+          "Product Option Code": "G1286AX.GN465",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GN465_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377569",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17921,
+          "Product Option Code": "G1286AX.GN465",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GN465_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 4,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377569",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17922,
+          "Product Option Code": "G1286AX.GN465",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GN465_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377569",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17923,
+          "Product Option Code": "G1286AX.GN465",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "D.GREEN",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GN465_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#079507",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377569",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GN465_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G1286AXGR504",
+      "renk_kodu": "GR504",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Ultra Yumuşak %100 Pamuk Regular Fıt Kısa Kollu Tişört",
+      "kisa_aciklama": "Ultra Yumuşak %100 Pamuk Basic Tişört, doğal pamuklu yapısıyla gün boyu nefes alabilir ve rahat bir kullanım sunar. Sade tasarımı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377568",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GR504_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GR504_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GR504_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GR504_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GR504_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GR504_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G1286AX_26SP_GR504_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak %100 Pamuk Basic Tişört, doğal pamuklu yapısıyla gün boyu nefes alabilir ve rahat bir kullanım sunar. Sade tasarımı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17924,
+          "Product Option Code": "G1286AX.GR504",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GR504_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377568",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17925,
+          "Product Option Code": "G1286AX.GR504",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GR504_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377568",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17926,
+          "Product Option Code": "G1286AX.GR504",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GR504_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377568",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17927,
+          "Product Option Code": "G1286AX.GR504",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GR504_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377568",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17928,
+          "Product Option Code": "G1286AX.GR504",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GR504_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377568",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        },
+        {
+          "excel_satiri": 17929,
+          "Product Option Code": "G1286AX.GR504",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GR504_01_01.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377568",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-100-pamuk-regular-fit-kisa-kollu-tisort-3377567"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G1286AX_26SP_GR504_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:57:50+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D4853AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D4853AXWT34",
+      "renk_kodu": "WT34",
+      "renk_adi": "WHITE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7781,
+          "Product Option Code": "D4853AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "34",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4853AX_24HS_WT34_01_05.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 4,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/desenli-normal-bel-flamli-pamuk-sort-3160070",
+          "Model Page URL": "https://www.defacto.com/desenli-normal-bel-flamli-pamuk-sort-3160070"
+        },
+        {
+          "excel_satiri": 7782,
+          "Product Option Code": "D4853AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "36",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4853AX_24HS_WT34_01_05.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 5,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/desenli-normal-bel-flamli-pamuk-sort-3160070",
+          "Model Page URL": "https://www.defacto.com/desenli-normal-bel-flamli-pamuk-sort-3160070"
+        },
+        {
+          "excel_satiri": 7783,
+          "Product Option Code": "D4853AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "38",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4853AX_24HS_WT34_01_05.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/desenli-normal-bel-flamli-pamuk-sort-3160070",
+          "Model Page URL": "https://www.defacto.com/desenli-normal-bel-flamli-pamuk-sort-3160070"
+        },
+        {
+          "excel_satiri": 7784,
+          "Product Option Code": "D4853AX.WT34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Short",
+          "Product Color Name": "WHITE",
+          "SizeDefinition": "42",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24HS/D4853AX_24HS_WT34_01_05.jpg",
+          "FabricDetail": "FLAM COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com/desenli-normal-bel-flamli-pamuk-sort-3160070",
+          "Model Page URL": "https://www.defacto.com/desenli-normal-bel-flamli-pamuk-sort-3160070"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24HS/D4853AX_24HS_WT34_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:35:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/desenli-normal-bel-flamli-pamuk-sort-3160070",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

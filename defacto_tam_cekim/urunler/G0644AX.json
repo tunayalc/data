@@ -1,0 +1,122 @@
+{
+  "model_kodu": "G0644AX",
+  "urun_grubu": "Kadın Deri Ceket",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 20.0,
+      "buyuk_geldi": 20.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-02-15",
+        "puan": 4.0,
+        "metin": "@Ürünün rengi tam kahve değil, eskitme gibi bir şey, bilginiz olsun, ara sıra dalgalanmalar oluyor."
+      },
+      {
+        "tarih": "2026-02-21",
+        "puan": 5.0,
+        "metin": "@ben kalıbını beğendim oversize bir ürün sadece"
+      },
+      {
+        "tarih": "2026-04-23",
+        "puan": 5.0,
+        "metin": "@bayildimm tam baharlik asssiri ince degil ama kalin da degil. elime ulasan urunde renk dalgalanmasi da yoktu tam bedeninizi alin…"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0644AXBN530",
+      "renk_kodu": "BN530",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Dad Fit Fermuarlı Suni Deri Ceket",
+      "kisa_aciklama": "Kaliteli suni deri materyaliyle zamansız ve iddialı bir duruş sergileyen ceket, dad fit geniş kalıbıyla retro-modern bir siluet sunar. Fermuarlı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/dad-fit-fermuarli-suni-deri-ceket-3374153",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0644AX_26SP_BN530_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0644AX_26SP_BN530_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0644AX_26SP_BN530_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0644AX_26SP_BN530_04_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0644AX_26SP_BN530_05_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0644AX_26SP_BN530_06_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0644AX_26SP_BN530_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,80cm - 78/61/89",
+        "ana_kumas_icerigi": "Poliester 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_tipi": "Mont",
+        "kalip": "Dad Fıt",
+        "yaka": "Polo Yaka",
+        "dis_giyim_urun_grubu": "Suni Deri Ceket",
+        "cinsiyet": "Kadın",
+        "kumas": "Suni Deri"
+      },
+      "urun_hakkinda": [
+        "Kaliteli suni deri materyaliyle zamansız ve iddialı bir duruş sergileyen ceket, dad fit geniş kalıbıyla retro-modern bir siluet sunar. Fermuarlı…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 1439.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17593,
+          "Product Option Code": "G0644AX.BN530",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "PU Mont",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "XXL",
+          "Fit": "DAD FİT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G0644AX_26SP_BN530_01_04.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 1799.99,
+          "Actual Price Value": 1799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/dad-fit-fermuarli-suni-deri-ceket-3374153",
+          "Model Page URL": "https://www.defacto.com.tr/dad-fit-fermuarli-suni-deri-ceket-3374153"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G0644AX_26SP_BN530_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:56:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

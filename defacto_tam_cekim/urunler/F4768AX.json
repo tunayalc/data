@@ -1,0 +1,442 @@
+{
+  "model_kodu": "F4768AX",
+  "urun_grubu": "Kadın Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 17,
+    "yorum_sayisi": 17,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-21",
+        "puan": 5.0,
+        "metin": "@Harika bir şey, her şeyle kombinlenebilir. Rengi de capcanlı."
+      },
+      {
+        "tarih": "2025-12-07",
+        "puan": 5.0,
+        "metin": "@Harika! Gerçekten çok güzel, yumuşacık. Rengi de şahane. Çok teşekkür ederim. Çok teşekkürler."
+      },
+      {
+        "tarih": "2026-02-27",
+        "puan": 5.0,
+        "metin": "@Şahane! Aşırı hoşuma gitti."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F4768AXGR515",
+      "renk_kodu": "GR515",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Regular Fit Yarım Balıkçı Yaka Triko Kazak",
+      "kisa_aciklama": "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-triko-kazak-3326571",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_GR515_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_GR515_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_GR515_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_GR515_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_GR515_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_GR515_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_GR515_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_GR515_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_GR515_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm - 83/61/90",
+        "ana_kumas_icerigi": "Akrilik 73%,Elastan 1%,Poliester 26%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Yarım Balıkçı Yaka",
+        "urun_tipi": "Kazak",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "triko_kalinligi": "Kalın"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 14790,
+          "Product Option Code": "F4768AX.GR515",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Young",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/F4768AX_25WN_GR515_01_02.jpg",
+          "FabricDetail": "ACRYLIC POLYESTER ELASTANE",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-triko-kazak-3326571",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-triko-basic-yun-karisimli-kazak-3499530"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/F4768AX_25WN_GR515_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F4768AXBR455",
+      "renk_kodu": "BR455",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Regular Fit Yarım Balıkçı Yaka Triko Basic Yün Karışımlı Kazak",
+      "kisa_aciklama": "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-triko-basic-yun-karisimli-kazak-3499530",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4768AX_26WN_BR455_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_26WN_BR455_02_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 70%,Elastan 2%,Poliester 24%,Yün 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Kadın",
+        "yaka": "Yarım Balıkçı Yaka",
+        "urun_tipi": "Kazak",
+        "kol_boyu": "Uzun Kollu",
+        "triko_kalinligi": "Kalın"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F4768AXYL439",
+      "renk_kodu": "YL439",
+      "renk_adi": "Sarı",
+      "renk_hex": "#FFFF00",
+      "urun_adi": "Regular Fit Yarım Balıkçı Yaka Triko Kazak",
+      "kisa_aciklama": "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-triko-kazak-3326569",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_YL439_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_YL439_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_YL439_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_YL439_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_YL439_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_YL439_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_YL439_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_YL439_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/61/89",
+        "ana_kumas_icerigi": "Akrilik 73%,Elastan 1%,Poliester 26%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kazak",
+        "kalip": "Regular Fıt",
+        "yaka": "Yarım Balıkçı Yaka",
+        "triko_kalinligi": "Kalın",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F4768AXPR250",
+      "renk_kodu": "PR250",
+      "renk_adi": "Lila",
+      "renk_hex": "#C8A2C8",
+      "urun_adi": "Regular Fit Yarım Balıkçı Yaka Triko Basic Yün Karışımlı Kazak",
+      "kisa_aciklama": "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-triko-basic-yun-karisimli-kazak-3499531",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4768AX_26WN_PR250_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_26WN_PR250_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_26WN_PR250_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_26WN_PR250_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_26WN_PR250_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_26WN_PR250_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_26WN_PR250_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,77cm - 78/63/90",
+        "ana_kumas_icerigi": "Akrilik 70%,Elastan 2%,Poliester 24%,Yün 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Kazak",
+        "kalip": "Regular Fıt",
+        "yaka": "Yarım Balıkçı Yaka",
+        "triko_kalinligi": "Kalın"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F4768AXBR466",
+      "renk_kodu": "BR466",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Regular Fit Yarım Balıkçı Yaka Triko Kazak",
+      "kisa_aciklama": "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-yarim-balikci-yaka-triko-kazak-3326570",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F4768AX_25WN_BR466_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm - 83/61/90",
+        "ana_kumas_icerigi": "Akrilik 73%,Elastan 1%,Poliester 26%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "urun_tipi": "Kazak",
+        "triko_kalinligi": "Kalın",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Kadın",
+        "yaka": "Yarım Balıkçı Yaka",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit kesimi ve yarım balıkçı yaka tasarımıyla kazak, şıklık ve rahatlığı bir arada sunar. Yumuşak kumaşıyla soğuk günlerde ideal…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:46:28+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

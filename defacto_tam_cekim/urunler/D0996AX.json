@@ -1,0 +1,114 @@
+{
+  "model_kodu": "D0996AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 19,
+    "yorum_sayisi": 19,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 27.3,
+      "tam_oldu": 72.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-12",
+        "puan": 5.0,
+        "metin": "@Çoraplar gayet güzel, çok beğendim. Açıkçası."
+      },
+      {
+        "tarih": "2026-06-12",
+        "puan": 5.0,
+        "metin": "@Harika! Gerçekten çok güzel. Kışlık. Kızım da çok beğendi. Görünüyor. Çok teşekkür ederim."
+      },
+      {
+        "tarih": "2026-06-14",
+        "puan": 5.0,
+        "metin": "@Harika! Çoraplar çok güzel, severek giyiyoruz. Kalitesi de gayet iyi."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D0996AXKR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Kadın Slogan Baskılı 5'li Pamuklu Soket Çorap",
+      "kisa_aciklama": "Kadın 5'li Pamuklu Soket Çorap: Kaliteli pamuklu kumaşıyla konfor ve şıklığı bir arada sunar. Beş farklı renk seçeneğiyle her tarza…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-5li-pamuklu-soket-corap-3193778",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D0996AX_NS_KR1_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0996AX_NS_KR1_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D0996AX_NS_KR1_03_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36-40",
+          "STD"
+        ],
+        "excel": [
+          "36-40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 70%,Poliamid 27%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Slogan Baskılı",
+        "takim_icerigi": "5'li",
+        "corap_tipi": "Soket Çorap",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın 5'li Pamuklu Soket Çorap: Kaliteli pamuklu kumaşıyla konfor ve şıklığı bir arada sunar. Beş farklı renk seçeneğiyle her tarza…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6281,
+          "Product Option Code": "D0996AX.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "36-40",
+          "Fit": "MID CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/D0996AX_NS_KR1_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 7,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-5li-pamuklu-soket-corap-3193778",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-5li-pamuklu-soket-corap-3193778"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/D0996AX_NS_KR1_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:26:09+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

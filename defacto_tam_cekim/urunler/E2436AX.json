@@ -1,0 +1,142 @@
+{
+  "model_kodu": "E2436AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 66.7,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Kumaşın dokusu çok hoş, almak isteyenler tam bedenlerini tercih edebilirler"
+      },
+      {
+        "tarih": "2025-12-06",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre gayet güzel ve başarılı."
+      },
+      {
+        "tarih": "2025-08-02",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E2436AXTR519",
+      "renk_kodu": "TR519",
+      "renk_adi": "Açık Turkuaz",
+      "renk_hex": "#42F5E7",
+      "urun_adi": "Esnek Kumaş Slim Fit Dar Kesim Bisiklet Yaka Sporcu Kısa Kollu Tişört",
+      "kisa_aciklama": "DeFactoFit Slim Fit Dar Kesim Bisiklet Yaka Sporcu Kısa Kollu Tişört, vücuda oturan dar kesimiyle şıklık ve rahatlık sunar. Spor…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/esnek-kumas-slim-fit-dar-kesim-bisiklet-yaka-sporcu-kisa-kollu-tisort-3213229",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E2436AX_25SM_TR519_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2436AX_25SM_TR519_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2436AX_25SM_TR519_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2436AX_25SM_TR519_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2436AX_25SM_TR519_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E2436AX_25SM_TR519_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,83cm - 90/74/93",
+        "ana_kumas_icerigi": "Elastan 7%,Poliester 75%,Lyocell 18%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kol_boyu": "Kısa Kollu",
+        "kullanim_alani": "Antrenman &amp; Günlük Giyim",
+        "yasam_tarzi": "Sporcu",
+        "kalip": "Slım Fıt"
+      },
+      "urun_hakkinda": [
+        "DeFactoFit Slim Fit Dar Kesim Bisiklet Yaka Sporcu Kısa Kollu Tişört, vücuda oturan dar kesimiyle şıklık ve rahatlık sunar. Spor…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 10884,
+          "Product Option Code": "E2436AX.TR519",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "LT.TURQUOISE",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/E2436AX_25SM_TR519_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#42F5E7",
+          "Product Page URL": "https://www.defacto.com.tr/esnek-kumas-slim-fit-dar-kesim-bisiklet-yaka-sporcu-kisa-kollu-tisort-3213229",
+          "Model Page URL": "https://www.defacto.com.tr/esnek-kumas-slim-fit-dar-kesim-bisiklet-yaka-sporcu-kisa-kollu-tisort-3213229"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/E2436AX_25SM_TR519_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:43:14+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

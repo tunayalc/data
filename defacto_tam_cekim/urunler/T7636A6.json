@@ -1,0 +1,133 @@
+{
+  "model_kodu": "T7636A6",
+  "urun_grubu": "Kız Çocuk - Genç Kız Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 173,
+    "yorum_sayisi": 173,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 7.8,
+      "tam_oldu": 90.2,
+      "buyuk_geldi": 2.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-19",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-05-13",
+        "puan": 5.0,
+        "metin": "@İndirimden aldım, kızım çok sevdi."
+      },
+      {
+        "tarih": "2025-05-20",
+        "puan": 5.0,
+        "metin": "@Teşekkürler, çok güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "T7636A6KR1",
+      "renk_kodu": "KR1",
+      "renk_adi": "Karma",
+      "renk_hex": null,
+      "urun_adi": "Yıldız Desenli 5'li Pamuklu Patik Çorap Kız Çocuk",
+      "kisa_aciklama": "Rahat ve pamuklu kumaşı ile gün boyu konforlu kullanım sağlayan kısa çorap modeli ile tercih edeceğiniz DeFacto Kız Çocuk Yıldız…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yildiz-desenli-5li-pamuklu-patik-corap-kiz-cocuk-2384058",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/T7636A6_NS_KR1_01_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "23/28",
+          "29/34"
+        ],
+        "excel": [
+          "23 - 28",
+          "29 - 34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 79%,Poliamid 19%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "corap_tipi": "Patik Çorap",
+        "cinsiyet": "Kız Çocuk",
+        "urun_tipi": "Kısa Çorap",
+        "takim_icerigi": "5'li"
+      },
+      "urun_hakkinda": [
+        "Rahat ve pamuklu kumaşı ile gün boyu konforlu kullanım sağlayan kısa çorap modeli ile tercih edeceğiniz DeFacto Kız Çocuk Yıldız…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 124.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 46593,
+          "Product Option Code": "T7636A6.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "23 - 28",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/T7636A6_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 5,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/yildiz-desenli-5li-pamuklu-patik-corap-kiz-cocuk-2384058",
+          "Model Page URL": "https://www.defacto.com.tr/yildiz-desenli-5li-pamuklu-patik-corap-kiz-cocuk-2384058"
+        },
+        {
+          "excel_satiri": 46594,
+          "Product Option Code": "T7636A6.KR1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Low Cut Socks",
+          "Product Color Name": "KARMA",
+          "SizeDefinition": "29 - 34",
+          "Fit": "LOW CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/T7636A6_NS_KR1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "Bulunamadı",
+          "Product Page URL": "https://www.defacto.com.tr/yildiz-desenli-5li-pamuklu-patik-corap-kiz-cocuk-2384058",
+          "Model Page URL": "https://www.defacto.com.tr/yildiz-desenli-5li-pamuklu-patik-corap-kiz-cocuk-2384058"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/T7636A6_NS_KR1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:13:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

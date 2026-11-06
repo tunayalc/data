@@ -1,0 +1,117 @@
+{
+  "model_kodu": "G8748AX",
+  "urun_grubu": "Kadın Etek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 8,
+    "yorum_sayisi": 8,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 57.1,
+      "tam_oldu": 42.9,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-02",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-20",
+        "puan": 5.0,
+        "metin": "@takım aldim çok güzel"
+      },
+      {
+        "tarih": "2026-01-16",
+        "puan": 5.0,
+        "metin": "@tek kelimeyle muhteşem ♥️"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8748AXAR191",
+      "renk_kodu": "AR191",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "A Kesim Normal Bel Mıdı Etek",
+      "kisa_aciklama": "Zarif ve feminen bir siluet sunan A Kesim Normal Bel Midi Etek, her ortamda şıklığınızı ön plana çıkarır. Normal bel…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/a-kesim-normal-bel-midi-etek-3429091",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8748AX_26SP_AR191_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8748AX_26SP_AR191_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8748AX_26SP_AR191_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8748AX_26SP_AR191_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8748AX_26SP_AR191_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 2%,Viskoz 28%,Poliester 70%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Asimetrik Paça",
+        "urun_boyu": "Mıdı",
+        "cinsiyet": "Kadın",
+        "kalip": "A Kesim",
+        "bel_detayi": "Normal Bel"
+      },
+      "urun_hakkinda": [
+        "Zarif ve feminen bir siluet sunan A Kesim Normal Bel Midi Etek, her ortamda şıklığınızı ön plana çıkarır. Normal bel…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22575,
+          "Product Option Code": "G8748AX.AR191",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Young",
+          "Class Name": "Knitted Skirt",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "S",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25CW/G8748AX_25CW_AR191_01_02.jpg",
+          "FabricDetail": "cut&sewn brushed",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-midi-etek-3429091",
+          "Model Page URL": "https://www.defacto.com.tr/a-kesim-normal-bel-midi-etek-3429091"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25CW/G8748AX_25CW_AR191_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:12:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "model_kodu": "F9544AX",
+  "urun_grubu": "Erkek Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-24",
+        "puan": 5.0,
+        "metin": "@kumasi rezalet ,2 hafta olmadan tuylenme yapti"
+      },
+      {
+        "tarih": "2026-09-23",
+        "puan": 5.0,
+        "metin": "@kaliteli"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9544AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Pamuklu Nefes Alabilen Boxy Fit Hırka",
+      "kisa_aciklama": "Nefes Alabilen Boxy Fit Hırka, özel dokulu kumaş yapısı sayesinde hava sirkülasyonu sağlayarak gün boyu ferah bir kullanım sunar. Modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-boxy-fit-hirka-3374549",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_NV64_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_NV64_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_NV64_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_NV64_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_NV64_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 98/79/94",
+        "ana_kumas_icerigi": "Pamuk 87%,Poliester 13%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Boxy Fıt",
+        "cinsiyet": "Erkek",
+        "yaka": "Dik Yaka",
+        "kol_boyu": "Uzun Kollu"
+      },
+      "urun_hakkinda": [
+        "Nefes Alabilen Boxy Fit Hırka, özel dokulu kumaş yapısı sayesinde hava sirkülasyonu sağlayarak gün boyu ferah bir kullanım sunar. Modern…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16946,
+          "Product Option Code": "F9544AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9544AX_26SP_NV64_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/fr-ma/pamuklu-nefes-alabilen-boxy-fit-hirka-3374549",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-boxy-fit-hirka-3374550"
+        },
+        {
+          "excel_satiri": 16947,
+          "Product Option Code": "F9544AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9544AX_26SP_NV64_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/fr-ma/pamuklu-nefes-alabilen-boxy-fit-hirka-3374549",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-boxy-fit-hirka-3374550"
+        },
+        {
+          "excel_satiri": 16948,
+          "Product Option Code": "F9544AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9544AX_26SP_NV64_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/fr-ma/pamuklu-nefes-alabilen-boxy-fit-hirka-3374549",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-boxy-fit-hirka-3374550"
+        },
+        {
+          "excel_satiri": 16949,
+          "Product Option Code": "F9544AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9544AX_26SP_NV64_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/fr-ma/pamuklu-nefes-alabilen-boxy-fit-hirka-3374549",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-boxy-fit-hirka-3374550"
+        },
+        {
+          "excel_satiri": 16950,
+          "Product Option Code": "F9544AX.NV64",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Cardigan",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XS",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9544AX_26SP_NV64_01_02.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/fr-ma/pamuklu-nefes-alabilen-boxy-fit-hirka-3374549",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-boxy-fit-hirka-3374550"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9544AX_26SP_NV64_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9544AXBN571",
+      "renk_kodu": "BN571",
+      "renk_adi": "Açık Kahve",
+      "renk_hex": "#C3A489",
+      "urun_adi": "Pamuklu Nefes Alabilen Boxy Fit Hırka",
+      "kisa_aciklama": "Nefes Alabilen Boxy Fit Hırka, özel dokulu kumaş yapısı sayesinde hava sirkülasyonu sağlayarak gün boyu ferah bir kullanım sunar. Modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-boxy-fit-hirka-3374550",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_BN571_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_BN571_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_BN571_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_BN571_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_BN571_05_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_BN571_06_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_BN571_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 97/81/94",
+        "ana_kumas_icerigi": "Pamuk 70%,Poliester 30%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "yaka": "Dik Yaka",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "kalip": "Boxy Fıt"
+      },
+      "urun_hakkinda": [
+        "Nefes Alabilen Boxy Fit Hırka, özel dokulu kumaş yapısı sayesinde hava sirkülasyonu sağlayarak gün boyu ferah bir kullanım sunar. Modern…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F9544AXAR221",
+      "renk_kodu": "AR221",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Pamuklu Nefes Alabilen Boxy Fit Hırka",
+      "kisa_aciklama": "Nefes Alabilen Boxy Fit Hırka, özel dokulu kumaş yapısı sayesinde hava sirkülasyonu sağlayarak gün boyu ferah bir kullanım sunar. Modern…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-nefes-alabilen-boxy-fit-hirka-3407271",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_AR221_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_AR221_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_AR221_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_AR221_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9544AX_26SP_AR221_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 77/95/93",
+        "ana_kumas_icerigi": "Pamuk 87%,Poliester 13%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "yaka": "Dik Yaka",
+        "kalip": "Boxy Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Nefes Alabilen Boxy Fit Hırka, özel dokulu kumaş yapısı sayesinde hava sirkülasyonu sağlayarak gün boyu ferah bir kullanım sunar. Modern…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:54:16+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

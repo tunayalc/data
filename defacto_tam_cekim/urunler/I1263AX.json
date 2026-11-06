@@ -1,0 +1,114 @@
+{
+  "model_kodu": "I1263AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "I1263AXBG280",
+      "renk_kodu": "BG280",
+      "renk_adi": "VISON",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38835,
+          "Product Option Code": "I1263AX.BG280",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Wallets",
+          "LifeStyle": "Casual",
+          "Class Name": "Card Holder",
+          "Product Color Name": "VISON",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1263AX_NS_BG280_01_03.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 4,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#968073",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/suni-deri-bej-kartlik-3570324",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-suni-deri-kartlik-3570321"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1263AX_NS_BG280_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I1263AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "BLACK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "STD"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 38836,
+          "Product Option Code": "I1263AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Wallets",
+          "LifeStyle": "Casual",
+          "Class Name": "Card Holder",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I1263AX_NS_BK27_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 4,
+          "Initial Price Value": 199.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/suni-deri-siyah-kartlik-3570323",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kadin-suni-deri-kartlik-3570321"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I1263AX_NS_BK27_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:42:42+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/suni-deri-bej-kartlik-3570324",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/suni-deri-siyah-kartlik-3570323",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    },
+    {
+      "url": "https://www.defacto.com.tr/kadin-suni-deri-kartlik-3570321",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

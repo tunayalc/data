@@ -1,0 +1,115 @@
+{
+  "model_kodu": "I2661A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Eldiven",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2661A8RD1",
+      "renk_kodu": "RD1",
+      "renk_adi": "Kırmızı",
+      "renk_hex": "#FF0000",
+      "urun_adi": "Marvel Spiderman Baskılı Triko Eldiven Erkek Çocuk",
+      "kisa_aciklama": "Esnek örgü kumaştan, üst kısmı karakter baskı detaylı, ribanalı bilek bitişli beş parmaklı eldiven. Marvel lisanslı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/marvel-spiderman-baskili-triko-eldiven-erkek-cocuk-3515176",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2661A8_26WN_RD1_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2661A8_26WN_RD1_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2661A8_26WN_RD1_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2661A8_26WN_RD1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5-9 Yaş"
+        ],
+        "excel": [
+          "5-9 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "5-9 Yaş Beden",
+        "ana_kumas_icerigi": "Akrilik 81%,Elastan 1%,Poliester 18%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "lisans_bilgisi": "Marvel Spıderman",
+        "cinsiyet": "Erkek Çocuk",
+        "urun_tipi": "Eldiven"
+      },
+      "urun_hakkinda": [
+        "Esnek örgü kumaştan, üst kısmı karakter baskı detaylı, ribanalı bilek bitişli beş parmaklı eldiven. Marvel lisanslı.",
+        "Bu ürünün değişimini en yakın mağazamızdan ücretsiz olarak yapabilirsiniz."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40541,
+          "Product Option Code": "I2661A8.RD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Gloves",
+          "Product Color Name": "RED",
+          "SizeDefinition": "5-9 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26WN/I2661A8_26WN_RD1_01_02.jpg",
+          "FabricDetail": "ACRYLIC",
+          "Toplam": 3,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF0000",
+          "Product Page URL": "https://www.defacto.com.tr/marvel-spiderman-baskili-triko-eldiven-erkek-cocuk-3515176",
+          "Model Page URL": "https://www.defacto.com.tr/marvel-spiderman-baskili-triko-eldiven-erkek-cocuk-3515176"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26WN/I2661A8_26WN_RD1_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:45:49+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

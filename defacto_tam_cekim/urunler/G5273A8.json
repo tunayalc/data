@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G5273A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G5273A8PN396",
+      "renk_kodu": "PN396",
+      "renk_adi": "LT.PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19529,
+          "Product Option Code": "G5273A8.PN396",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Mont",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G5273A8_26SP_PN396_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kontrast-yakali-ceket-mont-kiz-cocuk-3444524",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kontrast-yakali-ceket-mont-kiz-cocuk-3444524"
+        },
+        {
+          "excel_satiri": 19530,
+          "Product Option Code": "G5273A8.PN396",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Mont",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G5273A8_26SP_PN396_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 0,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kontrast-yakali-ceket-mont-kiz-cocuk-3444524",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kontrast-yakali-ceket-mont-kiz-cocuk-3444524"
+        },
+        {
+          "excel_satiri": 19531,
+          "Product Option Code": "G5273A8.PN396",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Outer Wear",
+          "LifeStyle": "Special Collection",
+          "Class Name": "Mont",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G5273A8_26SP_PN396_01_02.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 1999.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/kontrast-yakali-ceket-mont-kiz-cocuk-3444524",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/kontrast-yakali-ceket-mont-kiz-cocuk-3444524"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G5273A8_26SP_PN396_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:04:04+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/kontrast-yakali-ceket-mont-kiz-cocuk-3444524",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

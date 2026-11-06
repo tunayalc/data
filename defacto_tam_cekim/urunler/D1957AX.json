@@ -1,0 +1,294 @@
+{
+  "model_kodu": "D1957AX",
+  "urun_grubu": "Erkek Jogger",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 47,
+    "yorum_sayisi": 47,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 61.9,
+      "buyuk_geldi": 4.8
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-10-19",
+        "puan": 5.0,
+        "metin": "@Kalıbı gayet rahat, şık ve rahat. Üst bedeninden bir beden küçük almanızı öneririm."
+      },
+      {
+        "tarih": "2025-04-22",
+        "puan": 3.0,
+        "metin": "@Ürün fena değil ama üstü dar ve paçaları bol oldu, iade ettim."
+      },
+      {
+        "tarih": "2025-04-08",
+        "puan": 5.0,
+        "metin": "@Beklentilerimi aştı."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D1957AXNV253",
+      "renk_kodu": "NV253",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Standart Fıt Standart Paça Jogger",
+      "kisa_aciklama": "Standart Fıt Standart Paça Jogger",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3489925",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26AU_NV253_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26AU_NV253_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26AU_NV253_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26AU_NV253_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26AU_NV253_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Elastan 4%,Poliester 96%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "yasam_tarzi": "Sporcu",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart Fıt Standart Paça Jogger"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 1299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 6581,
+          "Product Option Code": "D1957AX.NV253",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/D1957AX_25AU_NV253_01_03.jpg",
+          "FabricDetail": "OTTOMAN",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3489925",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3418193"
+        },
+        {
+          "excel_satiri": 6582,
+          "Product Option Code": "D1957AX.NV253",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1957AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3489925",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3418193"
+        },
+        {
+          "excel_satiri": 6583,
+          "Product Option Code": "D1957AX.NV253",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1957AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3489925",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3418193"
+        },
+        {
+          "excel_satiri": 6584,
+          "Product Option Code": "D1957AX.NV253",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1957AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3489925",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3418193"
+        },
+        {
+          "excel_satiri": 6585,
+          "Product Option Code": "D1957AX.NV253",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1957AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3489925",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3418193"
+        },
+        {
+          "excel_satiri": 6586,
+          "Product Option Code": "D1957AX.NV253",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/D1957AX_26AU_NV253_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 1299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3489925",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3418193"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/D1957AX_25AU_NV253_01_03.jpg",
+        "https://image.defacto.com.tr/product/26AU/D1957AX_26AU_NV253_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D1957AXBR115",
+      "renk_kodu": "BR115",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Standart Fıt Standart Paça Jogger",
+      "kisa_aciklama": "Standart Fıt Standart Paça Jogger",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-standart-paca-jogger-3418193",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26SP_BR115_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26SP_BR115_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26SP_BR115_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26SP_BR115_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D1957AX_26SP_BR115_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 94/75/93",
+        "ana_kumas_icerigi": "Pamuk 37%,Elastan 5%,Poliester 58%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yasam_tarzi": "Sporcu",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Standart Fıt Standart Paça Jogger"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 649.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:31:10+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

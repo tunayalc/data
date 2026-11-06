@@ -1,0 +1,124 @@
+{
+  "model_kodu": "A5525AX",
+  "urun_grubu": "Kadın Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 11,
+    "yorum_sayisi": 11,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 57.1,
+      "buyuk_geldi": 14.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2023-09-05",
+        "puan": 3.0,
+        "metin": "@Beden tablosu gerçeği yansıtmıyor..67 kg yum ve belim biraz kalın, beden tablosuna göre XXL aldım, çuval geldi a deta...Lütfen beden…"
+      },
+      {
+        "tarih": "2023-08-07",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2023-08-07",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A5525AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Bermuda Yüksek Bel Şort",
+      "kisa_aciklama": "Yüksek bel, beli cepli, düğme detaylı, viskon kumaşı ve rahat tasarımıyla kolayca trend bir görünüm sağlayan modeli ile her tarz…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-bermuda-2813313",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_09_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5525AX_23HS_BK81_10_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "34",
+          "36",
+          "38",
+          "40",
+          "42",
+          "44"
+        ],
+        "excel": [
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,78cm - 82/60/88",
+        "ana_kumas_icerigi": "Viskoz 92%,Poliester 8%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Düz Paça",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "bel_detayi": "Yüksek Bel",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Şort"
+      },
+      "urun_hakkinda": [
+        "Yüksek bel, beli cepli, düğme detaylı, viskon kumaşı ve rahat tasarımıyla kolayca trend bir görünüm sağlayan modeli ile her tarz…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 531,
+          "Product Option Code": "A5525AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "38",
+          "Fit": "BERMUDA SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23HS/A5525AX_23HS_BK81_01_03.jpg",
+          "FabricDetail": "VIS-PES",
+          "Toplam": 0,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com/en-iq/kadin-bermuda-2813313",
+          "Model Page URL": "https://www.defacto.com/en-iq/kadin-bermuda-2813313"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23HS/A5525AX_23HS_BK81_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:20:43+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

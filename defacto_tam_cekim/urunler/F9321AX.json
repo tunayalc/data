@@ -1,0 +1,109 @@
+{
+  "model_kodu": "F9321AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@güzel ve kaliteli"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9321AXNV253",
+      "renk_kodu": "NV253",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fıt Polo Yaka Keten Karışımlı Uzun Kollu Gömlek",
+      "kisa_aciklama": "Regular Fıt polo yaka keten karışımlı uzun kollu gömlek",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-uzun-kollu-gomlek-3376421",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9321AX_26SP_NV253_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9321AX_26SP_NV253_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9321AX_26SP_NV253_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9321AX_26SP_NV253_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 73%,Keten 27%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Regular Fıt",
+        "yaka": "Polo Yaka",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Uzun Kollu",
+        "kumas": "Keten Karışımlı"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt polo yaka keten karışımlı uzun kollu gömlek"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16791,
+          "Product Option Code": "F9321AX.NV253",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9321AX_26SP_NV253_01_03.jpg",
+          "FabricDetail": "LINEN BLENDED",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-uzun-kollu-gomlek-3376421",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-polo-yaka-keten-karisimli-uzun-kollu-gomlek-3376421"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9321AX_26SP_NV253_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:53:36+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

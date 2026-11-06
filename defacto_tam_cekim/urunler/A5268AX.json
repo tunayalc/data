@@ -1,0 +1,734 @@
+{
+  "model_kodu": "A5268AX",
+  "urun_grubu": "Erkek Kazak",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 68,
+    "yorum_sayisi": 68,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 25.5,
+      "tam_oldu": 62.8,
+      "buyuk_geldi": 11.8
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-11",
+        "puan": 5.0,
+        "metin": "@Güzel ürün."
+      },
+      {
+        "tarih": "2024-11-14",
+        "puan": 5.0,
+        "metin": "@Dokusu ve fiyatı gayet güzel."
+      },
+      {
+        "tarih": "2026-01-02",
+        "puan": 4.0,
+        "metin": "@Fiyatına göre harika. Kumaşı da çok güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A5268AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fit Bisiklet Yaka Basic Triko Kazak",
+      "kisa_aciklama": "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316664",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_BK27_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_BK27_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_BK27_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_BK27_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_BK27_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_BK27_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_BK27_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Viskoz 74%,Poliester 26%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "cinsiyet": "Erkek",
+        "urun_tipi": "Kazak",
+        "kumas": "Triko",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 505,
+          "Product Option Code": "A5268AX.BK27",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/A5268AX_24AU_BK27_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316664",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/A5268AX_24AU_BK27_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A5268AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Regular Fit Bisiklet Yaka Basic Triko Kazak",
+      "kisa_aciklama": "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476776",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BK81_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BK81_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BK81_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BK81_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BK81_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 99/80/98",
+        "ana_kumas_icerigi": "Viskoz 74%,Poliester 26%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "kumas": "Triko",
+        "kumas_kalinligi": "İnce",
+        "urun_tipi": "Kazak",
+        "triko_kalinligi": "İnce Kalınlık"
+      },
+      "urun_hakkinda": [
+        "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 506,
+          "Product Option Code": "A5268AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476776",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        },
+        {
+          "excel_satiri": 507,
+          "Product Option Code": "A5268AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476776",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        },
+        {
+          "excel_satiri": 508,
+          "Product Option Code": "A5268AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476776",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        },
+        {
+          "excel_satiri": 509,
+          "Product Option Code": "A5268AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 4,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476776",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        },
+        {
+          "excel_satiri": 510,
+          "Product Option Code": "A5268AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476776",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        },
+        {
+          "excel_satiri": 511,
+          "Product Option Code": "A5268AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BK81_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476776",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A5268AXBR34",
+      "renk_kodu": "BR34",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Regular Fit Bisiklet Yaka Basic Triko Kazak",
+      "kisa_aciklama": "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476777",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BR34_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BR34_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BR34_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BR34_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BR34_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_26AU_BR34_06_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Viskoz 74%,Poliester 26%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Kazak",
+        "cinsiyet": "Erkek",
+        "kumas_kalinligi": "İnce",
+        "kalip": "Regular Fıt",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kumas": "Triko"
+      },
+      "urun_hakkinda": [
+        "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 999.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 512,
+          "Product Option Code": "A5268AX.BR34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BR34_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476777",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        },
+        {
+          "excel_satiri": 513,
+          "Product Option Code": "A5268AX.BR34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BR34_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476777",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        },
+        {
+          "excel_satiri": 514,
+          "Product Option Code": "A5268AX.BR34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BR34_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476777",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        },
+        {
+          "excel_satiri": 515,
+          "Product Option Code": "A5268AX.BR34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BR34_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476777",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        },
+        {
+          "excel_satiri": 516,
+          "Product Option Code": "A5268AX.BR34",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BR34_01_03.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 999.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3476777",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/A5268AX_26AU_BR34_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A5268AXGR192",
+      "renk_kodu": "GR192",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Regular Fit Bisiklet Yaka Basic Triko Kazak",
+      "kisa_aciklama": "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_GR192_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_GR192_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_GR192_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_GR192_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_GR192_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_GR192_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL",
+          "4XL",
+          "5XL"
+        ],
+        "excel": [
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Viskoz 74%,Poliester 26%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kalip": "Regular Fıt",
+        "kumas": "Triko",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Kazak",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 517,
+          "Product Option Code": "A5268AX.GR192",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Tricot",
+          "LifeStyle": "Smart Casual",
+          "Class Name": "Pullover",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/A5268AX_24AU_GR192_01_02.jpg",
+          "FabricDetail": "TRICOT",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316662"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/A5268AX_24AU_GR192_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "A5268AXNV64",
+      "renk_kodu": "NV64",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fit Bisiklet Yaka Basic Triko Kazak",
+      "kisa_aciklama": "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-basic-triko-kazak-3316663",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_NV64_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_NV64_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_NV64_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_NV64_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_NV64_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_NV64_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/A5268AX_25AU_NV64_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Viskoz 74%,Poliester 26%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "triko_kalinligi": "İnce Kalınlık",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Regular Fıt",
+        "urun_tipi": "Kazak",
+        "kumas": "Triko",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular fit bisiklet yaka premium triko yumuşak tuşe kazak."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 699.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:15:32+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

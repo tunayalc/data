@@ -1,0 +1,86 @@
+{
+  "model_kodu": "H8763A8",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8763A8PN171",
+      "renk_kodu": "PN171",
+      "renk_adi": "PINK",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 35590,
+          "Product Option Code": "H8763A8.PN171",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8763A8_26SM_PN171_01_03.jpg",
+          "FabricDetail": "NIKE 2 THREAD",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/k-pop-demon-hunters-lisansli-elastik-bel-pembe-sort-kiz-cocuk-3566994",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/k-pop-demon-hunters-lisansli-elastik-bel-pembe-sort-kiz-cocuk-3566994"
+        },
+        {
+          "excel_satiri": 35591,
+          "Product Option Code": "H8763A8.PN171",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Short",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "SHORT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/H8763A8_26SM_PN171_01_03.jpg",
+          "FabricDetail": "NIKE 2 THREAD",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/k-pop-demon-hunters-lisansli-elastik-bel-pembe-sort-kiz-cocuk-3566994",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/k-pop-demon-hunters-lisansli-elastik-bel-pembe-sort-kiz-cocuk-3566994"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/H8763A8_26SM_PN171_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:37:12+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/k-pop-demon-hunters-lisansli-elastik-bel-pembe-sort-kiz-cocuk-3566994",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

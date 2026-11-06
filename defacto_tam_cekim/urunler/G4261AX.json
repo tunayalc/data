@@ -1,0 +1,145 @@
+{
+  "model_kodu": "G4261AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4261AXOG584",
+      "renk_kodu": "OG584",
+      "renk_adi": "Turuncu",
+      "renk_hex": "#FFA500",
+      "urun_adi": "%100 Pamuk Boxy Fit Çizgili Turuncu Tişört",
+      "kisa_aciklama": "%100 Pamuklu kumaştan üretilmiş çizgili boxy fit tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-boxy-fit-cizgili-turuncu-tisort-3410194",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4261AX_26SM_OG584_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4261AX_26SM_OG584_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4261AX_26SM_OG584_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4261AX_26SM_OG584_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4261AX_26SM_OG584_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL"
+        ],
+        "excel": [
+          "L",
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 98/79/94",
+        "ana_kumas_icerigi": "Pamuk 50%,Poliester 50%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Boxy Fıt"
+      },
+      "urun_hakkinda": [
+        "%100 Pamuklu kumaştan üretilmiş çizgili boxy fit tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19087,
+          "Product Option Code": "G4261AX.OG584",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "L",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4261AX_26SM_OG584_01_01.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 0,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-cizgili-turuncu-tisort-3410194",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-cizgili-turuncu-tisort-3410194"
+        },
+        {
+          "excel_satiri": 19088,
+          "Product Option Code": "G4261AX.OG584",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "M",
+          "Fit": "BOXY FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4261AX_26SM_OG584_01_01.jpg",
+          "FabricDetail": "20/1 Jersey",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-cizgili-turuncu-tisort-3410194",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-boxy-fit-cizgili-turuncu-tisort-3410194"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G4261AX_26SM_OG584_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:01:17+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "model_kodu": "F6301AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-12-14",
+        "puan": 5.0,
+        "metin": "@Harika! Aşırı güzel."
+      },
+      {
+        "tarih": "2026-08-29",
+        "puan": 5.0,
+        "metin": "@pamuklu ama dar oldu"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F6301AXBG352",
+      "renk_kodu": "BG352",
+      "renk_adi": "Taş",
+      "renk_hex": "#B4B0A6",
+      "urun_adi": "%100 Pamuk Kısa Kollu Gömlek",
+      "kisa_aciklama": "Dokuma üst kategorisinde yer alan erkek kısa kollu gömlek, pamuklu kumaştan üretilmiştir. Bej renkli ve çizgili desenli olan bu ürün,…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-kisa-kollu-gomlek-3327022",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6301AX_25SM_BG352_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6301AX_25SM_BG352_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6301AX_25SM_BG352_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6301AX_25SM_BG352_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6301AX_25SM_BG352_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Pamuklu",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Dokuma üst kategorisinde yer alan erkek kısa kollu gömlek, pamuklu kumaştan üretilmiştir. Bej renkli ve çizgili desenli olan bu ürün,…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 269.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15380,
+          "Product Option Code": "F6301AX.BG352",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "S",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F6301AX_25SM_BG352_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-kisa-kollu-gomlek-3327022",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-kisa-kollu-gomlek-3327022"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F6301AX_25SM_BG352_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:53:30+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "model_kodu": "F6390AX",
+  "urun_grubu": "Erkek Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F6390AXOG80",
+      "renk_kodu": "OG80",
+      "renk_adi": "Turuncu",
+      "renk_hex": "#FFA500",
+      "urun_adi": "%100 Pamuk Kısa Kollu Gömlek",
+      "kisa_aciklama": "Nefes alabilen pamuklu kumaşı ve klasik kısa kollu tasarımıyla bu gömlek, yaz aylarının vazgeçilmezi. Hafif yapısı sayesinde ferah bir kullanım…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-kisa-kollu-gomlek-3327791",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F6390AX_25SM_OG80_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6390AX_25SM_OG80_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6390AX_25SM_OG80_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6390AX_25SM_OG80_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F6390AX_25SM_OG80_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kumas": "Pamuklu",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Nefes alabilen pamuklu kumaşı ve klasik kısa kollu tasarımıyla bu gömlek, yaz aylarının vazgeçilmezi. Hafif yapısı sayesinde ferah bir kullanım…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 899.99,
+        "sepette_fiyat": 269.99,
+        "etiket": "SADECE ONLINE'DA"
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15421,
+          "Product Option Code": "F6390AX.OG80",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "S",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F6390AX_25SM_OG80_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 2,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-kisa-kollu-gomlek-3327791",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-kisa-kollu-gomlek-3327791"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F6390AX_25SM_OG80_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:53:32+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "model_kodu": "C8722AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "C8722AXBE439",
+      "renk_kodu": "BE439",
+      "renk_adi": "ROYAL",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "36",
+          "38",
+          "42"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5506,
+          "Product Option Code": "C8722AX.BE439",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "36",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8722AX_24SM_BE439_01_05.jpg",
+          "FabricDetail": "SHALLY",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5507,
+          "Product Option Code": "C8722AX.BE439",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "38",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8722AX_24SM_BE439_01_05.jpg",
+          "FabricDetail": "SHALLY",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        },
+        {
+          "excel_satiri": 5508,
+          "Product Option Code": "C8722AX.BE439",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Traditional",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "42",
+          "Fit": "A LINE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C8722AX_24SM_BE439_01_05.jpg",
+          "FabricDetail": "SHALLY",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "Bulunamadı"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C8722AX_24SM_BE439_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "aday_url_yok",
+    "tarih": "2026-11-05T19:57:23+03:00",
+    "denenen_sayfa": 0,
+    "dogrulanan_renk": 0
+  }
+}

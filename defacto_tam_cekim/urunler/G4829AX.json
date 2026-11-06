@@ -1,0 +1,217 @@
+{
+  "model_kodu": "G4829AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-06-07",
+        "puan": 5.0,
+        "metin": "@çok güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G4829AXNV241",
+      "renk_kodu": "NV241",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "%100 Pamuk Baskılı Tişört",
+      "kisa_aciklama": "Pamuklu kumaştan üretilmiş erkek tişört. Baskılı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G4829AX_26SM_NV241_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4829AX_26SM_NV241_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4829AX_26SM_NV241_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4829AX_26SM_NV241_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G4829AX_26SM_NV241_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 98/79/94",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "desen": "Baskılı",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Pamuklu kumaştan üretilmiş erkek tişört. Baskılı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 179.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 19331,
+          "Product Option Code": "G4829AX.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4829AX_26SM_NV241_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 6,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828"
+        },
+        {
+          "excel_satiri": 19332,
+          "Product Option Code": "G4829AX.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4829AX_26SM_NV241_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 4,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828"
+        },
+        {
+          "excel_satiri": 19333,
+          "Product Option Code": "G4829AX.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4829AX_26SM_NV241_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 6,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828"
+        },
+        {
+          "excel_satiri": 19334,
+          "Product Option Code": "G4829AX.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4829AX_26SM_NV241_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828"
+        },
+        {
+          "excel_satiri": 19335,
+          "Product Option Code": "G4829AX.NV241",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Young",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G4829AX_26SM_NV241_01_01.jpg",
+          "FabricDetail": "30/1 Jersey",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-baskili-tisort-3374828"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G4829AX_26SM_NV241_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:02:07+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

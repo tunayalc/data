@@ -1,0 +1,120 @@
+{
+  "model_kodu": "B5588AX",
+  "urun_grubu": "Erkek Yağmurluk",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-03-26",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-04-15",
+        "puan": 5.0,
+        "metin": "@Fotoğrafta görüldüğü gibiydi beğendik"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "B5588AXER42",
+      "renk_kodu": "ER42",
+      "renk_adi": "Açık Taş",
+      "renk_hex": "#CBC6BA",
+      "urun_adi": "Regular Fit Kapüşonlu Fermuarlı Cepli Yağmurluk",
+      "kisa_aciklama": "Hafif ve koruyucu kumaş dokusuyla değişken hava koşullarında konforlu bir kullanım sağlar. Regular fit kalıbı, koruyucu kapüşonu ve fermuarlı cepleri…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-kapusonlu-fermuarli-cepli-yagmurluk-3038449",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/B5588AX_24SP_ER42_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/B5588AX_24SP_ER42_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B5588AX_24SP_ER42_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B5588AX_24SP_ER42_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B5588AX_24SP_ER42_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B5588AX_24SP_ER42_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/B5588AX_24SP_ER42_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B5588AX_24SP_ER42_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/B5588AX_24SP_ER42_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,89cm - 92/70/94",
+        "ana_kumas_icerigi": "Poliamid 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kapama_detayi": "Fermuarlı",
+        "yaka": "Kapüşonlu",
+        "kalip": "Regular Fıt",
+        "kol_boyu": "Kolsuz",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Hafif ve koruyucu kumaş dokusuyla değişken hava koşullarında konforlu bir kullanım sağlar. Regular fit kalıbı, koruyucu kapüşonu ve fermuarlı cepleri…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1799.99,
+        "sepette_fiyat": 1079.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 1815,
+          "Product Option Code": "B5588AX.ER42",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Casual",
+          "Class Name": "Overshirt",
+          "Product Color Name": "LT.STONE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SP/B5588AX_24SP_ER42_01_03.jpg",
+          "FabricDetail": "POLIESTER",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#CBC6BA",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-kapusonlu-fermuarli-cepli-yagmurluk-3038449",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-kapusonlu-fermuarli-cepli-yagmurluk-3038449"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SP/B5588AX_24SP_ER42_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:18:18+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "model_kodu": "C2738A5",
+  "urun_grubu": "Erkek Bebek Şapka",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 7,
+    "yorum_sayisi": 7,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-05",
+        "puan": 2.0,
+        "metin": "@Ürün, görselle aynı değil ve büyüktü 2 yaşındaki bebeğime."
+      },
+      {
+        "tarih": "2025-08-12",
+        "puan": 2.0,
+        "metin": "@Farklı desen geldi."
+      },
+      {
+        "tarih": "2025-06-23",
+        "puan": 5.0,
+        "metin": "@Beğenerek aldım, göründüğü gibi geldi, çok güzel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C2738A5BE404",
+      "renk_kodu": "BE404",
+      "renk_adi": "Royal",
+      "renk_hex": "#4169E1",
+      "urun_adi": "Baskılı Keten Karışımlı Cap Şapka Erkek Bebek",
+      "kisa_aciklama": "Keten karışımlı kumaştan üretilmiş erkek bebek şapka. Baskılı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/baskili-keten-karisimli-cap-sapka-erkek-bebek-3411290",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C2738A5_26SM_BE404_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2738A5_26SM_BE404_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2738A5_26SM_BE404_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2738A5_26SM_BE404_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2738A5_26SM_BE404_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C2738A5_26SM_BE404_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "2-4 Y"
+        ],
+        "excel": [
+          "2-4 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "desen": "Baskılı",
+        "cinsiyet": "Erkek Bebek",
+        "sapka_tipi": "Cap Şapka",
+        "urun_olcusu": "50 cm",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Keten karışımlı kumaştan üretilmiş erkek bebek şapka. Baskılı."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 249.99,
+        "sepette_fiyat": 149.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 3691,
+          "Product Option Code": "C2738A5.BE404",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Hats/Berets/Gloves",
+          "LifeStyle": "Casual",
+          "Class Name": "Hat",
+          "Product Color Name": "ROYAL",
+          "SizeDefinition": "2-4 Y",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C2738A5_26SM_BE404_01_03.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 1,
+          "Initial Price Value": 249.99,
+          "Actual Price Value": 149.99,
+          "Product Color HEX": "#4169E1",
+          "Product Page URL": "https://www.defacto.com.tr/baskili-keten-karisimli-cap-sapka-erkek-bebek-3411290",
+          "Model Page URL": "https://www.defacto.com.tr/baskili-keten-karisimli-cap-sapka-erkek-bebek-3411290"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/C2738A5_26SM_BE404_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:25:38+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

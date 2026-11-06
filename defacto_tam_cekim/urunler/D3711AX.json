@@ -1,0 +1,130 @@
+{
+  "model_kodu": "D3711AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D3711AXBG260",
+      "renk_kodu": "BG260",
+      "renk_adi": "SAND",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "3XL",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7227,
+          "Product Option Code": "D3711AX.BG260",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "3XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3711AX_24AU_BG260_01_03.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 1,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-tisort-3156824",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-tisort-3156824"
+        },
+        {
+          "excel_satiri": 7228,
+          "Product Option Code": "D3711AX.BG260",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3711AX_24AU_BG260_01_03.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 2,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-tisort-3156824",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-tisort-3156824"
+        },
+        {
+          "excel_satiri": 7229,
+          "Product Option Code": "D3711AX.BG260",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3711AX_24AU_BG260_01_03.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-tisort-3156824",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-tisort-3156824"
+        },
+        {
+          "excel_satiri": 7230,
+          "Product Option Code": "D3711AX.BG260",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Traditional",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "SAND",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3711AX_24AU_BG260_01_03.jpg",
+          "FabricDetail": "BÜRÜMCÜK",
+          "Toplam": 3,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#C49C7A",
+          "Product Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-tisort-3156824",
+          "Model Page URL": "https://www.defacto.com/en-ma/regular-fit-bisiklet-yaka-uzun-kollu-tisort-3156824"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D3711AX_24AU_BG260_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:33:13+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/regular-fit-bisiklet-yaka-uzun-kollu-tisort-3156824",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

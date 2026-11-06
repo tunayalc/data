@@ -1,0 +1,629 @@
+{
+  "model_kodu": "G8735AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 10,
+    "yorum_sayisi": 10,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 100.0,
+      "tam_oldu": 0.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-09-27",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-08-05",
+        "puan": 5.0,
+        "metin": "@haarikaa"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8735AXBR115",
+      "renk_kodu": "BR115",
+      "renk_adi": "Bordo",
+      "renk_hex": "#800020",
+      "urun_adi": "Slım Fıt Kaçık Yaka Basic Fitilli Kısa Kollu Bordo Polo Tişört",
+      "kisa_aciklama": "Kadınlar için özel günlerde ve günlük kullanımda tercih edilen bordo kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-bordo-polo-tisort-3502850",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BR115_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BR115_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BR115_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BR115_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BR115_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 93%,Elastan 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Kısa Kollu Polo Tişört",
+        "kumas": "Fitilli Kaşkorse",
+        "ozel_gunler": "Okula Dönüş",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Slım Fıt",
+        "yaka": "Kaçık Yaka"
+      },
+      "urun_hakkinda": [
+        "Kadınlar için özel günlerde ve günlük kullanımda tercih edilen bordo kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22558,
+          "Product Option Code": "G8735AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_BR115_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-bordo-polo-tisort-3502850",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        },
+        {
+          "excel_satiri": 22559,
+          "Product Option Code": "G8735AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_BR115_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-bordo-polo-tisort-3502850",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        },
+        {
+          "excel_satiri": 22560,
+          "Product Option Code": "G8735AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_BR115_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-bordo-polo-tisort-3502850",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        },
+        {
+          "excel_satiri": 22561,
+          "Product Option Code": "G8735AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_BR115_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-bordo-polo-tisort-3502850",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        },
+        {
+          "excel_satiri": 22562,
+          "Product Option Code": "G8735AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_BR115_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-bordo-polo-tisort-3502850",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_BR115_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G8735AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Slım Fıt Kaçık Yaka Basic Fitilli Kısa Kollu Polo Ekru Tişört",
+      "kisa_aciklama": "Kadınlar için özel günlerde ve günlük kullanımda tercih edilen ekru kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-ekru-tisort-3470425",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_ER105_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_ER105_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 93%,Elastan 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "ozel_gunler": "Okula Dönüş",
+        "kumas": "Fitilli Kaşkorse",
+        "yaka": "Kaçık Yaka",
+        "kalip": "Slım Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "urun_tipi": "Kısa Kollu Polo Tişört"
+      },
+      "urun_hakkinda": [
+        "Kadınlar için özel günlerde ve günlük kullanımda tercih edilen ekru kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22563,
+          "Product Option Code": "G8735AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_ER105_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-ekru-tisort-3470425",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        },
+        {
+          "excel_satiri": 22564,
+          "Product Option Code": "G8735AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_ER105_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-ekru-tisort-3470425",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        },
+        {
+          "excel_satiri": 22565,
+          "Product Option Code": "G8735AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_ER105_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-ekru-tisort-3470425",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_ER105_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G8735AXNV251",
+      "renk_kodu": "NV251",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Slım Fıt Kaçık Yaka Basic Fitilli Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Kadınlar için özel günlerde ve günlük kullanımda tercih edilen lacivert kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-tisort-3502851",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_NV251_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_NV251_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_NV251_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_NV251_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_NV251_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,76cm - 80/60/90",
+        "ana_kumas_icerigi": "Pamuk 93%,Elastan 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "yaka": "Kaçık Yaka",
+        "kumas": "Fitilli Kaşkorse",
+        "kalip": "Slım Fıt",
+        "kol_boyu": "Kısa Kollu",
+        "ozel_gunler": "Okula Dönüş",
+        "urun_tipi": "Kısa Kollu Polo Tişört"
+      },
+      "urun_hakkinda": [
+        "Kadınlar için özel günlerde ve günlük kullanımda tercih edilen lacivert kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 22566,
+          "Product Option Code": "G8735AX.NV251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_NV251_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-tisort-3502851",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        },
+        {
+          "excel_satiri": 22567,
+          "Product Option Code": "G8735AX.NV251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_NV251_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-tisort-3502851",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        },
+        {
+          "excel_satiri": 22568,
+          "Product Option Code": "G8735AX.NV251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_NV251_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-tisort-3502851",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        },
+        {
+          "excel_satiri": 22569,
+          "Product Option Code": "G8735AX.NV251",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Core",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_NV251_01_01.jpg",
+          "FabricDetail": "KAŞKORSE",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-tisort-3502851",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8735AX_26SP_NV251_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G8735AXPN671",
+      "renk_kodu": "PN671",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "Slım Fıt Kaçık Yaka Basıc Düz Fitilli Kaşkorse Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Kadınlar için özel günlerde ve günlük kombinlerde tercih edilen pembe kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-duz-fitilli-kaskorse-kisa-kollu-polo-tisort-3401079",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_PN671_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_PN671_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_PN671_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_PN671_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_PN671_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 82/60/89",
+        "ana_kumas_icerigi": "Pamuk 93%,Elastan 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Kaçık Yaka",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Kısa Kollu Polo Tişört",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Slım Fıt",
+        "ozel_gunler": "Okula Dönüş",
+        "kumas": "Fitilli Kaşkorse"
+      },
+      "urun_hakkinda": [
+        "Kadınlar için özel günlerde ve günlük kombinlerde tercih edilen pembe kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "G8735AXBE415",
+      "renk_kodu": "BE415",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Slım Fıt Kaçık Yaka Basıc Fitilli Kısa Kollu Polo Tişört",
+      "kisa_aciklama": "Kadınlar için özel günlerde ve günlük kullanımda tercih edilen bej kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-kacik-yaka-basic-fitilli-kisa-kollu-polo-tisort-3401078",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BE415_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BE415_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BE415_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BE415_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G8735AX_26SP_BE415_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,73cm - 82/60/89",
+        "ana_kumas_icerigi": "Pamuk 93%,Elastan 7%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "ozel_gunler": "Okula Dönüş",
+        "urun_tipi": "Kısa Kollu Polo Tişört",
+        "cinsiyet": "Kadın",
+        "kalip": "Slım Fıt",
+        "kumas": "Fitilli Kaşkorse",
+        "yaka": "Kaçık Yaka"
+      },
+      "urun_hakkinda": [
+        "Kadınlar için özel günlerde ve günlük kullanımda tercih edilen bej kısa kollu polo tişört. Slim fit kalıbı ve fitilli kaşkorse…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 279.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:10:19+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

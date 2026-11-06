@@ -1,0 +1,90 @@
+{
+  "model_kodu": "H7445AX",
+  "urun_grubu": "Kadın Takı",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H7445AXGD1",
+      "renk_kodu": "GD1",
+      "renk_adi": "Altın",
+      "renk_hex": null,
+      "urun_adi": "Kadın Altın Renkli 6'lı Küpe Seti",
+      "kisa_aciklama": "Yetişkin kadınlar için ideal olan bu sarı küpe takımı, her mevsimde şıklığınızı tamamlamak için tasarlandı. Temel çeşit ürünlerimizden biri olan…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-altin-renkli-6li-kupe-seti-3471956",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H7445AX_NS_GD1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7445AX_NS_GD1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H7445AX_NS_GD1_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Cam 20%,Çinko 80%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın",
+        "takim_icerigi": "6'lı",
+        "taki_tipi": "Küpe"
+      },
+      "urun_hakkinda": [
+        "Yetişkin kadınlar için ideal olan bu sarı küpe takımı, her mevsimde şıklığınızı tamamlamak için tasarlandı. Temel çeşit ürünlerimizden biri olan…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 33102,
+          "Product Option Code": "H7445AX.GD1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Earring",
+          "Product Color Name": "GOLD",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H7445AX_NS_GD1_01_01.jpg",
+          "FabricDetail": "Metal",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFD700",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-altin-renkli-6li-kupe-seti-3471956",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-altin-renkli-6li-kupe-seti-3471956"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H7445AX_NS_GD1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:33:37+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "model_kodu": "F8013AX",
+  "urun_grubu": "Kadın Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-04-25",
+        "puan": 5.0,
+        "metin": "@bedeninize otursun istiyorsanız tam bedeninizi alın bana dar geldi xl ile değiştirdim"
+      },
+      {
+        "tarih": "2026-04-30",
+        "puan": 5.0,
+        "metin": "@Kızıma aldım beğendi üzerinde güzel duruyor."
+      },
+      {
+        "tarih": "2026-04-29",
+        "puan": 5.0,
+        "metin": "@Ürün tam beden"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F8013AXGR463",
+      "renk_kodu": "GR463",
+      "renk_adi": "Gri",
+      "renk_hex": "#808080",
+      "urun_adi": "Slım Fıt Dik Yaka Hırka",
+      "kisa_aciklama": "Slim Fit Dik Yaka Hırka, vücuda oturan kesimi ve dik yaka detayıyla modern bir görünüm sunar. Şık ve kullanışlı tasarımıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-dik-yaka-hirka-3376094",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F8013AX_26SP_GR463_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8013AX_26SP_GR463_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8013AX_26SP_GR463_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8013AX_26SP_GR463_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8013AX_26SP_GR463_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F8013AX_26SP_GR463_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,78cm - 82/60/88",
+        "ana_kumas_icerigi": "Elastan 19%,Poliester 81%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "cep_ve_fermuar_detayi": "Fermuarlı",
+        "urun_yuksekligi": "100",
+        "yaka": "Dik Yaka",
+        "kalip": "Slım Fıt",
+        "kullanim_alani": "Günlük Giyim",
+        "kol_boyu": "Uzun Kollu",
+        "yasam_tarzi": "Sporcu"
+      },
+      "urun_hakkinda": [
+        "Slim Fit Dik Yaka Hırka, vücuda oturan kesimi ve dik yaka detayıyla modern bir görünüm sunar. Şık ve kullanışlı tasarımıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 559.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15983,
+          "Product Option Code": "F8013AX.GR463",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8013AX_26SP_GR463_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-hirka-3376094",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-hirka-3376094"
+        },
+        {
+          "excel_satiri": 15984,
+          "Product Option Code": "F8013AX.GR463",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "M",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8013AX_26SP_GR463_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-hirka-3376094",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-hirka-3376094"
+        },
+        {
+          "excel_satiri": 15985,
+          "Product Option Code": "F8013AX.GR463",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "S",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8013AX_26SP_GR463_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-hirka-3376094",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-hirka-3376094"
+        },
+        {
+          "excel_satiri": 15986,
+          "Product Option Code": "F8013AX.GR463",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "GREY",
+          "SizeDefinition": "XS",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F8013AX_26SP_GR463_01_02.jpg",
+          "FabricDetail": "INTERLOCK",
+          "Toplam": 3,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-hirka-3376094",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-dik-yaka-hirka-3376094"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F8013AX_26SP_GR463_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:51:11+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

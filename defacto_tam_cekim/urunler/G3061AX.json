@@ -1,0 +1,64 @@
+{
+  "model_kodu": "G3061AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G3061AXBR115",
+      "renk_kodu": "BR115",
+      "renk_adi": "BORDEAUX",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "XS"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 18585,
+          "Product Option Code": "G3061AX.BR115",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Young",
+          "Class Name": "Long Sleeve Shirt",
+          "Product Color Name": "BORDEAUX",
+          "SizeDefinition": "XS",
+          "Fit": "OVERSHIRT FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25WN/G3061AX_25WN_BR115_01_02.jpg",
+          "FabricDetail": "DOBBY",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#800020",
+          "Product Page URL": "https://www.defacto.com/100-pamuk-overshirt-fit-dokulu-uzun-kollu-kareli-gomlek-3354807",
+          "Model Page URL": "https://www.defacto.com/100-pamuk-overshirt-fit-dokulu-uzun-kollu-kareli-gomlek-3354807"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25WN/G3061AX_25WN_BR115_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:01:19+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/100-pamuk-overshirt-fit-dokulu-uzun-kollu-kareli-gomlek-3354807",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

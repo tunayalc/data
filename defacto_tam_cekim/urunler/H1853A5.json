@@ -1,0 +1,125 @@
+{
+  "model_kodu": "H1853A5",
+  "urun_grubu": "Erkek Bebek Yüzme Giyim",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H1853A5BE440",
+      "renk_kodu": "BE440",
+      "renk_adi": "Açık Mavi",
+      "renk_hex": "#ADD8E6",
+      "urun_adi": "Desenli Mayo Erkek Bebek",
+      "kisa_aciklama": "Dik yaka ve kısa kollu mayo. Arkası fermuar kapamalı. Köpekbalığı ve deniz canlıları desenli. UV korumalı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/desenli-mayo-erkek-bebek-3436333",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H1853A5_26HS_BE440_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1853A5_26HS_BE440_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/H1853A5_26HS_BE440_03_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "9-12 Ay (80cm)",
+          "12-18 Ay (86cm)",
+          "18-24 Ay (92cm)",
+          "2/3 Yaş (98cm)",
+          "3/4 Yaş (104 cm)",
+          "4/5 Yaş (110cm)",
+          "5/6 Yaş (116cm)"
+        ],
+        "excel": [
+          "3/4 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "12-18 Ay (86cm) Beden",
+        "ana_kumas_icerigi": "Elastan 9%,Poliester 91%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "urun_tipi": "Mayo",
+        "cinsiyet": "Erkek Bebek"
+      },
+      "urun_hakkinda": [
+        "Dik yaka ve kısa kollu mayo. Arkası fermuar kapamalı. Köpekbalığı ve deniz canlıları desenli. UV korumalı.",
+        "Hijyenik sebeplerden dolayı, bu ürünün değişim veya iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 25377,
+          "Product Option Code": "H1853A5.BE440",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyBoy",
+          "Buyer Group Name": "Swimwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Swimsuit",
+          "Product Color Name": "LT.BLUE",
+          "SizeDefinition": "3/4 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/H1853A5_26HS_BE440_01_03.jpg",
+          "FabricDetail": "RACHEL",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#ADD8E6",
+          "Product Page URL": "https://www.defacto.com/desenli-mayo-erkek-bebek-3436333",
+          "Model Page URL": "https://www.defacto.com/desenli-mayo-erkek-bebek-3436333"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/H1853A5_26HS_BE440_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:18:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

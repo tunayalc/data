@@ -1,0 +1,330 @@
+{
+  "model_kodu": "I3027AX",
+  "urun_grubu": "Erkek Şort",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I3027AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "%100 Pamuk Relax Fıt Siyah Bermuda Şort",
+      "kisa_aciklama": "Relaxed fit bermuda şort. Ön kısmı pilili, yan cepli ve kemer köprülü. Metal tokalı kemeri mevcuttur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-siyah-bermuda-sort-3498443",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BK81_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BK81_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BK81_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BK81_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BK81_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BK81_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34"
+        ],
+        "excel": [
+          "30",
+          "32",
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,89cm - 93/72/95",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kalip": "Relax Fıt"
+      },
+      "urun_hakkinda": [
+        "Relaxed fit bermuda şort. Ön kısmı pilili, yan cepli ve kemer köprülü. Metal tokalı kemeri mevcuttur."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40945,
+          "Product Option Code": "I3027AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3027AX_26HS_BK81_01_04.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-siyah-bermuda-sort-3498443",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-ekru-bermuda-sort-3498445"
+        },
+        {
+          "excel_satiri": 40946,
+          "Product Option Code": "I3027AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3027AX_26HS_BK81_01_04.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-siyah-bermuda-sort-3498443",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-ekru-bermuda-sort-3498445"
+        },
+        {
+          "excel_satiri": 40947,
+          "Product Option Code": "I3027AX.BK81",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3027AX_26HS_BK81_01_04.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-siyah-bermuda-sort-3498443",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-ekru-bermuda-sort-3498445"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I3027AX_26HS_BK81_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I3027AXBN337",
+      "renk_kodu": "BN337",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "%100 Pamuk Relax Fıt Kahverengi Bermuda Şort",
+      "kisa_aciklama": "Relaxed fit bermuda şort. Ön kısmı pilili, yan cepli ve kemer köprülü. Metal tokalı kemeri mevcuttur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-kahverengi-bermuda-sort-3498444",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BN337_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BN337_02_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BN337_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BN337_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BN337_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BN337_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BN337_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_BN337_08_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34"
+        ],
+        "excel": [
+          "28",
+          "30",
+          "32",
+          "34"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,89cm - 93/72/95",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Relaxed fit bermuda şort. Ön kısmı pilili, yan cepli ve kemer köprülü. Metal tokalı kemeri mevcuttur."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40948,
+          "Product Option Code": "I3027AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "28",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3027AX_26HS_BN337_01_04.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kahverengi-bermuda-sort-3498444",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-ekru-bermuda-sort-3498445"
+        },
+        {
+          "excel_satiri": 40949,
+          "Product Option Code": "I3027AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "30",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3027AX_26HS_BN337_01_04.jpg",
+          "FabricDetail": "-",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kahverengi-bermuda-sort-3498444",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-ekru-bermuda-sort-3498445"
+        },
+        {
+          "excel_satiri": 40950,
+          "Product Option Code": "I3027AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "32",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3027AX_26HS_BN337_01_04.jpg",
+          "FabricDetail": "-",
+          "Toplam": 4,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kahverengi-bermuda-sort-3498444",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-ekru-bermuda-sort-3498445"
+        },
+        {
+          "excel_satiri": 40951,
+          "Product Option Code": "I3027AX.BN337",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Young",
+          "Class Name": "Bermuda",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "34",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I3027AX_26HS_BN337_01_04.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-kahverengi-bermuda-sort-3498444",
+          "Model Page URL": "https://www.defacto.com.tr/100-pamuk-relax-fit-ekru-bermuda-sort-3498445"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I3027AX_26HS_BN337_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "I3027AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "%100 Pamuk Relax Fıt Ekru Bermuda Şort",
+      "kisa_aciklama": "Relaxed fit bermuda şort. Ön kısmı pilili, yan cepli ve kemer köprülü. Metal tokalı kemeri mevcuttur.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/100-pamuk-relax-fit-ekru-bermuda-sort-3498445",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_ER105_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_ER105_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_ER105_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/I3027AX_26HS_ER105_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "28",
+          "30",
+          "32",
+          "34"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "30 Beden - 1,89cm - 93/72/95",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Relax Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Relaxed fit bermuda şort. Ön kısmı pilili, yan cepli ve kemer köprülü. Metal tokalı kemeri mevcuttur."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 779.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:59:12+03:00",
+    "denenen_sayfa": 3,
+    "dogrulanan_renk": 3
+  }
+}

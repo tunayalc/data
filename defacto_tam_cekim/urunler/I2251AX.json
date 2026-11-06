@@ -1,0 +1,110 @@
+{
+  "model_kodu": "I2251AX",
+  "urun_grubu": "Kadın Bluz",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 1,
+    "yorum_sayisi": 1,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-13",
+        "puan": 5.0,
+        "metin": "@Tam beden çok güzel"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I2251AXPN38",
+      "renk_kodu": "PN38",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "Yuvarlak Yaka Kısa Kollu Açık Pembe Bluz",
+      "kisa_aciklama": "Yuvarlak yaka, kısa kollu kadın bluz. Hafif dokulu kumaş, dökümlü kesim ve şık çapraz katlama detayı.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/yuvarlak-yaka-kisa-kollu-acik-pembe-bluz-3506520",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I2251AX_26HS_PN38_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2251AX_26HS_PN38_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2251AX_26HS_PN38_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2251AX_26HS_PN38_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2251AX_26HS_PN38_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2251AX_26HS_PN38_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/I2251AX_26HS_PN38_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,81cm - 86/63/86",
+        "ana_kumas_icerigi": "Poliamid 14%,Viskoz 86%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Yuvarlak Yaka",
+        "cinsiyet": "Kadın",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Yuvarlak yaka, kısa kollu kadın bluz. Hafif dokulu kumaş, dökümlü kesim ve şık çapraz katlama detayı."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 349.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 40086,
+          "Product Option Code": "I2251AX.PN38",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Blouse",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "XL",
+          "Fit": "BLOUSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26HS/I2251AX_26HS_PN38_01_03.jpg",
+          "FabricDetail": "LILYUM",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/yuvarlak-yaka-kisa-kollu-acik-pembe-bluz-3506520",
+          "Model Page URL": "https://www.defacto.com.tr/yuvarlak-yaka-kisa-kollu-acik-pembe-bluz-3506520"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26HS/I2251AX_26HS_PN38_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:44:46+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

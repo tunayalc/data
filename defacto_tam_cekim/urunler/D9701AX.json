@@ -1,0 +1,355 @@
+{
+  "model_kodu": "D9701AX",
+  "urun_grubu": "Erkek Eşofman Altı",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 24,
+    "yorum_sayisi": 24,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 57.1,
+      "buyuk_geldi": 14.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-03-20",
+        "puan": 5.0,
+        "metin": "@ürün tam yazlık boy 186 kilo 115 3xl aldim boy olarak mükkemel beli bol ama ipli olduğu için problem yok…"
+      },
+      {
+        "tarih": "2025-04-07",
+        "puan": 1.0,
+        "metin": "@pijama gibi çok kötü rengide kötü beğenmedim hiç"
+      },
+      {
+        "tarih": "2025-12-27",
+        "puan": 5.0,
+        "metin": "@Harika! Oğluma aldım, çok hoşuna gitti."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D9701AXAR214",
+      "renk_kodu": "AR214",
+      "renk_adi": "Antrasit",
+      "renk_hex": "#3F424D",
+      "urun_adi": "Regular Fit Eşofman Altı Beli Bağcıklı Cep Detaylı Düz Paça",
+      "kisa_aciklama": "Regular fit cep detaylı eşofman altı, rahat kesimi ve fonksiyonel cepleriyle günlük kullanım için ideal. Yumuşak kumaşı ve şık tasarımıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3209775",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_AR214_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_AR214_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_AR214_03_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_AR214_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_AR214_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_AR214_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_AR214_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_AR214_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_AR214_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "S",
+          "XL",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 98/79/97",
+        "ana_kumas_icerigi": "Pamuk 51%,Poliester 49%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Cep Detaylı",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit cep detaylı eşofman altı, rahat kesimi ve fonksiyonel cepleriyle günlük kullanım için ideal. Yumuşak kumaşı ve şık tasarımıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9701,
+          "Product Option Code": "D9701AX.AR214",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_AR214_01_04.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 0,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3209775",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287"
+        },
+        {
+          "excel_satiri": 9702,
+          "Product Option Code": "D9701AX.AR214",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_AR214_01_04.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3209775",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287"
+        },
+        {
+          "excel_satiri": 9703,
+          "Product Option Code": "D9701AX.AR214",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ANTRACITE",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_AR214_01_04.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#3F424D",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3209775",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_AR214_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D9701AXER223",
+      "renk_kodu": "ER223",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Regular Fit Eşofman Altı Beli Bağcıklı Cep Detaylı Düz Paça",
+      "kisa_aciklama": "Regular fit cep detaylı eşofman altı, rahat kesimi ve fonksiyonel cepleriyle günlük kullanım için ideal. Yumuşak kumaşı ve şık tasarımıyla…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_01_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_03_06.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_04_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_05_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_07_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_08_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_09_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D9701AX_25SP_ER223_10_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,90cm - 93/72/91",
+        "ana_kumas_icerigi": "Pamuk 51%,Poliester 49%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek",
+        "cep_ve_fermuar_detayi": "Cep Detaylı"
+      },
+      "urun_hakkinda": [
+        "Regular fit cep detaylı eşofman altı, rahat kesimi ve fonksiyonel cepleriyle günlük kullanım için ideal. Yumuşak kumaşı ve şık tasarımıyla…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 699.99,
+        "sepette_fiyat": 419.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9706,
+          "Product Option Code": "D9701AX.ER223",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D9701AX_24AU_ER223_01_04.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287"
+        },
+        {
+          "excel_satiri": 9707,
+          "Product Option Code": "D9701AX.ER223",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_ER223_01_04.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287"
+        },
+        {
+          "excel_satiri": 9708,
+          "Product Option Code": "D9701AX.ER223",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_ER223_01_04.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D9701AX_24AU_ER223_01_04.jpg",
+        "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_ER223_01_04.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D9701AXBG769",
+      "renk_kodu": "BG769",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 9704,
+          "Product Option Code": "D9701AX.BG769",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_BG769_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287"
+        },
+        {
+          "excel_satiri": 9705,
+          "Product Option Code": "D9701AX.BG769",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_BG769_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 699.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/regular-fit-cep-detayli-esofman-alti-3208287"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D9701AX_25SP_BG769_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:40:25+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

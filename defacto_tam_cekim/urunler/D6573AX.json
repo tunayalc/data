@@ -1,0 +1,86 @@
+{
+  "model_kodu": "D6573AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D6573AXGR506",
+      "renk_kodu": "GR506",
+      "renk_adi": "LT.GREY",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8303,
+          "Product Option Code": "D6573AX.GR506",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D6573AX_25SP_GR506_01_03.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/nba-toronto-raptors-kalin-jogger-esofman-alti-standart-fit-cepli-beli-bagcikli-3244968",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/nba-toronto-raptors-kalin-jogger-esofman-alti-standart-fit-cepli-beli-bagcikli-3244968"
+        },
+        {
+          "excel_satiri": 8304,
+          "Product Option Code": "D6573AX.GR506",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted Bottom",
+          "LifeStyle": "Fit",
+          "Class Name": "Jogger",
+          "Product Color Name": "LT.GREY",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SP/D6573AX_25SP_GR506_01_03.jpg",
+          "FabricDetail": "3 THREAD RAISED",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#A2A2A2",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/nba-toronto-raptors-kalin-jogger-esofman-alti-standart-fit-cepli-beli-bagcikli-3244968",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/nba-toronto-raptors-kalin-jogger-esofman-alti-standart-fit-cepli-beli-bagcikli-3244968"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SP/D6573AX_25SP_GR506_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:36:59+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/nba-toronto-raptors-kalin-jogger-esofman-alti-standart-fit-cepli-beli-bagcikli-3244968",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

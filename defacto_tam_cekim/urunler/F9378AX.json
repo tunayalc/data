@@ -1,0 +1,118 @@
+{
+  "model_kodu": "F9378AX",
+  "urun_grubu": "Erkek Hırka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-05",
+        "puan": 5.0,
+        "metin": "@ürün çok esnek ve haraket serbestliği var fiyatına göre çok kaliteli"
+      },
+      {
+        "tarih": "2026-10-14",
+        "puan": 5.0,
+        "metin": "@baya evde giymelik hoş ceket"
+      },
+      {
+        "tarih": "2026-03-03",
+        "puan": 5.0,
+        "metin": "@çok rahat tam oldu çok beğendim"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9378AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Ultra Yumuşak Standart Fıt Dik Yaka Hırka",
+      "kisa_aciklama": "Ultra Yumuşak Yetişkin erkekler için standart fit Scuba dik yaka hırka. Uzun kollu siyah hırka, sporcu tarzına uygun ve tüm…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-dik-yaka-hirka-3375917",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9378AX_26SP_BK81_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9378AX_26SP_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9378AX_26SP_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9378AX_26SP_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9378AX_26SP_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,83cm - 90/74/93",
+        "ana_kumas_icerigi": "Elastan 6%,Viskoz 21%,Poliester 73%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "yaka": "Dik Yaka",
+        "yasam_tarzi": "Sporcu",
+        "kol_boyu": "Uzun Kollu",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak Yetişkin erkekler için standart fit Scuba dik yaka hırka. Uzun kollu siyah hırka, sporcu tarzına uygun ve tüm…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 899.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 16851,
+          "Product Option Code": "F9378AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Cardigan",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "L",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9378AX_26SP_BK81_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 799.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-dik-yaka-hirka-3375917",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-standart-fit-dik-yaka-hirka-3375917"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9378AX_26SP_BK81_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:56:43+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

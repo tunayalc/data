@@ -1,0 +1,120 @@
+{
+  "model_kodu": "H8744AX",
+  "urun_grubu": "Kadın Gömlek",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H8744AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Relax Fıt Dik Yaka Çizgili Bluz",
+      "kisa_aciklama": "Relaxed fit çizgili düğme detaylı kısa kollu bluz",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/relax-fit-dik-yaka-cizgili-bluz-3509287",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H8744AX_26AU_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8744AX_26AU_ER105_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8744AX_26AU_ER105_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8744AX_26AU_ER105_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8744AX_26AU_ER105_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H8744AX_26AU_ER105_06_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,72cm - 84/60/89",
+        "ana_kumas_icerigi": "Poliamid 13%,Viskoz 87%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Relax Fıt",
+        "yaka": "Bisiklet Yaka",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Relaxed fit çizgili düğme detaylı kısa kollu bluz"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1099.99,
+        "sepette_fiyat": 659.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 35564,
+          "Product Option Code": "H8744AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Top",
+          "LifeStyle": "Traditional",
+          "Class Name": "Short Sleeve Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "M",
+          "Fit": "RELAXED FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26AU/H8744AX_26AU_ER105_01_02.jpg",
+          "FabricDetail": "LILYUM",
+          "Toplam": 1,
+          "Initial Price Value": 1099.99,
+          "Actual Price Value": 699.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/relax-fit-dik-yaka-cizgili-bluz-3509287",
+          "Model Page URL": "https://www.defacto.com.tr/relax-fit-dik-yaka-cizgili-bluz-3509287"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26AU/H8744AX_26AU_ER105_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:37:06+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

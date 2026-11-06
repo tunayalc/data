@@ -1,0 +1,166 @@
+{
+  "model_kodu": "G6738A8",
+  "urun_grubu": "Erkek Çocuk - Genç Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 5,
+    "yorum_sayisi": 5,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 33.3,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 33.3
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-03-14",
+        "puan": 3.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-07",
+        "puan": 5.0,
+        "metin": "@Çok güzelmiş mevsime uygun"
+      },
+      {
+        "tarih": "2026-07-14",
+        "puan": 5.0,
+        "metin": "@çocuğum bayıldı kumaş işçilik çok güzel beden tam oldu &&&&"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G6738A8NV146",
+      "renk_kodu": "NV146",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Çizgili Tişört Erkek Çocuk",
+      "kisa_aciklama": "Erkek çocuk çizgili uzun kollu tişört, hafif ve yumuşak kumaşıyla gün boyu rahatlık sunar. Erkek çocuk gardırobunda konforlu ve stil…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/cizgili-tisort-erkek-cocuk-3374144",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G6738A8_26SP_NV146_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6738A8_26SP_NV146_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6738A8_26SP_NV146_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6738A8_26SP_NV146_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6738A8_26SP_NV146_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6738A8_26SP_NV146_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6738A8_26SP_NV146_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G6738A8_26SP_NV146_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "5/6 Yaş (116cm)",
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,37cm",
+        "ana_kumas_icerigi": "Pamuk 83%,Poliester 17%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "New Regular Fıt",
+        "cinsiyet": "Erkek Çocuk",
+        "kol_boyu": "Uzun Kollu",
+        "urun_tipi": "Uzun Kollu Tişört"
+      },
+      "urun_hakkinda": [
+        "Erkek çocuk çizgili uzun kollu tişört, hafif ve yumuşak kumaşıyla gün boyu rahatlık sunar. Erkek çocuk gardırobunda konforlu ve stil…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20576,
+          "Product Option Code": "G6738A8.NV146",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "NEW REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6738A8_26SP_NV146_01_02.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-tisort-erkek-cocuk-3374144",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-tisort-erkek-cocuk-3374144"
+        },
+        {
+          "excel_satiri": 20577,
+          "Product Option Code": "G6738A8.NV146",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "NEW REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6738A8_26SP_NV146_01_02.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-tisort-erkek-cocuk-3374144",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-tisort-erkek-cocuk-3374144"
+        },
+        {
+          "excel_satiri": 20578,
+          "Product Option Code": "G6738A8.NV146",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Boy",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Long Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "NEW REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G6738A8_26SP_NV146_01_02.jpg",
+          "FabricDetail": "YARN DYED",
+          "Toplam": 2,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/cizgili-tisort-erkek-cocuk-3374144",
+          "Model Page URL": "https://www.defacto.com.tr/cizgili-tisort-erkek-cocuk-3374144"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G6738A8_26SP_NV146_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:07:19+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

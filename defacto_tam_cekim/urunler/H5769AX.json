@@ -1,0 +1,217 @@
+{
+  "model_kodu": "H5769AX",
+  "urun_grubu": "Kadın Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 14,
+    "yorum_sayisi": 14,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 80.0,
+      "tam_oldu": 20.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-10-19",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-04-24",
+        "puan": 5.0,
+        "metin": "@Tam beden çok şık"
+      },
+      {
+        "tarih": "2026-04-24",
+        "puan": 5.0,
+        "metin": "@çok guzel tam beden"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H5769AXER105",
+      "renk_kodu": "ER105",
+      "renk_adi": "Ekru",
+      "renk_hex": "#FAF4E9",
+      "urun_adi": "Slim Fit Bisiklet Yaka Transparan Dantel Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Dantel kumaştan üretilmiş bisiklet yaka ürün. Bisiklet yaka, kısa kollu, transparan dokulu, slim fit dantel tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-transparan-dantel-kisa-kollu-basic-tisort-3448931",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_ER105_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_ER105_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_ER105_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_ER105_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_ER105_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Slım Fıt",
+        "cinsiyet": "Kadın",
+        "urun_tipi": "Kısa Kollu Tişört",
+        "kumas": "Dantel",
+        "dantel_detay": "Dantelli",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Dantel kumaştan üretilmiş bisiklet yaka ürün. Bisiklet yaka, kısa kollu, transparan dokulu, slim fit dantel tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 30909,
+          "Product Option Code": "H5769AX.ER105",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "ECRU",
+          "SizeDefinition": "L",
+          "Fit": "SLIM FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H5769AX_26SP_ER105_01_02.jpg",
+          "FabricDetail": "LACE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 199.99,
+          "Product Color HEX": "#FAF4E9",
+          "Product Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-transparan-dantel-kisa-kollu-basic-tisort-3448931",
+          "Model Page URL": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-transparan-dantel-kisa-kollu-basic-tisort-3448930"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H5769AX_26SP_ER105_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "H5769AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Slim Fit Bisiklet Yaka Transparan Dantel Kısa Kollu Basic Tişört",
+      "kisa_aciklama": "Dantel kumaştan üretilmiş bisiklet yaka ürün. Bisiklet yaka, kısa kollu, transparan dokulu, slim fit dantel tişört.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/slim-fit-bisiklet-yaka-transparan-dantel-kisa-kollu-basic-tisort-3448930",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_BK81_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_BK81_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H5769AX_26SP_BK81_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 89/63/92",
+        "ana_kumas_icerigi": "Elastan 1%,Poliester 99%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Slım Fıt",
+        "urun_tipi": "Kısa Kollu Tişört",
+        "kol_boyu": "Kısa Kollu",
+        "kumas": "Dantel",
+        "cinsiyet": "Kadın",
+        "dantel_detay": "Dantelli"
+      },
+      "urun_hakkinda": [
+        "Dantel kumaştan üretilmiş bisiklet yaka ürün. Bisiklet yaka, kısa kollu, transparan dokulu, slim fit dantel tişört."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 499.99,
+        "sepette_fiyat": 199.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:33:34+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

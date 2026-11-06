@@ -1,0 +1,108 @@
+{
+  "model_kodu": "G7536AX",
+  "urun_grubu": "Erkek Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-04",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-24",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7536AXWT1",
+      "renk_kodu": "WT1",
+      "renk_adi": "Beyaz",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Erkek Rahat Lastikli 5'li Pamuklu Uzun Çorap",
+      "kisa_aciklama": "Erkek rahat lastikli 5’li pamuklu uzun çorap, yumuşak ve nefes alabilen kumaşıyla gün boyu konfor sağlar. Rahat lastik detayı sayesinde…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/erkek-rahat-lastikli-5li-pamuklu-uzun-corap-3369909",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7536AX_NS_WT1_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7536AX_NS_WT1_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7536AX_NS_WT1_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7536AX_NS_WT1_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "41-44"
+        ],
+        "excel": [
+          "41-44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 77%,Poliamid 21%,Elastan 2%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "takim_icerigi": "5'li",
+        "corap_tipi": "Uzun Çorap",
+        "kumas": "Pamuklu"
+      },
+      "urun_hakkinda": [
+        "Erkek rahat lastikli 5’li pamuklu uzun çorap, yumuşak ve nefes alabilen kumaşıyla gün boyu konfor sağlar. Rahat lastik detayı sayesinde…",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 399.99,
+        "sepette_fiyat": 319.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21268,
+          "Product Option Code": "G7536AX.WT1",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "WHITE (000)",
+          "SizeDefinition": "41-44",
+          "Fit": "HIGH CUT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/G7536AX_NS_WT1_01_01.jpg",
+          "FabricDetail": "COTTON",
+          "Toplam": 16,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFFFFF",
+          "Product Page URL": "https://www.defacto.com.tr/erkek-rahat-lastikli-5li-pamuklu-uzun-corap-3369909",
+          "Model Page URL": "https://www.defacto.com.tr/erkek-rahat-lastikli-5li-pamuklu-uzun-corap-3369909"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/G7536AX_NS_WT1_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:07:02+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

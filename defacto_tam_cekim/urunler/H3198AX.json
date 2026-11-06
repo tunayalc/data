@@ -1,0 +1,108 @@
+{
+  "model_kodu": "H3198AX",
+  "urun_grubu": "Kadın Toka",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 3,
+    "yorum_sayisi": 3,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 66.7,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-09-20",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-04-14",
+        "puan": 5.0,
+        "metin": "@rengi çok hoş lila parıltılı klipsli değil tokali"
+      },
+      {
+        "tarih": "2026-09-17",
+        "puan": 5.0,
+        "metin": "@cok hos duruyor sacta ayrica mavisini de aldim harika"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3198AXPN232",
+      "renk_kodu": "PN232",
+      "renk_adi": "Açık Pembe",
+      "renk_hex": "#FFB6C1",
+      "urun_adi": "Kadın Saç Tokası",
+      "kisa_aciklama": "Kadın saç tokası. Saçlarınızı rahatça toplamanızı ve şık bir görünüm elde etmenizi sağlar.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-sac-tokasi-3428396",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3198AX_NS_PN232_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3198AX_NS_PN232_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3198AX_NS_PN232_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "STD"
+        ],
+        "excel": [
+          "STD"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Akrilik 50%,Poliester 40%,Demir 10%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Kadın saç tokası. Saçlarınızı rahatça toplamanızı ve şık bir görünüm elde etmenizi sağlar."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 119.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27072,
+          "Product Option Code": "H3198AX.PN232",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Jewelries",
+          "LifeStyle": "Casual",
+          "Class Name": "Hair Clip",
+          "Product Color Name": "LT.PINK",
+          "SizeDefinition": "STD",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/H3198AX_NS_PN232_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 8,
+          "Initial Price Value": 299.99,
+          "Actual Price Value": 99.99,
+          "Product Color HEX": "#FFB6C1",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-sac-tokasi-3428396",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-sac-tokasi-3428396"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/H3198AX_NS_PN232_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:23:52+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

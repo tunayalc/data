@@ -1,0 +1,561 @@
+{
+  "model_kodu": "C9565AX",
+  "urun_grubu": "Kadın Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 81,
+    "yorum_sayisi": 81,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 38.6,
+      "tam_oldu": 61.4,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-07-01",
+        "puan": 3.0,
+        "metin": "@Ürün yıkandıktan sonra daralıyor ama giydiğinizde açılıyor, haberiniz olsun."
+      },
+      {
+        "tarih": "2025-06-23",
+        "puan": 5.0,
+        "metin": "@çok güzel tam yazlık kendi bedeninizi alın"
+      },
+      {
+        "tarih": "2024-08-01",
+        "puan": 5.0,
+        "metin": "@o kadar rahat ve serin ki bayıldım"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "C9565AXBN333",
+      "renk_kodu": "BN333",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "Culotte Fit Geniş Kalıp Yüksek Bel Krinkıl Pantolon",
+      "kisa_aciklama": "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3343766",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25AU_BN333_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25AU_BN333_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25AU_BN333_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25AU_BN333_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25AU_BN333_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25AU_BN333_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25AU_BN333_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25AU_BN333_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25AU_BN333_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "44"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "paca_detayi": "Geniş Paça",
+        "kalip": "Culotte",
+        "kumas": "Krinkıl Viskon",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 479.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5821,
+          "Product Option Code": "C9565AX.BN333",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "44",
+          "Fit": "CULOTTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/C9565AX_25SM_BN333_01_02.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3343766",
+          "Model Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3327661"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/C9565AX_25SM_BN333_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C9565AXKH474",
+      "renk_kodu": "KH474",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "Culotte Fit Geniş Kalıp Yüksek Bel Krinkıl Pantolon",
+      "kisa_aciklama": "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3461664",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_KH474_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_KH474_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_KH474_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_KH474_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_KH474_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_KH474_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "40"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,77cm - 82/61/91",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Culotte",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "paca_detayi": "Geniş Paça",
+        "cinsiyet": "Kadın",
+        "kumas": "Krinkıl Viskon"
+      },
+      "urun_hakkinda": [
+        "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "urun_grubu": "Kadın Tesettür Pantolon",
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5822,
+          "Product Option Code": "C9565AX.KH474",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "LT.KHAKI",
+          "SizeDefinition": "40",
+          "Fit": "CULOTTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C9565AX_26SM_KH474_01_01.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#969459",
+          "Product Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3461664",
+          "Model Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3327661"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/C9565AX_26SM_KH474_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C9565AXNV248",
+      "renk_kodu": "NV248",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Culotte Fit Geniş Kalıp Yüksek Bel Krinkıl Pantolon",
+      "kisa_aciklama": "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3483013",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_NV248_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_NV248_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_NV248_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_NV248_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_NV248_05_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": [
+          "36",
+          "38"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,81cm - 86/63/86",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Geniş Paça",
+        "kumas": "Krinkıl Viskon",
+        "cinsiyet": "Kadın",
+        "kalip": "Culotte",
+        "cep_ve_fermuar_detayi": "Cepli"
+      },
+      "urun_hakkinda": [
+        "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "urun_grubu": "Kadın Tesettür Pantolon",
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5823,
+          "Product Option Code": "C9565AX.NV248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "36",
+          "Fit": "CULOTTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C9565AX_26SM_NV248_01_03.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3483013",
+          "Model Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3327661"
+        },
+        {
+          "excel_satiri": 5824,
+          "Product Option Code": "C9565AX.NV248",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "38",
+          "Fit": "CULOTTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/C9565AX_26SM_NV248_01_03.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3483013",
+          "Model Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3327661"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/C9565AX_26SM_NV248_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "C9565AXBR275",
+      "renk_kodu": "BR275",
+      "renk_adi": "Açık Bordo",
+      "renk_hex": "#A70B32",
+      "urun_adi": "Culotte Fit Geniş Kalıp Yüksek Bel Krinkıl Pantolon",
+      "kisa_aciklama": "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3327661",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25SM_BR275_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25SM_BR275_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25SM_BR275_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25SM_BR275_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25SM_BR275_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_25SM_BR275_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,78cm - 83/62/90",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kumas": "Krinkıl Viskon",
+        "cinsiyet": "Kadın",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "kalip": "Culotte",
+        "paca_detayi": "Geniş Paça"
+      },
+      "urun_hakkinda": [
+        "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C9565AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Culotte Fit Geniş Kalıp Yüksek Bel Krinkıl Pantolon",
+      "kisa_aciklama": "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3462972",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_BK81_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/C9565AX_26SM_BK81_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42",
+          "44",
+          "46"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "38 Beden - 1,77cm - 82/61/91",
+        "ana_kumas_icerigi": "Viskoz 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "paca_detayi": "Geniş Paça",
+        "kalip": "Culotte",
+        "kumas": "Krinkıl Viskon",
+        "cep_ve_fermuar_detayi": "Cepli",
+        "cinsiyet": "Kadın"
+      },
+      "urun_hakkinda": [
+        "Culotte Krinkıl Pantolon, normal kalıbı ve normal beliyle gün boyu maksimum konfor sunar. Düz paça kesimi sayesinde her tarzla kolayca…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "urun_grubu": "Kadın Tesettür Pantolon",
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "C9565AXBN316",
+      "renk_kodu": "BN316",
+      "renk_adi": "BROWN",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "38",
+          "42",
+          "44"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 5818,
+          "Product Option Code": "C9565AX.BN316",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "38",
+          "Fit": "CULOTTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C9565AX_24SM_BN316_01_02.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3327661"
+        },
+        {
+          "excel_satiri": 5819,
+          "Product Option Code": "C9565AX.BN316",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "42",
+          "Fit": "CULOTTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C9565AX_24SM_BN316_01_02.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3327661"
+        },
+        {
+          "excel_satiri": 5820,
+          "Product Option Code": "C9565AX.BN316",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Woven Bottom",
+          "LifeStyle": "Traditional",
+          "Class Name": "Trousers",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "44",
+          "Fit": "CULOTTE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/C9565AX_24SM_BN316_01_02.jpg",
+          "FabricDetail": "CRINCKLE VISKON",
+          "Toplam": 1,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 249.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com.tr/culotte-fit-genis-kalip-yuksek-bel-krinkil-pantolon-3327661"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/C9565AX_24SM_BN316_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:25:43+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 5
+  }
+}

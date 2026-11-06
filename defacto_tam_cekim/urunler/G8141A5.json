@@ -1,0 +1,86 @@
+{
+  "model_kodu": "G8141A5",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "G8141A5BR123",
+      "renk_kodu": "BR123",
+      "renk_adi": "ROSE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "2-3 Y",
+          "3-4 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 21924,
+          "Product Option Code": "G8141A5.BR123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "2-3 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8141A5_26SP_BR123_01_01.jpg",
+          "FabricDetail": "MUSLIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/cicekli-muslin-nakis-yakali-elbise-kiz-bebek-3444342",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/cicekli-muslin-nakis-yakali-elbise-kiz-bebek-3444342"
+        },
+        {
+          "excel_satiri": 21925,
+          "Product Option Code": "G8141A5.BR123",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "BabyGirl",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Dress",
+          "Product Color Name": "ROSE",
+          "SizeDefinition": "3-4 Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/G8141A5_26SP_BR123_01_01.jpg",
+          "FabricDetail": "MUSLIN",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#924363",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/cicekli-muslin-nakis-yakali-elbise-kiz-bebek-3444342",
+          "Model Page URL": "https://www.defacto.com.eg/en-eg/cicekli-muslin-nakis-yakali-elbise-kiz-bebek-3444342"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/G8141A5_26SP_BR123_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T19:10:45+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/cicekli-muslin-nakis-yakali-elbise-kiz-bebek-3444342",
+      "http": 200,
+      "durum": "Sayfada bu modelin ürün kodu bulunamadı"
+    }
+  ]
+}

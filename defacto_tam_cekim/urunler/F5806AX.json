@@ -1,0 +1,146 @@
+{
+  "model_kodu": "F5806AX",
+  "urun_grubu": "Kadın Elbise",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 9,
+    "yorum_sayisi": 9,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Elbise harika, tam üzerime oturdu. Boyum 1.65, kilom 49, S beden aldım."
+      },
+      {
+        "tarih": "2025-08-05",
+        "puan": 4.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2025-08-19",
+        "puan": 5.0,
+        "metin": "@Mağazada denemiştim, buradan indirimli aldım."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F5806AXBN320",
+      "renk_kodu": "BN320",
+      "renk_adi": "Kahve",
+      "renk_hex": "#964B00",
+      "urun_adi": "V Yaka Kareli Gofre Dokulu Kısa Kollu Midi Elbise",
+      "kisa_aciklama": "V Yaka Kareli Gofre Dokulu Kısa Kollu Midi Elbise, şık kareli deseni ve dokulu gofre kumaşıyla zarif bir duruş sergiler.…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/v-yaka-baskili-gofre-dokulu-kisa-kollu-midi-elbise-3324704",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F5806AX_25SM_BN320_01_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5806AX_25SM_BN320_02_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5806AX_25SM_BN320_03_05.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5806AX_25SM_BN320_04_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5806AX_25SM_BN320_05_04.jpg",
+        "https://dfcdn.defacto.com.tr/838/F5806AX_25SM_BN320_06_03.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "36",
+          "38",
+          "40",
+          "42"
+        ],
+        "excel": [
+          "42"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "36 Beden - 1,74cm - 82/59/89",
+        "ana_kumas_icerigi": "Pamuk 99%,Elastan 1%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "ozel_urun": "Trend",
+        "kumas": "Gofre Dokulu",
+        "bel_detayi": "Normal Bel",
+        "cinsiyet": "Kadın",
+        "urun_boyu": "Mıdı",
+        "yaka": "V Yaka",
+        "kol_boyu": "Kısa Kollu",
+        "desen": "Baskılı",
+        "urun_tipi": "Elbise"
+      },
+      "urun_hakkinda": [
+        "V Yaka Kareli Gofre Dokulu Kısa Kollu Midi Elbise, şık kareli deseni ve dokulu gofre kumaşıyla zarif bir duruş sergiler.…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksımum 30°c Sıcaklıkta Hassas Yıkama",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/30GENTLE_HNIKLZZI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılabilir Trikloretilen Hariç",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/dry_1CSNMJZI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1499.99,
+        "sepette_fiyat": 749.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 15132,
+          "Product Option Code": "F5806AX.BN320",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Woven Dress",
+          "Product Color Name": "BROWN",
+          "SizeDefinition": "42",
+          "Fit": "FIT AND FLARE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25SM/F5806AX_25SM_BN320_01_05.jpg",
+          "FabricDetail": "GOFRE",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#964B00",
+          "Product Page URL": "https://www.defacto.com.tr/v-yaka-baskili-gofre-dokulu-kisa-kollu-midi-elbise-3324704",
+          "Model Page URL": "https://www.defacto.com.tr/v-yaka-baskili-gofre-dokulu-kisa-kollu-midi-elbise-3324704"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25SM/F5806AX_25SM_BN320_01_05.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:47:57+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

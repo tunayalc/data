@@ -1,0 +1,112 @@
+{
+  "model_kodu": "A1651A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız İç Giyim",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 25,
+    "yorum_sayisi": 25,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 0.0,
+      "tam_oldu": 100.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2024-09-17",
+        "puan": 5.0,
+        "metin": "@11 yaş kızım için aldık biraz büyük tercih etmek gerekiyor lastik kısımları çok sıkmasın diye beğendik güzel"
+      },
+      {
+        "tarih": "2025-01-29",
+        "puan": 5.0,
+        "metin": "@Kardeşime buradan sürekli alıyorum, kaliteli, önerilir."
+      },
+      {
+        "tarih": "2025-02-18",
+        "puan": 5.0,
+        "metin": "@Renkleri, tasarımı, kalitesi mükemmel."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "A1651A8PN69",
+      "renk_kodu": "PN69",
+      "renk_adi": "Pembe",
+      "renk_hex": "#FF69B4",
+      "urun_adi": "Baskılı First 2'li Bra",
+      "kisa_aciklama": "Esnek dokulu kumaşı yarım sporcu atletli bra spor slogan baskılı kolsuz üst modeli kız çocuklarının sporda, yürüyüş yaparken ve okulda…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/2li-bra-2991042",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/A1651A8_23WN_PN69_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1651A8_23WN_PN69_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1651A8_23WN_PN69_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/A1651A8_23WN_PN69_04_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)",
+          "14+ Yaş (170cm)"
+        ],
+        "excel": [
+          "14+ Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 95%,Elastan 5%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Regular Fıt",
+        "takim_icerigi": "2'li",
+        "cinsiyet": "Kız Çocuk"
+      },
+      "urun_hakkinda": [
+        "Esnek dokulu kumaşı yarım sporcu atletli bra spor slogan baskılı kolsuz üst modeli kız çocuklarının sporda, yürüyüş yaparken ve okulda…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 299.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 172,
+          "Product Option Code": "A1651A8.PN69",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Casual",
+          "Class Name": "Bra",
+          "Product Color Name": "PINK",
+          "SizeDefinition": "14+ Y",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/23WN/A1651A8_23WN_PN69_01_01.jpg",
+          "FabricDetail": "-",
+          "Toplam": 1,
+          "Initial Price Value": 149.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#FF69B4",
+          "Product Page URL": "https://www.defacto.com.tr/2li-bra-2991042",
+          "Model Page URL": "https://www.defacto.com.tr/2li-bra-2991042"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/23WN/A1651A8_23WN_PN69_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:20:01+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

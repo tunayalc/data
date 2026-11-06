@@ -1,0 +1,269 @@
+{
+  "model_kodu": "D7126AX",
+  "urun_grubu": "Kadın Sweatshirt",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 65,
+    "yorum_sayisi": 65,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 40.0,
+      "tam_oldu": 57.1,
+      "buyuk_geldi": 2.9
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-04-22",
+        "puan": 5.0,
+        "metin": "@Ürün güzel, yumuşacık."
+      },
+      {
+        "tarih": "2025-08-19",
+        "puan": 4.0,
+        "metin": "@Kaliteli bir ürün."
+      },
+      {
+        "tarih": "2025-03-27",
+        "puan": 5.0,
+        "metin": "@Rengi kalıbı herseyi harika.. Kumaşına bayıldım"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D7126AXBK81",
+      "renk_kodu": "BK81",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Ultra Yumuşak Oversize Geniş Kalıp Yarım Fermuarlı Modal Sporcu Sweatshirt",
+      "kisa_aciklama": "Ultra Yumuşak Oversize kesimi ve yarım fermuarlı dik yaka tasarımıyla bu modal sweatshirt, modern ve sportif bir stil sunar. Modal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-oversize-genis-kalip-yarim-fermuarli-modal-sporcu-sweatshirt-3377393",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_BK81_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_BK81_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_BK81_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_BK81_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_BK81_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_BK81_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_BK81_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_BK81_08_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_BK81_09_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XS"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,79cm - 90/61/90",
+        "ana_kumas_icerigi": "Elastan 6%,Modal 56%,Poliester 38%",
+        "marka": "Defacto",
+        "mensei": "EG",
+        "kol_boyu": "Uzun Kollu",
+        "kumas": "Modal",
+        "kalip": "Oversıze",
+        "kullanim_alani": "Günlük Giyim",
+        "yasam_tarzi": "Sporcu"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak Oversize kesimi ve yarım fermuarlı dik yaka tasarımıyla bu modal sweatshirt, modern ve sportif bir stil sunar. Modal…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 599.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8523,
+          "Product Option Code": "D7126AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/25AU/D7126AX_25AU_BK81_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-genis-kalip-yarim-fermuarli-modal-sporcu-sweatshirt-3377393",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-fermuarli-modal-sweatshirt-3377394"
+        },
+        {
+          "excel_satiri": 8524,
+          "Product Option Code": "D7126AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7126AX_26SP_BK81_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-genis-kalip-yarim-fermuarli-modal-sporcu-sweatshirt-3377393",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-fermuarli-modal-sweatshirt-3377394"
+        },
+        {
+          "excel_satiri": 8525,
+          "Product Option Code": "D7126AX.BK81",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "XS",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7126AX_26SP_BK81_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-genis-kalip-yarim-fermuarli-modal-sporcu-sweatshirt-3377393",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-fermuarli-modal-sweatshirt-3377394"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/25AU/D7126AX_25AU_BK81_01_02.jpg",
+        "https://image.defacto.com.tr/product/26SP/D7126AX_26SP_BK81_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "D7126AXKH521",
+      "renk_kodu": "KH521",
+      "renk_adi": "Koyu Haki",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Ultra Yumuşak Oversize Fermuarlı Modal Sweatshirt",
+      "kisa_aciklama": "Ultra Yumuşak Oversize kesimi ve yarım fermuarlı dik yaka tasarımıyla bu modal sweatshirt, modern ve sportif bir stil sunar. Modal…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/ultra-yumusak-oversize-fermuarli-modal-sweatshirt-3377394",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_KH521_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_KH521_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_KH521_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_KH521_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_KH521_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_KH521_06_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/D7126AX_26SP_KH521_07_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "S",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,78cm - 82/60/88",
+        "ana_kumas_icerigi": "Elastan 6%,Modal 55%,Poliester 39%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "kol_boyu": "Uzun Kollu",
+        "kumas": "Modal",
+        "kalip": "Oversıze",
+        "kullanim_alani": "Günlük Giyim",
+        "yasam_tarzi": "Sporcu"
+      },
+      "urun_hakkinda": [
+        "Ultra Yumuşak Oversize kesimi ve yarım fermuarlı dik yaka tasarımıyla bu modal sweatshirt, modern ve sportif bir stil sunar. Modal…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8526,
+          "Product Option Code": "D7126AX.KH521",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "DARK KHAKI",
+          "SizeDefinition": "S",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7126AX_26SP_KH521_01_03.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#605E34",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-fermuarli-modal-sweatshirt-3377394",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-fermuarli-modal-sweatshirt-3377394"
+        },
+        {
+          "excel_satiri": 8527,
+          "Product Option Code": "D7126AX.KH521",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Sweat Shirt",
+          "Product Color Name": "DARK KHAKI",
+          "SizeDefinition": "XXL",
+          "Fit": "OVERSIZE FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/D7126AX_26SP_KH521_01_03.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 0,
+          "Initial Price Value": 899.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#605E34",
+          "Product Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-fermuarli-modal-sweatshirt-3377394",
+          "Model Page URL": "https://www.defacto.com.tr/ultra-yumusak-oversize-fermuarli-modal-sweatshirt-3377394"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/D7126AX_26SP_KH521_01_03.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:29:18+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

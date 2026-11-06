@@ -1,0 +1,89 @@
+{
+  "model_kodu": "I6955AX",
+  "urun_grubu": "Kadın Çorap",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "I6955AXBK23",
+      "renk_kodu": "BK23",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Kadın 20 Den İnce Parlak Külotlu Çorap",
+      "kisa_aciklama": "20 denye ince külotlu çorap. Esnek ve parlak görünümlü yapıya sahiptir.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-20-den-ince-parlak-kulotlu-corap-3526397",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/I6955AX_NS_BK23_01_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S/M",
+          "L/XL"
+        ],
+        "excel": [
+          "S - M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliamid 91%,Elastan 9%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kadın",
+        "corap_tipi": "Külotlu Çorap"
+      },
+      "urun_hakkinda": [
+        "20 denye ince külotlu çorap. Esnek ve parlak görünümlü yapıya sahiptir.",
+        "Hijyenik sebeplerden dolayı kullanılmış ürünün değişim ve iadesi yapılamamaktadır."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 129.99,
+        "sepette_fiyat": 90.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 44278,
+          "Product Option Code": "I6955AX.BK23",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Socks",
+          "LifeStyle": "Casual",
+          "Class Name": "Socks",
+          "Product Color Name": "BLACK",
+          "SizeDefinition": "S - M",
+          "Fit": "PANTYHOSE",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/I6955AX_NS_BK23_01_01.jpg",
+          "FabricDetail": "NYLON",
+          "Toplam": 5,
+          "Initial Price Value": 129.99,
+          "Actual Price Value": 129.99,
+          "Product Color HEX": "#000000",
+          "Product Page URL": "https://www.defacto.com.tr/kadin-20-den-ince-parlak-kulotlu-corap-3526397",
+          "Model Page URL": "https://www.defacto.com.tr/kadin-20-den-ince-parlak-kulotlu-corap-3526397"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/I6955AX_NS_BK23_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:51:52+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

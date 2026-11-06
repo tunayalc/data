@@ -1,0 +1,158 @@
+{
+  "model_kodu": "D5993AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 32,
+    "yorum_sayisi": 32,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 28.6,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 21.4
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-12",
+        "puan": 5.0,
+        "metin": "@Çok kaliteli, beğendim."
+      },
+      {
+        "tarih": "2025-11-08",
+        "puan": 5.0,
+        "metin": "@Fiyatına göre harika bir ürün, kumaşı da çok güzel ve kalıbı da tam. Çok beğendim."
+      },
+      {
+        "tarih": "2025-07-01",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "D5993AXKH202",
+      "renk_kodu": "KH202",
+      "renk_adi": "Açık Haki",
+      "renk_hex": "#969459",
+      "urun_adi": "New Regular Fit Polo Yaka Kısa Kollu Pike Tişört",
+      "kisa_aciklama": "New Regular Fit Kısa Kollu Pike Polo Tişört, şıklığı ve konforu bir arada sunar. Klasik tasarımı ve yüksek kaliteli kumaşı…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/new-regular-fit-polo-yaka-polo-tisort-3165212",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/D5993AX_24SM_KH202_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5993AX_24SM_KH202_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5993AX_24SM_KH202_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5993AX_24SM_KH202_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5993AX_24SM_KH202_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5993AX_24SM_KH202_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/D5993AX_24SM_KH202_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 93/87/97",
+        "ana_kumas_icerigi": "Pamuk 97%,Elastan 3%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Polo Yaka",
+        "kalip": "New Regular Fıt",
+        "kumas": "Pike"
+      },
+      "urun_hakkinda": [
+        "New Regular Fit Kısa Kollu Pike Polo Tişört, şıklığı ve konforu bir arada sunar. Klasik tasarımı ve yüksek kaliteli kumaşı…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Maksimum 30 °c De Elde Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/HANDWASH_30_4LVLFTRI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "D5993AXGR210",
+      "renk_kodu": "GR210",
+      "renk_adi": "GREY MELANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 8139,
+          "Product Option Code": "D5993AX.GR210",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "GREY MELANGE",
+          "SizeDefinition": "M",
+          "Fit": "NEW REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24SM/D5993AX_24SM_GR210_01_01.jpg",
+          "FabricDetail": "PIQUE",
+          "Toplam": 1,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 49.99,
+          "Product Color HEX": "#808080",
+          "Product Page URL": "Bulunamadı",
+          "Model Page URL": "https://www.defacto.com/en-ma/new-regular-fit-polo-yaka-polo-tisort-3165212"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24SM/D5993AX_24SM_GR210_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:36:26+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

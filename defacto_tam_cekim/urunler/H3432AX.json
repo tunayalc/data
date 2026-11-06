@@ -1,0 +1,98 @@
+{
+  "model_kodu": "H3432AX",
+  "urun_grubu": "Erkek Boxer",
+  "degerlendirmeler": {
+    "ortalama_puan": null,
+    "degerlendirme_sayisi": null,
+    "yorum_sayisi": null,
+    "kalip_dagilimi_yuzde": null,
+    "yorum_ornekleri": []
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "H3432AXNV135",
+      "renk_kodu": "NV135",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Regular Fıt 3'lü Boxer",
+      "kisa_aciklama": "Regular Fıt 3'lü Boxer Set",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/regular-fit-3lu-boxer-3526994",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/H3432AX_26AU_NV135_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3432AX_26AU_NV135_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3432AX_26AU_NV135_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3432AX_26AU_NV135_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/H3432AX_26AU_NV135_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "BD",
+        "kalip": "Regular Fıt",
+        "takim_icerigi": "3'lü",
+        "cinsiyet": "Erkek",
+        "ic_giyim_kategori": "Boxer"
+      },
+      "urun_hakkinda": [
+        "Regular Fıt 3'lü Boxer Set",
+        "Bu ürün hijyen açısından değişim ve iadeye uygun değildir."
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "gosterilen_fiyat": 499.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 27260,
+          "Product Option Code": "H3432AX.NV135",
+          "BrandName": "Defacto",
+          "Division Name": "Homewear & Underwear",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Underwear",
+          "LifeStyle": "Young",
+          "Class Name": "Knitted Boxer",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/H3432AX_26SP_NV135_01_02.jpg",
+          "FabricDetail": "36/1 Jersey",
+          "Toplam": 3,
+          "Initial Price Value": 499.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com/ru-kz/regular-fit-3lu-boxer-3526994",
+          "Model Page URL": "https://www.defacto.com/ru-kz/regular-fit-3lu-boxer-3526994"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/H3432AX_26SP_NV135_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T19:22:34+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

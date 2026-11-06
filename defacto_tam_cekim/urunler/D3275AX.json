@@ -1,0 +1,108 @@
+{
+  "model_kodu": "D3275AX",
+  "urun_grubu": null,
+  "degerlendirmeler": null,
+  "renkler": [
+    {
+      "urun_renk_kodu": "D3275AXBG757",
+      "renk_kodu": "BG757",
+      "renk_adi": "BEIGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "34",
+          "36",
+          "38"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 7016,
+          "Product Option Code": "D3275AX.BG757",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "34",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3275AX_24AU_BG757_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com/en-ma/pilise-kareli-normal-bel-mini-etek-3194597",
+          "Model Page URL": "https://www.defacto.com/en-ma/pilise-kareli-normal-bel-mini-etek-3194597"
+        },
+        {
+          "excel_satiri": 7017,
+          "Product Option Code": "D3275AX.BG757",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "36",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3275AX_24AU_BG757_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com/en-ma/pilise-kareli-normal-bel-mini-etek-3194597",
+          "Model Page URL": "https://www.defacto.com/en-ma/pilise-kareli-normal-bel-mini-etek-3194597"
+        },
+        {
+          "excel_satiri": 7018,
+          "Product Option Code": "D3275AX.BG757",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Dress & Skirt",
+          "LifeStyle": "Casual",
+          "Class Name": "Woven Skirt",
+          "Product Color Name": "BEIGE",
+          "SizeDefinition": "38",
+          "Fit": "A-LINE SKIRT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/24AU/D3275AX_24AU_BG757_01_04.jpg",
+          "FabricDetail": "POLYVISCON",
+          "Toplam": 2,
+          "Initial Price Value": 599.99,
+          "Actual Price Value": 599.99,
+          "Product Color HEX": "#FBEED6",
+          "Product Page URL": "https://www.defacto.com/en-ma/pilise-kareli-normal-bel-mini-etek-3194597",
+          "Model Page URL": "https://www.defacto.com/en-ma/pilise-kareli-normal-bel-mini-etek-3194597"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/24AU/D3275AX_24AU_BG757_01_04.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_sayfasi_bulunamadi",
+    "tarih": "2026-11-05T18:32:26+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 0
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/pilise-kareli-normal-bel-mini-etek-3194597",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

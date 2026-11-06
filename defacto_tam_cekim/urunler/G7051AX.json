@@ -1,0 +1,410 @@
+{
+  "model_kodu": "G7051AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 4.0,
+    "degerlendirme_sayisi": 2,
+    "yorum_sayisi": 2,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 50.0,
+      "tam_oldu": 50.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-07-15",
+        "puan": 5.0,
+        "metin": "@"
+      },
+      {
+        "tarih": "2026-10-28",
+        "puan": 2.0,
+        "metin": "@altındaki atlet görünüyor m yum olmasına rağmen çok büyük"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G7051AXNV82",
+      "renk_kodu": "NV82",
+      "renk_adi": "Lacivert",
+      "renk_hex": "#000080",
+      "urun_adi": "Pamuklu Regular Fıt Bisiklet Yaka Kısa Kollu Tişört",
+      "kisa_aciklama": "Regular fit erkek tişört. Bisiklet yaka ve kısa kollu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434230",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7051AX_26SM_NV82_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7051AX_26SM_NV82_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7051AX_26SM_NV82_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7051AX_26SM_NV82_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL",
+          "XS",
+          "XXL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "S Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt",
+        "cinsiyet": "Erkek"
+      },
+      "urun_hakkinda": [
+        "Regular fit erkek tişört. Bisiklet yaka ve kısa kollu."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20896,
+          "Product Option Code": "G7051AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_NV82_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434230",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        },
+        {
+          "excel_satiri": 20897,
+          "Product Option Code": "G7051AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_NV82_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 4,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434230",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        },
+        {
+          "excel_satiri": 20898,
+          "Product Option Code": "G7051AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_NV82_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434230",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        },
+        {
+          "excel_satiri": 20899,
+          "Product Option Code": "G7051AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_NV82_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434230",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        },
+        {
+          "excel_satiri": 20900,
+          "Product Option Code": "G7051AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XS",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_NV82_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434230",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        },
+        {
+          "excel_satiri": 20901,
+          "Product Option Code": "G7051AX.NV82",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "NAVY",
+          "SizeDefinition": "XXL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_NV82_01_03.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 1,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#000080",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434230",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_NV82_01_03.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G7051AXWT32",
+      "renk_kodu": "WT32",
+      "renk_adi": "Kırık Beyaz",
+      "renk_hex": "#F2F2F2",
+      "urun_adi": "Pamuklu Regular Fıt Bisiklet Yaka Kısa Kollu Tişört",
+      "kisa_aciklama": "Regular fit erkek tişört. Bisiklet yaka ve kısa kollu.",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G7051AX_26SM_WT32_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7051AX_26SM_WT32_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7051AX_26SM_WT32_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G7051AX_26SM_WT32_04_02.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "XS",
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL",
+          "3XL"
+        ],
+        "excel": [
+          "L",
+          "M",
+          "S",
+          "XL"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "L Beden - 1,90cm - 100/84/101",
+        "ana_kumas_icerigi": "Pamuk 96%,Elastan 4%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Erkek",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Regular Fıt"
+      },
+      "urun_hakkinda": [
+        "Regular fit erkek tişört. Bisiklet yaka ve kısa kollu."
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Düşük Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONLOWTEMP_LZLTUZVI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 799.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 20902,
+          "Product Option Code": "G7051AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "L",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_WT32_01_02.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 6,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        },
+        {
+          "excel_satiri": 20903,
+          "Product Option Code": "G7051AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "M",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_WT32_01_02.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        },
+        {
+          "excel_satiri": 20904,
+          "Product Option Code": "G7051AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "S",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_WT32_01_02.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 2,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        },
+        {
+          "excel_satiri": 20905,
+          "Product Option Code": "G7051AX.WT32",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Casual",
+          "Class Name": "Short Sleeve T-Shirt",
+          "Product Color Name": "OFF WHITE",
+          "SizeDefinition": "XL",
+          "Fit": "REGULAR FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_WT32_01_02.jpg",
+          "FabricDetail": "JACQUARD",
+          "Toplam": 6,
+          "Initial Price Value": 799.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#F2F2F2",
+          "Product Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229",
+          "Model Page URL": "https://www.defacto.com.tr/pamuklu-regular-fit-bisiklet-yaka-kisa-kollu-tisort-3434229"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G7051AX_26SM_WT32_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T17:05:58+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 2
+  }
+}

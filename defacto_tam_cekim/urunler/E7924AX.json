@@ -1,0 +1,162 @@
+{
+  "model_kodu": "E7924AX",
+  "urun_grubu": "Kadın Kemer",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 18,
+    "yorum_sayisi": 18,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 55.6,
+      "tam_oldu": 33.3,
+      "buyuk_geldi": 11.1
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2025-08-05",
+        "puan": 5.0,
+        "metin": "@Kalın ve hoş."
+      },
+      {
+        "tarih": "2026-03-01",
+        "puan": 5.0,
+        "metin": "@Gerçekten harika, kalitesi de çok iyi görünüyor, aşırı beğendim, kesinlikle tavsiye ederim. Fiyatı da gayet uygun. Harika! Çok güzel, bayıldım!…"
+      },
+      {
+        "tarih": "2026-08-01",
+        "puan": 5.0,
+        "metin": "@"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "E7924AXBN66",
+      "renk_kodu": "BN66",
+      "renk_adi": "Koyu Kahve",
+      "renk_hex": "#5C4033",
+      "urun_adi": "Kadın Suni Deri Jean Kemeri",
+      "kisa_aciklama": "Kadınlar için tasarlanmış siyah suni deri jean kemer, her mevsimde şıklık ve rahatlık sunar. 3,5 cm genişliği ile temel bir…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/kadin-suni-deri-jean-kemeri-3278179",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/E7924AX_NS_BN66_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7924AX_NS_BN66_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/E7924AX_NS_BN66_03_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "80",
+          "85",
+          "90",
+          "95",
+          "100"
+        ],
+        "excel": [
+          "90",
+          "95"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "ana_kumas_icerigi": "Poliüretan 100%",
+        "marka": "Defacto",
+        "mensei": "CN",
+        "urun_olcusu": "3,5 cm",
+        "urun_tipi": "Kemer",
+        "cinsiyet": "Kadın",
+        "kemer_kategori": "Jean Kemeri",
+        "urun_aksesuari": "Kemer",
+        "kumas": "Suni Deri"
+      },
+      "urun_hakkinda": [
+        "Kadınlar için tasarlanmış siyah suni deri jean kemer, her mevsimde şıklık ve rahatlık sunar. 3,5 cm genişliği ile temel bir…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Ütülemeyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTIRON_LQQJCJZI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Yıkamayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTWASH_EQ6BJZRI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 299.99,
+        "sepette_fiyat": 239.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 12331,
+          "Product Option Code": "E7924AX.BN66",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "D.BROWN",
+          "SizeDefinition": "90",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E7924AX_NS_BN66_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#5C4033",
+          "Product Page URL": "https://www.defacto.com/en-ma/kadin-suni-deri-jean-kemeri-3278179",
+          "Model Page URL": "https://www.defacto.com/en-ma/kadin-suni-deri-jean-kemeri-3278179"
+        },
+        {
+          "excel_satiri": 12332,
+          "Product Option Code": "E7924AX.BN66",
+          "BrandName": "Defacto",
+          "Division Name": "Accessory",
+          "Sub Division Name": "Woman",
+          "Buyer Group Name": "Belts",
+          "LifeStyle": "Casual",
+          "Class Name": "Belt",
+          "Product Color Name": "D.BROWN",
+          "SizeDefinition": "95",
+          "Fit": "-",
+          "WebImageUrl": "https://image.defacto.com.tr/product/NS/E7924AX_NS_BN66_01_01.jpg",
+          "FabricDetail": "PU",
+          "Toplam": 1,
+          "Initial Price Value": 399.99,
+          "Actual Price Value": 299.99,
+          "Product Color HEX": "#5C4033",
+          "Product Page URL": "https://www.defacto.com/en-ma/kadin-suni-deri-jean-kemeri-3278179",
+          "Model Page URL": "https://www.defacto.com/en-ma/kadin-suni-deri-jean-kemeri-3278179"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/NS/E7924AX_NS_BN66_01_01.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:46:42+03:00",
+    "denenen_sayfa": 1,
+    "dogrulanan_renk": 1
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "model_kodu": "G0248A8",
+  "urun_grubu": "Kız Çocuk - Genç Kız Jean Pantolon",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 6,
+    "yorum_sayisi": 6,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 60.0,
+      "tam_oldu": 40.0,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-05-19",
+        "puan": 5.0,
+        "metin": "@ürün aşırı bol fakat bel kısmı aksine çok dar bacaktan zor geçiyor lastik kısmı fazla esnemiyor 10 yaş kızıma 38…"
+      },
+      {
+        "tarih": "2026-08-31",
+        "puan": 5.0,
+        "metin": "@güzel bir ürün mükemmel kardeşim bayıldı çok güzel dedi abi Şimdi onu buz mavisini aldım onun istediği gibi geldi Teşekkür…"
+      },
+      {
+        "tarih": "2026-05-29",
+        "puan": 5.0,
+        "metin": "@çok güzel pantolon çok tarz durdu"
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "G0248A8NM28",
+      "renk_kodu": "NM28",
+      "renk_adi": "Mavi",
+      "renk_hex": "#30D5C8",
+      "urun_adi": "Balloon Fit Ekstra Rahat Balon Kesim Jean Pantolon Kız Çocuk",
+      "kisa_aciklama": "Tıpkı bir balon gibi yuvarlak ve bol inen kesimiyle bacaklara sınırsız bir özgürlük sunar. İçindeyken bağdaş kurmak, koşmak ve zıplamak…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/G0248A8_26SM_NM28_01_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0248A8_26SM_NM28_02_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0248A8_26SM_NM28_03_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0248A8_26SM_NM28_04_03.jpg",
+        "https://dfcdn.defacto.com.tr/838/G0248A8_26SM_NM28_05_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "7/8 Yaş (128cm)",
+          "8/9 Yaş (134cm)",
+          "9/10 Yaş (140cm)",
+          "11/12 Yaş (152cm)",
+          "13/14 Yaş (164cm)"
+        ],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "8/9 Y",
+          "9/10 Y"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "8/9 Yaş (134cm) Beden - 1,24cm - 62/53/73",
+        "ana_kumas_icerigi": "Pamuk 100%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "cinsiyet": "Kız Çocuk",
+        "kalip": "Balloon Fıt"
+      },
+      "urun_hakkinda": [
+        "Tıpkı bir balon gibi yuvarlak ve bol inen kesimiyle bacaklara sınırsız bir özgürlük sunar. İçindeyken bağdaş kurmak, koşmak ve zıplamak…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 999.99,
+        "sepette_fiyat": 399.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17416,
+          "Product Option Code": "G0248A8.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM28_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 2,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639"
+        },
+        {
+          "excel_satiri": 17417,
+          "Product Option Code": "G0248A8.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM28_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 7,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639"
+        },
+        {
+          "excel_satiri": 17418,
+          "Product Option Code": "G0248A8.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "8/9 Y",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM28_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 0,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639"
+        },
+        {
+          "excel_satiri": 17419,
+          "Product Option Code": "G0248A8.NM28",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM28_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#0085FF",
+          "Product Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM28_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "G0248A8NM63",
+      "renk_kodu": "NM63",
+      "renk_adi": "ICE BLUE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "11/12 Y",
+          "13/14 Y",
+          "7/8 Y",
+          "9/10 Y"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17420,
+          "Product Option Code": "G0248A8.NM63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ICE BLUE",
+          "SizeDefinition": "11/12 Y",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM63_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 6,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#C7FFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3444625",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639"
+        },
+        {
+          "excel_satiri": 17421,
+          "Product Option Code": "G0248A8.NM63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ICE BLUE",
+          "SizeDefinition": "13/14 Y",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM63_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#C7FFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3444625",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639"
+        },
+        {
+          "excel_satiri": 17422,
+          "Product Option Code": "G0248A8.NM63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ICE BLUE",
+          "SizeDefinition": "7/8 Y",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM63_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 1,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#C7FFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3444625",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639"
+        },
+        {
+          "excel_satiri": 17423,
+          "Product Option Code": "G0248A8.NM63",
+          "BrandName": "Defacto",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Girl",
+          "Buyer Group Name": "Denim",
+          "LifeStyle": "Casual",
+          "Class Name": "Trousers",
+          "Product Color Name": "ICE BLUE",
+          "SizeDefinition": "9/10 Y",
+          "Fit": "BALLOON",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM63_01_02.jpg",
+          "FabricDetail": "DENIM",
+          "Toplam": 3,
+          "Initial Price Value": 999.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#C7FFFF",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3444625",
+          "Model Page URL": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3377639"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SM/G0248A8_26SM_NM63_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T18:57:55+03:00",
+    "denenen_sayfa": 2,
+    "dogrulanan_renk": 1
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/balloon-fit-ekstra-rahat-balon-kesim-jean-pantolon-kiz-cocuk-3444625",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}

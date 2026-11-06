@@ -1,0 +1,421 @@
+{
+  "model_kodu": "F9834AX",
+  "urun_grubu": "Erkek Tişört",
+  "degerlendirmeler": {
+    "ortalama_puan": 5.0,
+    "degerlendirme_sayisi": 11,
+    "yorum_sayisi": 11,
+    "kalip_dagilimi_yuzde": {
+      "kucuk_geldi": 62.5,
+      "tam_oldu": 37.5,
+      "buyuk_geldi": 0.0
+    },
+    "yorum_ornekleri": [
+      {
+        "tarih": "2026-08-24",
+        "puan": 5.0,
+        "metin": "@defacto bu işi biliyor. Modal kumas harika"
+      },
+      {
+        "tarih": "2026-05-22",
+        "puan": 5.0,
+        "metin": "@Dokusu öyle harika ki fiyatını kesinlikle hakediyor yumuşacık bayıldık biz"
+      },
+      {
+        "tarih": "2026-08-31",
+        "puan": 5.0,
+        "metin": "@ Kalıbı tam oldu, duruşunu çok beğendim."
+      }
+    ]
+  },
+  "renkler": [
+    {
+      "urun_renk_kodu": "F9834AXBG816",
+      "renk_kodu": "BG816",
+      "renk_adi": "Taş",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Standart Fit Polo Yaka Sporcu Modal Kısa Kollu Tişört",
+      "kisa_aciklama": "Yumuşak modal kumaşı ve nefes alabilir yapısıyla gün boyu konfor sunan Polo Yaka Sporcu Tişört, hem spor hem de günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3463808",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BG816_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BG816_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BG816_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BG816_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BG816_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BG816_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BG816_07_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BG816_08_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M",
+          "S"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 94/74/94",
+        "ana_kumas_icerigi": "Pamuk 25%,Elastan 8%,Modal 31%,Poliester 36%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Standart Fıt",
+        "yaka": "Polo Yaka",
+        "kumas": "Modal",
+        "yasam_tarzi": "Sporcu",
+        "kullanim_alani": "Günlük Giyim"
+      },
+      "urun_hakkinda": [
+        "Yumuşak modal kumaşı ve nefes alabilir yapısıyla gün boyu konfor sunan Polo Yaka Sporcu Tişört, hem spor hem de günlük…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17221,
+          "Product Option Code": "F9834AX.BG816",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9834AX_26SP_BG816_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 0,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3463808",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3424189"
+        },
+        {
+          "excel_satiri": 17222,
+          "Product Option Code": "F9834AX.BG816",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "STONE",
+          "SizeDefinition": "S",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9834AX_26SP_BG816_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 2,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#B4B0A6",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3463808",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3424189"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9834AX_26SP_BG816_01_02.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9834AXYL75",
+      "renk_kodu": "YL75",
+      "renk_adi": "Açık Sarı",
+      "renk_hex": "#FFFF7A",
+      "urun_adi": "Standart Fit Polo Yaka Sporcu Modal Kısa Kollu Tişört",
+      "kisa_aciklama": "Yumuşak modal kumaşı ve nefes alabilir yapısıyla gün boyu konfor sunan Polo Yaka Sporcu Tişört, hem spor hem de günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3463809",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_YL75_01_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_YL75_02_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_YL75_03_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_YL75_04_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_YL75_05_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_YL75_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": [
+          "M"
+        ]
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,85cm - 94/74/94",
+        "ana_kumas_icerigi": "Pamuk 25%,Elastan 8%,Modal 31%,Poliester 36%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "kalip": "Standart Fıt",
+        "kullanim_alani": "Günlük Giyim",
+        "yaka": "Polo Yaka",
+        "yasam_tarzi": "Sporcu",
+        "kumas": "Modal",
+        "kol_boyu": "Kısa Kollu"
+      },
+      "urun_hakkinda": [
+        "Yumuşak modal kumaşı ve nefes alabilir yapısıyla gün boyu konfor sunan Polo Yaka Sporcu Tişört, hem spor hem de günlük…"
+      ],
+      "bakim_talimati": null,
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17224,
+          "Product Option Code": "F9834AX.YL75",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "LT.YELLOW",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9834AX_26SP_YL75_01_01.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 499.99,
+          "Product Color HEX": "#FFFF7A",
+          "Product Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3463809",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3424189"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9834AX_26SP_YL75_01_01.jpg"
+      ]
+    },
+    {
+      "urun_renk_kodu": "F9834AXBE830",
+      "renk_kodu": "BE830",
+      "renk_adi": "Mat Mavi",
+      "renk_hex": "#FFFFFF",
+      "urun_adi": "Standart Fit Polo Yaka Sporcu Modal Kısa Kollu Tişört",
+      "kisa_aciklama": "Yumuşak modal kumaşı ve nefes alabilir yapısıyla gün boyu konfor sunan Polo Yaka Sporcu Tişört, hem spor hem de günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3424189",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BE830_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BE830_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BE830_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BE830_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BE830_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BE830_06_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 94/75/93",
+        "ana_kumas_icerigi": "Elastan 5%,Modal 48%,Poliester 47%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yaka": "Polo Yaka",
+        "kol_boyu": "Kısa Kollu",
+        "kalip": "Standart Fıt",
+        "kumas": "Modal",
+        "kullanim_alani": "Günlük Giyim",
+        "yasam_tarzi": "Sporcu"
+      },
+      "urun_hakkinda": [
+        "Yumuşak modal kumaşı ve nefes alabilir yapısıyla gün boyu konfor sunan Polo Yaka Sporcu Tişört, hem spor hem de günlük…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F9834AXBK27",
+      "renk_kodu": "BK27",
+      "renk_adi": "Siyah",
+      "renk_hex": "#000000",
+      "urun_adi": "Standart Fit Polo Yaka Sporcu Modal Kısa Kollu Tişört",
+      "kisa_aciklama": "Yumuşak modal kumaşı ve nefes alabilir yapısıyla gün boyu konfor sunan Polo Yaka Sporcu Tişört, hem spor hem de günlük…",
+      "urun_sayfasi_url": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3424190",
+      "galeri_url_listesi": [
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BK27_01_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BK27_02_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BK27_03_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BK27_04_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BK27_05_02.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BK27_06_01.jpg",
+        "https://dfcdn.defacto.com.tr/838/F9834AX_26SP_BK27_07_01.jpg"
+      ],
+      "bedenler": {
+        "web": [
+          "S",
+          "M",
+          "L",
+          "XL",
+          "XXL"
+        ],
+        "excel": []
+      },
+      "web_beden_kaynagi": "web_urun_sayfasi",
+      "urun_bilgileri": {
+        "manken_olculeri": "M Beden - 1,87cm - 94/75/93",
+        "ana_kumas_icerigi": "Pamuk 25%,Elastan 8%,Modal 31%,Poliester 36%",
+        "marka": "Defacto",
+        "mensei": "TR",
+        "yasam_tarzi": "Sporcu",
+        "kol_boyu": "Kısa Kollu",
+        "yaka": "Polo Yaka",
+        "kumas": "Modal",
+        "kullanim_alani": "Günlük Giyim",
+        "kalip": "Standart Fıt"
+      },
+      "urun_hakkinda": [
+        "Yumuşak modal kumaşı ve nefes alabilir yapısıyla gün boyu konfor sunan Polo Yaka Sporcu Tişört, hem spor hem de günlük…"
+      ],
+      "bakim_talimati": {
+        "talimatlar": [
+          {
+            "talimat": "Orta Sıcaklıkta Ütüleyiniz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/IRONMEDIUMTEMP_5RNNADVI2QG.svg"
+          },
+          {
+            "talimat": "Kuru Temizleme Yapılamaz",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/donotdryclean_ZVNNRJZI2QG.svg"
+          },
+          {
+            "talimat": "Tamburlu Kurutma Yapmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTTUMBLEDRY_NZQGITVI2QG.svg"
+          },
+          {
+            "talimat": "Maksimum 30 °c Sıcaklıkta Yıkayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/Maksimum_30_C_L4EGZJFI2QG.svg"
+          },
+          {
+            "talimat": "Ağartıcı Kullanmayınız",
+            "simge_url": "https://dfcdn.defacto.com.tr/Icon/DONOTBLEACH_RG-73JRI2QG.svg"
+          }
+        ]
+      },
+      "fiyat": {
+        "para_birimi": "TRY",
+        "kontrol_tarihi": "2026-11-05",
+        "uzeri_cizili_fiyat": 1299.99,
+        "sepette_fiyat": 519.99
+      },
+      "excel_satirlari": [],
+      "excel_gorsel_url_listesi": []
+    },
+    {
+      "urun_renk_kodu": "F9834AXOG267",
+      "renk_kodu": "OG267",
+      "renk_adi": "ORANGE",
+      "renk_hex": null,
+      "urun_sayfasi_url": null,
+      "galeri_url_listesi": [],
+      "bedenler": {
+        "web": [],
+        "excel": [
+          "M"
+        ]
+      },
+      "excel_satirlari": [
+        {
+          "excel_satiri": 17223,
+          "Product Option Code": "F9834AX.OG267",
+          "BrandName": "DeFactoFit",
+          "Division Name": "Apparel",
+          "Sub Division Name": "Man",
+          "Buyer Group Name": "Knitted",
+          "LifeStyle": "Fit",
+          "Class Name": "Short Sleeve Polo T-Shirt",
+          "Product Color Name": "ORANGE",
+          "SizeDefinition": "M",
+          "Fit": "STANDART FIT",
+          "WebImageUrl": "https://image.defacto.com.tr/product/26SP/F9834AX_26SP_OG267_01_02.jpg",
+          "FabricDetail": "Modal",
+          "Toplam": 1,
+          "Initial Price Value": 1299.99,
+          "Actual Price Value": 399.99,
+          "Product Color HEX": "#FFA500",
+          "Product Page URL": "https://www.defacto.com.eg/en-eg/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3542443",
+          "Model Page URL": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3424189"
+        }
+      ],
+      "excel_gorsel_url_listesi": [
+        "https://image.defacto.com.tr/product/26SP/F9834AX_26SP_OG267_01_02.jpg"
+      ]
+    }
+  ],
+  "excel_kaynagi": {
+    "dosya": "duzenlenmis_veri.xlsx",
+    "sayfa": "Sayfa1"
+  },
+  "web_kontrol": {
+    "durum": "web_dogrulandi",
+    "tarih": "2026-11-05T16:55:11+03:00",
+    "denenen_sayfa": 5,
+    "dogrulanan_renk": 4
+  },
+  "web_sayfasi_kontrol_notlari": [
+    {
+      "url": "https://www.defacto.com.tr/standart-fit-polo-yaka-sporcu-modal-kisa-kollu-tisort-3542443",
+      "http": 200,
+      "durum": "Ürün sayfası açılmadı"
+    }
+  ]
+}
